@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jacoblogan/card-sort/issues"
   },
-  "homepage": "https://github.com/jacoblogan/card-sort#readme"
+  "homepage": "https://github.com/jacoblogan/card-sort#readme",
+  "dependencies": {
+    "convert-csv-to-json": "^2.0.0",
+    "csvtojson": "^2.0.10"
+  }
 }
