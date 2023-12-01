@@ -20,7 +20,8 @@ function writeToDataFile(dataObject){
     fs.writeFileSync(dataFileName, JSON.stringify(dataObject, undefined, 1), 'utf-8');
 }
 
-function AddInventoryToBox(boxNumber, inventoryFileName){
+function AddInventoryToBox(boxNumber){
+    const inventoryFileName = getAddFile();
     const cb = (jsonObj) => {
         jsonObj = jsonObj.forEach((row) => {
             const quantity = parseInt(row['Total Quantity']);
@@ -126,7 +127,7 @@ function writePullSheetCSV(pullData) {
     fs.writeFileSync(pullSheetLocation, csvLines.join('\n'), 'utf-8');
 }
 
-// AddInventoryToBox(2, fileInputName);
+AddInventoryToBox(1);
 
 // const pullSheet = "./data/TCGplayer_PullSheet_20231125_044651.csv";
 // generatePullSheet(pullSheet).then((removeDict) => {
@@ -135,6 +136,6 @@ function writePullSheetCSV(pullData) {
 //     writeToDataFile(data);
 // });
 
-generatePullSheet().then((pullData) => {
-    writePullSheetCSV(pullData);
-});
+// generatePullSheet().then((pullData) => {
+//     writePullSheetCSV(pullData);
+// });

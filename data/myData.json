@@ -1,1 +1,3872 @@
-{}
+{
+ "4416228": {
+  "TCGplayer Id": "4416228",
+  "Product Line": "Magic",
+  "Set Name": "Unique and Miscellaneous Promos",
+  "Product Name": "Servo // Wizard Double-sided Token (Challenger 2020)",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4416238": {
+  "TCGplayer Id": "4416238",
+  "Product Line": "Magic",
+  "Set Name": "Unique and Miscellaneous Promos",
+  "Product Name": "Servo // Dragon Double-sided Token (Challenger 2020)",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4416258": {
+  "TCGplayer Id": "4416258",
+  "Product Line": "Magic",
+  "Set Name": "Unique and Miscellaneous Promos",
+  "Product Name": "Wolf Double-sided Token (Challenger 2020)",
+  "Title": "",
+  "Number": "8",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4416268": {
+  "TCGplayer Id": "4416268",
+  "Product Line": "Magic",
+  "Set Name": "Unique and Miscellaneous Promos",
+  "Product Name": "Elemental // Satyr Double-sided Token (Challenger 2020)",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4416275": {
+  "TCGplayer Id": "4416275",
+  "Product Line": "Magic",
+  "Set Name": "Unique and Miscellaneous Promos",
+  "Product Name": "Emblem - Vraska // Human Double-sided Token (Challenger 2020)",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "1": {
+    "Moderately Played": 3
+   }
+  }
+ },
+ "4629184": {
+  "TCGplayer Id": "4629184",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Acidic Slime",
+  "Title": "",
+  "Number": "421",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4637751": {
+  "TCGplayer Id": "4637751",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Kor Cartographer (377)",
+  "Title": "",
+  "Number": "377",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "4652328": {
+  "TCGplayer Id": "4652328",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Return to Dust (383)",
+  "Title": "",
+  "Number": "383",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4672635": {
+  "TCGplayer Id": "4672635",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Disenchant",
+  "Title": "",
+  "Number": "372",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4673310": {
+  "TCGplayer Id": "4673310",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Mountain (509)",
+  "Title": "",
+  "Number": "509",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 31
+   }
+  }
+ },
+ "4673670": {
+  "TCGplayer Id": "4673670",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Plains (505)",
+  "Title": "",
+  "Number": "505",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 76
+   }
+  }
+ },
+ "4673715": {
+  "TCGplayer Id": "4673715",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Plains (504)",
+  "Title": "",
+  "Number": "504",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 98
+   }
+  }
+ },
+ "4674345": {
+  "TCGplayer Id": "4674345",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Thornwood Falls",
+  "Title": "",
+  "Number": "498",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4674390": {
+  "TCGplayer Id": "4674390",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Peel from Reality",
+  "Title": "",
+  "Number": "402",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4674705": {
+  "TCGplayer Id": "4674705",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Sphinx of Uthuun",
+  "Title": "",
+  "Number": "406",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4675425": {
+  "TCGplayer Id": "4675425",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Rupture Spire (490)",
+  "Title": "",
+  "Number": "490",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "4675515": {
+  "TCGplayer Id": "4675515",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Word of Seizing",
+  "Title": "",
+  "Number": "420",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4675650": {
+  "TCGplayer Id": "4675650",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Memorial to War",
+  "Title": "",
+  "Number": "486",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "4676865": {
+  "TCGplayer Id": "4676865",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Meteor Golem (467)",
+  "Title": "",
+  "Number": "467",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4677450": {
+  "TCGplayer Id": "4677450",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Haunted Cloak (463)",
+  "Title": "",
+  "Number": "463",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4678080": {
+  "TCGplayer Id": "4678080",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Tiana, Ship's Caretaker",
+  "Title": "",
+  "Number": "454",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4685991": {
+  "TCGplayer Id": "4685991",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Elephant // Soldier Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4886607": {
+  "TCGplayer Id": "4886607",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Sanctum Gargoyle",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4886657": {
+  "TCGplayer Id": "4886657",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Quicksmith Genius",
+  "Title": "",
+  "Number": "178",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4886707": {
+  "TCGplayer Id": "4886707",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Thopter Engineer",
+  "Title": "",
+  "Number": "181",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4886862": {
+  "TCGplayer Id": "4886862",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Pilgrim's Eye",
+  "Title": "",
+  "Number": "257",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4887418": {
+  "TCGplayer Id": "4887418",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Dispeller's Capsule",
+  "Title": "",
+  "Number": "89",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4887779": {
+  "TCGplayer Id": "4887779",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Mycosynth Wellspring",
+  "Title": "",
+  "Number": "252",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4887874": {
+  "TCGplayer Id": "4887874",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Unstable Obelisk",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4888379": {
+  "TCGplayer Id": "4888379",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Forgotten Cave",
+  "Title": "",
+  "Number": "289",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4889249": {
+  "TCGplayer Id": "4889249",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Living Lore",
+  "Title": "",
+  "Number": "121",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4889350": {
+  "TCGplayer Id": "4889350",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Crackling Drake",
+  "Title": "",
+  "Number": "213",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4890009": {
+  "TCGplayer Id": "4890009",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Traumatic Visions",
+  "Title": "",
+  "Number": "132",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4890059": {
+  "TCGplayer Id": "4890059",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Fiery Fall",
+  "Title": "",
+  "Number": "170",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4890459": {
+  "TCGplayer Id": "4890459",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Blighted Cataract",
+  "Title": "",
+  "Number": "279",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4893187": {
+  "TCGplayer Id": "4893187",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Incubation // Incongruity",
+  "Title": "",
+  "Number": "219",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4893467": {
+  "TCGplayer Id": "4893467",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Nissa's Expedition",
+  "Title": "",
+  "Number": "200",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4894199": {
+  "TCGplayer Id": "4894199",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Opal Palace",
+  "Title": "",
+  "Number": "306",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4897368": {
+  "TCGplayer Id": "4897368",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Elite Scaleguard",
+  "Title": "",
+  "Number": "91",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4897418": {
+  "TCGplayer Id": "4897418",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Oreskos Explorer",
+  "Title": "",
+  "Number": "98",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4897923": {
+  "TCGplayer Id": "4897923",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Spectral Searchlight",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4898126": {
+  "TCGplayer Id": "4898126",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Martial Impetus",
+  "Title": "",
+  "Number": "96",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4898226": {
+  "TCGplayer Id": "4898226",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Vow of Duty",
+  "Title": "",
+  "Number": "110",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4901220": {
+  "TCGplayer Id": "4901220",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Reckless Spite",
+  "Title": "",
+  "Number": "151",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4902635": {
+  "TCGplayer Id": "4902635",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Gift of Paradise",
+  "Title": "",
+  "Number": "191",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4905165": {
+  "TCGplayer Id": "4905165",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Orzhov Advokist",
+  "Title": "",
+  "Number": "99",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4914206": {
+  "TCGplayer Id": "4914206",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Zombie // Spirit Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4914256": {
+  "TCGplayer Id": "4914256",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Zombie // Horror Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4919508": {
+  "TCGplayer Id": "4919508",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Breena, the Demagogue (Display Commander) - Thick Stock",
+  "Title": "",
+  "Number": "1",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "1": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4919558": {
+  "TCGplayer Id": "4919558",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Zaffai, Thunder Conductor (Display Commander) - Thick Stock",
+  "Title": "",
+  "Number": "4",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "1": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5195890": {
+  "TCGplayer Id": "5195890",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Custodi Soulbinders",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5195940": {
+  "TCGplayer Id": "5195940",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Elite Scaleguard",
+  "Title": "",
+  "Number": "85",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5195990": {
+  "TCGplayer Id": "5195990",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Dearly Departed",
+  "Title": "",
+  "Number": "84",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5196090": {
+  "TCGplayer Id": "5196090",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Orzhov Advokist",
+  "Title": "",
+  "Number": "91",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5196710": {
+  "TCGplayer Id": "5196710",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Trostani's Summoner",
+  "Title": "",
+  "Number": "156",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5197170": {
+  "TCGplayer Id": "5197170",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Riders of Gavony",
+  "Title": "",
+  "Number": "93",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5197270": {
+  "TCGplayer Id": "5197270",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Sigardian Zealot",
+  "Title": "",
+  "Number": "29",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5198275": {
+  "TCGplayer Id": "5198275",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Biogenic Upgrade",
+  "Title": "",
+  "Number": "135",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5198475": {
+  "TCGplayer Id": "5198475",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Bestial Menace",
+  "Title": "",
+  "Number": "134",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5198730": {
+  "TCGplayer Id": "5198730",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Temple of the False God",
+  "Title": "",
+  "Number": "186",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5218091": {
+  "TCGplayer Id": "5218091",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Elephant // Spirit Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5218241": {
+  "TCGplayer Id": "5218241",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Knight // Wolf Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5218391": {
+  "TCGplayer Id": "5218391",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Centaur // Wolf Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5299333": {
+  "TCGplayer Id": "5299333",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Crimson Vow",
+  "Product Name": "Stromkirk Condemned",
+  "Title": "",
+  "Number": "137",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5300348": {
+  "TCGplayer Id": "5300348",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Crimson Vow",
+  "Product Name": "Vampiric Dragon",
+  "Title": "",
+  "Number": "158",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5300878": {
+  "TCGplayer Id": "5300878",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Crimson Vow",
+  "Product Name": "Commander's Sphere",
+  "Title": "",
+  "Number": "163",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5302568": {
+  "TCGplayer Id": "5302568",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Crimson Vow",
+  "Product Name": "Temple of the False God",
+  "Title": "",
+  "Number": "187",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5303118": {
+  "TCGplayer Id": "5303118",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Crimson Vow",
+  "Product Name": "Arterial Alchemy",
+  "Title": "",
+  "Number": "23",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5304463": {
+  "TCGplayer Id": "5304463",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Crimson Vow",
+  "Product Name": "Unstable Obelisk",
+  "Title": "",
+  "Number": "170",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5533418": {
+  "TCGplayer Id": "5533418",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Cryptic Pursuit",
+  "Title": "",
+  "Number": "70",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5533568": {
+  "TCGplayer Id": "5533568",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Body Count",
+  "Title": "",
+  "Number": "34",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5533818": {
+  "TCGplayer Id": "5533818",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Smuggler's Buggy",
+  "Title": "",
+  "Number": "84",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5533868": {
+  "TCGplayer Id": "5533868",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Spellbinding Soprano",
+  "Title": "",
+  "Number": "53",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5533918": {
+  "TCGplayer Id": "5533918",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Syrix, Carrier of the Flame",
+  "Title": "",
+  "Number": "80",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5533968": {
+  "TCGplayer Id": "5533968",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Waste Management",
+  "Title": "",
+  "Number": "40",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5534018": {
+  "TCGplayer Id": "5534018",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Xander's Pact",
+  "Title": "",
+  "Number": "43",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5534168": {
+  "TCGplayer Id": "5534168",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Flawless Forgery",
+  "Title": "",
+  "Number": "26",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5534473": {
+  "TCGplayer Id": "5534473",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Drawn from Dreams",
+  "Title": "",
+  "Number": "220",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5534523": {
+  "TCGplayer Id": "5534523",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Mystic Confluence",
+  "Title": "",
+  "Number": "227",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5534993": {
+  "TCGplayer Id": "5534993",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Reign of the Pit",
+  "Title": "",
+  "Number": "258",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5535088": {
+  "TCGplayer Id": "5535088",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Sever the Bloodline",
+  "Title": "",
+  "Number": "259",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5535148": {
+  "TCGplayer Id": "5535148",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Skyclave Shade",
+  "Title": "",
+  "Number": "260",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5535703": {
+  "TCGplayer Id": "5535703",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Call the Skybreaker",
+  "Title": "",
+  "Number": "333",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5535903": {
+  "TCGplayer Id": "5535903",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Deep Analysis",
+  "Title": "",
+  "Number": "218",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5535953": {
+  "TCGplayer Id": "5535953",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Frantic Search",
+  "Title": "",
+  "Number": "222",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5536113": {
+  "TCGplayer Id": "5536113",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Talrand's Invocation",
+  "Title": "",
+  "Number": "234",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5536363": {
+  "TCGplayer Id": "5536363",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Commander's Sphere",
+  "Title": "",
+  "Number": "363",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 25
+   }
+  }
+ },
+ "5536563": {
+  "TCGplayer Id": "5536563",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Lightning Greaves",
+  "Title": "",
+  "Number": "371",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5536763": {
+  "TCGplayer Id": "5536763",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Ash Barrens",
+  "Title": "",
+  "Number": "386",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 37
+   }
+  }
+ },
+ "5537013": {
+  "TCGplayer Id": "5537013",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Path of Ancestry",
+  "Title": "",
+  "Number": "419",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 21
+   }
+  }
+ },
+ "5537063": {
+  "TCGplayer Id": "5537063",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Thriving Bluff",
+  "Title": "",
+  "Number": "438",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "5537163": {
+  "TCGplayer Id": "5537163",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Thriving Moor",
+  "Title": "",
+  "Number": "442",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5537263": {
+  "TCGplayer Id": "5537263",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Hoofprints of the Stag",
+  "Title": "",
+  "Number": "203",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5537363": {
+  "TCGplayer Id": "5537363",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Primal Empathy",
+  "Title": "",
+  "Number": "348",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5537763": {
+  "TCGplayer Id": "5537763",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Bant Charm",
+  "Title": "",
+  "Number": "330",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5538013": {
+  "TCGplayer Id": "5538013",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Planar Outburst",
+  "Title": "",
+  "Number": "209",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5538613": {
+  "TCGplayer Id": "5538613",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Karn's Bastion",
+  "Title": "",
+  "Number": "410",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538663": {
+  "TCGplayer Id": "5538663",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Littjara Mirrorlake",
+  "Title": "",
+  "Number": "412",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "5538763": {
+  "TCGplayer Id": "5538763",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Cascade Bluffs",
+  "Title": "",
+  "Number": "390",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539488": {
+  "TCGplayer Id": "5539488",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Skycloud Expanse",
+  "Title": "",
+  "Number": "427",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5539918": {
+  "TCGplayer Id": "5539918",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Skyship Plunderer",
+  "Title": "",
+  "Number": "232",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 23
+   }
+  }
+ },
+ "5540168": {
+  "TCGplayer Id": "5540168",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Aven Mimeomancer",
+  "Title": "",
+  "Number": "329",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5540618": {
+  "TCGplayer Id": "5540618",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Wingspan Mentor",
+  "Title": "",
+  "Number": "239",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 23
+   }
+  }
+ },
+ "5540918": {
+  "TCGplayer Id": "5540918",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Wickerbough Elder",
+  "Title": "",
+  "Number": "320",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 22
+   }
+  }
+ },
+ "5540968": {
+  "TCGplayer Id": "5540968",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Avenging Huntbonder",
+  "Title": "",
+  "Number": "194",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5541418": {
+  "TCGplayer Id": "5541418",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Storm of Forms",
+  "Title": "",
+  "Number": "32",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5541518": {
+  "TCGplayer Id": "5541518",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Aven Courier",
+  "Title": "",
+  "Number": "22",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5542018": {
+  "TCGplayer Id": "5542018",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Shield Broker",
+  "Title": "",
+  "Number": "29",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5542218": {
+  "TCGplayer Id": "5542218",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Bribe Taker",
+  "Title": "",
+  "Number": "55",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "5542793": {
+  "TCGplayer Id": "5542793",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Cabaretti Confluence",
+  "Title": "",
+  "Number": "69",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 22
+   }
+  }
+ },
+ "5542843": {
+  "TCGplayer Id": "5542843",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Crash the Party",
+  "Title": "",
+  "Number": "57",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 21
+   }
+  }
+ },
+ "5542893": {
+  "TCGplayer Id": "5542893",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "False Floor",
+  "Title": "",
+  "Number": "82",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "5543393": {
+  "TCGplayer Id": "5543393",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Prosperous Partnership",
+  "Title": "",
+  "Number": "78",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5543543": {
+  "TCGplayer Id": "5543543",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Scepter of Celebration",
+  "Title": "",
+  "Number": "64",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5543693": {
+  "TCGplayer Id": "5543693",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Mossfire Valley",
+  "Title": "",
+  "Number": "414",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 22
+   }
+  }
+ },
+ "5543743": {
+  "TCGplayer Id": "5543743",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Vivien's Stampede",
+  "Title": "",
+  "Number": "65",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5543893": {
+  "TCGplayer Id": "5543893",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Savage Lands",
+  "Title": "",
+  "Number": "424",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5543943": {
+  "TCGplayer Id": "5543943",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Leafkin Druid",
+  "Title": "",
+  "Number": "299",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "5544093": {
+  "TCGplayer Id": "5544093",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Agitator Ant",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5544243": {
+  "TCGplayer Id": "5544243",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Temple of Malady",
+  "Title": "",
+  "Number": "433",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5544443": {
+  "TCGplayer Id": "5544443",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Orzhov Advokist",
+  "Title": "",
+  "Number": "207",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "5544693": {
+  "TCGplayer Id": "5544693",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Wood Elves",
+  "Title": "",
+  "Number": "321",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5545143": {
+  "TCGplayer Id": "5545143",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Path to Exile",
+  "Title": "",
+  "Number": "208",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5545193": {
+  "TCGplayer Id": "5545193",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Sylvan Offering",
+  "Title": "",
+  "Number": "314",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5545343": {
+  "TCGplayer Id": "5545343",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Indrik Stomphowler",
+  "Title": "",
+  "Number": "297",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "5545843": {
+  "TCGplayer Id": "5545843",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Farseek",
+  "Title": "",
+  "Number": "290",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5546493": {
+  "TCGplayer Id": "5546493",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Fell the Mighty",
+  "Title": "",
+  "Number": "200",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5547093": {
+  "TCGplayer Id": "5547093",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Intangible Virtue",
+  "Title": "",
+  "Number": "204",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5547843": {
+  "TCGplayer Id": "5547843",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Dodgy Jalopy",
+  "Title": "",
+  "Number": "58",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5548243": {
+  "TCGplayer Id": "5548243",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Next of Kin",
+  "Title": "",
+  "Number": "62",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5548443": {
+  "TCGplayer Id": "5548443",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Aether Snap",
+  "Title": "",
+  "Number": "241",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5548943": {
+  "TCGplayer Id": "5548943",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Thriving Heath",
+  "Title": "",
+  "Number": "440",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "5549043": {
+  "TCGplayer Id": "5549043",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Windbrisk Heights",
+  "Title": "",
+  "Number": "447",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5549093": {
+  "TCGplayer Id": "5549093",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Turf War",
+  "Title": "",
+  "Number": "54",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "5549143": {
+  "TCGplayer Id": "5549143",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Riveteers Confluence",
+  "Title": "",
+  "Number": "79",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5549548": {
+  "TCGplayer Id": "5549548",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Oskar, Rubbish Reclaimer",
+  "Title": "",
+  "Number": "77",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5549598": {
+  "TCGplayer Id": "5549598",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Skyway Robber",
+  "Title": "",
+  "Number": "31",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5549748": {
+  "TCGplayer Id": "5549748",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Lethal Scheme",
+  "Title": "",
+  "Number": "36",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5549798": {
+  "TCGplayer Id": "5549798",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Jailbreak",
+  "Title": "",
+  "Number": "17",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5549948": {
+  "TCGplayer Id": "5549948",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Bellowing Mauler",
+  "Title": "",
+  "Number": "33",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5549998": {
+  "TCGplayer Id": "5549998",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Obscura Confluence",
+  "Title": "",
+  "Number": "76",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5550648": {
+  "TCGplayer Id": "5550648",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Grime Gorger",
+  "Title": "",
+  "Number": "72",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5550798": {
+  "TCGplayer Id": "5550798",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "First Responder",
+  "Title": "",
+  "Number": "60",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5550848": {
+  "TCGplayer Id": "5550848",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Daring Saboteur",
+  "Title": "",
+  "Number": "217",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "5550898": {
+  "TCGplayer Id": "5550898",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Ghostly Pilferer",
+  "Title": "",
+  "Number": "223",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5550948": {
+  "TCGplayer Id": "5550948",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Inkfathom Witch",
+  "Title": "",
+  "Number": "342",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "5551048": {
+  "TCGplayer Id": "5551048",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Champion of Wits",
+  "Title": "",
+  "Number": "213",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5551248": {
+  "TCGplayer Id": "5551248",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Graveblade Marauder",
+  "Title": "",
+  "Number": "251",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5551548": {
+  "TCGplayer Id": "5551548",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Whirler Rogue",
+  "Title": "",
+  "Number": "238",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "5557258": {
+  "TCGplayer Id": "5557258",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Clue // Elemental (005) Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 24
+   }
+  }
+ },
+ "5557363": {
+  "TCGplayer Id": "5557363",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Clue // Fish Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "5557578": {
+  "TCGplayer Id": "5557578",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Temple of Silence",
+  "Title": "",
+  "Number": "435",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5557683": {
+  "TCGplayer Id": "5557683",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Clue // Elephant Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "5561883": {
+  "TCGplayer Id": "5561883",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Ooze (026) // Treasure (015) Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5561933": {
+  "TCGplayer Id": "5561933",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Ooze (025) // Treasure (015) Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5562083": {
+  "TCGplayer Id": "5562083",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Plant // Citizen Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5562513": {
+  "TCGplayer Id": "5562513",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Plant // Treasure (015) Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5564748": {
+  "TCGplayer Id": "5564748",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Tentacle // Champion of Wits Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5565163": {
+  "TCGplayer Id": "5565163",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Tentacle // Clue Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5565713": {
+  "TCGplayer Id": "5565713",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Thopter // Treasure (013) Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "5568963": {
+  "TCGplayer Id": "5568963",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Soldier // Cat Beast Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5569763": {
+  "TCGplayer Id": "5569763",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Zombie // Drake Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5570313": {
+  "TCGplayer Id": "5570313",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Elemental (032) // Rogue Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5572663": {
+  "TCGplayer Id": "5572663",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Fact or Fiction",
+  "Title": "",
+  "Number": "221",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5573734": {
+  "TCGplayer Id": "5573734",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Caldaia Guardian",
+  "Title": "",
+  "Number": "56",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5575854": {
+  "TCGplayer Id": "5575854",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Kamiz, Obscura Oculus (Display Commander) - Thick Stock",
+  "Title": "",
+  "Number": "188",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "1": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5575904": {
+  "TCGplayer Id": "5575904",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Kitt Kanto, Mayhem Diva (Display Commander) - Thick Stock",
+  "Title": "",
+  "Number": "189",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "1": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "5608643": {
+  "TCGplayer Id": "5608643",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Island (455)",
+  "Title": "",
+  "Number": "455",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5608743": {
+  "TCGplayer Id": "5608743",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Island (456)",
+  "Title": "",
+  "Number": "456",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5608943": {
+  "TCGplayer Id": "5608943",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Island (458)",
+  "Title": "",
+  "Number": "458",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5609043": {
+  "TCGplayer Id": "5609043",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Swamp (459)",
+  "Title": "",
+  "Number": "459",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 29
+   }
+  }
+ },
+ "5609143": {
+  "TCGplayer Id": "5609143",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Swamp (460)",
+  "Title": "",
+  "Number": "460",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5609243": {
+  "TCGplayer Id": "5609243",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Swamp (461)",
+  "Title": "",
+  "Number": "461",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5609343": {
+  "TCGplayer Id": "5609343",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Swamp (462)",
+  "Title": "",
+  "Number": "462",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5609643": {
+  "TCGplayer Id": "5609643",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mountain (465)",
+  "Title": "",
+  "Number": "465",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 24
+   }
+  }
+ },
+ "5609743": {
+  "TCGplayer Id": "5609743",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mountain (466)",
+  "Title": "",
+  "Number": "466",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 35
+   }
+  }
+ },
+ "5623151": {
+  "TCGplayer Id": "5623151",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Burnished Hart",
+  "Title": "",
+  "Number": "303",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "5636744": {
+  "TCGplayer Id": "5636744",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Shiny Impetus",
+  "Title": "",
+  "Number": "194",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 22
+   }
+  }
+ },
+ "5640644": {
+  "TCGplayer Id": "5640644",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Psychic Impetus",
+  "Title": "",
+  "Number": "89",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 24
+   }
+  }
+ },
+ "5647445": {
+  "TCGplayer Id": "5647445",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Dauthi Horror",
+  "Title": "",
+  "Number": "748",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5647490": {
+  "TCGplayer Id": "5647490",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Dusk Mangler",
+  "Title": "",
+  "Number": "751",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5647535": {
+  "TCGplayer Id": "5647535",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Phyrexian Rager",
+  "Title": "",
+  "Number": "766",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5647940": {
+  "TCGplayer Id": "5647940",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Extract from Darkness",
+  "Title": "",
+  "Number": "844",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5648120": {
+  "TCGplayer Id": "5648120",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Fact or Fiction",
+  "Title": "",
+  "Number": "720",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5649155": {
+  "TCGplayer Id": "5649155",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Ash Barrens",
+  "Title": "",
+  "Number": "880",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5649335": {
+  "TCGplayer Id": "5649335",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Port of Karfell",
+  "Title": "",
+  "Number": "908",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5650100": {
+  "TCGplayer Id": "5650100",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Loot Dispute",
+  "Title": "",
+  "Number": "677",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5650415": {
+  "TCGplayer Id": "5650415",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Kazuul, Tyrant of the Cliffs",
+  "Title": "",
+  "Number": "800",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5650820": {
+  "TCGplayer Id": "5650820",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Agitator Ant",
+  "Title": "",
+  "Number": "776",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "5650865": {
+  "TCGplayer Id": "5650865",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Pursued Whale",
+  "Title": "",
+  "Number": "732",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "5651000": {
+  "TCGplayer Id": "5651000",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Sly Instigator",
+  "Title": "",
+  "Number": "736",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "5651360": {
+  "TCGplayer Id": "5651360",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Desolate Lighthouse",
+  "Title": "",
+  "Number": "890",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "5651450": {
+  "TCGplayer Id": "5651450",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Wandering Fumarole",
+  "Title": "",
+  "Number": "928",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5651540": {
+  "TCGplayer Id": "5651540",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Prismari Campus",
+  "Title": "",
+  "Number": "909",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 26
+   }
+  }
+ },
+ "5651675": {
+  "TCGplayer Id": "5651675",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Compulsive Research",
+  "Title": "",
+  "Number": "715",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 27
+   }
+  }
+ },
+ "5652035": {
+  "TCGplayer Id": "5652035",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Hedron Archive",
+  "Title": "",
+  "Number": "861",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5652320": {
+  "TCGplayer Id": "5652320",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Bloodthirsty Blade",
+  "Title": "",
+  "Number": "854",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 24
+   }
+  }
+ },
+ "5653621": {
+  "TCGplayer Id": "5653621",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Stick Together",
+  "Title": "",
+  "Number": "661",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5654511": {
+  "TCGplayer Id": "5654511",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Archpriest of Iona",
+  "Title": "",
+  "Number": "686",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 21
+   }
+  }
+ },
+ "5654601": {
+  "TCGplayer Id": "5654601",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Bygone Bishop",
+  "Title": "",
+  "Number": "689",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 27
+   }
+  }
+ },
+ "5654736": {
+  "TCGplayer Id": "5654736",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Dream Pillager",
+  "Title": "",
+  "Number": "791",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5654781": {
+  "TCGplayer Id": "5654781",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Frontline Medic",
+  "Title": "",
+  "Number": "693",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "5654871": {
+  "TCGplayer Id": "5654871",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Galepowder Mage",
+  "Title": "",
+  "Number": "694",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 22
+   }
+  }
+ },
+ "5654916": {
+  "TCGplayer Id": "5654916",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Glorious Protector",
+  "Title": "",
+  "Number": "695",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "5655006": {
+  "TCGplayer Id": "5655006",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Greater Gargadon",
+  "Title": "",
+  "Number": "796",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5655051": {
+  "TCGplayer Id": "5655051",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Magus of the Balance",
+  "Title": "",
+  "Number": "699",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5655141": {
+  "TCGplayer Id": "5655141",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Izzet Chemister",
+  "Title": "",
+  "Number": "798",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5655276": {
+  "TCGplayer Id": "5655276",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Order of Whiteclay",
+  "Title": "",
+  "Number": "703",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5655501": {
+  "TCGplayer Id": "5655501",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Squad Commander",
+  "Title": "",
+  "Number": "709",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 30
+   }
+  }
+ },
+ "5655951": {
+  "TCGplayer Id": "5655951",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mardu Strike Leader",
+  "Title": "",
+  "Number": "761",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "5655996": {
+  "TCGplayer Id": "5655996",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mindblade Render",
+  "Title": "",
+  "Number": "762",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5656086": {
+  "TCGplayer Id": "5656086",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Pontiff of Blight",
+  "Title": "",
+  "Number": "768",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "5656226": {
+  "TCGplayer Id": "5656226",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "High Priest of Penance",
+  "Title": "",
+  "Number": "848",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "5656316": {
+  "TCGplayer Id": "5656316",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Irregular Cohort",
+  "Title": "",
+  "Number": "696",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5656361": {
+  "TCGplayer Id": "5656361",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mage's Attendant",
+  "Title": "",
+  "Number": "698",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 32
+   }
+  }
+ },
+ "5656461": {
+  "TCGplayer Id": "5656461",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Priest of Ancient Lore",
+  "Title": "",
+  "Number": "704",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 25
+   }
+  }
+ },
+ "5656561": {
+  "TCGplayer Id": "5656561",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Valiant Changeling",
+  "Title": "",
+  "Number": "711",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 30
+   }
+  }
+ },
+ "5656651": {
+  "TCGplayer Id": "5656651",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Corpse Augur",
+  "Title": "",
+  "Number": "744",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 32
+   }
+  }
+ },
+ "5656696": {
+  "TCGplayer Id": "5656696",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Malakir Blood-Priest",
+  "Title": "",
+  "Number": "760",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 32
+   }
+  }
+ },
+ "5656931": {
+  "TCGplayer Id": "5656931",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Thwart the Grave",
+  "Title": "",
+  "Number": "773",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 32
+   }
+  }
+ },
+ "5657796": {
+  "TCGplayer Id": "5657796",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Starlit Sanctum",
+  "Title": "",
+  "Number": "917",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 27
+   }
+  }
+ },
+ "5658031": {
+  "TCGplayer Id": "5658031",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Lovestruck Beast",
+  "Title": "",
+  "Number": "827",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5658166": {
+  "TCGplayer Id": "5658166",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Embereth Shieldbreaker",
+  "Title": "",
+  "Number": "792",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "5658256": {
+  "TCGplayer Id": "5658256",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Bloodbraid Elf",
+  "Title": "",
+  "Number": "839",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5658301": {
+  "TCGplayer Id": "5658301",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Grumgully, the Generous",
+  "Title": "",
+  "Number": "847",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "5658436": {
+  "TCGplayer Id": "5658436",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Demon Bolt",
+  "Title": "",
+  "Number": "787",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "5658526": {
+  "TCGplayer Id": "5658526",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Natural Reclamation",
+  "Title": "",
+  "Number": "829",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "5659606": {
+  "TCGplayer Id": "5659606",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Beanstalk Giant",
+  "Title": "",
+  "Number": "819",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "5659836": {
+  "TCGplayer Id": "5659836",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Terramorph",
+  "Title": "",
+  "Number": "836",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5660939": {
+  "TCGplayer Id": "5660939",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Volcanic Torrent",
+  "Title": "",
+  "Number": "813",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "5662719": {
+  "TCGplayer Id": "5662719",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "The Initiative // Undercity Double-sided Token",
+  "Title": "",
+  "Number": "20",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "5665547": {
+  "TCGplayer Id": "5665547",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Shapeshifter (022) // Clue Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 23
+   }
+  }
+ },
+ "5665637": {
+  "TCGplayer Id": "5665637",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Kor Warrior // Shapeshifter (023) Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5665682": {
+  "TCGplayer Id": "5665682",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Kor Warrior // Angel Warrior Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5665727": {
+  "TCGplayer Id": "5665727",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Kor Warrior // Wizard Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "5665817": {
+  "TCGplayer Id": "5665817",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Warrior // Inkling Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "5666132": {
+  "TCGplayer Id": "5666132",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Gold // Dragon Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5666177": {
+  "TCGplayer Id": "5666177",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Emblem - Rowan Kenrith // Copy Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "5682515": {
+  "TCGplayer Id": "5682515",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Firkraag, Cunning Instigator (Display Commander) - Thick Stock",
+  "Title": "",
+  "Number": "933",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "1": {
+    "Near Mint Foil": 5
+   }
+  }
+ },
+ "5682560": {
+  "TCGplayer Id": "5682560",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Nalia de'Arnise (Display Commander) - Thick Stock",
+  "Title": "",
+  "Number": "934",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "1": {
+    "Near Mint Foil": 8
+   }
+  }
+ },
+ "5751044": {
+  "TCGplayer Id": "5751044",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Alesha, Who Smiles at Death",
+  "Title": "",
+  "Number": "118",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 25
+   }
+  }
+ },
+ "5751499": {
+  "TCGplayer Id": "5751499",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Garna, the Bloodflame",
+  "Title": "",
+  "Number": "151",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 25
+   }
+  }
+ },
+ "5751869": {
+  "TCGplayer Id": "5751869",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Tajic, Blade of the Legion",
+  "Title": "",
+  "Number": "171",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "5751939": {
+  "TCGplayer Id": "5751939",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Traxos, Scourge of Kroog",
+  "Title": "",
+  "Number": "195",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5752394": {
+  "TCGplayer Id": "5752394",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Ambition's Cost",
+  "Title": "",
+  "Number": "110",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 25
+   }
+  }
+ },
+ "5752669": {
+  "TCGplayer Id": "5752669",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Thrill of Possibility",
+  "Title": "",
+  "Number": "127",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 24
+   }
+  }
+ },
+ "5753029": {
+  "TCGplayer Id": "5753029",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Commander's Sphere",
+  "Title": "",
+  "Number": "181",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5753409": {
+  "TCGplayer Id": "5753409",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Hedron Archive",
+  "Title": "",
+  "Number": "184",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 22
+   }
+  }
+ },
+ "5753504": {
+  "TCGplayer Id": "5753504",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Hero's Blade",
+  "Title": "",
+  "Number": "186",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 23
+   }
+  }
+ },
+ "5754499": {
+  "TCGplayer Id": "5754499",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Boros Garrison",
+  "Title": "",
+  "Number": "200",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 25
+   }
+  }
+ },
+ "5754674": {
+  "TCGplayer Id": "5754674",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Evolving Wilds",
+  "Title": "",
+  "Number": "208",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "5754884": {
+  "TCGplayer Id": "5754884",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Mobilized District",
+  "Title": "",
+  "Number": "218",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 24
+   }
+  }
+ },
+ "5754989": {
+  "TCGplayer Id": "5754989",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Orzhov Basilica",
+  "Title": "",
+  "Number": "224",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5783235": {
+  "TCGplayer Id": "5783235",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Zombie Knight // Griffin Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 35
+   }
+  }
+ },
+ "5783325": {
+  "TCGplayer Id": "5783325",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Zombie Knight // Goblin Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 39
+   }
+  }
+ },
+ "5783390": {
+  "TCGplayer Id": "5783390",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Zombie Knight // Warrior Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "5783495": {
+  "TCGplayer Id": "5783495",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Dominaria United",
+  "Product Name": "Elephant // Treasure Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "6641585": {
+  "TCGplayer Id": "6641585",
+  "Product Line": "Magic",
+  "Set Name": "Unique and Miscellaneous Promos",
+  "Product Name": "Human 002 (ELD) // Human 002 (ELD) Double-sided Token",
+  "Title": "",
+  "Number": "2",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "1": {
+    "Near Mint": 9
+   }
+  }
+ }
+}
