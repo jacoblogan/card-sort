@@ -11219,6 +11219,1311 @@
    }
   }
  },
+ "3257750": {
+  "TCGplayer Id": "3257750",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Decommission",
+  "Title": "",
+  "Number": "16",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "3257760": {
+  "TCGplayer Id": "3257760",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Foundry Assembler",
+  "Title": "",
+  "Number": "151",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "3257770": {
+  "TCGplayer Id": "3257770",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Night Market Aeronaut",
+  "Title": "",
+  "Number": "67",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "3257790": {
+  "TCGplayer Id": "3257790",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Shipwreck Moray",
+  "Title": "",
+  "Number": "45",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3257800": {
+  "TCGplayer Id": "3257800",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Silkweaver Elite",
+  "Title": "",
+  "Number": "125",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3257830": {
+  "TCGplayer Id": "3257830",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Sweatworks Brawler",
+  "Title": "",
+  "Number": "100",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "3257915": {
+  "TCGplayer Id": "3257915",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Aegis Automaton",
+  "Title": "",
+  "Number": "141",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "3257930": {
+  "TCGplayer Id": "3257930",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Aeronaut Admiral",
+  "Title": "",
+  "Number": "2",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "3257950": {
+  "TCGplayer Id": "3257950",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Countless Gears Renegade",
+  "Title": "",
+  "Number": "13",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3258000": {
+  "TCGplayer Id": "3258000",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Hungry Flames",
+  "Title": "",
+  "Number": "84",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3258095": {
+  "TCGplayer Id": "3258095",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Reverse Engineer",
+  "Title": "",
+  "Number": "42",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "3258370": {
+  "TCGplayer Id": "3258370",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Druid of the Cowl",
+  "Title": "",
+  "Number": "106",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3258390": {
+  "TCGplayer Id": "3258390",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Implement of Examination",
+  "Title": "",
+  "Number": "156",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "3258400": {
+  "TCGplayer Id": "3258400",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Implement of Ferocity",
+  "Title": "",
+  "Number": "157",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "3258410": {
+  "TCGplayer Id": "3258410",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Implement of Improvement",
+  "Title": "",
+  "Number": "158",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "3258420": {
+  "TCGplayer Id": "3258420",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Implement of Malice",
+  "Title": "",
+  "Number": "159",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "3258540": {
+  "TCGplayer Id": "3258540",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Cogwork Assembler",
+  "Title": "",
+  "Number": "145",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3258670": {
+  "TCGplayer Id": "3258670",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Shock",
+  "Title": "",
+  "Number": "98",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "3258750": {
+  "TCGplayer Id": "3258750",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Aerial Modification",
+  "Title": "",
+  "Number": "1",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3258760": {
+  "TCGplayer Id": "3258760",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Aether Chaser",
+  "Title": "",
+  "Number": "76",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "3258770": {
+  "TCGplayer Id": "3258770",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Aether Herder",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "3258780": {
+  "TCGplayer Id": "3258780",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Aether Inspector",
+  "Title": "",
+  "Number": "3",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "3258790": {
+  "TCGplayer Id": "3258790",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Aether Poisoner",
+  "Title": "",
+  "Number": "51",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "3258820": {
+  "TCGplayer Id": "3258820",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Aetherstream Leopard",
+  "Title": "",
+  "Number": "103",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "3258830": {
+  "TCGplayer Id": "3258830",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Airdrop Aeronauts",
+  "Title": "",
+  "Number": "5",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3258840": {
+  "TCGplayer Id": "3258840",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Alley Evasion",
+  "Title": "",
+  "Number": "6",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "3258850": {
+  "TCGplayer Id": "3258850",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Alley Strangler",
+  "Title": "",
+  "Number": "52",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3258860": {
+  "TCGplayer Id": "3258860",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Audacious Infiltrator",
+  "Title": "",
+  "Number": "7",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3258870": {
+  "TCGplayer Id": "3258870",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Augmenting Automaton",
+  "Title": "",
+  "Number": "143",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "3258880": {
+  "TCGplayer Id": "3258880",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Barricade Breaker",
+  "Title": "",
+  "Number": "144",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3258890": {
+  "TCGplayer Id": "3258890",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Bastion Enforcer",
+  "Title": "",
+  "Number": "8",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3258900": {
+  "TCGplayer Id": "3258900",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Bastion Inventor",
+  "Title": "",
+  "Number": "30",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3258930": {
+  "TCGplayer Id": "3258930",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Chandra's Revolution",
+  "Title": "",
+  "Number": "77",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3258940": {
+  "TCGplayer Id": "3258940",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Consulate Turret",
+  "Title": "",
+  "Number": "147",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3258950": {
+  "TCGplayer Id": "3258950",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Conviction",
+  "Title": "",
+  "Number": "12",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "3258970": {
+  "TCGplayer Id": "3258970",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Cruel Finality",
+  "Title": "",
+  "Number": "54",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3258990": {
+  "TCGplayer Id": "3258990",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Daring Demolition",
+  "Title": "",
+  "Number": "55",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3259010": {
+  "TCGplayer Id": "3259010",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Dawnfeather Eagle",
+  "Title": "",
+  "Number": "14",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "3259020": {
+  "TCGplayer Id": "3259020",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Deadeye Harpooner",
+  "Title": "",
+  "Number": "15",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3259030": {
+  "TCGplayer Id": "3259030",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Defiant Salvager",
+  "Title": "",
+  "Number": "56",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "3259040": {
+  "TCGplayer Id": "3259040",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Deft Dismissal",
+  "Title": "",
+  "Number": "17",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3259050": {
+  "TCGplayer Id": "3259050",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Destructive Tampering",
+  "Title": "",
+  "Number": "78",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3259060": {
+  "TCGplayer Id": "3259060",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Dispersal Technician",
+  "Title": "",
+  "Number": "32",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259080": {
+  "TCGplayer Id": "3259080",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Embraal Gear-Smasher",
+  "Title": "",
+  "Number": "79",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3259090": {
+  "TCGplayer Id": "3259090",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Enraged Giant",
+  "Title": "",
+  "Number": "80",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259110": {
+  "TCGplayer Id": "3259110",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Fen Hauler",
+  "Title": "",
+  "Number": "58",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3259120": {
+  "TCGplayer Id": "3259120",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Filigree Crawler",
+  "Title": "",
+  "Number": "150",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "3259130": {
+  "TCGplayer Id": "3259130",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Foundry Hornet",
+  "Title": "",
+  "Number": "59",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259140": {
+  "TCGplayer Id": "3259140",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Fourth Bridge Prowler",
+  "Title": "",
+  "Number": "60",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3259150": {
+  "TCGplayer Id": "3259150",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Ghirapur Osprey",
+  "Title": "",
+  "Number": "20",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3259200": {
+  "TCGplayer Id": "3259200",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Highspire Infusion",
+  "Title": "",
+  "Number": "111",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259210": {
+  "TCGplayer Id": "3259210",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Ice Over",
+  "Title": "",
+  "Number": "35",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3259240": {
+  "TCGplayer Id": "3259240",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Ironclad Revolutionary",
+  "Title": "",
+  "Number": "65",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259250": {
+  "TCGplayer Id": "3259250",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Irontread Crusher",
+  "Title": "",
+  "Number": "161",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "3259280": {
+  "TCGplayer Id": "3259280",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Lathnu Sailback",
+  "Title": "",
+  "Number": "89",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "3259290": {
+  "TCGplayer Id": "3259290",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Leave in the Dust",
+  "Title": "",
+  "Number": "37",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3259310": {
+  "TCGplayer Id": "3259310",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Lifecraft Cavalry",
+  "Title": "",
+  "Number": "113",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "3259340": {
+  "TCGplayer Id": "3259340",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Maulfist Revolutionary",
+  "Title": "",
+  "Number": "115",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259380": {
+  "TCGplayer Id": "3259380",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Monstrous Onslaught",
+  "Title": "",
+  "Number": "116",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "3259400": {
+  "TCGplayer Id": "3259400",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Natural Obsolescence",
+  "Title": "",
+  "Number": "118",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "3259420": {
+  "TCGplayer Id": "3259420",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Night Market Guard",
+  "Title": "",
+  "Number": "166",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "3259430": {
+  "TCGplayer Id": "3259430",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Peema Aether-Seer",
+  "Title": "",
+  "Number": "119",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259440": {
+  "TCGplayer Id": "3259440",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Perilous Predicament",
+  "Title": "",
+  "Number": "68",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259450": {
+  "TCGplayer Id": "3259450",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Precise Strike",
+  "Title": "",
+  "Number": "92",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3259460": {
+  "TCGplayer Id": "3259460",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Prey Upon",
+  "Title": "",
+  "Number": "120",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3259470": {
+  "TCGplayer Id": "3259470",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Prizefighter Construct",
+  "Title": "",
+  "Number": "172",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "3259480": {
+  "TCGplayer Id": "3259480",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Ravenous Intruder",
+  "Title": "",
+  "Number": "94",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "3259490": {
+  "TCGplayer Id": "3259490",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Reckless Racer",
+  "Title": "",
+  "Number": "95",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259500": {
+  "TCGplayer Id": "3259500",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Renegade's Getaway",
+  "Title": "",
+  "Number": "69",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3259510": {
+  "TCGplayer Id": "3259510",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Reservoir Walker",
+  "Title": "",
+  "Number": "174",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "3259520": {
+  "TCGplayer Id": "3259520",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Resourceful Return",
+  "Title": "",
+  "Number": "70",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3259540": {
+  "TCGplayer Id": "3259540",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Ridgescale Tusker",
+  "Title": "",
+  "Number": "121",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259570": {
+  "TCGplayer Id": "3259570",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Scrounging Bandar",
+  "Title": "",
+  "Number": "124",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259590": {
+  "TCGplayer Id": "3259590",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Shielded Aether Thief",
+  "Title": "",
+  "Number": "44",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259600": {
+  "TCGplayer Id": "3259600",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Sly Requisitioner",
+  "Title": "",
+  "Number": "72",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "3259610": {
+  "TCGplayer Id": "3259610",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Take into Custody",
+  "Title": "",
+  "Number": "47",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "3259620": {
+  "TCGplayer Id": "3259620",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Thopter Arrest",
+  "Title": "",
+  "Number": "25",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "3259630": {
+  "TCGplayer Id": "3259630",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Unbridled Growth",
+  "Title": "",
+  "Number": "126",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "3259640": {
+  "TCGplayer Id": "3259640",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Universal Solvent",
+  "Title": "",
+  "Number": "178",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "3259650": {
+  "TCGplayer Id": "3259650",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Verdant Automaton",
+  "Title": "",
+  "Number": "180",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "3259660": {
+  "TCGplayer Id": "3259660",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Watchful Automaton",
+  "Title": "",
+  "Number": "182",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "3259670": {
+  "TCGplayer Id": "3259670",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Welder Automaton",
+  "Title": "",
+  "Number": "183",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3259680": {
+  "TCGplayer Id": "3259680",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Wind-Kin Raiders",
+  "Title": "",
+  "Number": "50",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "3259690": {
+  "TCGplayer Id": "3259690",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Wrangle",
+  "Title": "",
+  "Number": "101",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3259710": {
+  "TCGplayer Id": "3259710",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Frontline Rebel",
+  "Title": "",
+  "Number": "82",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "3259720": {
+  "TCGplayer Id": "3259720",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Gremlin Infestation",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "3259730": {
+  "TCGplayer Id": "3259730",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Hinterland Drake",
+  "Title": "",
+  "Number": "34",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
  "3324112": {
   "TCGplayer Id": "3324112",
   "Product Line": "Magic",
@@ -13241,6 +14546,1941 @@
   "Boxes": {
    "5": {
     "Near Mint": 1
+   }
+  }
+ },
+ "3850595": {
+  "TCGplayer Id": "3850595",
+  "Product Line": "Magic",
+  "Set Name": "Guilds of Ravnica",
+  "Product Name": "Flower // Flourish",
+  "Title": "",
+  "Number": "226",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3938650": {
+  "TCGplayer Id": "3938650",
+  "Product Line": "Magic",
+  "Set Name": "Ravnica Allegiance",
+  "Product Name": "Quench",
+  "Title": "",
+  "Number": "48",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "3944600": {
+  "TCGplayer Id": "3944600",
+  "Product Line": "Magic",
+  "Set Name": "Ravnica Allegiance",
+  "Product Name": "Sharktocrab",
+  "Title": "",
+  "Number": "206",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "3944710": {
+  "TCGplayer Id": "3944710",
+  "Product Line": "Magic",
+  "Set Name": "Ravnica Allegiance",
+  "Product Name": "Silhana Wayfinder",
+  "Title": "",
+  "Number": "141",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "3999114": {
+  "TCGplayer Id": "3999114",
+  "Product Line": "Magic",
+  "Set Name": "War of the Spark",
+  "Product Name": "Mountain (259)",
+  "Title": "",
+  "Number": "259",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "3999134": {
+  "TCGplayer Id": "3999134",
+  "Product Line": "Magic",
+  "Set Name": "War of the Spark",
+  "Product Name": "Island (255)",
+  "Title": "",
+  "Number": "255",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4001835": {
+  "TCGplayer Id": "4001835",
+  "Product Line": "Magic",
+  "Set Name": "War of the Spark",
+  "Product Name": "Plains (250)",
+  "Title": "",
+  "Number": "250",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4001865": {
+  "TCGplayer Id": "4001865",
+  "Product Line": "Magic",
+  "Set Name": "War of the Spark",
+  "Product Name": "Mountain (260)",
+  "Title": "",
+  "Number": "260",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4006542": {
+  "TCGplayer Id": "4006542",
+  "Product Line": "Magic",
+  "Set Name": "War of the Spark",
+  "Product Name": "Prison Realm",
+  "Title": "",
+  "Number": "26",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4090528": {
+  "TCGplayer Id": "4090528",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Disfigure",
+  "Title": "",
+  "Number": "95",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4090973": {
+  "TCGplayer Id": "4090973",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Chandra's Embercat",
+  "Title": "",
+  "Number": "129",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4092018": {
+  "TCGplayer Id": "4092018",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Devout Decree",
+  "Title": "",
+  "Number": "13",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4092689": {
+  "TCGplayer Id": "4092689",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Disenchant",
+  "Title": "",
+  "Number": "14",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4092799": {
+  "TCGplayer Id": "4092799",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Octoprophet",
+  "Title": "",
+  "Number": "70",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4094009": {
+  "TCGplayer Id": "4094009",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Silverback Shaman",
+  "Title": "",
+  "Number": "195",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4095004": {
+  "TCGplayer Id": "4095004",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Growth Cycle",
+  "Title": "",
+  "Number": "175",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4095114": {
+  "TCGplayer Id": "4095114",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Convolute",
+  "Title": "",
+  "Number": "55",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4095224": {
+  "TCGplayer Id": "4095224",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Loyal Pegasus",
+  "Title": "",
+  "Number": "28",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4095994": {
+  "TCGplayer Id": "4095994",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Captivating Gyre",
+  "Title": "",
+  "Number": "51",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4096004": {
+  "TCGplayer Id": "4096004",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Bone Splinters",
+  "Title": "",
+  "Number": "92",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4096139": {
+  "TCGplayer Id": "4096139",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Wolfrider's Saddle",
+  "Title": "",
+  "Number": "204",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4096269": {
+  "TCGplayer Id": "4096269",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Ember Hauler",
+  "Title": "",
+  "Number": "137",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4096279": {
+  "TCGplayer Id": "4096279",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Destructive Digger",
+  "Title": "",
+  "Number": "134",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4096289": {
+  "TCGplayer Id": "4096289",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Goblin Bird-Grabber",
+  "Title": "",
+  "Number": "142",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4096299": {
+  "TCGplayer Id": "4096299",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Reckless Air Strike",
+  "Title": "",
+  "Number": "154",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4096304": {
+  "TCGplayer Id": "4096304",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Reckless Air Strike",
+  "Title": "",
+  "Number": "154",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4099974": {
+  "TCGplayer Id": "4099974",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Raise the Alarm",
+  "Title": "",
+  "Number": "34",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4100524": {
+  "TCGplayer Id": "4100524",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Ferocious Pup",
+  "Title": "",
+  "Number": "171",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4100634": {
+  "TCGplayer Id": "4100634",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Vial of Dragonfire",
+  "Title": "",
+  "Number": "241",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4100744": {
+  "TCGplayer Id": "4100744",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Heart-Piercer Bow",
+  "Title": "",
+  "Number": "228",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4100854": {
+  "TCGplayer Id": "4100854",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Ogre Siegebreaker",
+  "Title": "",
+  "Number": "215",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4101320": {
+  "TCGplayer Id": "4101320",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Wolfkin Bond",
+  "Title": "",
+  "Number": "203",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4102090": {
+  "TCGplayer Id": "4102090",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Herald of the Sun",
+  "Title": "",
+  "Number": "23",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4102850": {
+  "TCGplayer Id": "4102850",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Aerial Assault",
+  "Title": "",
+  "Number": "1",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4103070": {
+  "TCGplayer Id": "4103070",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Boneclad Necromancer",
+  "Title": "",
+  "Number": "93",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4103180": {
+  "TCGplayer Id": "4103180",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Frost Lynx",
+  "Title": "",
+  "Number": "62",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4103290": {
+  "TCGplayer Id": "4103290",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Goblin Smuggler",
+  "Title": "",
+  "Number": "144",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4103400": {
+  "TCGplayer Id": "4103400",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Lavakin Brawler",
+  "Title": "",
+  "Number": "147",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4103620": {
+  "TCGplayer Id": "4103620",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Squad Captain",
+  "Title": "",
+  "Number": "38",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4104610": {
+  "TCGplayer Id": "4104610",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Diviner's Lockbox",
+  "Title": "",
+  "Number": "225",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4105050": {
+  "TCGplayer Id": "4105050",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Hard Cover",
+  "Title": "",
+  "Number": "63",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4105270": {
+  "TCGplayer Id": "4105270",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Blossoming Sands",
+  "Title": "",
+  "Number": "243",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4105380": {
+  "TCGplayer Id": "4105380",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Swiftwater Cliffs",
+  "Title": "",
+  "Number": "252",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4105820": {
+  "TCGplayer Id": "4105820",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Tranquil Cove",
+  "Title": "",
+  "Number": "259",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "4107140": {
+  "TCGplayer Id": "4107140",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Moat Piranhas",
+  "Title": "",
+  "Number": "67",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4107635": {
+  "TCGplayer Id": "4107635",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Bloodsoaked Altar",
+  "Title": "",
+  "Number": "90",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4109585": {
+  "TCGplayer Id": "4109585",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Battalion Foot Soldier",
+  "Title": "",
+  "Number": "7",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4110025": {
+  "TCGplayer Id": "4110025",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Eternal Isolation",
+  "Title": "",
+  "Number": "15",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4110465": {
+  "TCGplayer Id": "4110465",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Pack Mastiff",
+  "Title": "",
+  "Number": "152",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4110685": {
+  "TCGplayer Id": "4110685",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Yarok's Wavecrasher",
+  "Title": "",
+  "Number": "81",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4111020": {
+  "TCGplayer Id": "4111020",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Gorging Vulture",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4111130": {
+  "TCGplayer Id": "4111130",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Undead Servant",
+  "Title": "",
+  "Number": "118",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4111810": {
+  "TCGplayer Id": "4111810",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Vorstclaw",
+  "Title": "",
+  "Number": "201",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4112030": {
+  "TCGplayer Id": "4112030",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Angelic Gift",
+  "Title": "",
+  "Number": "5",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4112250": {
+  "TCGplayer Id": "4112250",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Plains (262)",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4112580": {
+  "TCGplayer Id": "4112580",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Plains (264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4112910": {
+  "TCGplayer Id": "4112910",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Dawning Angel",
+  "Title": "",
+  "Number": "11",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4113020": {
+  "TCGplayer Id": "4113020",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Island (267)",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4113240": {
+  "TCGplayer Id": "4113240",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Daybreak Chaplain",
+  "Title": "",
+  "Number": "12",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4114010": {
+  "TCGplayer Id": "4114010",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Fencing Ace",
+  "Title": "",
+  "Number": "16",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4114450": {
+  "TCGplayer Id": "4114450",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Forest (278)",
+  "Title": "",
+  "Number": "278",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4115000": {
+  "TCGplayer Id": "4115000",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Glaring Aegis",
+  "Title": "",
+  "Number": "18",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4115220": {
+  "TCGplayer Id": "4115220",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Griffin Protector",
+  "Title": "",
+  "Number": "20",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4115330": {
+  "TCGplayer Id": "4115330",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Air Elemental",
+  "Title": "",
+  "Number": "44",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4115440": {
+  "TCGplayer Id": "4115440",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Griffin Sentinel",
+  "Title": "",
+  "Number": "21",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4115445": {
+  "TCGplayer Id": "4115445",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Griffin Sentinel",
+  "Title": "",
+  "Number": "21",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4115550": {
+  "TCGplayer Id": "4115550",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Anticipate",
+  "Title": "",
+  "Number": "45",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4115660": {
+  "TCGplayer Id": "4115660",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Inspired Charge",
+  "Title": "",
+  "Number": "24",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4115770": {
+  "TCGplayer Id": "4115770",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Inspiring Captain",
+  "Title": "",
+  "Number": "25",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4115880": {
+  "TCGplayer Id": "4115880",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Master Splicer",
+  "Title": "",
+  "Number": "29",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4115990": {
+  "TCGplayer Id": "4115990",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Moment of Heroism",
+  "Title": "",
+  "Number": "30",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4116100": {
+  "TCGplayer Id": "4116100",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Befuddle",
+  "Title": "",
+  "Number": "47",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4116210": {
+  "TCGplayer Id": "4116210",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Moorland Inquisitor",
+  "Title": "",
+  "Number": "31",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4116430": {
+  "TCGplayer Id": "4116430",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Bone to Ash",
+  "Title": "",
+  "Number": "48",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4116540": {
+  "TCGplayer Id": "4116540",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Steadfast Sentry",
+  "Title": "",
+  "Number": "40",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4116650": {
+  "TCGplayer Id": "4116650",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Boreal Elemental",
+  "Title": "",
+  "Number": "49",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4116760": {
+  "TCGplayer Id": "4116760",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Yoked Ox",
+  "Title": "",
+  "Number": "41",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4116870": {
+  "TCGplayer Id": "4116870",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Fortress Crab",
+  "Title": "",
+  "Number": "60",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4116980": {
+  "TCGplayer Id": "4116980",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Agonizing Syphon",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4117090": {
+  "TCGplayer Id": "4117090",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Frilled Sea Serpent",
+  "Title": "",
+  "Number": "61",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4117200": {
+  "TCGplayer Id": "4117200",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Metropolis Sprite",
+  "Title": "",
+  "Number": "66",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4117310": {
+  "TCGplayer Id": "4117310",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Barony Vampire",
+  "Title": "",
+  "Number": "85",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4117420": {
+  "TCGplayer Id": "4117420",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Bladebrand",
+  "Title": "",
+  "Number": "86",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4117750": {
+  "TCGplayer Id": "4117750",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Sage's Row Denizen",
+  "Title": "",
+  "Number": "73",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4117970": {
+  "TCGplayer Id": "4117970",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Fathom Fleet Cutthroat",
+  "Title": "",
+  "Number": "100",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4118080": {
+  "TCGplayer Id": "4118080",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Feral Abomination",
+  "Title": "",
+  "Number": "101",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4118300": {
+  "TCGplayer Id": "4118300",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Gruesome Scourger",
+  "Title": "",
+  "Number": "104",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4118410": {
+  "TCGplayer Id": "4118410",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Mind Rot",
+  "Title": "",
+  "Number": "108",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4118520": {
+  "TCGplayer Id": "4118520",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Sanitarium Skeleton",
+  "Title": "",
+  "Number": "112",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4118630": {
+  "TCGplayer Id": "4118630",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Sorcerer of the Fang",
+  "Title": "",
+  "Number": "114",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4118740": {
+  "TCGplayer Id": "4118740",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Soul Salvage",
+  "Title": "",
+  "Number": "116",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4118960": {
+  "TCGplayer Id": "4118960",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Sleep Paralysis",
+  "Title": "",
+  "Number": "75",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4119180": {
+  "TCGplayer Id": "4119180",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Act of Treason",
+  "Title": "",
+  "Number": "124",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4119400": {
+  "TCGplayer Id": "4119400",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Chandra's Outrage",
+  "Title": "",
+  "Number": "130",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4119510": {
+  "TCGplayer Id": "4119510",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Daggersail Aeronaut",
+  "Title": "",
+  "Number": "133",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4119620": {
+  "TCGplayer Id": "4119620",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Fire Elemental",
+  "Title": "",
+  "Number": "138",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4119840": {
+  "TCGplayer Id": "4119840",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Zephyr Charge",
+  "Title": "",
+  "Number": "82",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4119950": {
+  "TCGplayer Id": "4119950",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Keldon Raider",
+  "Title": "",
+  "Number": "146",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4120060": {
+  "TCGplayer Id": "4120060",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Brightwood Tracker",
+  "Title": "",
+  "Number": "166",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4120170": {
+  "TCGplayer Id": "4120170",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Maniacal Rage",
+  "Title": "",
+  "Number": "149",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4120280": {
+  "TCGplayer Id": "4120280",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Centaur Courser",
+  "Title": "",
+  "Number": "168",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4120390": {
+  "TCGplayer Id": "4120390",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Reduce to Ashes",
+  "Title": "",
+  "Number": "155",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4120500": {
+  "TCGplayer Id": "4120500",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Feral Invocation",
+  "Title": "",
+  "Number": "170",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4120610": {
+  "TCGplayer Id": "4120610",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Ripscale Predator",
+  "Title": "",
+  "Number": "157",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4120720": {
+  "TCGplayer Id": "4120720",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Gift of Paradise",
+  "Title": "",
+  "Number": "173",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4120940": {
+  "TCGplayer Id": "4120940",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Greenwood Sentinel",
+  "Title": "",
+  "Number": "174",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4121050": {
+  "TCGplayer Id": "4121050",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Anvilwrought Raptor",
+  "Title": "",
+  "Number": "221",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4121380": {
+  "TCGplayer Id": "4121380",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Marauder's Axe",
+  "Title": "",
+  "Number": "231",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "4121490": {
+  "TCGplayer Id": "4121490",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Scorch Spitter",
+  "Title": "",
+  "Number": "159",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 21
+   }
+  }
+ },
+ "4121710": {
+  "TCGplayer Id": "4121710",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Shock",
+  "Title": "",
+  "Number": "160",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4121820": {
+  "TCGplayer Id": "4121820",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Pattern Matcher",
+  "Title": "",
+  "Number": "234",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4121930": {
+  "TCGplayer Id": "4121930",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Tectonic Rift",
+  "Title": "",
+  "Number": "161",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4122040": {
+  "TCGplayer Id": "4122040",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Prismite",
+  "Title": "",
+  "Number": "235",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4122150": {
+  "TCGplayer Id": "4122150",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Retributive Wand",
+  "Title": "",
+  "Number": "236",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4122370": {
+  "TCGplayer Id": "4122370",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Stone Golem",
+  "Title": "",
+  "Number": "240",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4122480": {
+  "TCGplayer Id": "4122480",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Howling Giant",
+  "Title": "",
+  "Number": "177",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4122590": {
+  "TCGplayer Id": "4122590",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Mammoth Spider",
+  "Title": "",
+  "Number": "181",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4122810": {
+  "TCGplayer Id": "4122810",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Might of the Masses",
+  "Title": "",
+  "Number": "182",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4123140": {
+  "TCGplayer Id": "4123140",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Netcaster Spider",
+  "Title": "",
+  "Number": "184",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4123360": {
+  "TCGplayer Id": "4123360",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Plummet",
+  "Title": "",
+  "Number": "188",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4123470": {
+  "TCGplayer Id": "4123470",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Rabid Bite",
+  "Title": "",
+  "Number": "190",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4123475": {
+  "TCGplayer Id": "4123475",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2020",
+  "Product Name": "Rabid Bite",
+  "Title": "",
+  "Number": "190",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4176125": {
+  "TCGplayer Id": "4176125",
+  "Product Line": "Magic",
+  "Set Name": "Throne of Eldraine",
+  "Product Name": "Run Away Together",
+  "Title": "",
+  "Number": "62",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4178400": {
+  "TCGplayer Id": "4178400",
+  "Product Line": "Magic",
+  "Set Name": "Throne of Eldraine",
+  "Product Name": "Slaying Fire",
+  "Title": "",
+  "Number": "143",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4180162": {
+  "TCGplayer Id": "4180162",
+  "Product Line": "Magic",
+  "Set Name": "Throne of Eldraine",
+  "Product Name": "Rosethorn Acolyte",
+  "Title": "",
+  "Number": "174",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4184667": {
+  "TCGplayer Id": "4184667",
+  "Product Line": "Magic",
+  "Set Name": "Throne of Eldraine",
+  "Product Name": "Thornwood Falls",
+  "Title": "",
+  "Number": "313",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4215214": {
+  "TCGplayer Id": "4215214",
+  "Product Line": "Magic",
+  "Set Name": "Throne of Eldraine",
+  "Product Name": "Mountain (264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4215324": {
+  "TCGplayer Id": "4215324",
+  "Product Line": "Magic",
+  "Set Name": "Throne of Eldraine",
+  "Product Name": "Rimrock Knight",
+  "Title": "",
+  "Number": "137",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 21
+   }
+  }
+ },
+ "4215764": {
+  "TCGplayer Id": "4215764",
+  "Product Line": "Magic",
+  "Set Name": "Throne of Eldraine",
+  "Product Name": "Forest (268)",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 19
    }
   }
  },
@@ -23801,6 +27041,1746 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   }
+  }
+ },
+ "4836136": {
+  "TCGplayer Id": "4836136",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Silverquill Apprentice",
+  "Title": "",
+  "Number": "231",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4836356": {
+  "TCGplayer Id": "4836356",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Professor of Symbology",
+  "Title": "",
+  "Number": "24",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4836466": {
+  "TCGplayer Id": "4836466",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Prismari Apprentice",
+  "Title": "",
+  "Number": "213",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4836576": {
+  "TCGplayer Id": "4836576",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pop Quiz",
+  "Title": "",
+  "Number": "49",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4836906": {
+  "TCGplayer Id": "4836906",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Lorehold Apprentice",
+  "Title": "",
+  "Number": "198",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4837126": {
+  "TCGplayer Id": "4837126",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Eager First-Year",
+  "Title": "",
+  "Number": "16",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4837131": {
+  "TCGplayer Id": "4837131",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Eager First-Year",
+  "Title": "",
+  "Number": "16",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4839986": {
+  "TCGplayer Id": "4839986",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Waterfall Aerialist",
+  "Title": "",
+  "Number": "61",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4840201": {
+  "TCGplayer Id": "4840201",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Expanded Anatomy",
+  "Title": "",
+  "Number": "2",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4847207": {
+  "TCGplayer Id": "4847207",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Study Break",
+  "Title": "",
+  "Number": "34",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4847317": {
+  "TCGplayer Id": "4847317",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Enthusiastic Study",
+  "Title": "",
+  "Number": "99",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4847437": {
+  "TCGplayer Id": "4847437",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Field Trip",
+  "Title": "",
+  "Number": "131",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4847657": {
+  "TCGplayer Id": "4847657",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Rise of Extus",
+  "Title": "",
+  "Number": "226",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4847662": {
+  "TCGplayer Id": "4847662",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Rise of Extus",
+  "Title": "",
+  "Number": "226",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4848507": {
+  "TCGplayer Id": "4848507",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Island (368)",
+  "Title": "",
+  "Number": "368",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4849277": {
+  "TCGplayer Id": "4849277",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Spirit Summoning",
+  "Title": "",
+  "Number": "236",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4849887": {
+  "TCGplayer Id": "4849887",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Ageless Guardian",
+  "Title": "",
+  "Number": "8",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4849997": {
+  "TCGplayer Id": "4849997",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Beaming Defiance",
+  "Title": "",
+  "Number": "9",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4850107": {
+  "TCGplayer Id": "4850107",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Dueling Coach",
+  "Title": "",
+  "Number": "15",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4850497": {
+  "TCGplayer Id": "4850497",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Stonebound Mentor",
+  "Title": "",
+  "Number": "239",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4850717": {
+  "TCGplayer Id": "4850717",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Returned Pastcaller",
+  "Title": "",
+  "Number": "224",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4851377": {
+  "TCGplayer Id": "4851377",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Lorehold Pledgemage",
+  "Title": "",
+  "Number": "201",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4851382": {
+  "TCGplayer Id": "4851382",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Lorehold Pledgemage",
+  "Title": "",
+  "Number": "201",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 5
+   }
+  }
+ },
+ "4852097": {
+  "TCGplayer Id": "4852097",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Heated Debate",
+  "Title": "",
+  "Number": "106",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4852537": {
+  "TCGplayer Id": "4852537",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Bury in Books",
+  "Title": "",
+  "Number": "39",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4852542": {
+  "TCGplayer Id": "4852542",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Bury in Books",
+  "Title": "",
+  "Number": "39",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4852867": {
+  "TCGplayer Id": "4852867",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Campus Guide",
+  "Title": "",
+  "Number": "252",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4853127": {
+  "TCGplayer Id": "4853127",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Combat Professor",
+  "Title": "",
+  "Number": "11",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4853347": {
+  "TCGplayer Id": "4853347",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Relic Sloth",
+  "Title": "",
+  "Number": "223",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4853457": {
+  "TCGplayer Id": "4853457",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Illustrious Historian",
+  "Title": "",
+  "Number": "109",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4854992": {
+  "TCGplayer Id": "4854992",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: Mystical Archives",
+  "Product Name": "Eliminate",
+  "Title": "",
+  "Number": "30",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4855682": {
+  "TCGplayer Id": "4855682",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Master Symmetrist",
+  "Title": "",
+  "Number": "138",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4856972": {
+  "TCGplayer Id": "4856972",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Defend the Campus",
+  "Title": "",
+  "Number": "12",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4857742": {
+  "TCGplayer Id": "4857742",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Prismari Pledgemage",
+  "Title": "",
+  "Number": "215",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4857747": {
+  "TCGplayer Id": "4857747",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Prismari Pledgemage",
+  "Title": "",
+  "Number": "215",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4857852": {
+  "TCGplayer Id": "4857852",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Spectacle Mage",
+  "Title": "",
+  "Number": "235",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4858182": {
+  "TCGplayer Id": "4858182",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Frost Trickster",
+  "Title": "",
+  "Number": "43",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4858292": {
+  "TCGplayer Id": "4858292",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Plains (366)",
+  "Title": "",
+  "Number": "366",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4859481": {
+  "TCGplayer Id": "4859481",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Quandrix Pledgemage",
+  "Title": "",
+  "Number": "219",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4859811": {
+  "TCGplayer Id": "4859811",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Elemental Masterpiece",
+  "Title": "",
+  "Number": "182",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4860141": {
+  "TCGplayer Id": "4860141",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Cogwork Archivist",
+  "Title": "",
+  "Number": "254",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4860361": {
+  "TCGplayer Id": "4860361",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Aether Helix",
+  "Title": "",
+  "Number": "162",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4862025": {
+  "TCGplayer Id": "4862025",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Elemental Summoning",
+  "Title": "",
+  "Number": "183",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4862355": {
+  "TCGplayer Id": "4862355",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Arrogant Poet",
+  "Title": "",
+  "Number": "63",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4862360": {
+  "TCGplayer Id": "4862360",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Arrogant Poet",
+  "Title": "",
+  "Number": "63",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4862575": {
+  "TCGplayer Id": "4862575",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Crushing Disappointment",
+  "Title": "",
+  "Number": "68",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4862795": {
+  "TCGplayer Id": "4862795",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Hall Monitor",
+  "Title": "",
+  "Number": "105",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4863125": {
+  "TCGplayer Id": "4863125",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Oggyar Battle-Seer",
+  "Title": "",
+  "Number": "209",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4863130": {
+  "TCGplayer Id": "4863130",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Oggyar Battle-Seer",
+  "Title": "",
+  "Number": "209",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4863235": {
+  "TCGplayer Id": "4863235",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Maelstrom Muse",
+  "Title": "",
+  "Number": "202",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4864355": {
+  "TCGplayer Id": "4864355",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Inkling Summoning",
+  "Title": "",
+  "Number": "195",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4864465": {
+  "TCGplayer Id": "4864465",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Owlin Shieldmage",
+  "Title": "",
+  "Number": "210",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4864470": {
+  "TCGplayer Id": "4864470",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Owlin Shieldmage",
+  "Title": "",
+  "Number": "210",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4864905": {
+  "TCGplayer Id": "4864905",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Essence Infusion",
+  "Title": "",
+  "Number": "69",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "4865125": {
+  "TCGplayer Id": "4865125",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Blood Age General",
+  "Title": "",
+  "Number": "93",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4865455": {
+  "TCGplayer Id": "4865455",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Start from Scratch",
+  "Title": "",
+  "Number": "114",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4865565": {
+  "TCGplayer Id": "4865565",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Ardent Dustspeaker",
+  "Title": "",
+  "Number": "92",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4865785": {
+  "TCGplayer Id": "4865785",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Fuming Effigy",
+  "Title": "",
+  "Number": "103",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4866335": {
+  "TCGplayer Id": "4866335",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Biomathematician",
+  "Title": "",
+  "Number": "164",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4866340": {
+  "TCGplayer Id": "4866340",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Biomathematician",
+  "Title": "",
+  "Number": "164",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4866450": {
+  "TCGplayer Id": "4866450",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Soothsayer Adept",
+  "Title": "",
+  "Number": "55",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4866455": {
+  "TCGplayer Id": "4866455",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Soothsayer Adept",
+  "Title": "",
+  "Number": "55",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4866560": {
+  "TCGplayer Id": "4866560",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Tome Shredder",
+  "Title": "",
+  "Number": "117",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4866565": {
+  "TCGplayer Id": "4866565",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Tome Shredder",
+  "Title": "",
+  "Number": "117",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4866670": {
+  "TCGplayer Id": "4866670",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pilgrim of the Ages",
+  "Title": "",
+  "Number": "22",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4866890": {
+  "TCGplayer Id": "4866890",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Novice Dissector",
+  "Title": "",
+  "Number": "79",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4867000": {
+  "TCGplayer Id": "4867000",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mascot Interception",
+  "Title": "",
+  "Number": "110",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4867005": {
+  "TCGplayer Id": "4867005",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mascot Interception",
+  "Title": "",
+  "Number": "110",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4867445": {
+  "TCGplayer Id": "4867445",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Square Up",
+  "Title": "",
+  "Number": "238",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4868105": {
+  "TCGplayer Id": "4868105",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Umbral Juke",
+  "Title": "",
+  "Number": "89",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4868215": {
+  "TCGplayer Id": "4868215",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Karok Wrangler",
+  "Title": "",
+  "Number": "135",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4868325": {
+  "TCGplayer Id": "4868325",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Fractal Summoning",
+  "Title": "",
+  "Number": "187",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4868833": {
+  "TCGplayer Id": "4868833",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Needlethorn Drake",
+  "Title": "",
+  "Number": "208",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4868838": {
+  "TCGplayer Id": "4868838",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Needlethorn Drake",
+  "Title": "",
+  "Number": "208",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4868943": {
+  "TCGplayer Id": "4868943",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Leyline Invocation",
+  "Title": "",
+  "Number": "136",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4868948": {
+  "TCGplayer Id": "4868948",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Leyline Invocation",
+  "Title": "",
+  "Number": "136",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4870145": {
+  "TCGplayer Id": "4870145",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Burrog Befuddler",
+  "Title": "",
+  "Number": "38",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4870368": {
+  "TCGplayer Id": "4870368",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Arcane Subtraction",
+  "Title": "",
+  "Number": "36",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4870478": {
+  "TCGplayer Id": "4870478",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Reflective Golem",
+  "Title": "",
+  "Number": "257",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4871018": {
+  "TCGplayer Id": "4871018",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Spiteful Squad",
+  "Title": "",
+  "Number": "237",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4871023": {
+  "TCGplayer Id": "4871023",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Spiteful Squad",
+  "Title": "",
+  "Number": "237",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4871128": {
+  "TCGplayer Id": "4871128",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Promising Duskmage",
+  "Title": "",
+  "Number": "85",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4871238": {
+  "TCGplayer Id": "4871238",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Reject",
+  "Title": "",
+  "Number": "50",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4871348": {
+  "TCGplayer Id": "4871348",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Brackish Trudge",
+  "Title": "",
+  "Number": "65",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4871573": {
+  "TCGplayer Id": "4871573",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pillardrop Warden",
+  "Title": "",
+  "Number": "112",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4871793": {
+  "TCGplayer Id": "4871793",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Overgrown Arch",
+  "Title": "",
+  "Number": "139",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4871898": {
+  "TCGplayer Id": "4871898",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Spined Karok",
+  "Title": "",
+  "Number": "143",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4872618": {
+  "TCGplayer Id": "4872618",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Professor of Zoomancy",
+  "Title": "",
+  "Number": "140",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4872728": {
+  "TCGplayer Id": "4872728",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Leech Fanatic",
+  "Title": "",
+  "Number": "75",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4872948": {
+  "TCGplayer Id": "4872948",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pillardrop Rescuer",
+  "Title": "",
+  "Number": "23",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4873058": {
+  "TCGplayer Id": "4873058",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Witherbloom Pledgemage",
+  "Title": "",
+  "Number": "249",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4874328": {
+  "TCGplayer Id": "4874328",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pigment Storm",
+  "Title": "",
+  "Number": "111",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4874333": {
+  "TCGplayer Id": "4874333",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pigment Storm",
+  "Title": "",
+  "Number": "111",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4875048": {
+  "TCGplayer Id": "4875048",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mage Duel",
+  "Title": "",
+  "Number": "137",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4875053": {
+  "TCGplayer Id": "4875053",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mage Duel",
+  "Title": "",
+  "Number": "137",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4875158": {
+  "TCGplayer Id": "4875158",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Reckless Amplimancer",
+  "Title": "",
+  "Number": "141",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4875163": {
+  "TCGplayer Id": "4875163",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Reckless Amplimancer",
+  "Title": "",
+  "Number": "141",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4875268": {
+  "TCGplayer Id": "4875268",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Springmane Cervin",
+  "Title": "",
+  "Number": "144",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4876258": {
+  "TCGplayer Id": "4876258",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Biblioplex Assistant",
+  "Title": "",
+  "Number": "251",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4876478": {
+  "TCGplayer Id": "4876478",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Stonerise Spirit",
+  "Title": "",
+  "Number": "32",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4876918": {
+  "TCGplayer Id": "4876918",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Tangletrap",
+  "Title": "",
+  "Number": "145",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4877028": {
+  "TCGplayer Id": "4877028",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Vortex Runner",
+  "Title": "",
+  "Number": "60",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4877033": {
+  "TCGplayer Id": "4877033",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Vortex Runner",
+  "Title": "",
+  "Number": "60",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4877138": {
+  "TCGplayer Id": "4877138",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Lash of Malice",
+  "Title": "",
+  "Number": "74",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4877143": {
+  "TCGplayer Id": "4877143",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Lash of Malice",
+  "Title": "",
+  "Number": "74",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4877358": {
+  "TCGplayer Id": "4877358",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mage Hunters' Onslaught",
+  "Title": "",
+  "Number": "77",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4877468": {
+  "TCGplayer Id": "4877468",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Wormhole Serpent",
+  "Title": "",
+  "Number": "62",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4877473": {
+  "TCGplayer Id": "4877473",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Wormhole Serpent",
+  "Title": "",
+  "Number": "62",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4877578": {
+  "TCGplayer Id": "4877578",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Twinscroll Shaman",
+  "Title": "",
+  "Number": "118",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4877583": {
+  "TCGplayer Id": "4877583",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Twinscroll Shaman",
+  "Title": "",
+  "Number": "118",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4878018": {
+  "TCGplayer Id": "4878018",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Specter of the Fens",
+  "Title": "",
+  "Number": "87",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4878978": {
+  "TCGplayer Id": "4878978",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Exhilarating Elocution",
+  "Title": "",
+  "Number": "185",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4879418": {
+  "TCGplayer Id": "4879418",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Moldering Karok",
+  "Title": "",
+  "Number": "206",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4879638": {
+  "TCGplayer Id": "4879638",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Shadewing Laureate",
+  "Title": "",
+  "Number": "229",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4879748": {
+  "TCGplayer Id": "4879748",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Silverquill Pledgemage",
+  "Title": "",
+  "Number": "233",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4882093": {
+  "TCGplayer Id": "4882093",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: Mystical Archives",
+  "Product Name": "Divine Gambit",
+  "Title": "",
+  "Number": "4",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
