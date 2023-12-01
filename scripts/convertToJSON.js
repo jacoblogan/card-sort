@@ -127,7 +127,7 @@ function writePullSheetCSV(pullData) {
     fs.writeFileSync(pullSheetLocation, csvLines.join('\n'), 'utf-8');
 }
 
-AddInventoryToBox(5);
+AddInventoryToBox(6);
 
 // const pullSheet = "./data/TCGplayer_PullSheet_20231125_044651.csv";
 // generatePullSheet(pullSheet).then((removeDict) => {
