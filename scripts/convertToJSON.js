@@ -127,15 +127,23 @@ function writePullSheetCSV(pullData) {
     fs.writeFileSync(pullSheetLocation, csvLines.join('\n'), 'utf-8');
 }
 
-AddInventoryToBox(8);
+//AddInventoryToBox(8);
 
-// const pullSheet = "./data/TCGplayer_PullSheet_20231125_044651.csv";
-// generatePullSheet(pullSheet).then((removeDict) => {
-//     console.log(removeDict);
-//     removeFromData(removeDict);
-//     writeToDataFile(data);
-// });
+/**
+ * Steps to pull cards
+ * Download the pull sheet and place it in the data/pull folder
+ * run generatePullSheet()
+ * print the resulting csv in data/pull
+ * run the generatePullSheet and removeFromData and rewrite the data file
+ */
 
+//generate pull sheet and save
 // generatePullSheet().then((pullData) => {
 //     writePullSheetCSV(pullData);
 // });
+
+//generate pull sheet and remove the data from the data object
+generatePullSheet().then((pullData) => {
+    removeFromData(pullData);
+    writeToDataFile(data);
+});
