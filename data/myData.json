@@ -19274,6 +19274,36 @@
    }
   }
  },
+ "4438175": {
+  "TCGplayer Id": "4438175",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Island (Showcase)",
+  "Title": "",
+  "Number": "310",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4438180": {
+  "TCGplayer Id": "4438180",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Island (Showcase)",
+  "Title": "",
+  "Number": "310",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "4438395": {
   "TCGplayer Id": "4438395",
   "Product Line": "Magic",
@@ -19589,6 +19619,36 @@
    }
   }
  },
+ "4444752": {
+  "TCGplayer Id": "4444752",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Plains (Showcase)",
+  "Title": "",
+  "Number": "309",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4444757": {
+  "TCGplayer Id": "4444757",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Plains (Showcase)",
+  "Title": "",
+  "Number": "309",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "4445082": {
   "TCGplayer Id": "4445082",
   "Product Line": "Magic",
@@ -19796,6 +19856,36 @@
   "Boxes": {
    "7": {
     "Near Mint": 5
+   }
+  }
+ },
+ "4447468": {
+  "TCGplayer Id": "4447468",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Mountain (Showcase)",
+  "Title": "",
+  "Number": "312",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4447473": {
+  "TCGplayer Id": "4447473",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Mountain (Showcase)",
+  "Title": "",
+  "Number": "312",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -20564,6 +20654,36 @@
    }
   }
  },
+ "4456106": {
+  "TCGplayer Id": "4456106",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Swamp (Showcase)",
+  "Title": "",
+  "Number": "311",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4456111": {
+  "TCGplayer Id": "4456111",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Swamp (Showcase)",
+  "Title": "",
+  "Number": "311",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "4456246": {
   "TCGplayer Id": "4456246",
   "Product Line": "Magic",
@@ -20951,6 +21071,486 @@
   "Boxes": {
    "7": {
     "Near Mint": 3
+   }
+  }
+ },
+ "4461726": {
+  "TCGplayer Id": "4461726",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Forest (Showcase)",
+  "Title": "",
+  "Number": "313",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4461731": {
+  "TCGplayer Id": "4461731",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Forest (Showcase)",
+  "Title": "",
+  "Number": "313",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4461836": {
+  "TCGplayer Id": "4461836",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Plains",
+  "Title": "",
+  "Number": "260",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 30
+   }
+  }
+ },
+ "4461841": {
+  "TCGplayer Id": "4461841",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Plains",
+  "Title": "",
+  "Number": "260",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4461946": {
+  "TCGplayer Id": "4461946",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Plains (261)",
+  "Title": "",
+  "Number": "261",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 26
+   }
+  }
+ },
+ "4461951": {
+  "TCGplayer Id": "4461951",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Plains (261)",
+  "Title": "",
+  "Number": "261",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4462056": {
+  "TCGplayer Id": "4462056",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Plains (262)",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 31
+   }
+  }
+ },
+ "4462061": {
+  "TCGplayer Id": "4462061",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Plains (262)",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4462166": {
+  "TCGplayer Id": "4462166",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Island",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "4462171": {
+  "TCGplayer Id": "4462171",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Island",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4462276": {
+  "TCGplayer Id": "4462276",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Island (264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 23
+   }
+  }
+ },
+ "4462281": {
+  "TCGplayer Id": "4462281",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Island (264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4462386": {
+  "TCGplayer Id": "4462386",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Island (265)",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 25
+   }
+  }
+ },
+ "4462391": {
+  "TCGplayer Id": "4462391",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Island (265)",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4462496": {
+  "TCGplayer Id": "4462496",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Swamp",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4462501": {
+  "TCGplayer Id": "4462501",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Swamp",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 4
+   }
+  }
+ },
+ "4462606": {
+  "TCGplayer Id": "4462606",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Swamp (267)",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 22
+   }
+  }
+ },
+ "4462611": {
+  "TCGplayer Id": "4462611",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Swamp (267)",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4462716": {
+  "TCGplayer Id": "4462716",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Swamp (268)",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "4462721": {
+  "TCGplayer Id": "4462721",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Swamp (268)",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "4462826": {
+  "TCGplayer Id": "4462826",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Mountain (269)",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 29
+   }
+  }
+ },
+ "4462831": {
+  "TCGplayer Id": "4462831",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Mountain (269)",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4462936": {
+  "TCGplayer Id": "4462936",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Mountain (270)",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 27
+   }
+  }
+ },
+ "4462941": {
+  "TCGplayer Id": "4462941",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Mountain (270)",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "4463046": {
+  "TCGplayer Id": "4463046",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Mountain (271)",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 23
+   }
+  }
+ },
+ "4463051": {
+  "TCGplayer Id": "4463051",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Mountain (271)",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4463156": {
+  "TCGplayer Id": "4463156",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Forest (272)",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "4463161": {
+  "TCGplayer Id": "4463161",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Forest (272)",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "4463266": {
+  "TCGplayer Id": "4463266",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Forest (273)",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 21
+   }
+  }
+ },
+ "4463271": {
+  "TCGplayer Id": "4463271",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Forest (273)",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4463376": {
+  "TCGplayer Id": "4463376",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Forest (274)",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 21
+   }
+  }
+ },
+ "4463381": {
+  "TCGplayer Id": "4463381",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Forest (274)",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
    }
   }
  },
@@ -27254,6 +27854,36 @@
    }
   }
  },
+ "4848397": {
+  "TCGplayer Id": "4848397",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Plains (366)",
+  "Title": "",
+  "Number": "366",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 39
+   }
+  }
+ },
+ "4848452": {
+  "TCGplayer Id": "4848452",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Plains (367)",
+  "Title": "",
+  "Number": "367",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 39
+   }
+  }
+ },
  "4848507": {
   "TCGplayer Id": "4848507",
   "Product Line": "Magic",
@@ -27266,6 +27896,114 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "9": {
+    "Near Mint": 85
+   }
+  }
+ },
+ "4848562": {
+  "TCGplayer Id": "4848562",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Island (369)",
+  "Title": "",
+  "Number": "369",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 86
+   }
+  }
+ },
+ "4848617": {
+  "TCGplayer Id": "4848617",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Swamp (370)",
+  "Title": "",
+  "Number": "370",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4848672": {
+  "TCGplayer Id": "4848672",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Swamp (371)",
+  "Title": "",
+  "Number": "371",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4848727": {
+  "TCGplayer Id": "4848727",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mountain (372)",
+  "Title": "",
+  "Number": "372",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 86
+   }
+  }
+ },
+ "4848782": {
+  "TCGplayer Id": "4848782",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mountain (373)",
+  "Title": "",
+  "Number": "373",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 77
+   }
+  }
+ },
+ "4848837": {
+  "TCGplayer Id": "4848837",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Forest (374)",
+  "Title": "",
+  "Number": "374",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 42
+   }
+  }
+ },
+ "4848892": {
+  "TCGplayer Id": "4848892",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Forest (375)",
+  "Title": "",
+  "Number": "375",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 34
    }
   }
  },
@@ -27611,6 +28349,144 @@
   "Boxes": {
    "8": {
     "Near Mint Foil": 2
+   },
+   "9": {
+    "Near Mint Foil": 6
+   }
+  }
+ },
+ "4858322": {
+  "TCGplayer Id": "4858322",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Plains (367)",
+  "Title": "",
+  "Number": "367",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 6
+   }
+  }
+ },
+ "4858352": {
+  "TCGplayer Id": "4858352",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Island (368)",
+  "Title": "",
+  "Number": "368",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 6
+   }
+  }
+ },
+ "4858382": {
+  "TCGplayer Id": "4858382",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Island (369)",
+  "Title": "",
+  "Number": "369",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 6
+   }
+  }
+ },
+ "4858412": {
+  "TCGplayer Id": "4858412",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Swamp (370)",
+  "Title": "",
+  "Number": "370",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 6
+   }
+  }
+ },
+ "4858442": {
+  "TCGplayer Id": "4858442",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Swamp (371)",
+  "Title": "",
+  "Number": "371",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 7
+   }
+  }
+ },
+ "4858472": {
+  "TCGplayer Id": "4858472",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mountain (372)",
+  "Title": "",
+  "Number": "372",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 7
+   }
+  }
+ },
+ "4858502": {
+  "TCGplayer Id": "4858502",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mountain (373)",
+  "Title": "",
+  "Number": "373",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 6
+   }
+  }
+ },
+ "4858532": {
+  "TCGplayer Id": "4858532",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Forest (374)",
+  "Title": "",
+  "Number": "374",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 6
+   }
+  }
+ },
+ "4858562": {
+  "TCGplayer Id": "4858562",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Forest (375)",
+  "Title": "",
+  "Number": "375",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 6
    }
   }
  },
@@ -34841,6 +35717,156 @@
   "Boxes": {
    "5": {
     "Near Mint": 10
+   }
+  }
+ },
+ "5148605": {
+  "TCGplayer Id": "5148605",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Plains (380)",
+  "Title": "",
+  "Number": "380",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 140
+   }
+  }
+ },
+ "5148610": {
+  "TCGplayer Id": "5148610",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Plains (380)",
+  "Title": "",
+  "Number": "380",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 24
+   }
+  }
+ },
+ "5148655": {
+  "TCGplayer Id": "5148655",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Island (381)",
+  "Title": "",
+  "Number": "381",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 32
+   }
+  }
+ },
+ "5148660": {
+  "TCGplayer Id": "5148660",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Island (381)",
+  "Title": "",
+  "Number": "381",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 23
+   }
+  }
+ },
+ "5148705": {
+  "TCGplayer Id": "5148705",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Swamp (382)",
+  "Title": "",
+  "Number": "382",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 32
+   }
+  }
+ },
+ "5148710": {
+  "TCGplayer Id": "5148710",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Swamp (382)",
+  "Title": "",
+  "Number": "382",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 24
+   }
+  }
+ },
+ "5148755": {
+  "TCGplayer Id": "5148755",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Mountain (383)",
+  "Title": "",
+  "Number": "383",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 32
+   }
+  }
+ },
+ "5148760": {
+  "TCGplayer Id": "5148760",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Mountain (383)",
+  "Title": "",
+  "Number": "383",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 24
+   }
+  }
+ },
+ "5148805": {
+  "TCGplayer Id": "5148805",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Forest (384)",
+  "Title": "",
+  "Number": "384",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 140
+   }
+  }
+ },
+ "5148810": {
+  "TCGplayer Id": "5148810",
+  "Product Line": "Magic",
+  "Set Name": "Innistrad: Midnight Hunt",
+  "Product Name": "Forest (384)",
+  "Title": "",
+  "Number": "384",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 24
    }
   }
  },
@@ -42524,6 +43550,156 @@
    }
   }
  },
+ "5465803": {
+  "TCGplayer Id": "5465803",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Plains (273)",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5465913": {
+  "TCGplayer Id": "5465913",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Plains (272)",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "5465918": {
+  "TCGplayer Id": "5465918",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Plains (272)",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5466023": {
+  "TCGplayer Id": "5466023",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Island (274)",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5466133": {
+  "TCGplayer Id": "5466133",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Island (275)",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5466243": {
+  "TCGplayer Id": "5466243",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Mountain (279)",
+  "Title": "",
+  "Number": "279",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5466353": {
+  "TCGplayer Id": "5466353",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Mountain (278)",
+  "Title": "",
+  "Number": "278",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5466573": {
+  "TCGplayer Id": "5466573",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Swamp (277)",
+  "Title": "",
+  "Number": "277",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5466683": {
+  "TCGplayer Id": "5466683",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Forest (280)",
+  "Title": "",
+  "Number": "280",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5466793": {
+  "TCGplayer Id": "5466793",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Forest (281)",
+  "Title": "",
+  "Number": "281",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5481332": {
   "TCGplayer Id": "5481332",
   "Product Line": "Magic",
@@ -42791,6 +43967,306 @@
   "Boxes": {
    "5": {
     "Near Mint Foil": 1
+   }
+  }
+ },
+ "5491184": {
+  "TCGplayer Id": "5491184",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Plains (262)",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 186
+   }
+  }
+ },
+ "5491189": {
+  "TCGplayer Id": "5491189",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Plains (262)",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 31
+   }
+  }
+ },
+ "5491294": {
+  "TCGplayer Id": "5491294",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Plains (263)",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 241
+   }
+  }
+ },
+ "5491299": {
+  "TCGplayer Id": "5491299",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Plains (263)",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 33
+   }
+  }
+ },
+ "5491404": {
+  "TCGplayer Id": "5491404",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Island (264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 152
+   }
+  }
+ },
+ "5491409": {
+  "TCGplayer Id": "5491409",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Island (264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 32
+   }
+  }
+ },
+ "5491514": {
+  "TCGplayer Id": "5491514",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Island (265)",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 118
+   }
+  }
+ },
+ "5491519": {
+  "TCGplayer Id": "5491519",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Island (265)",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 32
+   }
+  }
+ },
+ "5491624": {
+  "TCGplayer Id": "5491624",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Swamp (266)",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 101
+   }
+  }
+ },
+ "5491629": {
+  "TCGplayer Id": "5491629",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Swamp (266)",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 34
+   }
+  }
+ },
+ "5491734": {
+  "TCGplayer Id": "5491734",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Swamp (267)",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 106
+   }
+  }
+ },
+ "5491739": {
+  "TCGplayer Id": "5491739",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Swamp (267)",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 32
+   }
+  }
+ },
+ "5491844": {
+  "TCGplayer Id": "5491844",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Mountain (268)",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 136
+   }
+  }
+ },
+ "5491849": {
+  "TCGplayer Id": "5491849",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Mountain (268)",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 33
+   }
+  }
+ },
+ "5491954": {
+  "TCGplayer Id": "5491954",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Mountain (269)",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 190
+   }
+  }
+ },
+ "5491959": {
+  "TCGplayer Id": "5491959",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Mountain (269)",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 31
+   }
+  }
+ },
+ "5492064": {
+  "TCGplayer Id": "5492064",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Forest (270)",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 295
+   }
+  }
+ },
+ "5492069": {
+  "TCGplayer Id": "5492069",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Forest (270)",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 31
+   }
+  }
+ },
+ "5492174": {
+  "TCGplayer Id": "5492174",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Forest (271)",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 364
+   }
+  }
+ },
+ "5492179": {
+  "TCGplayer Id": "5492179",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Forest (271)",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 30
    }
   }
  },
@@ -45179,6 +46655,126 @@
    }
   }
  },
+ "5608243": {
+  "TCGplayer Id": "5608243",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Plains (451)",
+  "Title": "",
+  "Number": "451",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 45
+   }
+  }
+ },
+ "5608248": {
+  "TCGplayer Id": "5608248",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Plains (451)",
+  "Title": "",
+  "Number": "451",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "5608343": {
+  "TCGplayer Id": "5608343",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Plains (452)",
+  "Title": "",
+  "Number": "452",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 68
+   }
+  }
+ },
+ "5608348": {
+  "TCGplayer Id": "5608348",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Plains (452)",
+  "Title": "",
+  "Number": "452",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5608443": {
+  "TCGplayer Id": "5608443",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Plains (453)",
+  "Title": "",
+  "Number": "453",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 68
+   }
+  }
+ },
+ "5608448": {
+  "TCGplayer Id": "5608448",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Plains (453)",
+  "Title": "",
+  "Number": "453",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5608543": {
+  "TCGplayer Id": "5608543",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Plains (454)",
+  "Title": "",
+  "Number": "454",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 46
+   }
+  }
+ },
+ "5608548": {
+  "TCGplayer Id": "5608548",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Plains (454)",
+  "Title": "",
+  "Number": "454",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "5608643": {
   "TCGplayer Id": "5608643",
   "Product Line": "Magic",
@@ -45191,6 +46787,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 3
+   },
+   "9": {
+    "Near Mint": 75
+   }
+  }
+ },
+ "5608648": {
+  "TCGplayer Id": "5608648",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Island (455)",
+  "Title": "",
+  "Number": "455",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -45206,6 +46820,54 @@
   "Boxes": {
    "1": {
     "Near Mint": 4
+   },
+   "9": {
+    "Near Mint": 74
+   }
+  }
+ },
+ "5608748": {
+  "TCGplayer Id": "5608748",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Island (456)",
+  "Title": "",
+  "Number": "456",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5608843": {
+  "TCGplayer Id": "5608843",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Island (457)",
+  "Title": "",
+  "Number": "457",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 76
+   }
+  }
+ },
+ "5608848": {
+  "TCGplayer Id": "5608848",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Island (457)",
+  "Title": "",
+  "Number": "457",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -45221,6 +46883,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 1
+   },
+   "9": {
+    "Near Mint": 74
+   }
+  }
+ },
+ "5608948": {
+  "TCGplayer Id": "5608948",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Island (458)",
+  "Title": "",
+  "Number": "458",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -45236,6 +46916,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 29
+   },
+   "9": {
+    "Near Mint": 63
+   }
+  }
+ },
+ "5609048": {
+  "TCGplayer Id": "5609048",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Swamp (459)",
+  "Title": "",
+  "Number": "459",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -45251,6 +46949,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 3
+   },
+   "9": {
+    "Near Mint": 52
+   }
+  }
+ },
+ "5609148": {
+  "TCGplayer Id": "5609148",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Swamp (460)",
+  "Title": "",
+  "Number": "460",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -45266,6 +46982,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 8
+   },
+   "9": {
+    "Near Mint": 76
+   }
+  }
+ },
+ "5609248": {
+  "TCGplayer Id": "5609248",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Swamp (461)",
+  "Title": "",
+  "Number": "461",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -45281,6 +47015,84 @@
   "Boxes": {
    "1": {
     "Near Mint": 2
+   },
+   "9": {
+    "Near Mint": 55
+   }
+  }
+ },
+ "5609348": {
+  "TCGplayer Id": "5609348",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Swamp (462)",
+  "Title": "",
+  "Number": "462",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "5609443": {
+  "TCGplayer Id": "5609443",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mountain (463)",
+  "Title": "",
+  "Number": "463",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 81
+   }
+  }
+ },
+ "5609448": {
+  "TCGplayer Id": "5609448",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mountain (463)",
+  "Title": "",
+  "Number": "463",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5609543": {
+  "TCGplayer Id": "5609543",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mountain (464)",
+  "Title": "",
+  "Number": "464",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 82
+   }
+  }
+ },
+ "5609548": {
+  "TCGplayer Id": "5609548",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mountain (464)",
+  "Title": "",
+  "Number": "464",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -45296,6 +47108,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 24
+   },
+   "9": {
+    "Near Mint": 83
+   }
+  }
+ },
+ "5609648": {
+  "TCGplayer Id": "5609648",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mountain (465)",
+  "Title": "",
+  "Number": "465",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -45311,6 +47141,144 @@
   "Boxes": {
    "1": {
     "Near Mint": 35
+   },
+   "9": {
+    "Near Mint": 82
+   }
+  }
+ },
+ "5609748": {
+  "TCGplayer Id": "5609748",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mountain (466)",
+  "Title": "",
+  "Number": "466",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5609843": {
+  "TCGplayer Id": "5609843",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Forest (467)",
+  "Title": "",
+  "Number": "467",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 24
+   }
+  }
+ },
+ "5609848": {
+  "TCGplayer Id": "5609848",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Forest (467)",
+  "Title": "",
+  "Number": "467",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5609943": {
+  "TCGplayer Id": "5609943",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Forest (468)",
+  "Title": "",
+  "Number": "468",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 26
+   }
+  }
+ },
+ "5609948": {
+  "TCGplayer Id": "5609948",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Forest (468)",
+  "Title": "",
+  "Number": "468",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5610043": {
+  "TCGplayer Id": "5610043",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Forest (469)",
+  "Title": "",
+  "Number": "469",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 26
+   }
+  }
+ },
+ "5610048": {
+  "TCGplayer Id": "5610048",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Forest (469)",
+  "Title": "",
+  "Number": "469",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "5610143": {
+  "TCGplayer Id": "5610143",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Forest (470)",
+  "Title": "",
+  "Number": "470",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 25
+   }
+  }
+ },
+ "5610148": {
+  "TCGplayer Id": "5610148",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Forest (470)",
+  "Title": "",
+  "Number": "470",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -49049,6 +51017,21 @@
    }
   }
  },
+ "5727464": {
+  "TCGplayer Id": "5727464",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Swamp (Showcase)",
+  "Title": "",
+  "Number": "279",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 1
+   }
+  }
+ },
  "5751044": {
   "TCGplayer Id": "5751044",
   "Product Line": "Magic",
@@ -49241,6 +51224,456 @@
   "Boxes": {
    "1": {
     "Near Mint": 9
+   }
+  }
+ },
+ "5756933": {
+  "TCGplayer Id": "5756933",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Forest (274)",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "5756938": {
+  "TCGplayer Id": "5756938",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Forest (274)",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 8
+   }
+  }
+ },
+ "5757013": {
+  "TCGplayer Id": "5757013",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Forest (275)",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "5757018": {
+  "TCGplayer Id": "5757018",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Forest (275)",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5757093": {
+  "TCGplayer Id": "5757093",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Forest (276)",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5757098": {
+  "TCGplayer Id": "5757098",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Forest (276)",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5757173": {
+  "TCGplayer Id": "5757173",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Island (265)",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "5757178": {
+  "TCGplayer Id": "5757178",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Island (265)",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 7
+   }
+  }
+ },
+ "5757253": {
+  "TCGplayer Id": "5757253",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Island (266)",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5757258": {
+  "TCGplayer Id": "5757258",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Island (266)",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 4
+   }
+  }
+ },
+ "5757333": {
+  "TCGplayer Id": "5757333",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Island (267)",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5757338": {
+  "TCGplayer Id": "5757338",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Island (267)",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 4
+   }
+  }
+ },
+ "5757413": {
+  "TCGplayer Id": "5757413",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Mountain (271)",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 139
+   }
+  }
+ },
+ "5757418": {
+  "TCGplayer Id": "5757418",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Mountain (271)",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 6
+   }
+  }
+ },
+ "5757493": {
+  "TCGplayer Id": "5757493",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Mountain (272)",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5757498": {
+  "TCGplayer Id": "5757498",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Mountain (272)",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5757573": {
+  "TCGplayer Id": "5757573",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Mountain (273)",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "5757578": {
+  "TCGplayer Id": "5757578",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Mountain (273)",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5757653": {
+  "TCGplayer Id": "5757653",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Plains (262)",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 160
+   }
+  }
+ },
+ "5757658": {
+  "TCGplayer Id": "5757658",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Plains (262)",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 7
+   }
+  }
+ },
+ "5757733": {
+  "TCGplayer Id": "5757733",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Plains (263)",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5757738": {
+  "TCGplayer Id": "5757738",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Plains (263)",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 4
+   }
+  }
+ },
+ "5757813": {
+  "TCGplayer Id": "5757813",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Plains (264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "5757818": {
+  "TCGplayer Id": "5757818",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Plains (264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5757893": {
+  "TCGplayer Id": "5757893",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Swamp (268)",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 136
+   }
+  }
+ },
+ "5757898": {
+  "TCGplayer Id": "5757898",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Swamp (268)",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 6
+   }
+  }
+ },
+ "5757973": {
+  "TCGplayer Id": "5757973",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Swamp (269)",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "5757978": {
+  "TCGplayer Id": "5757978",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Swamp (269)",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 5
+   }
+  }
+ },
+ "5758053": {
+  "TCGplayer Id": "5758053",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Swamp (270)",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5758058": {
+  "TCGplayer Id": "5758058",
+  "Product Line": "Magic",
+  "Set Name": "Dominaria United",
+  "Product Name": "Swamp (270)",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 5
    }
   }
  },
@@ -66656,6 +69089,306 @@
   "Boxes": {
    "4": {
     "Near Mint Foil": 2
+   }
+  }
+ },
+ "7171570": {
+  "TCGplayer Id": "7171570",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Forest (0271)",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "7171575": {
+  "TCGplayer Id": "7171575",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Forest (0271)",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 21
+   }
+  }
+ },
+ "7171650": {
+  "TCGplayer Id": "7171650",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Forest (0270)",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "7171655": {
+  "TCGplayer Id": "7171655",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Forest (0270)",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 19
+   }
+  }
+ },
+ "7171730": {
+  "TCGplayer Id": "7171730",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Island (0265)",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 23
+   }
+  }
+ },
+ "7171735": {
+  "TCGplayer Id": "7171735",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Island (0265)",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 19
+   }
+  }
+ },
+ "7171810": {
+  "TCGplayer Id": "7171810",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Island (0264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "7171815": {
+  "TCGplayer Id": "7171815",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Island (0264)",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 19
+   }
+  }
+ },
+ "7171890": {
+  "TCGplayer Id": "7171890",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Mountain (0269)",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "7171895": {
+  "TCGplayer Id": "7171895",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Mountain (0269)",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 18
+   }
+  }
+ },
+ "7171970": {
+  "TCGplayer Id": "7171970",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Mountain (0268)",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "7171975": {
+  "TCGplayer Id": "7171975",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Mountain (0268)",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 18
+   }
+  }
+ },
+ "7172050": {
+  "TCGplayer Id": "7172050",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Plains (0263)",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "7172055": {
+  "TCGplayer Id": "7172055",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Plains (0263)",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 21
+   }
+  }
+ },
+ "7172130": {
+  "TCGplayer Id": "7172130",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Plains (0262)",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "7172135": {
+  "TCGplayer Id": "7172135",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Plains (0262)",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 21
+   }
+  }
+ },
+ "7172210": {
+  "TCGplayer Id": "7172210",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Swamp (0267)",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "7172215": {
+  "TCGplayer Id": "7172215",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Swamp (0267)",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 21
+   }
+  }
+ },
+ "7172290": {
+  "TCGplayer Id": "7172290",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Swamp (0266)",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "9": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "7172295": {
+  "TCGplayer Id": "7172295",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Swamp (0266)",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "9": {
+    "Near Mint Foil": 21
    }
   }
  },

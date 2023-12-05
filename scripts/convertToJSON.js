@@ -127,7 +127,7 @@ function writePullSheetCSV(pullData) {
     fs.writeFileSync(pullSheetLocation, csvLines.join('\n'), 'utf-8');
 }
 
-//AddInventoryToBox(8);
+AddInventoryToBox(9);
 
 /**
  * Steps to pull cards
@@ -143,7 +143,7 @@ function writePullSheetCSV(pullData) {
 // });
 
 //generate pull sheet and remove the data from the data object
-generatePullSheet().then((pullData) => {
-    removeFromData(pullData);
-    writeToDataFile(data);
-});
+// generatePullSheet().then((pullData) => {
+//     removeFromData(pullData);
+//     writeToDataFile(data);
+// });
