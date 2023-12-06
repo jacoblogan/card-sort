@@ -127,7 +127,7 @@ function writePullSheetCSV(pullData) {
     fs.writeFileSync(pullSheetLocation, csvLines.join('\n'), 'utf-8');
 }
 
-AddInventoryToBox(9);
+// AddInventoryToBox(9);
 
 /**
  * Steps to pull cards
