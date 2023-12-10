@@ -90,7 +90,8 @@ function generatePullSheet() {
                         name: row["Product Name"],
                         condition: cond,
                         set: row["Set"],
-                        quantity: pullAmount
+                        quantity: pullAmount,
+                        number: row["Number"]
                     }
                     quantity = quantity - pullAmount;
                 }
@@ -115,13 +116,13 @@ function removeFromData(removeDict) {
 }
 
 function writePullSheetCSV(pullData) {
-    const csvLines = [`Box,Name,Quantity,Condition,Set`];
+    const csvLines = [`Box,Name,Quantity,Condition,Set,Number`];
     const boxes = Object.keys(pullData);
     boxes.forEach((boxNumber) => {
         const cardIds = Object.keys(pullData[boxNumber]);
         cardIds.forEach((cid) => {
             cardData = pullData[boxNumber][cid];
-            csvLines.push(`${boxNumber},"${cardData['name']}",${cardData['quantity']},"${cardData['condition']}","${cardData['set']}"`);
+            csvLines.push(`${boxNumber},"${cardData['name']}",${cardData['quantity']},"${cardData['condition']}","${cardData['set']}","${cardData['number']}"`);
         });
     });
     fs.writeFileSync(pullSheetLocation, csvLines.join('\n'), 'utf-8');
