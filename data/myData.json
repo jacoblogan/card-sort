@@ -24314,6 +24314,21 @@
    }
   }
  },
+ "4691644": {
+  "TCGplayer Id": "4691644",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Pyre of Heroes",
+  "Title": "",
+  "Number": "241",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4693242": {
   "TCGplayer Id": "4693242",
   "Product Line": "Magic",
@@ -24416,6 +24431,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 3
    }
   }
  },
@@ -24461,6 +24479,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 15
+   },
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -24494,6 +24515,21 @@
    }
   }
  },
+ "4702982": {
+  "TCGplayer Id": "4702982",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Alpine Meadow",
+  "Title": "",
+  "Number": "248",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
  "4703092": {
   "TCGplayer Id": "4703092",
   "Product Line": "Magic",
@@ -24506,6 +24542,84 @@
   "Boxes": {
    "7": {
     "Near Mint": 0
+   },
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4703202": {
+  "TCGplayer Id": "4703202",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Glacial Floodplain",
+  "Title": "",
+  "Number": "257",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4703422": {
+  "TCGplayer Id": "4703422",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Ice Tunnel",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4703532": {
+  "TCGplayer Id": "4703532",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Woodland Chasm",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4703642": {
+  "TCGplayer Id": "4703642",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Volatile Fjord",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4704192": {
+  "TCGplayer Id": "4704192",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Rimewood Falls",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -24536,6 +24650,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 11
    }
   }
  },
@@ -24551,6 +24668,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 30
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -24581,6 +24701,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 7
    }
   }
  },
@@ -24596,6 +24719,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 6
    }
   }
  },
@@ -24611,6 +24737,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -24629,6 +24758,21 @@
    }
   }
  },
+ "4705912": {
+  "TCGplayer Id": "4705912",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Masked Vandal",
+  "Title": "",
+  "Number": "184",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
  "4706352": {
   "TCGplayer Id": "4706352",
   "Product Line": "Magic",
@@ -24644,6 +24788,21 @@
    }
   }
  },
+ "4706562": {
+  "TCGplayer Id": "4706562",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Behold the Multiverse",
+  "Title": "",
+  "Number": "46",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 13
+   }
+  }
+ },
  "4706672": {
   "TCGplayer Id": "4706672",
   "Product Line": "Magic",
@@ -24656,6 +24815,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 7
    }
   }
  },
@@ -24671,6 +24833,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 19
+   },
+   "10": {
+    "Near Mint": 26
    }
   }
  },
@@ -24701,6 +24866,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -24749,6 +24917,21 @@
    }
   }
  },
+ "4707992": {
+  "TCGplayer Id": "4707992",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Ravenform",
+  "Title": "",
+  "Number": "72",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 12
+   }
+  }
+ },
  "4708212": {
   "TCGplayer Id": "4708212",
   "Product Line": "Magic",
@@ -24776,6 +24959,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 14
+   },
+   "10": {
+    "Near Mint": 28
    }
   }
  },
@@ -24791,6 +24977,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -24821,6 +25010,21 @@
   "Boxes": {
    "7": {
     "Near Mint": 1
+   }
+  }
+ },
+ "4708938": {
+  "TCGplayer Id": "4708938",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Seize the Spoils",
+  "Title": "",
+  "Number": "149",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 12
    }
   }
  },
@@ -24866,6 +25070,24 @@
   "Boxes": {
    "7": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 23
+   }
+  }
+ },
+ "4709598": {
+  "TCGplayer Id": "4709598",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Saw It Coming",
+  "Title": "",
+  "Number": "76",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -24881,6 +25103,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 18
+   },
+   "10": {
+    "Near Mint": 24
    }
   }
  },
@@ -24899,6 +25124,21 @@
    }
   }
  },
+ "4709818": {
+  "TCGplayer Id": "4709818",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Village Rites",
+  "Title": "",
+  "Number": "117",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 7
+   }
+  }
+ },
  "4710038": {
   "TCGplayer Id": "4710038",
   "Product Line": "Magic",
@@ -24911,6 +25151,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 21
    }
   }
  },
@@ -24941,6 +25184,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 37
+   },
+   "10": {
+    "Near Mint": 30
    }
   }
  },
@@ -24974,6 +25220,21 @@
    }
   }
  },
+ "4710478": {
+  "TCGplayer Id": "4710478",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Replicating Ring",
+  "Title": "",
+  "Number": "244",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
  "4710698": {
   "TCGplayer Id": "4710698",
   "Product Line": "Magic",
@@ -24986,6 +25247,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 21
+   },
+   "10": {
+    "Near Mint": 24
    }
   }
  },
@@ -25016,6 +25280,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -25031,6 +25298,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 16
    }
   }
  },
@@ -25061,6 +25331,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -25075,6 +25348,9 @@
   "Condition": "Near Mint",
   "Boxes": {
    "7": {
+    "Near Mint": 10
+   },
+   "10": {
     "Near Mint": 10
    }
   }
@@ -25091,6 +25367,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -25106,6 +25385,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 17
+   },
+   "10": {
+    "Near Mint": 24
    }
   }
  },
@@ -25166,6 +25448,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 18
+   },
+   "10": {
+    "Near Mint": 26
    }
   }
  },
@@ -25181,6 +25466,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 14
+   },
+   "10": {
+    "Near Mint": 20
    }
   }
  },
@@ -25226,6 +25514,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 3
    }
   }
  },
@@ -25241,6 +25532,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 13
+   },
+   "10": {
+    "Near Mint": 26
    }
   }
  },
@@ -25286,6 +25580,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 21
+   },
+   "10": {
+    "Near Mint": 24
    }
   }
  },
@@ -25316,6 +25613,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 21
+   },
+   "10": {
+    "Near Mint": 22
    }
   }
  },
@@ -25346,6 +25646,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -25361,6 +25664,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 22
    }
   }
  },
@@ -25376,6 +25682,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -25406,6 +25715,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 21
+   },
+   "10": {
+    "Near Mint": 28
    }
   }
  },
@@ -25451,6 +25763,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 14
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -25481,6 +25796,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 14
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -25541,6 +25859,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 18
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -25586,6 +25907,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 19
+   },
+   "10": {
+    "Near Mint": 28
    }
   }
  },
@@ -25616,6 +25940,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 8
    }
   }
  },
@@ -25631,6 +25958,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 15
+   },
+   "10": {
+    "Near Mint": 26
    }
   }
  },
@@ -25661,6 +25991,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 13
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -25691,6 +26024,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 19
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -25736,6 +26072,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 8
    }
   }
  },
@@ -25766,6 +26105,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 24
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -25796,6 +26138,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 24
+   },
+   "10": {
+    "Near Mint": 31
    }
   }
  },
@@ -25811,6 +26156,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 9
+   },
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -25826,6 +26174,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 14
+   },
+   "10": {
+    "Near Mint": 21
    }
   }
  },
@@ -25841,6 +26192,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 12
    }
   }
  },
@@ -25871,6 +26225,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -25901,6 +26258,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 42
+   },
+   "10": {
+    "Near Mint": 26
    }
   }
  },
@@ -25916,6 +26276,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 8
+   },
+   "10": {
+    "Near Mint": 10
    }
   }
  },
@@ -25930,6 +26293,9 @@
   "Condition": "Near Mint",
   "Boxes": {
    "7": {
+    "Near Mint": 10
+   },
+   "10": {
     "Near Mint": 10
    }
   }
@@ -25946,6 +26312,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 18
+   },
+   "10": {
+    "Near Mint": 19
    }
   }
  },
@@ -25976,6 +26345,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 20
+   },
+   "10": {
+    "Near Mint": 21
    }
   }
  },
@@ -26006,6 +26378,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 22
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -26036,6 +26411,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 16
    }
   }
  },
@@ -26051,6 +26429,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 16
+   },
+   "10": {
+    "Near Mint": 30
    }
   }
  },
@@ -26066,6 +26447,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 17
+   },
+   "10": {
+    "Near Mint": 22
    }
   }
  },
@@ -26081,6 +26465,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -26096,6 +26483,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 13
    }
   }
  },
@@ -26111,6 +26501,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 21
    }
   }
  },
@@ -26141,6 +26534,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 7
    }
   }
  },
@@ -26156,6 +26552,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 19
+   },
+   "10": {
+    "Near Mint": 12
    }
   }
  },
@@ -26171,6 +26570,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -26186,6 +26588,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -26216,6 +26621,24 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4722514": {
+  "TCGplayer Id": "4722514",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Clarion Spirit",
+  "Title": "",
+  "Number": "6",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -26246,6 +26669,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 17
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -26261,6 +26687,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 21
    }
   }
  },
@@ -26321,6 +26750,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 21
    }
   }
  },
@@ -26366,6 +26798,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 42
+   },
+   "10": {
+    "Near Mint": 27
    }
   }
  },
@@ -26396,6 +26831,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 41
+   },
+   "10": {
+    "Near Mint": 25
    }
   }
  },
@@ -26426,6 +26864,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 19
+   },
+   "10": {
+    "Near Mint": 20
    }
   }
  },
@@ -26441,6 +26882,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 22
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -26471,6 +26915,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 20
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -26501,6 +26948,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 23
+   },
+   "10": {
+    "Near Mint": 21
    }
   }
  },
@@ -26531,6 +26981,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 13
+   },
+   "10": {
+    "Near Mint": 19
    }
   }
  },
@@ -26591,6 +27044,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 3
    }
   }
  },
@@ -26606,6 +27062,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 3
    }
   }
  },
@@ -26621,6 +27080,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 8
    }
   }
  },
@@ -26651,6 +27113,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -26681,6 +27146,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 14
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -26696,6 +27164,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 20
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -26711,6 +27182,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 15
+   },
+   "10": {
+    "Near Mint": 24
    }
   }
  },
@@ -26741,6 +27215,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -26756,6 +27233,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -26786,6 +27266,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -26801,6 +27284,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 20
+   },
+   "10": {
+    "Near Mint": 25
    }
   }
  },
@@ -26846,6 +27332,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 7
    }
   }
  },
@@ -26876,6 +27365,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 27
    }
   }
  },
@@ -26906,6 +27398,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -26921,6 +27416,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 2
    }
   }
  },
@@ -26951,6 +27449,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 11
    }
   }
  },
@@ -26966,6 +27467,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 15
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -26996,6 +27500,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -27026,6 +27533,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -27056,6 +27566,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 29
+   },
+   "10": {
+    "Near Mint": 24
    }
   }
  },
@@ -27116,6 +27629,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 15
+   },
+   "10": {
+    "Near Mint": 7
    }
   }
  },
@@ -27149,6 +27665,21 @@
    }
   }
  },
+ "4732922": {
+  "TCGplayer Id": "4732922",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Axgard Armory",
+  "Title": "",
+  "Number": "250",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4733032": {
   "TCGplayer Id": "4733032",
   "Product Line": "Magic",
@@ -27161,6 +27692,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -27176,6 +27710,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -27206,6 +27743,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 16
+   },
+   "10": {
+    "Near Mint": 22
    }
   }
  },
@@ -27221,6 +27761,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 8
    }
   }
  },
@@ -27251,6 +27794,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 16
+   },
+   "10": {
+    "Near Mint": 22
    }
   }
  },
@@ -27265,6 +27811,9 @@
   "Condition": "Near Mint",
   "Boxes": {
    "7": {
+    "Near Mint": 22
+   },
+   "10": {
     "Near Mint": 22
    }
   }
@@ -27296,6 +27845,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 23
    }
   }
  },
@@ -27311,6 +27863,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 13
    }
   }
  },
@@ -27356,6 +27911,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -27371,6 +27929,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 20
+   },
+   "10": {
+    "Near Mint": 19
    }
   }
  },
@@ -27401,6 +27962,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 20
+   },
+   "10": {
+    "Near Mint": 21
    }
   }
  },
@@ -27415,6 +27979,9 @@
   "Condition": "Near Mint",
   "Boxes": {
    "7": {
+    "Near Mint": 10
+   },
+   "10": {
     "Near Mint": 10
    }
   }
@@ -27431,6 +27998,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 17
+   },
+   "10": {
+    "Near Mint": 24
    }
   }
  },
@@ -27461,6 +28031,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 18
+   },
+   "10": {
+    "Near Mint": 20
    }
   }
  },
@@ -27476,6 +28049,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 18
+   },
+   "10": {
+    "Near Mint": 25
    }
   }
  },
@@ -27506,6 +28082,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 13
    }
   }
  },
@@ -27551,6 +28130,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 8
+   },
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -27566,6 +28148,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -27581,6 +28166,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 19
    }
   }
  },
@@ -27611,6 +28199,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -27626,6 +28217,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 22
    }
   }
  },
@@ -27656,6 +28250,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 22
    }
   }
  },
@@ -27670,6 +28267,9 @@
   "Condition": "Near Mint",
   "Boxes": {
    "7": {
+    "Near Mint": 10
+   },
+   "10": {
     "Near Mint": 10
    }
   }
@@ -27686,6 +28286,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -27701,6 +28304,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 22
    }
   }
  },
@@ -27731,6 +28337,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 40
+   },
+   "10": {
+    "Near Mint": 25
    }
   }
  },
@@ -27746,6 +28355,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 22
    }
   }
  },
@@ -27776,6 +28388,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 21
+   },
+   "10": {
+    "Near Mint": 8
    }
   }
  },
@@ -27791,6 +28406,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -27821,6 +28439,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 14
    }
   }
  },
@@ -27866,6 +28487,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -27881,6 +28505,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -27959,6 +28586,21 @@
    }
   }
  },
+ "4740838": {
+  "TCGplayer Id": "4740838",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Starnheim Courser",
+  "Title": "",
+  "Number": "32",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 7
+   }
+  }
+ },
  "4740948": {
   "TCGplayer Id": "4740948",
   "Product Line": "Magic",
@@ -27971,6 +28613,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 19
    }
   }
  },
@@ -28016,6 +28661,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 20
+   },
+   "10": {
+    "Near Mint": 29
    }
   }
  },
@@ -28046,6 +28694,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 11
    }
   }
  },
@@ -28061,6 +28712,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 18
+   },
+   "10": {
+    "Near Mint": 19
    }
   }
  },
@@ -28076,6 +28730,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 6
    }
   }
  },
@@ -28091,6 +28748,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 14
    }
   }
  },
@@ -28121,6 +28781,24 @@
   "Boxes": {
    "7": {
     "Near Mint": 17
+   },
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4761613": {
+  "TCGplayer Id": "4761613",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Human Warrior Token",
+  "Title": "",
+  "Number": "3",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 8
    }
   }
  },
@@ -28151,6 +28829,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 6
+   },
+   "10": {
+    "Near Mint": 3
    }
   }
  },
@@ -28211,6 +28892,9 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -28226,6 +28910,39 @@
   "Boxes": {
    "7": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4763283": {
+  "TCGplayer Id": "4763283",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Replicated Ring Token",
+  "Title": "",
+  "Number": "18",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4763393": {
+  "TCGplayer Id": "4763393",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Treasure Token",
+  "Title": "",
+  "Number": "19",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
    }
   }
  },
