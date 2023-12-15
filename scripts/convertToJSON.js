@@ -71,6 +71,11 @@ function generatePullSheet() {
             const id = row["TCGplayer Id"];
             let quantity = parseInt(row["Quantity"]);
             const cardData = data[id];
+            if(!cardData){
+                console.log('Card Not Found:');
+                console.log(row);
+                return;
+            }
             const boxKeys = Object.keys(cardData.Boxes);
             let boxQuantities = [];
             boxKeys.forEach((key) => {
