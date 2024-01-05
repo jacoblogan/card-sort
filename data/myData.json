@@ -29177,6 +29177,96 @@
    }
   }
  },
+ "4784427": {
+  "TCGplayer Id": "4784427",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Silverquill Command",
+  "Title": "",
+  "Number": "232",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4784538": {
+  "TCGplayer Id": "4784538",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Lorehold Command",
+  "Title": "",
+  "Number": "199",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4784648": {
+  "TCGplayer Id": "4784648",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Prismari Command",
+  "Title": "",
+  "Number": "214",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4784758": {
+  "TCGplayer Id": "4784758",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Quandrix Command",
+  "Title": "",
+  "Number": "217",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4835916": {
+  "TCGplayer Id": "4835916",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Witherbloom Apprentice",
+  "Title": "",
+  "Number": "247",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4836026": {
+  "TCGplayer Id": "4836026",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Storm-Kiln Artist",
+  "Title": "",
+  "Number": "115",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
  "4836136": {
   "TCGplayer Id": "4836136",
   "Product Line": "Magic",
@@ -29189,6 +29279,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4836141": {
+  "TCGplayer Id": "4836141",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Silverquill Apprentice",
+  "Title": "",
+  "Number": "231",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4836246": {
+  "TCGplayer Id": "4836246",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Quandrix Apprentice",
+  "Title": "",
+  "Number": "216",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
    }
   }
  },
@@ -29204,6 +29327,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -29219,6 +29345,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -29234,6 +29363,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 6
+   },
+   "10": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "4836686": {
+  "TCGplayer Id": "4836686",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pest Summoning",
+  "Title": "",
+  "Number": "211",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -29249,6 +29396,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4836911": {
+  "TCGplayer Id": "4836911",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Lorehold Apprentice",
+  "Title": "",
+  "Number": "198",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -29264,6 +29429,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 9
+   },
+   "10": {
+    "Near Mint": 19
    }
   }
  },
@@ -29279,6 +29447,219 @@
   "Boxes": {
    "8": {
     "Near Mint Foil": 1
+   },
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4837236": {
+  "TCGplayer Id": "4837236",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Dragonsguard Elite",
+  "Title": "",
+  "Number": "127",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4837936": {
+  "TCGplayer Id": "4837936",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Archmage Emeritus",
+  "Title": "",
+  "Number": "37",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4838096": {
+  "TCGplayer Id": "4838096",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Confront the Past",
+  "Title": "",
+  "Number": "67",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4838256": {
+  "TCGplayer Id": "4838256",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Frostboil Snarl",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4838261": {
+  "TCGplayer Id": "4838261",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Frostboil Snarl",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4838376": {
+  "TCGplayer Id": "4838376",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Furycalm Snarl",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4838486": {
+  "TCGplayer Id": "4838486",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Necroblossom Snarl",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4838491": {
+  "TCGplayer Id": "4838491",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Necroblossom Snarl",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4838646": {
+  "TCGplayer Id": "4838646",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Shineshadow Snarl",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4838651": {
+  "TCGplayer Id": "4838651",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Shineshadow Snarl",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4838816": {
+  "TCGplayer Id": "4838816",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Vineglimmer Snarl",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4839036": {
+  "TCGplayer Id": "4839036",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Rowan, Scholar of Sparks",
+  "Title": "",
+  "Number": "156",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4839361": {
+  "TCGplayer Id": "4839361",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Shadrix Silverquill",
+  "Title": "",
+  "Number": "230",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4839476": {
+  "TCGplayer Id": "4839476",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Shadrix Silverquill (Borderless)",
+  "Title": "",
+  "Number": "280",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -29294,6 +29675,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 9
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4839991": {
+  "TCGplayer Id": "4839991",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Waterfall Aerialist",
+  "Title": "",
+  "Number": "61",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -29309,6 +29708,234 @@
   "Boxes": {
    "8": {
     "Near Mint": 5
+   },
+   "10": {
+    "Near Mint": 22
+   }
+  }
+ },
+ "4840206": {
+  "TCGplayer Id": "4840206",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Expanded Anatomy",
+  "Title": "",
+  "Number": "2",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4840316": {
+  "TCGplayer Id": "4840316",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "First Day of Class",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4840321": {
+  "TCGplayer Id": "4840321",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "First Day of Class",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4840426": {
+  "TCGplayer Id": "4840426",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Torrent Sculptor",
+  "Title": "",
+  "Number": "159",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4840431": {
+  "TCGplayer Id": "4840431",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Torrent Sculptor",
+  "Title": "",
+  "Number": "159",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4840536": {
+  "TCGplayer Id": "4840536",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Plargg, Dean of Chaos",
+  "Title": "",
+  "Number": "155",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4840541": {
+  "TCGplayer Id": "4840541",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Plargg, Dean of Chaos",
+  "Title": "",
+  "Number": "155",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4840656": {
+  "TCGplayer Id": "4840656",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Uvilda, Dean of Perfection",
+  "Title": "",
+  "Number": "160",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4840766": {
+  "TCGplayer Id": "4840766",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Valentin, Dean of the Vein",
+  "Title": "",
+  "Number": "161",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4840771": {
+  "TCGplayer Id": "4840771",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Valentin, Dean of the Vein",
+  "Title": "",
+  "Number": "161",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4840876": {
+  "TCGplayer Id": "4840876",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Kianne, Dean of Substance",
+  "Title": "",
+  "Number": "152",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4840986": {
+  "TCGplayer Id": "4840986",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Shaile, Dean of Radiance",
+  "Title": "",
+  "Number": "158",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4841101": {
+  "TCGplayer Id": "4841101",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Introduction to Prophecy",
+  "Title": "",
+  "Number": "4",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4841236": {
+  "TCGplayer Id": "4841236",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Introduction to Annihilation",
+  "Title": "",
+  "Number": "3",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "4847097": {
+  "TCGplayer Id": "4847097",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Guiding Voice",
+  "Title": "",
+  "Number": "19",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
    }
   }
  },
@@ -29324,6 +29951,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4847212": {
+  "TCGplayer Id": "4847212",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Study Break",
+  "Title": "",
+  "Number": "34",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -29339,6 +29984,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 6
+   },
+   "10": {
+    "Near Mint": 12
    }
   }
  },
@@ -29354,6 +30002,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "4847442": {
+  "TCGplayer Id": "4847442",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Field Trip",
+  "Title": "",
+  "Number": "131",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -29369,6 +30035,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -29384,6 +30053,21 @@
   "Boxes": {
    "8": {
     "Near Mint Foil": 1
+   }
+  }
+ },
+ "4847767": {
+  "TCGplayer Id": "4847767",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Environmental Sciences",
+  "Title": "",
+  "Number": "1",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -29540,6 +30224,36 @@
    }
   }
  },
+ "4848997": {
+  "TCGplayer Id": "4848997",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Reconstruct History",
+  "Title": "",
+  "Number": "222",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4849107": {
+  "TCGplayer Id": "4849107",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Blade Historian",
+  "Title": "",
+  "Number": "165",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4849277": {
   "TCGplayer Id": "4849277",
   "Product Line": "Magic",
@@ -29552,6 +30266,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "4849387": {
+  "TCGplayer Id": "4849387",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Elite Spellbinder",
+  "Title": "",
+  "Number": "17",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4849617": {
+  "TCGplayer Id": "4849617",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Venerable Warsinger",
+  "Title": "",
+  "Number": "246",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -29567,6 +30314,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4849892": {
+  "TCGplayer Id": "4849892",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Ageless Guardian",
+  "Title": "",
+  "Number": "8",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -29582,6 +30347,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 8
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -29597,6 +30365,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4850217": {
+  "TCGplayer Id": "4850217",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Academic Probation",
+  "Title": "",
+  "Number": "7",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4850387": {
+  "TCGplayer Id": "4850387",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Thunderous Orator",
+  "Title": "",
+  "Number": "35",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -29612,6 +30413,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4850607": {
+  "TCGplayer Id": "4850607",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Semester's End",
+  "Title": "",
+  "Number": "27",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
    }
   }
  },
@@ -29627,6 +30446,69 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4850827": {
+  "TCGplayer Id": "4850827",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Radiant Scrollwielder",
+  "Title": "",
+  "Number": "221",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4850937": {
+  "TCGplayer Id": "4850937",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Lorehold Excavation",
+  "Title": "",
+  "Number": "200",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4851047": {
+  "TCGplayer Id": "4851047",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Quintorius, Field Historian",
+  "Title": "",
+  "Number": "220",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4851267": {
+  "TCGplayer Id": "4851267",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Illuminate History",
+  "Title": "",
+  "Number": "108",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
    }
   }
  },
@@ -29642,6 +30524,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 1
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -29660,6 +30545,66 @@
    }
   }
  },
+ "4851487": {
+  "TCGplayer Id": "4851487",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Lorehold Campus",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4851597": {
+  "TCGplayer Id": "4851597",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Go Blank",
+  "Title": "",
+  "Number": "72",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4851727": {
+  "TCGplayer Id": "4851727",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Efreet Flamepainter",
+  "Title": "",
+  "Number": "98",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4851927": {
+  "TCGplayer Id": "4851927",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Strict Proctor",
+  "Title": "",
+  "Number": "33",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
  "4852097": {
   "TCGplayer Id": "4852097",
   "Product Line": "Magic",
@@ -29672,6 +30617,54 @@
   "Boxes": {
    "8": {
     "Near Mint": 5
+   },
+   "10": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "4852207": {
+  "TCGplayer Id": "4852207",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Reduce to Memory",
+  "Title": "",
+  "Number": "25",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4852317": {
+  "TCGplayer Id": "4852317",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Hofri Ghostforge",
+  "Title": "",
+  "Number": "192",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4852427": {
+  "TCGplayer Id": "4852427",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Thrilling Discovery",
+  "Title": "",
+  "Number": "243",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -29687,6 +30680,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 8
+   },
+   "10": {
+    "Near Mint": 16
    }
   }
  },
@@ -29702,6 +30698,39 @@
   "Boxes": {
    "8": {
     "Near Mint Foil": 1
+   },
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4852647": {
+  "TCGplayer Id": "4852647",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Curate",
+  "Title": "",
+  "Number": "40",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "4852757": {
+  "TCGplayer Id": "4852757",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Sparring Regimen",
+  "Title": "",
+  "Number": "29",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
    }
   }
  },
@@ -29717,6 +30746,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4852977": {
+  "TCGplayer Id": "4852977",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Magma Opus",
+  "Title": "",
+  "Number": "203",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
    }
   }
  },
@@ -29731,6 +30778,39 @@
   "Condition": "Near Mint",
   "Boxes": {
    "8": {
+    "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4853132": {
+  "TCGplayer Id": "4853132",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Combat Professor",
+  "Title": "",
+  "Number": "11",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4853237": {
+  "TCGplayer Id": "4853237",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Codie, Vociferous Codex",
+  "Title": "",
+  "Number": "253",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
     "Near Mint": 3
    }
   }
@@ -29747,6 +30827,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4853352": {
+  "TCGplayer Id": "4853352",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Relic Sloth",
+  "Title": "",
+  "Number": "223",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -29762,6 +30860,54 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "4854102": {
+  "TCGplayer Id": "4854102",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Flamescroll Celebrant",
+  "Title": "",
+  "Number": "150",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4854212": {
+  "TCGplayer Id": "4854212",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Creative Outburst",
+  "Title": "",
+  "Number": "171",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4854762": {
+  "TCGplayer Id": "4854762",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Velomachus Lorehold (Borderless)",
+  "Title": "",
+  "Number": "283",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -29780,6 +30926,51 @@
    }
   }
  },
+ "4855352": {
+  "TCGplayer Id": "4855352",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Star Pupil",
+  "Title": "",
+  "Number": "30",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4855462": {
+  "TCGplayer Id": "4855462",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Explosive Welcome",
+  "Title": "",
+  "Number": "100",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4855572": {
+  "TCGplayer Id": "4855572",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Fortifying Draught",
+  "Title": "",
+  "Number": "132",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
  "4855682": {
   "TCGplayer Id": "4855682",
   "Product Line": "Magic",
@@ -29791,6 +30982,189 @@
   "Condition": "Near Mint",
   "Boxes": {
    "8": {
+    "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4855687": {
+  "TCGplayer Id": "4855687",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Master Symmetrist",
+  "Title": "",
+  "Number": "138",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4855792": {
+  "TCGplayer Id": "4855792",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Make Your Mark",
+  "Title": "",
+  "Number": "204",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4855797": {
+  "TCGplayer Id": "4855797",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Make Your Mark",
+  "Title": "",
+  "Number": "204",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4855902": {
+  "TCGplayer Id": "4855902",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Rip Apart",
+  "Title": "",
+  "Number": "225",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4856012": {
+  "TCGplayer Id": "4856012",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Solve the Equation",
+  "Title": "",
+  "Number": "54",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4856122": {
+  "TCGplayer Id": "4856122",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mage Hunter",
+  "Title": "",
+  "Number": "76",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4856232": {
+  "TCGplayer Id": "4856232",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Wandering Archaic",
+  "Title": "",
+  "Number": "6",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4856382": {
+  "TCGplayer Id": "4856382",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Stonebinder's Familiar",
+  "Title": "",
+  "Number": "31",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4856492": {
+  "TCGplayer Id": "4856492",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Tanazir Quandrix",
+  "Title": "",
+  "Number": "240",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4856602": {
+  "TCGplayer Id": "4856602",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Tanazir Quandrix (Borderless)",
+  "Title": "",
+  "Number": "284",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4856712": {
+  "TCGplayer Id": "4856712",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Igneous Inspiration",
+  "Title": "",
+  "Number": "107",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4856822": {
+  "TCGplayer Id": "4856822",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Multiple Choice",
+  "Title": "",
+  "Number": "48",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
     "Near Mint": 4
    }
   }
@@ -29807,6 +31181,114 @@
   "Boxes": {
    "8": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4857082": {
+  "TCGplayer Id": "4857082",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Culmination of Studies",
+  "Title": "",
+  "Number": "173",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4857192": {
+  "TCGplayer Id": "4857192",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Sudden Breakthrough",
+  "Title": "",
+  "Number": "116",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4857197": {
+  "TCGplayer Id": "4857197",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Sudden Breakthrough",
+  "Title": "",
+  "Number": "116",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4857302": {
+  "TCGplayer Id": "4857302",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Resculpt",
+  "Title": "",
+  "Number": "51",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4857412": {
+  "TCGplayer Id": "4857412",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Clever Lumimancer",
+  "Title": "",
+  "Number": "10",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4857522": {
+  "TCGplayer Id": "4857522",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Extus, Oriq Overlord",
+  "Title": "",
+  "Number": "149",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4857632": {
+  "TCGplayer Id": "4857632",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Prismari Campus",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
    }
   }
  },
@@ -29822,6 +31304,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 9
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -29852,6 +31337,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 8
+   },
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4857962": {
+  "TCGplayer Id": "4857962",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Practical Research",
+  "Title": "",
+  "Number": "212",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4858072": {
+  "TCGplayer Id": "4858072",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Rootha, Mercurial Artist",
+  "Title": "",
+  "Number": "227",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 8
    }
   }
  },
@@ -29867,6 +31385,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -30023,6 +31544,141 @@
    }
   }
  },
+ "4858592": {
+  "TCGplayer Id": "4858592",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Teachings of the Archaics",
+  "Title": "",
+  "Number": "57",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4858702": {
+  "TCGplayer Id": "4858702",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Kelpie Guide",
+  "Title": "",
+  "Number": "45",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4858707": {
+  "TCGplayer Id": "4858707",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Kelpie Guide",
+  "Title": "",
+  "Number": "45",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4858812": {
+  "TCGplayer Id": "4858812",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Quandrix Campus",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4858922": {
+  "TCGplayer Id": "4858922",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Golden Ratio",
+  "Title": "",
+  "Number": "190",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4859032": {
+  "TCGplayer Id": "4859032",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Hall of Oracles",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4859142": {
+  "TCGplayer Id": "4859142",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Verdant Mastery",
+  "Title": "",
+  "Number": "146",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4859257": {
+  "TCGplayer Id": "4859257",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Tenured Inkcaster",
+  "Title": "",
+  "Number": "88",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4859367": {
+  "TCGplayer Id": "4859367",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Ecological Appreciation",
+  "Title": "",
+  "Number": "128",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4859481": {
   "TCGplayer Id": "4859481",
   "Product Line": "Magic",
@@ -30035,6 +31691,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 6
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4859591": {
+  "TCGplayer Id": "4859591",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Zimone, Quandrix Prodigy",
+  "Title": "",
+  "Number": "250",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4859701": {
+  "TCGplayer Id": "4859701",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Manifestation Sage",
+  "Title": "",
+  "Number": "205",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
    }
   }
  },
@@ -30050,6 +31739,69 @@
   "Boxes": {
    "8": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "4859921": {
+  "TCGplayer Id": "4859921",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Teach by Example",
+  "Title": "",
+  "Number": "241",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "4859926": {
+  "TCGplayer Id": "4859926",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Teach by Example",
+  "Title": "",
+  "Number": "241",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4860031": {
+  "TCGplayer Id": "4860031",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Strixhaven Stadium",
+  "Title": "",
+  "Number": "259",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4860036": {
+  "TCGplayer Id": "4860036",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Strixhaven Stadium",
+  "Title": "",
+  "Number": "259",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -30065,6 +31817,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 5
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4860251": {
+  "TCGplayer Id": "4860251",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Archway Commons",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "4860256": {
+  "TCGplayer Id": "4860256",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Archway Commons",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -30080,6 +31865,144 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4860471": {
+  "TCGplayer Id": "4860471",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Leonin Lightscribe",
+  "Title": "",
+  "Number": "20",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4860691": {
+  "TCGplayer Id": "4860691",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Fervent Mastery",
+  "Title": "",
+  "Number": "101",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4860801": {
+  "TCGplayer Id": "4860801",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Eureka Moment",
+  "Title": "",
+  "Number": "184",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4860911": {
+  "TCGplayer Id": "4860911",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Emergent Sequence",
+  "Title": "",
+  "Number": "129",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4860916": {
+  "TCGplayer Id": "4860916",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Emergent Sequence",
+  "Title": "",
+  "Number": "129",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4861021": {
+  "TCGplayer Id": "4861021",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Accomplished Alchemist",
+  "Title": "",
+  "Number": "119",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4861185": {
+  "TCGplayer Id": "4861185",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Augmenter Pugilist",
+  "Title": "",
+  "Number": "147",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4861915": {
+  "TCGplayer Id": "4861915",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Elemental Expressionist",
+  "Title": "",
+  "Number": "181",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4861920": {
+  "TCGplayer Id": "4861920",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Elemental Expressionist",
+  "Title": "",
+  "Number": "181",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -30095,6 +32018,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "4862135": {
+  "TCGplayer Id": "4862135",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Expressive Iteration",
+  "Title": "",
+  "Number": "186",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4862245": {
+  "TCGplayer Id": "4862245",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Grinning Ignus",
+  "Title": "",
+  "Number": "104",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -30110,6 +32066,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -30128,6 +32087,36 @@
    }
   }
  },
+ "4862465": {
+  "TCGplayer Id": "4862465",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Baleful Mastery",
+  "Title": "",
+  "Number": "64",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4862470": {
+  "TCGplayer Id": "4862470",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Baleful Mastery",
+  "Title": "",
+  "Number": "64",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "4862575": {
   "TCGplayer Id": "4862575",
   "Product Line": "Magic",
@@ -30139,6 +32128,39 @@
   "Condition": "Near Mint",
   "Boxes": {
    "8": {
+    "Near Mint": 6
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4862580": {
+  "TCGplayer Id": "4862580",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Crushing Disappointment",
+  "Title": "",
+  "Number": "68",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4862685": {
+  "TCGplayer Id": "4862685",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Eyetwitch",
+  "Title": "",
+  "Number": "70",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
     "Near Mint": 6
    }
   }
@@ -30155,6 +32177,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4862905": {
+  "TCGplayer Id": "4862905",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Galazeth Prismari",
+  "Title": "",
+  "Number": "189",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -30170,6 +32210,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 9
+   },
+   "10": {
+    "Near Mint": 16
    }
   }
  },
@@ -30200,6 +32243,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4864245": {
+  "TCGplayer Id": "4864245",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Access Tunnel",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -30215,6 +32276,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -30230,6 +32294,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -30245,6 +32312,54 @@
   "Boxes": {
    "8": {
     "Near Mint Foil": 2
+   },
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4864575": {
+  "TCGplayer Id": "4864575",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Expel",
+  "Title": "",
+  "Number": "18",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4864685": {
+  "TCGplayer Id": "4864685",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Show of Confidence",
+  "Title": "",
+  "Number": "28",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4864795": {
+  "TCGplayer Id": "4864795",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Serpentine Curve",
+  "Title": "",
+  "Number": "52",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
    }
   }
  },
@@ -30260,6 +32375,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 12
+   },
+   "10": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "4865015": {
+  "TCGplayer Id": "4865015",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Academic Dispute",
+  "Title": "",
+  "Number": "91",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4865020": {
+  "TCGplayer Id": "4865020",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Academic Dispute",
+  "Title": "",
+  "Number": "91",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -30275,6 +32423,54 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4865235": {
+  "TCGplayer Id": "4865235",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Conspiracy Theorist",
+  "Title": "",
+  "Number": "94",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4865345": {
+  "TCGplayer Id": "4865345",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Dragon's Approach",
+  "Title": "",
+  "Number": "97",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4865350": {
+  "TCGplayer Id": "4865350",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Dragon's Approach",
+  "Title": "",
+  "Number": "97",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -30290,6 +32486,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 6
    }
   }
  },
@@ -30305,6 +32504,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4865675": {
+  "TCGplayer Id": "4865675",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Draconic Intervention",
+  "Title": "",
+  "Number": "96",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -30320,6 +32537,84 @@
   "Boxes": {
    "8": {
     "Near Mint": 1
+   },
+   "10": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "4865895": {
+  "TCGplayer Id": "4865895",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Crackle with Power",
+  "Title": "",
+  "Number": "95",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4866005": {
+  "TCGplayer Id": "4866005",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Charge Through",
+  "Title": "",
+  "Number": "124",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "4866010": {
+  "TCGplayer Id": "4866010",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Charge Through",
+  "Title": "",
+  "Number": "124",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4866115": {
+  "TCGplayer Id": "4866115",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Double Major",
+  "Title": "",
+  "Number": "179",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4866225": {
+  "TCGplayer Id": "4866225",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Quandrix Cultivator",
+  "Title": "",
+  "Number": "218",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 7
    }
   }
  },
@@ -30335,6 +32630,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -30365,6 +32663,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -30395,6 +32696,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 8
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -30425,6 +32729,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 1
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4866780": {
+  "TCGplayer Id": "4866780",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Closing Statement",
+  "Title": "",
+  "Number": "169",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -30440,6 +32762,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 8
+   },
+   "10": {
+    "Near Mint": 16
    }
   }
  },
@@ -30455,6 +32780,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 8
    }
   }
  },
@@ -30473,6 +32801,51 @@
    }
   }
  },
+ "4867110": {
+  "TCGplayer Id": "4867110",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Detention Vortex",
+  "Title": "",
+  "Number": "13",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4867220": {
+  "TCGplayer Id": "4867220",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mentor's Guidance",
+  "Title": "",
+  "Number": "46",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4867330": {
+  "TCGplayer Id": "4867330",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Bookwurm",
+  "Title": "",
+  "Number": "123",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
  "4867445": {
   "TCGplayer Id": "4867445",
   "Product Line": "Magic",
@@ -30485,6 +32858,84 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4867555": {
+  "TCGplayer Id": "4867555",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Letter of Acceptance",
+  "Title": "",
+  "Number": "256",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4867665": {
+  "TCGplayer Id": "4867665",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Team Pennant",
+  "Title": "",
+  "Number": "260",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4867775": {
+  "TCGplayer Id": "4867775",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Secret Rendezvous",
+  "Title": "",
+  "Number": "26",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4867780": {
+  "TCGplayer Id": "4867780",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Secret Rendezvous",
+  "Title": "",
+  "Number": "26",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4867885": {
+  "TCGplayer Id": "4867885",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Devastating Mastery",
+  "Title": "",
+  "Number": "14",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
    }
   }
  },
@@ -30500,6 +32951,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -30515,6 +32969,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -30530,6 +32987,54 @@
   "Boxes": {
    "8": {
     "Near Mint": 9
+   },
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4868330": {
+  "TCGplayer Id": "4868330",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Fractal Summoning",
+  "Title": "",
+  "Number": "187",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4868443": {
+  "TCGplayer Id": "4868443",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mascot Exhibition",
+  "Title": "",
+  "Number": "5",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4868613": {
+  "TCGplayer Id": "4868613",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Body of Research",
+  "Title": "",
+  "Number": "168",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -30545,6 +33050,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 18
    }
   }
  },
@@ -30575,6 +33083,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 6
+   },
+   "10": {
+    "Near Mint": 20
    }
   }
  },
@@ -30593,6 +33104,141 @@
    }
   }
  },
+ "4869053": {
+  "TCGplayer Id": "4869053",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Decisive Denial",
+  "Title": "",
+  "Number": "177",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4869058": {
+  "TCGplayer Id": "4869058",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Decisive Denial",
+  "Title": "",
+  "Number": "177",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4869263": {
+  "TCGplayer Id": "4869263",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Necrotic Fumes",
+  "Title": "",
+  "Number": "78",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "4869373": {
+  "TCGplayer Id": "4869373",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Basic Conjuration",
+  "Title": "",
+  "Number": "120",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4869593": {
+  "TCGplayer Id": "4869593",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Symmetry Sage",
+  "Title": "",
+  "Number": "56",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4869703": {
+  "TCGplayer Id": "4869703",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Vanishing Verse",
+  "Title": "",
+  "Number": "244",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4869923": {
+  "TCGplayer Id": "4869923",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Dream Strix",
+  "Title": "",
+  "Number": "42",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4870033": {
+  "TCGplayer Id": "4870033",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Test of Talents",
+  "Title": "",
+  "Number": "59",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4870038": {
+  "TCGplayer Id": "4870038",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Test of Talents",
+  "Title": "",
+  "Number": "59",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "4870145": {
   "TCGplayer Id": "4870145",
   "Product Line": "Magic",
@@ -30605,6 +33251,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 1
+   },
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4870258": {
+  "TCGplayer Id": "4870258",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mercurial Transformation",
+  "Title": "",
+  "Number": "47",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 10
    }
   }
  },
@@ -30620,6 +33284,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -30635,6 +33302,54 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4870483": {
+  "TCGplayer Id": "4870483",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Reflective Golem",
+  "Title": "",
+  "Number": "257",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4870688": {
+  "TCGplayer Id": "4870688",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Exponential Growth",
+  "Title": "",
+  "Number": "130",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4870908": {
+  "TCGplayer Id": "4870908",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Silverquill Silencer",
+  "Title": "",
+  "Number": "234",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
    }
   }
  },
@@ -30650,6 +33365,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 5
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -30680,6 +33398,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4871133": {
+  "TCGplayer Id": "4871133",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Promising Duskmage",
+  "Title": "",
+  "Number": "85",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -30695,6 +33431,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 5
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -30710,6 +33449,54 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "4871353": {
+  "TCGplayer Id": "4871353",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Brackish Trudge",
+  "Title": "",
+  "Number": "65",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4871458": {
+  "TCGplayer Id": "4871458",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Tend the Pests",
+  "Title": "",
+  "Number": "242",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4871568": {
+  "TCGplayer Id": "4871568",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pillardrop Warden",
+  "Title": "",
+  "Number": "112",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -30725,6 +33512,39 @@
   "Boxes": {
    "8": {
     "Near Mint Foil": 1
+   },
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4871678": {
+  "TCGplayer Id": "4871678",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Tempted by the Oriq",
+  "Title": "",
+  "Number": "58",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4871788": {
+  "TCGplayer Id": "4871788",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Overgrown Arch",
+  "Title": "",
+  "Number": "139",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 9
    }
   }
  },
@@ -30755,6 +33575,129 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4871903": {
+  "TCGplayer Id": "4871903",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Spined Karok",
+  "Title": "",
+  "Number": "143",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4872008": {
+  "TCGplayer Id": "4872008",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Daemogoth Titan",
+  "Title": "",
+  "Number": "174",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4872118": {
+  "TCGplayer Id": "4872118",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Containment Breach",
+  "Title": "",
+  "Number": "125",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4872228": {
+  "TCGplayer Id": "4872228",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Honor Troll",
+  "Title": "",
+  "Number": "134",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4872233": {
+  "TCGplayer Id": "4872233",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Honor Troll",
+  "Title": "",
+  "Number": "134",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4872338": {
+  "TCGplayer Id": "4872338",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Hunt for Specimens",
+  "Title": "",
+  "Number": "73",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4872343": {
+  "TCGplayer Id": "4872343",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Hunt for Specimens",
+  "Title": "",
+  "Number": "73",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4872448": {
+  "TCGplayer Id": "4872448",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Jadzi, Oracle of Arcavios",
+  "Title": "",
+  "Number": "151",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -30770,6 +33713,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 15
    }
   }
  },
@@ -30785,6 +33731,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4872733": {
+  "TCGplayer Id": "4872733",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Leech Fanatic",
+  "Title": "",
+  "Number": "75",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4872838": {
+  "TCGplayer Id": "4872838",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Witherbloom Campus",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 14
    }
   }
  },
@@ -30800,6 +33779,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -30815,6 +33797,144 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "4873063": {
+  "TCGplayer Id": "4873063",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Witherbloom Pledgemage",
+  "Title": "",
+  "Number": "249",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4873168": {
+  "TCGplayer Id": "4873168",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Dina, Soul Steeper",
+  "Title": "",
+  "Number": "178",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4873278": {
+  "TCGplayer Id": "4873278",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Sedgemoor Witch",
+  "Title": "",
+  "Number": "86",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4873388": {
+  "TCGplayer Id": "4873388",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Scurrid Colony",
+  "Title": "",
+  "Number": "142",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "4873498": {
+  "TCGplayer Id": "4873498",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Harness Infinity",
+  "Title": "",
+  "Number": "191",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4873608": {
+  "TCGplayer Id": "4873608",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Beledros Witherbloom",
+  "Title": "",
+  "Number": "163",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4873938": {
+  "TCGplayer Id": "4873938",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Professor's Warning",
+  "Title": "",
+  "Number": "84",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "4874048": {
+  "TCGplayer Id": "4874048",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Unwilling Ingredient",
+  "Title": "",
+  "Number": "90",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4874158": {
+  "TCGplayer Id": "4874158",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Blex, Vexing Pest",
+  "Title": "",
+  "Number": "148",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
    }
   }
  },
@@ -30830,6 +33950,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 8
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -30848,6 +33971,96 @@
    }
   }
  },
+ "4874438": {
+  "TCGplayer Id": "4874438",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Infuse with Vitality",
+  "Title": "",
+  "Number": "194",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4874548": {
+  "TCGplayer Id": "4874548",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Excavated Wall",
+  "Title": "",
+  "Number": "255",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4874658": {
+  "TCGplayer Id": "4874658",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Poet's Quill",
+  "Title": "",
+  "Number": "82",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4874768": {
+  "TCGplayer Id": "4874768",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Zephyr Boots",
+  "Title": "",
+  "Number": "261",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4874938": {
+  "TCGplayer Id": "4874938",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Callous Bloodmage",
+  "Title": "",
+  "Number": "66",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4874943": {
+  "TCGplayer Id": "4874943",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Callous Bloodmage",
+  "Title": "",
+  "Number": "66",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "4875048": {
   "TCGplayer Id": "4875048",
   "Product Line": "Magic",
@@ -30860,6 +34073,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -30874,6 +34090,9 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "8": {
+    "Near Mint Foil": 1
+   },
+   "10": {
     "Near Mint Foil": 1
    }
   }
@@ -30890,6 +34109,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 5
+   },
+   "10": {
+    "Near Mint": 14
    }
   }
  },
@@ -30920,6 +34142,144 @@
   "Boxes": {
    "8": {
     "Near Mint": 6
+   },
+   "10": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "4875378": {
+  "TCGplayer Id": "4875378",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mortality Spear",
+  "Title": "",
+  "Number": "207",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4875488": {
+  "TCGplayer Id": "4875488",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Bayou Groff",
+  "Title": "",
+  "Number": "121",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "4875598": {
+  "TCGplayer Id": "4875598",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "The Biblioplex",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4875708": {
+  "TCGplayer Id": "4875708",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Silverquill Campus",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4875818": {
+  "TCGplayer Id": "4875818",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Big Play",
+  "Title": "",
+  "Number": "122",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4875928": {
+  "TCGplayer Id": "4875928",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Devouring Tendrils",
+  "Title": "",
+  "Number": "126",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4876038": {
+  "TCGplayer Id": "4876038",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Divide by Zero",
+  "Title": "",
+  "Number": "41",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4876043": {
+  "TCGplayer Id": "4876043",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Divide by Zero",
+  "Title": "",
+  "Number": "41",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4876148": {
+  "TCGplayer Id": "4876148",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mavinda, Students' Advocate",
+  "Title": "",
+  "Number": "21",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
    }
   }
  },
@@ -30935,6 +34295,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4876368": {
+  "TCGplayer Id": "4876368",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Gnarled Professor",
+  "Title": "",
+  "Number": "133",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -30950,6 +34328,54 @@
   "Boxes": {
    "8": {
     "Near Mint": 1
+   },
+   "10": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "4876588": {
+  "TCGplayer Id": "4876588",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Snow Day",
+  "Title": "",
+  "Number": "53",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4876698": {
+  "TCGplayer Id": "4876698",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Spell Satchel",
+  "Title": "",
+  "Number": "258",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "4876808": {
+  "TCGplayer Id": "4876808",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Flunk",
+  "Title": "",
+  "Number": "71",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -30965,6 +34391,24 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "4876923": {
+  "TCGplayer Id": "4876923",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Tangletrap",
+  "Title": "",
+  "Number": "145",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -30980,6 +34424,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -30994,6 +34441,9 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "8": {
+    "Near Mint Foil": 1
+   },
+   "10": {
     "Near Mint Foil": 1
    }
   }
@@ -31010,6 +34460,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 11
+   },
+   "10": {
+    "Near Mint": 17
    }
   }
  },
@@ -31028,6 +34481,21 @@
    }
   }
  },
+ "4877248": {
+  "TCGplayer Id": "4877248",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Retriever Phoenix",
+  "Title": "",
+  "Number": "113",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
  "4877358": {
   "TCGplayer Id": "4877358",
   "Product Line": "Magic",
@@ -31040,6 +34508,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 10
+   },
+   "10": {
+    "Near Mint": 13
    }
   }
  },
@@ -31055,6 +34526,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 3
+   },
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -31085,6 +34559,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 2
+   },
+   "10": {
+    "Near Mint": 19
    }
   }
  },
@@ -31103,6 +34580,51 @@
    }
   }
  },
+ "4877688": {
+  "TCGplayer Id": "4877688",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Oriq Loremage",
+  "Title": "",
+  "Number": "80",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4877798": {
+  "TCGplayer Id": "4877798",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Blood Researcher",
+  "Title": "",
+  "Number": "166",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 14
+   }
+  }
+ },
+ "4877908": {
+  "TCGplayer Id": "4877908",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Plumb the Forbidden",
+  "Title": "",
+  "Number": "81",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
  "4878018": {
   "TCGplayer Id": "4878018",
   "Product Line": "Magic",
@@ -31115,6 +34637,144 @@
   "Boxes": {
    "8": {
     "Near Mint": 6
+   },
+   "10": {
+    "Near Mint": 19
+   }
+  }
+ },
+ "4878128": {
+  "TCGplayer Id": "4878128",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Blot Out the Sky",
+  "Title": "",
+  "Number": "167",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4878238": {
+  "TCGplayer Id": "4878238",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Cram Session",
+  "Title": "",
+  "Number": "170",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4878243": {
+  "TCGplayer Id": "4878243",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Cram Session",
+  "Title": "",
+  "Number": "170",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4878428": {
+  "TCGplayer Id": "4878428",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Culling Ritual",
+  "Title": "",
+  "Number": "172",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4878538": {
+  "TCGplayer Id": "4878538",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Ingenious Mastery",
+  "Title": "",
+  "Number": "44",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4878648": {
+  "TCGplayer Id": "4878648",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Daemogoth Woe-Eater",
+  "Title": "",
+  "Number": "175",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4878758": {
+  "TCGplayer Id": "4878758",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Deadly Brew",
+  "Title": "",
+  "Number": "176",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4878868": {
+  "TCGplayer Id": "4878868",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Dramatic Finale",
+  "Title": "",
+  "Number": "180",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4878873": {
+  "TCGplayer Id": "4878873",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Dramatic Finale",
+  "Title": "",
+  "Number": "180",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -31130,6 +34790,69 @@
   "Boxes": {
    "8": {
     "Near Mint": 9
+   },
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4879088": {
+  "TCGplayer Id": "4879088",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Fracture",
+  "Title": "",
+  "Number": "188",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4879198": {
+  "TCGplayer Id": "4879198",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Humiliate",
+  "Title": "",
+  "Number": "193",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4879308": {
+  "TCGplayer Id": "4879308",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Killian, Ink Duelist",
+  "Title": "",
+  "Number": "197",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4879313": {
+  "TCGplayer Id": "4879313",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Killian, Ink Duelist",
+  "Title": "",
+  "Number": "197",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -31145,6 +34868,39 @@
   "Boxes": {
    "8": {
     "Near Mint": 7
+   },
+   "10": {
+    "Near Mint": 15
+   }
+  }
+ },
+ "4879423": {
+  "TCGplayer Id": "4879423",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Moldering Karok",
+  "Title": "",
+  "Number": "206",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "10": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4879528": {
+  "TCGplayer Id": "4879528",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Rushed Rebirth",
+  "Title": "",
+  "Number": "228",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
    }
   }
  },
@@ -31160,6 +34916,9 @@
   "Boxes": {
    "8": {
     "Near Mint": 1
+   },
+   "10": {
+    "Near Mint": 5
    }
   }
  },
@@ -31175,6 +34934,54 @@
   "Boxes": {
    "8": {
     "Near Mint": 4
+   },
+   "10": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "4879978": {
+  "TCGplayer Id": "4879978",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Selfless Glyphweaver",
+  "Title": "",
+  "Number": "157",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4880198": {
+  "TCGplayer Id": "4880198",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Mila, Crafty Companion (Borderless)",
+  "Title": "",
+  "Number": "277",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4880708": {
+  "TCGplayer Id": "4880708",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pestilent Cauldron",
+  "Title": "",
+  "Number": "154",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
    }
   }
  },
@@ -31508,6 +35315,81 @@
    }
   }
  },
+ "4899089": {
+  "TCGplayer Id": "4899089",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Elemental Token",
+  "Title": "",
+  "Number": "2",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 21
+   }
+  }
+ },
+ "4899149": {
+  "TCGplayer Id": "4899149",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Fractal Token",
+  "Title": "",
+  "Number": "3",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 16
+   }
+  }
+ },
+ "4899209": {
+  "TCGplayer Id": "4899209",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Inkling Token",
+  "Title": "",
+  "Number": "4",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 18
+   }
+  }
+ },
+ "4899264": {
+  "TCGplayer Id": "4899264",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Pest Token",
+  "Title": "",
+  "Number": "5",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 20
+   }
+  }
+ },
+ "4899324": {
+  "TCGplayer Id": "4899324",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Spirit Token",
+  "Title": "",
+  "Number": "6",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 22
+   }
+  }
+ },
  "4901220": {
   "TCGplayer Id": "4901220",
   "Product Line": "Magic",
@@ -31549,6 +35431,66 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4913554": {
+  "TCGplayer Id": "4913554",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Treasure Token",
+  "Title": "",
+  "Number": "7",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 17
+   }
+  }
+ },
+ "4913649": {
+  "TCGplayer Id": "4913649",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Emblem - Lukka, Wayward Bonder",
+  "Title": "",
+  "Number": "8",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4913719": {
+  "TCGplayer Id": "4913719",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Emblem - Rowan, Scholar of Sparks",
+  "Title": "",
+  "Number": "9",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4913799": {
+  "TCGplayer Id": "4913799",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Avatar Token",
+  "Title": "",
+  "Number": "1",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
     "Near Mint": 1
    }
   }
@@ -31610,6 +35552,141 @@
   "Boxes": {
    "1": {
     "Near Mint Foil": 1
+   }
+  }
+ },
+ "4927065": {
+  "TCGplayer Id": "4927065",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Helper Card - 1/9",
+  "Title": "",
+  "Number": "1",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4927070": {
+  "TCGplayer Id": "4927070",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Helper Card - 2/9",
+  "Title": "",
+  "Number": "2",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4927075": {
+  "TCGplayer Id": "4927075",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Helper Card - 3/9",
+  "Title": "",
+  "Number": "3",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4927080": {
+  "TCGplayer Id": "4927080",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Helper Card - 4/9",
+  "Title": "",
+  "Number": "4",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4927085": {
+  "TCGplayer Id": "4927085",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Helper Card - 5/9",
+  "Title": "",
+  "Number": "5",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "4927090": {
+  "TCGplayer Id": "4927090",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Helper Card - 6/9",
+  "Title": "",
+  "Number": "6",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4927095": {
+  "TCGplayer Id": "4927095",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Helper Card - 7/9",
+  "Title": "",
+  "Number": "7",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4927100": {
+  "TCGplayer Id": "4927100",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Helper Card - 8/9",
+  "Title": "",
+  "Number": "8",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4927106": {
+  "TCGplayer Id": "4927106",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Helper Card - 9/9",
+  "Title": "",
+  "Number": "9",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "10": {
+    "Near Mint": 4
    }
   }
  },
