@@ -125,8 +125,20 @@ function writePullSheetCSV(pullData) {
     const boxes = Object.keys(pullData);
     boxes.forEach((boxNumber) => {
         const cardIds = Object.keys(pullData[boxNumber]);
+        let unsortedData = [];
         cardIds.forEach((cid) => {
             cardData = pullData[boxNumber][cid];
+            unsortedData.push(cardData);
+        });
+        const sortedData = unsortedData.sort((a,b) => {
+            if(a['set'].localeCompare(b['set']) !== 0){
+                return a['set'].localeCompare(b['set']);
+            }
+            var textA = a['name'].toUpperCase();
+            var textB = b['name'].toUpperCase();
+            return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+        });
+        sortedData.forEach((cardData) => {
             csvLines.push(`${boxNumber},"${cardData['name']}",${cardData['quantity']},"${cardData['condition']}","${cardData['set']}","${cardData['number']}"`);
         });
     });
