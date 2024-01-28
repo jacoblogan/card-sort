@@ -55533,6 +55533,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 3
+   },
    "9": {
     "Near Mint": 0
    }
@@ -55548,6 +55551,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 6
+   },
    "9": {
     "Near Mint": 0
    }
@@ -55593,6 +55599,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 6
+   },
    "9": {
     "Near Mint": 0
    }
@@ -55623,8 +55632,26 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 3
+   },
    "9": {
     "Near Mint": 0
+   }
+  }
+ },
+ "5466463": {
+  "TCGplayer Id": "5466463",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Swamp (276)",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -55653,6 +55680,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 3
+   },
    "9": {
     "Near Mint": 0
    }
@@ -55668,8 +55698,26 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 3
+   },
    "9": {
     "Near Mint": 0
+   }
+  }
+ },
+ "5467130": {
+  "TCGplayer Id": "5467130",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Spara's Headquarters (Showcase)",
+  "Title": "",
+  "Number": "355",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
    }
   }
  },
@@ -55684,6 +55732,9 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "5": {
+    "Near Mint Foil": 1
+   },
+   "8": {
     "Near Mint Foil": 1
    }
   }
@@ -55700,6 +55751,9 @@
   "Boxes": {
    "5": {
     "Near Mint": 5
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -55715,6 +55769,9 @@
   "Boxes": {
    "5": {
     "Near Mint": 20
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -55763,6 +55820,51 @@
    }
   }
  },
+ "5485804": {
+  "TCGplayer Id": "5485804",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Brokers Charm",
+  "Title": "",
+  "Number": "171",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5486283": {
+  "TCGplayer Id": "5486283",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Rumor Gatherer",
+  "Title": "",
+  "Number": "29",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5486393": {
+  "TCGplayer Id": "5486393",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "An Offer You Can't Refuse",
+  "Title": "",
+  "Number": "51",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5487613": {
   "TCGplayer Id": "5487613",
   "Product Line": "Magic",
@@ -55790,6 +55892,51 @@
   "Boxes": {
    "5": {
     "Near Mint": 1
+   }
+  }
+ },
+ "5489442": {
+  "TCGplayer Id": "5489442",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Kamiz, Obscura Oculus",
+  "Title": "",
+  "Number": "3",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5489597": {
+  "TCGplayer Id": "5489597",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Kitt Kanto, Mayhem Diva",
+  "Title": "",
+  "Number": "4",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5489647": {
+  "TCGplayer Id": "5489647",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Perrie, the Pulverizer",
+  "Title": "",
+  "Number": "5",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 3
    }
   }
  },
@@ -55913,6 +56060,36 @@
    }
   }
  },
+ "5490469": {
+  "TCGplayer Id": "5490469",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Ledger Shredder (Extended Art)",
+  "Title": "",
+  "Number": "412",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5490954": {
+  "TCGplayer Id": "5490954",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Mysterious Limousine (Extended Art)",
+  "Title": "",
+  "Number": "408",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
  "5491074": {
   "TCGplayer Id": "5491074",
   "Product Line": "Magic",
@@ -55953,6 +56130,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 15
+   },
    "9": {
     "Near Mint": 186
    }
@@ -55983,6 +56163,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 18
+   },
    "9": {
     "Near Mint": 241
    }
@@ -56013,6 +56196,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 12
+   },
    "9": {
     "Near Mint": 152
    }
@@ -56043,6 +56229,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 12
+   },
    "9": {
     "Near Mint": 118
    }
@@ -56073,6 +56262,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 6
+   },
    "9": {
     "Near Mint": 101
    }
@@ -56103,6 +56295,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 9
+   },
    "9": {
     "Near Mint": 106
    }
@@ -56133,6 +56328,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 3
+   },
    "9": {
     "Near Mint": 136
    }
@@ -56163,6 +56361,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 6
+   },
    "9": {
     "Near Mint": 190
    }
@@ -56193,6 +56394,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 15
+   },
    "9": {
     "Near Mint": 295
    }
@@ -56223,6 +56427,9 @@
   "Rarity": "L",
   "Condition": "Near Mint",
   "Boxes": {
+   "8": {
+    "Near Mint": 18
+   },
    "9": {
     "Near Mint": 364
    }
@@ -56299,6 +56506,24 @@
   "Condition": "Near Mint",
   "Boxes": {
    "5": {
+    "Near Mint": 1
+   },
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5499811": {
+  "TCGplayer Id": "5499811",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Errant, Street Artist (Showcase)",
+  "Title": "",
+  "Number": "344",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
     "Near Mint": 1
    }
   }
@@ -56405,6 +56630,9 @@
   "Boxes": {
    "5": {
     "Near Mint": 22
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -56495,6 +56723,9 @@
   "Boxes": {
    "5": {
     "Near Mint Foil": 2
+   },
+   "8": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -56509,6 +56740,36 @@
   "Condition": "Near Mint",
   "Boxes": {
    "5": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5506624": {
+  "TCGplayer Id": "5506624",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Cabaretti Courtyard",
+  "Title": "",
+  "Number": "249",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5506734": {
+  "TCGplayer Id": "5506734",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Obscura Storefront",
+  "Title": "",
+  "Number": "252",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
     "Near Mint": 3
    }
   }
@@ -56540,6 +56801,9 @@
   "Boxes": {
    "5": {
     "Near Mint": 25
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -56615,6 +56879,21 @@
   "Boxes": {
    "5": {
     "Near Mint Foil": 2
+   }
+  }
+ },
+ "5512742": {
+  "TCGplayer Id": "5512742",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Mr. Orfeo, the Boulder (Showcase)",
+  "Title": "",
+  "Number": "320",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -56738,6 +57017,21 @@
    }
   }
  },
+ "5516767": {
+  "TCGplayer Id": "5516767",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Tenacious Underdog (Showcase)",
+  "Title": "",
+  "Number": "345",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
  "5516997": {
   "TCGplayer Id": "5516997",
   "Product Line": "Magic",
@@ -56780,6 +57074,9 @@
   "Boxes": {
    "5": {
     "Near Mint": 3
+   },
+   "8": {
+    "Near Mint": 2
    }
   }
  },
@@ -56798,6 +57095,66 @@
    }
   }
  },
+ "5518032": {
+  "TCGplayer Id": "5518032",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Masked Bandits (Showcase)",
+  "Title": "",
+  "Number": "319",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "5518617": {
+  "TCGplayer Id": "5518617",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Corpse Explosion (Extended Art)",
+  "Title": "",
+  "Number": "435",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5519072": {
+  "TCGplayer Id": "5519072",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Bennie Bracks, Zoologist (Extended Art)",
+  "Title": "",
+  "Number": "94",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5519373": {
+  "TCGplayer Id": "5519373",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Undercover Operative (Extended Art)",
+  "Title": "",
+  "Number": "414",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
  "5519918": {
   "TCGplayer Id": "5519918",
   "Product Line": "Magic",
@@ -56809,6 +57166,9 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "5": {
+    "Near Mint Foil": 2
+   },
+   "8": {
     "Near Mint Foil": 2
    }
   }
@@ -57143,6 +57503,21 @@
    }
   }
  },
+ "5526703": {
+  "TCGplayer Id": "5526703",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Brokers Hideout",
+  "Title": "",
+  "Number": "248",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5528053": {
   "TCGplayer Id": "5528053",
   "Product Line": "Magic",
@@ -57443,6 +57818,21 @@
    }
   }
  },
+ "5536313": {
+  "TCGplayer Id": "5536313",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Arcane Signet",
+  "Title": "",
+  "Number": "360",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
  "5536363": {
   "TCGplayer Id": "5536363",
   "Product Line": "Magic",
@@ -57455,6 +57845,39 @@
   "Boxes": {
    "1": {
     "Near Mint": 25
+   },
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5536413": {
+  "TCGplayer Id": "5536413",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Dimir Signet",
+  "Title": "",
+  "Number": "365",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5536463": {
+  "TCGplayer Id": "5536463",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Fellwar Stone",
+  "Title": "",
+  "Number": "367",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
    }
   }
  },
@@ -57473,6 +57896,36 @@
    }
   }
  },
+ "5536663": {
+  "TCGplayer Id": "5536663",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Sol Ring",
+  "Title": "",
+  "Number": "379",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5536713": {
+  "TCGplayer Id": "5536713",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Wayfarer's Bauble",
+  "Title": "",
+  "Number": "384",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5536763": {
   "TCGplayer Id": "5536763",
   "Product Line": "Magic",
@@ -57485,6 +57938,39 @@
   "Boxes": {
    "1": {
     "Near Mint": 37
+   },
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5536813": {
+  "TCGplayer Id": "5536813",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Command Tower",
+  "Title": "",
+  "Number": "395",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "5536963": {
+  "TCGplayer Id": "5536963",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Myriad Landscape",
+  "Title": "",
+  "Number": "416",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 9
    }
   }
  },
@@ -57500,6 +57986,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 21
+   },
+   "8": {
+    "Near Mint": 9
    }
   }
  },
@@ -57515,6 +58004,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 14
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537113": {
+  "TCGplayer Id": "5537113",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Thriving Isle",
+  "Title": "",
+  "Number": "441",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57530,6 +58037,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 4
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537213": {
+  "TCGplayer Id": "5537213",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Ajani Unyielding",
+  "Title": "",
+  "Number": "324",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57545,6 +58070,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 7
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537313": {
+  "TCGplayer Id": "5537313",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Together Forever",
+  "Title": "",
+  "Number": "212",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57560,6 +58103,114 @@
   "Boxes": {
    "1": {
     "Near Mint": 6
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537413": {
+  "TCGplayer Id": "5537413",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Everflowing Chalice",
+  "Title": "",
+  "Number": "366",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537463": {
+  "TCGplayer Id": "5537463",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Power Conduit",
+  "Title": "",
+  "Number": "376",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537513": {
+  "TCGplayer Id": "5537513",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Swiftfoot Boots",
+  "Title": "",
+  "Number": "382",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5537563": {
+  "TCGplayer Id": "5537563",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Midnight Clock",
+  "Title": "",
+  "Number": "226",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537613": {
+  "TCGplayer Id": "5537613",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Oblivion Stone",
+  "Title": "",
+  "Number": "373",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537663": {
+  "TCGplayer Id": "5537663",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Oracle's Vault",
+  "Title": "",
+  "Number": "374",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537713": {
+  "TCGplayer Id": "5537713",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Declaration in Stone",
+  "Title": "",
+  "Number": "196",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57575,6 +58226,39 @@
   "Boxes": {
    "1": {
     "Near Mint": 9
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537913": {
+  "TCGplayer Id": "5537913",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Generous Gift",
+  "Title": "",
+  "Number": "201",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5537963": {
+  "TCGplayer Id": "5537963",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Tezzeret's Gambit",
+  "Title": "",
+  "Number": "235",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57590,6 +58274,129 @@
   "Boxes": {
    "1": {
     "Near Mint": 9
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538063": {
+  "TCGplayer Id": "5538063",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Urban Evolution",
+  "Title": "",
+  "Number": "355",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538113": {
+  "TCGplayer Id": "5538113",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Rishkar's Expertise",
+  "Title": "",
+  "Number": "306",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538163": {
+  "TCGplayer Id": "5538163",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Bant Panorama",
+  "Title": "",
+  "Number": "387",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538263": {
+  "TCGplayer Id": "5538263",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Canopy Vista",
+  "Title": "",
+  "Number": "389",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5538313": {
+  "TCGplayer Id": "5538313",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Exotic Orchard",
+  "Title": "",
+  "Number": "400",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538363": {
+  "TCGplayer Id": "5538363",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Flooded Grove",
+  "Title": "",
+  "Number": "402",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538463": {
+  "TCGplayer Id": "5538463",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Fortified Village",
+  "Title": "",
+  "Number": "404",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5538513": {
+  "TCGplayer Id": "5538513",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Gavony Township",
+  "Title": "",
+  "Number": "406",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57605,6 +58412,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 0
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57620,6 +58430,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 16
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538713": {
+  "TCGplayer Id": "5538713",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Llanowar Reborn",
+  "Title": "",
+  "Number": "413",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57638,6 +58466,126 @@
    }
   }
  },
+ "5538818": {
+  "TCGplayer Id": "5538818",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Choked Estuary",
+  "Title": "",
+  "Number": "393",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538868": {
+  "TCGplayer Id": "5538868",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Nesting Grounds",
+  "Title": "",
+  "Number": "418",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5538918": {
+  "TCGplayer Id": "5538918",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Darkwater Catacombs",
+  "Title": "",
+  "Number": "398",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539068": {
+  "TCGplayer Id": "5539068",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Port Town",
+  "Title": "",
+  "Number": "420",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5539168": {
+  "TCGplayer Id": "5539168",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Prairie Stream",
+  "Title": "",
+  "Number": "421",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5539218": {
+  "TCGplayer Id": "5539218",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Seaside Citadel",
+  "Title": "",
+  "Number": "425",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539318": {
+  "TCGplayer Id": "5539318",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Sunken Hollow",
+  "Title": "",
+  "Number": "431",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539418": {
+  "TCGplayer Id": "5539418",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Devoted Druid",
+  "Title": "",
+  "Number": "286",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5539488": {
   "TCGplayer Id": "5539488",
   "Product Line": "Magic",
@@ -57650,6 +58598,114 @@
   "Boxes": {
    "1": {
     "Near Mint": 8
+   },
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5539538": {
+  "TCGplayer Id": "5539538",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Grateful Apparition",
+  "Title": "",
+  "Number": "202",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539598": {
+  "TCGplayer Id": "5539598",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Temple of Mystery",
+  "Title": "",
+  "Number": "434",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539653": {
+  "TCGplayer Id": "5539653",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Incubation Druid",
+  "Title": "",
+  "Number": "296",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539713": {
+  "TCGplayer Id": "5539713",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Luminarch Aspirant",
+  "Title": "",
+  "Number": "205",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539763": {
+  "TCGplayer Id": "5539763",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Vivid Creek",
+  "Title": "",
+  "Number": "444",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539818": {
+  "TCGplayer Id": "5539818",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Scavenging Ooze",
+  "Title": "",
+  "Number": "309",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539868": {
+  "TCGplayer Id": "5539868",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Vivid Grove",
+  "Title": "",
+  "Number": "445",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57665,6 +58721,69 @@
   "Boxes": {
    "1": {
     "Near Mint": 23
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5539968": {
+  "TCGplayer Id": "5539968",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Vivid Meadow",
+  "Title": "",
+  "Number": "446",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540018": {
+  "TCGplayer Id": "5540018",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Steelbane Hydra",
+  "Title": "",
+  "Number": "313",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540068": {
+  "TCGplayer Id": "5540068",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Thrummingbird",
+  "Title": "",
+  "Number": "236",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540118": {
+  "TCGplayer Id": "5540118",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Wall of Roots",
+  "Title": "",
+  "Number": "319",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57680,6 +58799,114 @@
   "Boxes": {
    "1": {
     "Near Mint": 8
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540218": {
+  "TCGplayer Id": "5540218",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Crystalline Giant",
+  "Title": "",
+  "Number": "364",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540268": {
+  "TCGplayer Id": "5540268",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Evolution Sage",
+  "Title": "",
+  "Number": "287",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540318": {
+  "TCGplayer Id": "5540318",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Family's Favor",
+  "Title": "",
+  "Number": "59",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540368": {
+  "TCGplayer Id": "5540368",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Resourceful Defense",
+  "Title": "",
+  "Number": "19",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540418": {
+  "TCGplayer Id": "5540418",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Jenara, Asura of War",
+  "Title": "",
+  "Number": "343",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540518": {
+  "TCGplayer Id": "5540518",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Rishkar, Peema Renegade",
+  "Title": "",
+  "Number": "305",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540568": {
+  "TCGplayer Id": "5540568",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Vorel of the Hull Clade",
+  "Title": "",
+  "Number": "357",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57695,6 +58922,69 @@
   "Boxes": {
    "1": {
     "Near Mint": 23
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540718": {
+  "TCGplayer Id": "5540718",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Fathom Mage",
+  "Title": "",
+  "Number": "339",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540768": {
+  "TCGplayer Id": "5540768",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Gavel of the Righteous",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540818": {
+  "TCGplayer Id": "5540818",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Forgotten Ancient",
+  "Title": "",
+  "Number": "291",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5540868": {
+  "TCGplayer Id": "5540868",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Slippery Bogbonder",
+  "Title": "",
+  "Number": "312",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57710,6 +59000,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 22
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57724,6 +59017,69 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
+    "Near Mint": 3
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5541018": {
+  "TCGplayer Id": "5541018",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Roalesk, Apex Hybrid",
+  "Title": "",
+  "Number": "349",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5541068": {
+  "TCGplayer Id": "5541068",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Agent's Toolkit",
+  "Title": "",
+  "Number": "66",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5541218": {
+  "TCGplayer Id": "5541218",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Contractual Safeguard",
+  "Title": "",
+  "Number": "14",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5541268": {
+  "TCGplayer Id": "5541268",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Brokers Confluence",
+  "Title": "",
+  "Number": "68",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
     "Near Mint": 3
    }
   }
@@ -57740,6 +59096,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 5
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5541468": {
+  "TCGplayer Id": "5541468",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Damning Verdict",
+  "Title": "",
+  "Number": "15",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57755,6 +59129,54 @@
   "Boxes": {
    "1": {
     "Near Mint": 2
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5541668": {
+  "TCGplayer Id": "5541668",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Angelic Sleuth",
+  "Title": "",
+  "Number": "12",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5541718": {
+  "TCGplayer Id": "5541718",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Park Heights Maverick",
+  "Title": "",
+  "Number": "63",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5541868": {
+  "TCGplayer Id": "5541868",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Denry Klin, Editor in Chief",
+  "Title": "",
+  "Number": "71",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57770,6 +59192,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 6
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5542068": {
+  "TCGplayer Id": "5542068",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Skyboon Evangelist",
+  "Title": "",
+  "Number": "20",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57785,6 +59225,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 16
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5542743": {
+  "TCGplayer Id": "5542743",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Boss's Chauffeur",
+  "Title": "",
+  "Number": "13",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57800,6 +59258,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 22
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57815,6 +59276,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 21
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57830,6 +59294,129 @@
   "Boxes": {
    "1": {
     "Near Mint": 17
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5542943": {
+  "TCGplayer Id": "5542943",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Grand Crescendo",
+  "Title": "",
+  "Number": "16",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5542993": {
+  "TCGplayer Id": "5542993",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Indulge // Excess",
+  "Title": "",
+  "Number": "46",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5543043": {
+  "TCGplayer Id": "5543043",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Killer Service",
+  "Title": "",
+  "Number": "61",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5543093": {
+  "TCGplayer Id": "5543093",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Life of the Party",
+  "Title": "",
+  "Number": "48",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5543143": {
+  "TCGplayer Id": "5543143",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Master of Ceremonies",
+  "Title": "",
+  "Number": "18",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5543243": {
+  "TCGplayer Id": "5543243",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Phabine, Boss's Confidant",
+  "Title": "",
+  "Number": "9",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5543293": {
+  "TCGplayer Id": "5543293",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Cinder Glade",
+  "Title": "",
+  "Number": "394",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5543343": {
+  "TCGplayer Id": "5543343",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Game Trail",
+  "Title": "",
+  "Number": "405",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57845,6 +59432,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 0
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5543493": {
+  "TCGplayer Id": "5543493",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Rose Room Treasurer",
+  "Title": "",
+  "Number": "51",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57860,6 +59465,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 0
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5543643": {
+  "TCGplayer Id": "5543643",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Seize the Spotlight",
+  "Title": "",
+  "Number": "52",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57875,6 +59498,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 8
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57889,6 +59515,9 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
+    "Near Mint": 3
+   },
+   "8": {
     "Near Mint": 3
    }
   }
@@ -57920,6 +59549,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 14
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5543993": {
+  "TCGplayer Id": "5543993",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Sakura-Tribe Elder",
+  "Title": "",
+  "Number": "307",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57934,6 +59581,24 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
+    "Near Mint": 3
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5544143": {
+  "TCGplayer Id": "5544143",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Champion of Lambholt",
+  "Title": "",
+  "Number": "284",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
     "Near Mint": 3
    }
   }
@@ -57953,6 +59618,36 @@
    }
   }
  },
+ "5544343": {
+  "TCGplayer Id": "5544343",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Magus of the Wheel",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5544393": {
+  "TCGplayer Id": "5544393",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Thriving Grove",
+  "Title": "",
+  "Number": "439",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5544443": {
   "TCGplayer Id": "5544443",
   "Product Line": "Magic",
@@ -57965,6 +59660,39 @@
   "Boxes": {
    "1": {
     "Near Mint": 13
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5544543": {
+  "TCGplayer Id": "5544543",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Scute Swarm",
+  "Title": "",
+  "Number": "310",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5544593": {
+  "TCGplayer Id": "5544593",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Selvala, Explorer Returned",
+  "Title": "",
+  "Number": "350",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57980,6 +59708,84 @@
   "Boxes": {
    "1": {
     "Near Mint": 0
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5544793": {
+  "TCGplayer Id": "5544793",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Zurzoth, Chaos Rider",
+  "Title": "",
+  "Number": "278",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5544893": {
+  "TCGplayer Id": "5544893",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Arasta of the Endless Web",
+  "Title": "",
+  "Number": "279",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5544993": {
+  "TCGplayer Id": "5544993",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Gahiji, Honored One",
+  "Title": "",
+  "Number": "340",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5545043": {
+  "TCGplayer Id": "5545043",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Kazuul, Tyrant of the Cliffs",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5545093": {
+  "TCGplayer Id": "5545093",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Thunderfoot Baloth",
+  "Title": "",
+  "Number": "317",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -57995,6 +59801,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 0
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58010,6 +59819,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 4
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5545243": {
+  "TCGplayer Id": "5545243",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Artifact Mutation",
+  "Title": "",
+  "Number": "326",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58028,6 +59855,66 @@
    }
   }
  },
+ "5545393": {
+  "TCGplayer Id": "5545393",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Aura Mutation",
+  "Title": "",
+  "Number": "328",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5545443": {
+  "TCGplayer Id": "5545443",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Boros Charm",
+  "Title": "",
+  "Number": "332",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5545693": {
+  "TCGplayer Id": "5545693",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Martial Coup",
+  "Title": "",
+  "Number": "206",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5545743": {
+  "TCGplayer Id": "5545743",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Beast Within",
+  "Title": "",
+  "Number": "282",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5545843": {
   "TCGplayer Id": "5545843",
   "Product Line": "Magic",
@@ -58043,6 +59930,66 @@
    }
   }
  },
+ "5545943": {
+  "TCGplayer Id": "5545943",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Call the Coppercoats",
+  "Title": "",
+  "Number": "195",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5546043": {
+  "TCGplayer Id": "5546043",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Cultivate",
+  "Title": "",
+  "Number": "285",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5546143": {
+  "TCGplayer Id": "5546143",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "March of the Multitudes",
+  "Title": "",
+  "Number": "346",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5546293": {
+  "TCGplayer Id": "5546293",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Harmonize",
+  "Title": "",
+  "Number": "295",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5546493": {
   "TCGplayer Id": "5546493",
   "Product Line": "Magic",
@@ -58055,6 +60002,54 @@
   "Boxes": {
    "1": {
     "Near Mint": 9
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5546693": {
+  "TCGplayer Id": "5546693",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Camaraderie",
+  "Title": "",
+  "Number": "334",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5546793": {
+  "TCGplayer Id": "5546793",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Bloodthirsty Blade",
+  "Title": "",
+  "Number": "362",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5546893": {
+  "TCGplayer Id": "5546893",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Idol of Oblivion",
+  "Title": "",
+  "Number": "368",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58070,6 +60065,99 @@
   "Boxes": {
    "1": {
     "Near Mint": 2
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5547193": {
+  "TCGplayer Id": "5547193",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Awakening Zone",
+  "Title": "",
+  "Number": "281",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5547343": {
+  "TCGplayer Id": "5547343",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Beastmaster Ascension",
+  "Title": "",
+  "Number": "283",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5547443": {
+  "TCGplayer Id": "5547443",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Duelist's Heritage",
+  "Title": "",
+  "Number": "197",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5547543": {
+  "TCGplayer Id": "5547543",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Felidar Retreat",
+  "Title": "",
+  "Number": "199",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5547593": {
+  "TCGplayer Id": "5547593",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Outpost Siege",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5547643": {
+  "TCGplayer Id": "5547643",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Assemble the Legion",
+  "Title": "",
+  "Number": "327",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58084,6 +60172,51 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5547943": {
+  "TCGplayer Id": "5547943",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Sandwurm Convergence",
+  "Title": "",
+  "Number": "308",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5548043": {
+  "TCGplayer Id": "5548043",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Castle Ardenvale",
+  "Title": "",
+  "Number": "391",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5548143": {
+  "TCGplayer Id": "5548143",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Castle Embereth",
+  "Title": "",
+  "Number": "392",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
     "Near Mint": 3
    }
   }
@@ -58103,6 +60236,21 @@
    }
   }
  },
+ "5548293": {
+  "TCGplayer Id": "5548293",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Jungle Shrine",
+  "Title": "",
+  "Number": "409",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5548443": {
   "TCGplayer Id": "5548443",
   "Product Line": "Magic",
@@ -58118,6 +60266,66 @@
    }
   }
  },
+ "5548493": {
+  "TCGplayer Id": "5548493",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Naya Panorama",
+  "Title": "",
+  "Number": "417",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5548693": {
+  "TCGplayer Id": "5548693",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Rugged Prairie",
+  "Title": "",
+  "Number": "423",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5548743": {
+  "TCGplayer Id": "5548743",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Sungrass Prairie",
+  "Title": "",
+  "Number": "430",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5548893": {
+  "TCGplayer Id": "5548893",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Temple of Triumph",
+  "Title": "",
+  "Number": "437",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5548943": {
   "TCGplayer Id": "5548943",
   "Product Line": "Magic",
@@ -58130,6 +60338,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 10
+   },
+   "8": {
+    "Near Mint": 6
    }
   }
  },
@@ -58145,6 +60356,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 7
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58178,6 +60392,51 @@
    }
   }
  },
+ "5549293": {
+  "TCGplayer Id": "5549293",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Tivit, Seller of Secrets",
+  "Title": "",
+  "Number": "10",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5549448": {
+  "TCGplayer Id": "5549448",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Smuggler's Share",
+  "Title": "",
+  "Number": "21",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5549498": {
+  "TCGplayer Id": "5549498",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Life Insurance",
+  "Title": "",
+  "Number": "74",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5549548": {
   "TCGplayer Id": "5549548",
   "Product Line": "Magic",
@@ -58190,6 +60449,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 0
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58204,6 +60466,39 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
+    "Near Mint": 3
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5549648": {
+  "TCGplayer Id": "5549648",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Misfortune Teller",
+  "Title": "",
+  "Number": "38",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5549698": {
+  "TCGplayer Id": "5549698",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Mask of the Schemer",
+  "Title": "",
+  "Number": "28",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
     "Near Mint": 3
    }
   }
@@ -58220,6 +60515,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 0
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58235,6 +60533,39 @@
   "Boxes": {
    "1": {
     "Near Mint": 4
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5549848": {
+  "TCGplayer Id": "5549848",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "In Too Deep",
+  "Title": "",
+  "Number": "27",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5549898": {
+  "TCGplayer Id": "5549898",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Currency Converter",
+  "Title": "",
+  "Number": "81",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58265,6 +60596,69 @@
   "Boxes": {
    "1": {
     "Near Mint": 6
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5550148": {
+  "TCGplayer Id": "5550148",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Change of Plans",
+  "Title": "",
+  "Number": "24",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5550298": {
+  "TCGplayer Id": "5550298",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Aerial Extortionist",
+  "Title": "",
+  "Number": "11",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5550348": {
+  "TCGplayer Id": "5550348",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Cephalid Facetaker",
+  "Title": "",
+  "Number": "23",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5550498": {
+  "TCGplayer Id": "5550498",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Writ of Return",
+  "Title": "",
+  "Number": "42",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58310,6 +60704,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 13
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58325,6 +60722,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 0
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58340,6 +60740,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 11
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5550998": {
+  "TCGplayer Id": "5550998",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Looter il-Kor",
+  "Title": "",
+  "Number": "225",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58355,6 +60773,54 @@
   "Boxes": {
    "1": {
     "Near Mint": 4
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551098": {
+  "TCGplayer Id": "5551098",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Chasm Skulker",
+  "Title": "",
+  "Number": "214",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551148": {
+  "TCGplayer Id": "5551148",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Daxos of Meletis",
+  "Title": "",
+  "Number": "335",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551198": {
+  "TCGplayer Id": "5551198",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Drana, Liberator of Malakir",
+  "Title": "",
+  "Number": "248",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58370,6 +60836,84 @@
   "Boxes": {
    "1": {
     "Near Mint": 8
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551298": {
+  "TCGplayer Id": "5551298",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Nadir Kraken",
+  "Title": "",
+  "Number": "228",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551348": {
+  "TCGplayer Id": "5551348",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Shadowmage Infiltrator",
+  "Title": "",
+  "Number": "351",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551398": {
+  "TCGplayer Id": "5551398",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Thief of Sanity",
+  "Title": "",
+  "Number": "354",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551448": {
+  "TCGplayer Id": "5551448",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Alela, Artful Provocateur",
+  "Title": "",
+  "Number": "325",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551498": {
+  "TCGplayer Id": "5551498",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Identity Thief",
+  "Title": "",
+  "Number": "224",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58385,6 +60929,384 @@
   "Boxes": {
    "1": {
     "Near Mint": 10
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551598": {
+  "TCGplayer Id": "5551598",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Custodi Lich",
+  "Title": "",
+  "Number": "244",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551703": {
+  "TCGplayer Id": "5551703",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Dragonlord Ojutai",
+  "Title": "",
+  "Number": "337",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551753": {
+  "TCGplayer Id": "5551753",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Fallen Shinobi",
+  "Title": "",
+  "Number": "338",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551858": {
+  "TCGplayer Id": "5551858",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Archon of Coronation",
+  "Title": "",
+  "Number": "192",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5551908": {
+  "TCGplayer Id": "5551908",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Sun Titan",
+  "Title": "",
+  "Number": "210",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552013": {
+  "TCGplayer Id": "5552013",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Wrexial, the Risen Deep",
+  "Title": "",
+  "Number": "359",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552063": {
+  "TCGplayer Id": "5552063",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Silent-Blade Oni",
+  "Title": "",
+  "Number": "352",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552113": {
+  "TCGplayer Id": "5552113",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Swords to Plowshares",
+  "Title": "",
+  "Number": "211",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552163": {
+  "TCGplayer Id": "5552163",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Profane Command",
+  "Title": "",
+  "Number": "256",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552268": {
+  "TCGplayer Id": "5552268",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Utter End",
+  "Title": "",
+  "Number": "356",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552318": {
+  "TCGplayer Id": "5552318",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Nightmare Unmaking",
+  "Title": "",
+  "Number": "253",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552368": {
+  "TCGplayer Id": "5552368",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Austere Command",
+  "Title": "",
+  "Number": "193",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552418": {
+  "TCGplayer Id": "5552418",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Stolen Identity",
+  "Title": "",
+  "Number": "233",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552468": {
+  "TCGplayer Id": "5552468",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Treasure Cruise",
+  "Title": "",
+  "Number": "237",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552573": {
+  "TCGplayer Id": "5552573",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Dusk // Dawn",
+  "Title": "",
+  "Number": "198",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552623": {
+  "TCGplayer Id": "5552623",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Commit // Memory",
+  "Title": "",
+  "Number": "216",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552783": {
+  "TCGplayer Id": "5552783",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Azorius Signet",
+  "Title": "",
+  "Number": "361",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552888": {
+  "TCGplayer Id": "5552888",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Orzhov Signet",
+  "Title": "",
+  "Number": "375",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552938": {
+  "TCGplayer Id": "5552938",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Strionic Resonator",
+  "Title": "",
+  "Number": "381",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5552988": {
+  "TCGplayer Id": "5552988",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Quietus Spike",
+  "Title": "",
+  "Number": "377",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5555633": {
+  "TCGplayer Id": "5555633",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Arcane Sanctum",
+  "Title": "",
+  "Number": "385",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5555903": {
+  "TCGplayer Id": "5555903",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Creeping Tar Pit",
+  "Title": "",
+  "Number": "396",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5556173": {
+  "TCGplayer Id": "5556173",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Esper Panorama",
+  "Title": "",
+  "Number": "399",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5556278": {
+  "TCGplayer Id": "5556278",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Fetid Heath",
+  "Title": "",
+  "Number": "401",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5556933": {
+  "TCGplayer Id": "5556933",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Rogue's Passage",
+  "Title": "",
+  "Number": "422",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58400,6 +61322,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 24
+   },
+   "8": {
+    "Near Mint": 15
    }
   }
  },
@@ -58415,6 +61340,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 12
+   },
+   "8": {
+    "Near Mint": 6
    }
   }
  },
@@ -58429,6 +61357,9 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
+    "Near Mint": 3
+   },
+   "8": {
     "Near Mint": 3
    }
   }
@@ -58445,6 +61376,24 @@
   "Boxes": {
    "1": {
     "Near Mint": 11
+   },
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5561633": {
+  "TCGplayer Id": "5561633",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Clue // Copy Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58520,6 +61469,9 @@
   "Boxes": {
    "1": {
     "Near Mint": 1
+   },
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58535,6 +61487,39 @@
   "Boxes": {
    "1": {
     "Near Mint": 2
+   },
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5565313": {
+  "TCGplayer Id": "5565313",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Faerie // Rogue Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5565363": {
+  "TCGplayer Id": "5565363",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Squid // Treasure (013) Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 6
    }
   }
  },
@@ -58550,6 +61535,39 @@
   "Boxes": {
    "1": {
     "Near Mint": 10
+   },
+   "8": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "5568163": {
+  "TCGplayer Id": "5568163",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Eldrazi Spawn // Human Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5568613": {
+  "TCGplayer Id": "5568613",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Eldrazi // Human Soldier Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58565,6 +61583,39 @@
   "Boxes": {
    "1": {
     "Near Mint": 0
+   },
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5569013": {
+  "TCGplayer Id": "5569013",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Soldier (033) // Devil Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5569363": {
+  "TCGplayer Id": "5569363",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Ogre // Insect Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58583,6 +61634,21 @@
    }
   }
  },
+ "5569813": {
+  "TCGplayer Id": "5569813",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Beast // Saproling Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5570313": {
   "TCGplayer Id": "5570313",
   "Product Line": "Magic",
@@ -58595,6 +61661,21 @@
   "Boxes": {
    "1": {
     "Near Mint": 4
+   }
+  }
+ },
+ "5570563": {
+  "TCGplayer Id": "5570563",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Elf Warrior // Wurm Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
@@ -58628,6 +61709,66 @@
    }
   }
  },
+ "5573984": {
+  "TCGplayer Id": "5573984",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Bess, Soul Nourisher",
+  "Title": "",
+  "Number": "67",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5574039": {
+  "TCGplayer Id": "5574039",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Shamanic Revelation",
+  "Title": "",
+  "Number": "311",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "5574339": {
+  "TCGplayer Id": "5574339",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Parnesse, the Subtle Brush (Extended Art)",
+  "Title": "",
+  "Number": "106",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5574839": {
+  "TCGplayer Id": "5574839",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Mask of Riddles",
+  "Title": "",
+  "Number": "347",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
+   }
+  }
+ },
  "5575854": {
   "TCGplayer Id": "5575854",
   "Product Line": "Magic",
@@ -58639,6 +61780,9 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "1": {
+    "Near Mint Foil": 3
+   },
+   "8": {
     "Near Mint Foil": 3
    }
   }
@@ -58655,6 +61799,54 @@
   "Boxes": {
    "1": {
     "Near Mint Foil": 2
+   },
+   "8": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5575954": {
+  "TCGplayer Id": "5575954",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Perrie, the Pulverizer (Display Commander) - Thick Stock",
+  "Title": "",
+  "Number": "190",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5576223": {
+  "TCGplayer Id": "5576223",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Kros, Defense Contractor",
+  "Title": "",
+  "Number": "7",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "8": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "5586142": {
+  "TCGplayer Id": "5586142",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Streets of New Capenna",
+  "Product Name": "Squid // The Monarch Double-sided Token",
+  "Title": "",
+  "Number": "",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "8": {
+    "Near Mint": 3
    }
   }
  },
