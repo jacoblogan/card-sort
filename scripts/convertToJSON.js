@@ -2,11 +2,20 @@ const fs = require('fs');
 const path = require('path');
 const csv=require('csvtojson')
 const data = require('../data/myData.json');
+const PDFDocument = require("pdfkit");
+const csv2 = require("csv-parser");
 
 const dataFileName = './data/myData.json';
 const pullFolder = './data/pull';
 const addFolder = './data/add';
 const pullSheetLocation = './data/csv/pullSheet.csv';
+const results = [];
+const shippingFolder = './data/shipping';
+const shippingOutputFolder = './data/shippingOutput';
+
+const getShippingFile = () => {
+    return `${shippingFolder}/${fs.readdirSync(shippingFolder)[0]}`;
+}
 
 function getPullFile(){
     return `${pullFolder}/${fs.readdirSync(pullFolder)[0]}`;
@@ -145,6 +154,44 @@ function writePullSheetCSV(pullData) {
     fs.writeFileSync(pullSheetLocation, csvLines.join('\n'), 'utf-8');
 }
 
+function generateShipping() {
+  fs.createReadStream(getShippingFile())
+  .pipe(csv2())
+  .on("data", (data) => results.push(data))
+  .on("end", () => {
+    // Create a document
+    const doc = new PDFDocument();
+    let skip = true;
+
+    // Pipe its output somewhere, like to a file or HTTP response
+    // See below for browser usage
+    doc.pipe(fs.createWriteStream(`${shippingOutputFolder}/${Date.now().toString()}.pdf`));
+    doc.save();
+    results.forEach((data) => {
+      if(skip){
+        skip = false;
+      }else{
+        doc.addPage();
+      }
+      doc.rotate(270).text("Jake's MTG Store", -660, 205);
+      doc.text("2244 S Duval", -660, 220);
+      doc.text("Mesa, AZ 85209", -660, 235);
+
+      doc.text(`${data["FirstName"]} ${data["LastName"]}`, -400, 280);
+      doc.text(`${data["Address1"]} ${data["Address2"]}`, -400, 295);
+      doc.text(
+        `${data["City"]}, ${data["State"]} ${data["PostalCode"]}`,
+        -400,
+        310
+      );
+    });
+
+    doc.restore();
+    // Finalize PDF file
+    doc.end();
+  });
+}
+
 // AddInventoryToBox(15);
 
 /**
@@ -155,13 +202,13 @@ function writePullSheetCSV(pullData) {
  * run the generatePullSheet and removeFromData and rewrite the data file
  */
 
-//generate pull sheet and save
+//generate pull sheet, write to csv and remove the data from the data object
 // generatePullSheet().then((pullData) => {
 //     writePullSheetCSV(pullData);
-// });
-
-//generate pull sheet and remove the data from the data object
-// generatePullSheet().then((pullData) => {
 //     removeFromData(pullData);
 //     writeToDataFile(data);
 // });
+
+
+// generate shipping pdf, grabs whichever shipping file is in /shipping and spits out a pdf to /shippingOutput
+// generateShipping();
