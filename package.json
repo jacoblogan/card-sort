@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rimraf data/pull/* --glob && rimraf data/add/* --glob && rimraf data/csv/* --glob && rimraf data/shipping/* --glob && rimraf data/shippingOutput/* --glob"
   },
   "repository": {
     "type": "git",
@@ -18,8 +19,9 @@
   "homepage": "https://github.com/jacoblogan/card-sort#readme",
   "dependencies": {
     "convert-csv-to-json": "^2.0.0",
-    "csvtojson": "^2.0.10",
     "csv-parser": "^3.0.0",
-    "pdfkit": "^0.15.0"
+    "csvtojson": "^2.0.10",
+    "pdfkit": "^0.15.0",
+    "rimraf": "^5.0.7"
   }
 }
