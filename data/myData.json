@@ -130667,6 +130667,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -130712,6 +130715,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -130757,6 +130763,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 4
    }
   }
  },
@@ -130772,6 +130781,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -130802,6 +130814,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -130817,6 +130832,9 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 0
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -130832,6 +130850,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -130892,6 +130913,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -130952,6 +130976,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -130967,6 +130994,24 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7027747": {
+  "TCGplayer Id": "7027747",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Reprieve",
+  "Title": "",
+  "Number": "26",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -130985,6 +131030,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -131015,6 +131063,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -131033,6 +131084,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -131102,6 +131156,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -131150,6 +131207,9 @@
    },
    "4": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -131210,6 +131270,21 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 0
+   }
+  }
+ },
+ "7029027": {
+  "TCGplayer Id": "7029027",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Mount Doom",
+  "Title": "",
+  "Number": "258",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -138341,6 +138416,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 6
    }
   }
  },
@@ -138437,6 +138515,9 @@
    },
    "11": {
     "Near Mint": 60
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -138470,6 +138551,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138485,6 +138569,9 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 0
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -138503,6 +138590,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138539,6 +138629,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138557,6 +138650,9 @@
    },
    "11": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -138614,6 +138710,9 @@
    },
    "11": {
     "Near Mint": 60
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138692,6 +138791,24 @@
    },
    "11": {
     "Near Mint": 60
+   },
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7165000": {
+  "TCGplayer Id": "7165000",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Easterling Vanguard",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -138713,6 +138830,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138746,6 +138866,9 @@
    },
    "4": {
     "Near Mint": 7
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138776,6 +138899,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138827,6 +138953,9 @@
    },
    "11": {
     "Near Mint": 26
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138860,6 +138989,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -138881,6 +139013,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138911,6 +139046,9 @@
   "Boxes": {
    "11": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138929,6 +139067,9 @@
    },
    "11": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -138995,6 +139136,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -139031,6 +139175,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -139067,6 +139214,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -139151,6 +139301,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139229,6 +139382,9 @@
    },
    "4": {
     "Near Mint": 7
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139250,6 +139406,9 @@
    },
    "11": {
     "Near Mint": 59
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -139283,6 +139442,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -139304,6 +139466,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139337,6 +139502,21 @@
    }
   }
  },
+ "7167805": {
+  "TCGplayer Id": "7167805",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Minas Tirith",
+  "Title": "",
+  "Number": "256",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
  "7167885": {
   "TCGplayer Id": "7167885",
   "Product Line": "Magic",
@@ -139364,6 +139544,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -139385,6 +139568,9 @@
    },
    "11": {
     "Near Mint": 60
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -139460,6 +139646,9 @@
    },
    "11": {
     "Near Mint": 29
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -139478,6 +139667,36 @@
    }
   }
  },
+ "7168490": {
+  "TCGplayer Id": "7168490",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Nazgul (0336)",
+  "Title": "",
+  "Number": "336",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7168885": {
+  "TCGplayer Id": "7168885",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Nazgul (0332)",
+  "Title": "",
+  "Number": "332",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
  "7168965": {
   "TCGplayer Id": "7168965",
   "Product Line": "Magic",
@@ -139493,6 +139712,9 @@
    },
    "11": {
     "Near Mint": 10
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139508,6 +139730,9 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 0
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -139580,6 +139805,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -139613,6 +139841,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -139646,6 +139877,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 4
    }
   }
  },
@@ -139667,6 +139901,9 @@
    },
    "11": {
     "Near Mint": 60
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139685,6 +139922,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139721,6 +139961,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139736,6 +139979,9 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 0
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -139784,6 +140030,36 @@
    }
   }
  },
+ "7170190": {
+  "TCGplayer Id": "7170190",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Sauron, the Dark Lord",
+  "Title": "",
+  "Number": "224",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7170275": {
+  "TCGplayer Id": "7170275",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Sauron, the Dark Lord (Showcase)",
+  "Title": "",
+  "Number": "329",
+  "Rarity": "M",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "7170350": {
   "TCGplayer Id": "7170350",
   "Product Line": "Magic",
@@ -139802,6 +140078,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139853,6 +140132,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 4
    }
   }
  },
@@ -139874,6 +140156,9 @@
    },
    "11": {
     "Near Mint": 49
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139895,6 +140180,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139910,6 +140198,9 @@
   "Boxes": {
    "4": {
     "Near Mint Foil": 3
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -139931,6 +140222,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -139967,6 +140261,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -140000,6 +140297,9 @@
    },
    "4": {
     "Near Mint": 7
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -140042,6 +140342,9 @@
    },
    "11": {
     "Near Mint": 30
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -140066,6 +140369,21 @@
    }
   }
  },
+ "7171410": {
+  "TCGplayer Id": "7171410",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Witch-king of Angmar",
+  "Title": "",
+  "Number": "114",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "14": {
+    "Near Mint": 2
+   }
+  }
+ },
  "7171490": {
   "TCGplayer Id": "7171490",
   "Product Line": "Magic",
@@ -140084,6 +140402,9 @@
    },
    "11": {
     "Near Mint": 60
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -140132,6 +140453,9 @@
   "Boxes": {
    "9": {
     "Near Mint Foil": 0
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -140222,6 +140546,9 @@
   "Boxes": {
    "9": {
     "Near Mint Foil": 8
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -140237,6 +140564,9 @@
   "Boxes": {
    "9": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -140267,6 +140597,9 @@
   "Boxes": {
    "9": {
     "Near Mint": 20
+   },
+   "14": {
+    "Near Mint": 5
    }
   }
  },
@@ -140282,6 +140615,9 @@
   "Boxes": {
    "9": {
     "Near Mint Foil": 0
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -140297,6 +140633,9 @@
   "Boxes": {
    "9": {
     "Near Mint": 16
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -140312,6 +140651,9 @@
   "Boxes": {
    "9": {
     "Near Mint Foil": 21
+   },
+   "14": {
+    "Near Mint Foil": 3
    }
   }
  },
@@ -140357,6 +140699,9 @@
   "Boxes": {
    "9": {
     "Near Mint": 20
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -140387,6 +140732,9 @@
   "Boxes": {
    "9": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -140435,6 +140783,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -140467,6 +140818,9 @@
     "Near Mint": 4
    },
    "4": {
+    "Near Mint": 1
+   },
+   "14": {
     "Near Mint": 1
    }
   }
@@ -140501,6 +140855,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -140549,6 +140906,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -140582,6 +140942,9 @@
    },
    "4": {
     "Near Mint": 8
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -140612,6 +140975,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -140660,6 +141026,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -140678,6 +141047,21 @@
    }
   }
  },
+ "7173830": {
+  "TCGplayer Id": "7173830",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Storm of Saruman (Borderless)",
+  "Title": "",
+  "Number": "413",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
  "7173910": {
   "TCGplayer Id": "7173910",
   "Product Line": "Magic",
@@ -140693,6 +141077,9 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -140710,6 +141097,9 @@
     "Near Mint": 3
    },
    "4": {
+    "Near Mint": 2
+   },
+   "14": {
     "Near Mint": 2
    }
   }
@@ -140744,6 +141134,9 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -140777,6 +141170,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -140825,6 +141221,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -140842,6 +141241,9 @@
     "Near Mint": 6
    },
    "4": {
+    "Near Mint": 1
+   },
+   "14": {
     "Near Mint": 1
    }
   }
@@ -140906,6 +141308,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -140939,6 +141344,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -140972,6 +141380,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141004,6 +141415,9 @@
     "Near Mint": 2
    },
    "4": {
+    "Near Mint": 1
+   },
+   "14": {
     "Near Mint": 1
    }
   }
@@ -141095,6 +141509,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141110,6 +141527,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -141179,6 +141599,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -141209,6 +141632,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141242,6 +141668,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -141290,6 +141719,24 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7178649": {
+  "TCGplayer Id": "7178649",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Book of Mazarbul",
+  "Title": "",
+  "Number": "116",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -141305,6 +141752,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 4
    }
   }
  },
@@ -141320,6 +141770,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141335,6 +141788,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141383,6 +141839,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -141398,6 +141857,9 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 0
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -141428,6 +141890,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -141461,6 +141926,21 @@
    }
   }
  },
+ "7180041": {
+  "TCGplayer Id": "7180041",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Rivendell (Borderless)",
+  "Title": "",
+  "Number": "344",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "7180536": {
   "TCGplayer Id": "7180536",
   "Product Line": "Magic",
@@ -141491,6 +141971,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141523,6 +142006,9 @@
     "Near Mint": 4
    },
    "4": {
+    "Near Mint": 2
+   },
+   "14": {
     "Near Mint": 2
    }
   }
@@ -141587,6 +142073,9 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141616,6 +142105,9 @@
   "Condition": "Near Mint",
   "Boxes": {
    "2": {
+    "Near Mint": 2
+   },
+   "14": {
     "Near Mint": 2
    }
   }
@@ -141650,6 +142142,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -141683,6 +142178,21 @@
    }
   }
  },
+ "7182231": {
+  "TCGplayer Id": "7182231",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Peregrin Took (Showcase)",
+  "Title": "",
+  "Number": "315",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "7182436": {
   "TCGplayer Id": "7182436",
   "Product Line": "Magic",
@@ -141698,6 +142208,9 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141713,6 +142226,21 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 1
+   }
+  }
+ },
+ "7182516": {
+  "TCGplayer Id": "7182516",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "There and Back Again",
+  "Title": "",
+  "Number": "151",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -141791,6 +142319,9 @@
   "Boxes": {
    "4": {
     "Near Mint Foil": 2
+   },
+   "14": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -141824,6 +142355,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -141872,6 +142406,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141905,6 +142442,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141923,6 +142463,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141938,6 +142481,9 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 1
+   },
+   "14": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -141956,6 +142502,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -141986,6 +142535,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 4
    }
   }
  },
@@ -142001,6 +142553,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -142034,6 +142589,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -142048,6 +142606,9 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "4": {
+    "Near Mint Foil": 1
+   },
+   "14": {
     "Near Mint Foil": 1
    }
   }
@@ -142109,6 +142670,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 5
    }
   }
  },
@@ -142127,6 +142691,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -142144,6 +142711,9 @@
     "Near Mint": 4
    },
    "4": {
+    "Near Mint": 3
+   },
+   "14": {
     "Near Mint": 3
    }
   }
@@ -142226,6 +142796,9 @@
    },
    "4": {
     "Near Mint": 9
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -142259,6 +142832,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -142337,6 +142913,9 @@
    },
    "4": {
     "Near Mint": 9
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -142358,6 +142937,21 @@
    }
   }
  },
+ "7189008": {
+  "TCGplayer Id": "7189008",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Elrond, Lord of Rivendell",
+  "Title": "",
+  "Number": "49",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
  "7189083": {
   "TCGplayer Id": "7189083",
   "Product Line": "Magic",
@@ -142373,6 +142967,24 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7189088": {
+  "TCGplayer Id": "7189088",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Elrond, Lord of Rivendell (Showcase)",
+  "Title": "",
+  "Number": "307",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -142388,6 +143000,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -142402,6 +143017,9 @@
   "Condition": "Near Mint",
   "Boxes": {
    "2": {
+    "Near Mint": 3
+   },
+   "14": {
     "Near Mint": 3
    }
   }
@@ -142436,6 +143054,24 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7189407": {
+  "TCGplayer Id": "7189407",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Phial of Galadriel",
+  "Title": "",
+  "Number": "248",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -142481,6 +143117,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -142544,6 +143183,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -142577,6 +143219,9 @@
    },
    "4": {
     "Near Mint": 7
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -142594,6 +143239,9 @@
     "Near Mint Foil": 1
    },
    "4": {
+    "Near Mint Foil": 1
+   },
+   "14": {
     "Near Mint Foil": 1
    }
   }
@@ -142676,6 +143324,21 @@
    }
   }
  },
+ "7190283": {
+  "TCGplayer Id": "7190283",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Palantir of Orthanc",
+  "Title": "",
+  "Number": "247",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
  "7190493": {
   "TCGplayer Id": "7190493",
   "Product Line": "Magic",
@@ -142721,6 +143384,24 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7190914": {
+  "TCGplayer Id": "7190914",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Fear, Fire, Foes!",
+  "Title": "",
+  "Number": "125",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -142754,6 +143435,9 @@
    },
    "4": {
     "Near Mint": 8
+   },
+   "14": {
+    "Near Mint": 4
    }
   }
  },
@@ -142772,6 +143456,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -142790,6 +143477,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -142850,6 +143540,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -142865,6 +143558,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -142883,6 +143579,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -142900,6 +143599,9 @@
     "Near Mint": 6
    },
    "4": {
+    "Near Mint": 3
+   },
+   "14": {
     "Near Mint": 3
    }
   }
@@ -142934,6 +143636,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -142948,6 +143653,9 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "4": {
+    "Near Mint Foil": 1
+   },
+   "14": {
     "Near Mint Foil": 1
    }
   }
@@ -142964,6 +143672,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -142982,6 +143693,9 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143015,6 +143729,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -143063,6 +143780,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -143096,6 +143816,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 4
    }
   }
  },
@@ -143171,6 +143894,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143201,6 +143927,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143216,6 +143945,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -143246,6 +143978,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -143279,6 +144014,9 @@
    },
    "4": {
     "Near Mint": 7
+   },
+   "14": {
+    "Near Mint": 4
    }
   }
  },
@@ -143312,6 +144050,24 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7195582": {
+  "TCGplayer Id": "7195582",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Arwen Undomiel",
+  "Title": "",
+  "Number": "194",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -143342,6 +144098,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -143357,6 +144116,9 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 0
+   },
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -143387,6 +144149,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -143417,6 +144182,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -143435,6 +144203,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -143468,6 +144239,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -143501,6 +144275,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143534,6 +144311,21 @@
    },
    "4": {
     "Near Mint": 5
+   }
+  }
+ },
+ "7197190": {
+  "TCGplayer Id": "7197190",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Old Man Willow",
+  "Title": "",
+  "Number": "217",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -143615,6 +144407,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -143693,6 +144488,9 @@
    },
    "4": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 5
    }
   }
  },
@@ -143708,6 +144506,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143738,6 +144539,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143789,6 +144593,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -143822,6 +144629,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143840,6 +144650,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143891,6 +144704,9 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143921,6 +144737,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -143936,6 +144755,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -143954,6 +144776,9 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -143990,6 +144815,9 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144020,6 +144848,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -144035,6 +144866,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -144052,6 +144886,9 @@
     "Near Mint": 3
    },
    "4": {
+    "Near Mint": 4
+   },
+   "14": {
     "Near Mint": 4
    }
   }
@@ -144071,6 +144908,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144104,6 +144944,9 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -144140,6 +144983,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144173,6 +145019,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144190,6 +145039,9 @@
     "Near Mint Foil": 1
    },
    "4": {
+    "Near Mint Foil": 1
+   },
+   "14": {
     "Near Mint Foil": 1
    }
   }
@@ -144209,6 +145061,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -144245,6 +145100,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -144263,6 +145121,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -144314,6 +145175,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -144332,6 +145196,9 @@
    },
    "4": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144350,6 +145217,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -144368,6 +145238,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144382,6 +145255,9 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "2": {
+    "Near Mint Foil": 1
+   },
+   "14": {
     "Near Mint Foil": 1
    }
   }
@@ -144437,6 +145313,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -144470,6 +145349,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 4
    }
   }
  },
@@ -144506,6 +145388,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -144524,6 +145409,24 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7214243": {
+  "TCGplayer Id": "7214243",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Nimble Hobbit",
+  "Title": "",
+  "Number": "23",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -144578,6 +145481,24 @@
    },
    "4": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7214403": {
+  "TCGplayer Id": "7214403",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Now for Wrath, Now for Ruin!",
+  "Title": "",
+  "Number": "24",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -144596,6 +145517,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144632,6 +145556,21 @@
    }
   }
  },
+ "7214563": {
+  "TCGplayer Id": "7214563",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Soldier of the Grey Host",
+  "Title": "",
+  "Number": "32",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "7214638": {
   "TCGplayer Id": "7214638",
   "Product Line": "Magic",
@@ -144662,6 +145601,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144713,6 +145655,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144746,6 +145691,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144794,6 +145742,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144827,6 +145778,9 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144842,6 +145796,9 @@
   "Boxes": {
    "2": {
     "Near Mint Foil": 1
+   },
+   "14": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -144860,6 +145817,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -144874,6 +145834,9 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "4": {
+    "Near Mint Foil": 1
+   },
+   "14": {
     "Near Mint Foil": 1
    }
   }
@@ -144893,6 +145856,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -144956,6 +145922,9 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145025,6 +145994,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -145043,6 +146015,9 @@
    },
    "4": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -145061,6 +146036,24 @@
    },
    "4": {
     "Near Mint": 6
+   },
+   "14": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7216173": {
+  "TCGplayer Id": "7216173",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Grey Havens Navigator",
+  "Title": "",
+  "Number": "53",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -145079,6 +146072,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -145163,6 +146159,9 @@
    },
    "4": {
     "Near Mint": 7
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145178,6 +146177,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -145211,6 +146213,24 @@
    },
    "4": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7216783": {
+  "TCGplayer Id": "7216783",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Nimrodel Watcher",
+  "Title": "",
+  "Number": "63",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "14": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -145229,6 +146249,9 @@
    },
    "4": {
     "Near Mint": 7
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145262,6 +146285,9 @@
    },
    "4": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -145313,6 +146339,9 @@
    },
    "4": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145328,6 +146357,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 3
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145343,6 +146375,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145358,6 +146393,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
@@ -145391,6 +146429,9 @@
    },
    "4": {
     "Near Mint": 2
+   },
+   "14": {
+    "Near Mint": 3
    }
   }
  },
@@ -145406,6 +146447,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 4
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145439,6 +146483,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 1
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145454,6 +146501,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145469,6 +146519,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145487,6 +146540,9 @@
    },
    "4": {
     "Near Mint": 7
+   },
+   "14": {
+    "Near Mint": 1
    }
   }
  },
@@ -145504,6 +146560,9 @@
     "Near Mint": 7
    },
    "4": {
+    "Near Mint": 2
+   },
+   "14": {
     "Near Mint": 2
    }
   }
@@ -145538,6 +146597,9 @@
   "Boxes": {
    "2": {
     "Near Mint": 5
+   },
+   "14": {
+    "Near Mint": 2
    }
   }
  },
