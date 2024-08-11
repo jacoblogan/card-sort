@@ -139958,6 +139958,66 @@
    }
   }
  },
+ "7010582": {
+  "TCGplayer Id": "7010582",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "The Ur-Dragon",
+  "Title": "",
+  "Number": "361",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7010707": {
+  "TCGplayer Id": "7010707",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Jeweled Lotus",
+  "Title": "",
+  "Number": "396",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7010782": {
+  "TCGplayer Id": "7010782",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Jeweled Lotus (Borderless)",
+  "Title": "",
+  "Number": "702",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7010832": {
+  "TCGplayer Id": "7010832",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Capture of Jingzhou",
+  "Title": "",
+  "Number": "79",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
  "7015930": {
   "TCGplayer Id": "7015930",
   "Product Line": "Magic",
@@ -150992,6 +151052,21 @@
    }
   }
  },
+ "7150908": {
+  "TCGplayer Id": "7150908",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Personal Tutor",
+  "Title": "",
+  "Number": "110",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
  "7157397": {
   "TCGplayer Id": "7157397",
   "Product Line": "Magic",
@@ -160628,6 +160703,7431 @@
    }
   }
  },
+ "7246851": {
+  "TCGplayer Id": "7246851",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Jet Medallion",
+  "Title": "",
+  "Number": "395",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7247001": {
+  "TCGplayer Id": "7247001",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ruby Medallion",
+  "Title": "",
+  "Number": "405",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7247401": {
+  "TCGplayer Id": "7247401",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Path of Ancestry",
+  "Title": "",
+  "Number": "423",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7247851": {
+  "TCGplayer Id": "7247851",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Land Tax",
+  "Title": "",
+  "Number": "37",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7248006": {
+  "TCGplayer Id": "7248006",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Emerald Medallion",
+  "Title": "",
+  "Number": "379",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7248181": {
+  "TCGplayer Id": "7248181",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kozilek, the Great Distortion (Borderless)",
+  "Title": "",
+  "Number": "668",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7248231": {
+  "TCGplayer Id": "7248231",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fellwar Stone",
+  "Title": "",
+  "Number": "382",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7248431": {
+  "TCGplayer Id": "7248431",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sol Ring",
+  "Title": "",
+  "Number": "410",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7248481": {
+  "TCGplayer Id": "7248481",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Path of Ancestry (Borderless)",
+  "Title": "",
+  "Number": "661",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7248531": {
+  "TCGplayer Id": "7248531",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Command Tower (Borderless)",
+  "Title": "",
+  "Number": "659",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7248581": {
+  "TCGplayer Id": "7248581",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Azusa, Lost but Seeking",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7248631": {
+  "TCGplayer Id": "7248631",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Chainer, Dementia Master",
+  "Title": "",
+  "Number": "144",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7248731": {
+  "TCGplayer Id": "7248731",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fellwar Stone (Borderless)",
+  "Title": "",
+  "Number": "657",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7248736": {
+  "TCGplayer Id": "7248736",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fellwar Stone (Borderless)",
+  "Title": "",
+  "Number": "657",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7248781": {
+  "TCGplayer Id": "7248781",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Krenko, Mob Boss",
+  "Title": "",
+  "Number": "238",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7248882": {
+  "TCGplayer Id": "7248882",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Arcane Signet (Borderless)",
+  "Title": "",
+  "Number": "653",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7248932": {
+  "TCGplayer Id": "7248932",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Command Tower",
+  "Title": "",
+  "Number": "420",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7248987": {
+  "TCGplayer Id": "7248987",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Extinguish All Hope",
+  "Title": "",
+  "Number": "157",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7249062": {
+  "TCGplayer Id": "7249062",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "The Prismatic Piper",
+  "Title": "",
+  "Number": "1",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "7249137": {
+  "TCGplayer Id": "7249137",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Arcane Signet",
+  "Title": "",
+  "Number": "367",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7249142": {
+  "TCGplayer Id": "7249142",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Arcane Signet",
+  "Title": "",
+  "Number": "367",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7249662": {
+  "TCGplayer Id": "7249662",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Shelter",
+  "Title": "",
+  "Number": "56",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7249667": {
+  "TCGplayer Id": "7249667",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Shelter",
+  "Title": "",
+  "Number": "56",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7249842": {
+  "TCGplayer Id": "7249842",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Wayward Swordtooth",
+  "Title": "",
+  "Number": "331",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7249922": {
+  "TCGplayer Id": "7249922",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Insurrection",
+  "Title": "",
+  "Number": "236",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7250027": {
+  "TCGplayer Id": "7250027",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Mizzix of the Izmagnus",
+  "Title": "",
+  "Number": "348",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7250206": {
+  "TCGplayer Id": "7250206",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ghoulcaller Gisa",
+  "Title": "",
+  "Number": "161",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7250256": {
+  "TCGplayer Id": "7250256",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kindred Dominance (Borderless)",
+  "Title": "",
+  "Number": "640",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7250356": {
+  "TCGplayer Id": "7250356",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sai, Master Thopterist",
+  "Title": "",
+  "Number": "118",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7250496": {
+  "TCGplayer Id": "7250496",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Yargle, Glutton of Urborg",
+  "Title": "",
+  "Number": "202",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7250501": {
+  "TCGplayer Id": "7250501",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Yargle, Glutton of Urborg",
+  "Title": "",
+  "Number": "202",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7250746": {
+  "TCGplayer Id": "7250746",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Chromatic Lantern",
+  "Title": "",
+  "Number": "376",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7251116": {
+  "TCGplayer Id": "7251116",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Angelic Field Marshal",
+  "Title": "",
+  "Number": "13",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7251201": {
+  "TCGplayer Id": "7251201",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Champion's Helm",
+  "Title": "",
+  "Number": "375",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7251331": {
+  "TCGplayer Id": "7251331",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Alms Collector",
+  "Title": "",
+  "Number": "10",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7251386": {
+  "TCGplayer Id": "7251386",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Aminatou's Augury",
+  "Title": "",
+  "Number": "73",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7251491": {
+  "TCGplayer Id": "7251491",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Heroic Intervention",
+  "Title": "",
+  "Number": "295",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7251541": {
+  "TCGplayer Id": "7251541",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thran Dynamo",
+  "Title": "",
+  "Number": "415",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7251596": {
+  "TCGplayer Id": "7251596",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Boompile",
+  "Title": "",
+  "Number": "371",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7251911": {
+  "TCGplayer Id": "7251911",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Mystic Confluence",
+  "Title": "",
+  "Number": "108",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7251986": {
+  "TCGplayer Id": "7251986",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Grand Abolisher",
+  "Title": "",
+  "Number": "27",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7252036": {
+  "TCGplayer Id": "7252036",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Grand Abolisher (Borderless)",
+  "Title": "",
+  "Number": "625",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7252170": {
+  "TCGplayer Id": "7252170",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Hellkite Charger",
+  "Title": "",
+  "Number": "232",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7252290": {
+  "TCGplayer Id": "7252290",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thriving Grove",
+  "Title": "",
+  "Number": "430",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7252295": {
+  "TCGplayer Id": "7252295",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thriving Grove",
+  "Title": "",
+  "Number": "430",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7252345": {
+  "TCGplayer Id": "7252345",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thriving Bluff",
+  "Title": "",
+  "Number": "429",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7252400": {
+  "TCGplayer Id": "7252400",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thriving Moor",
+  "Title": "",
+  "Number": "433",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7252450": {
+  "TCGplayer Id": "7252450",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thriving Isle",
+  "Title": "",
+  "Number": "432",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7252455": {
+  "TCGplayer Id": "7252455",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thriving Isle",
+  "Title": "",
+  "Number": "432",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7252500": {
+  "TCGplayer Id": "7252500",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thriving Heath",
+  "Title": "",
+  "Number": "431",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7252505": {
+  "TCGplayer Id": "7252505",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thriving Heath",
+  "Title": "",
+  "Number": "431",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7252550": {
+  "TCGplayer Id": "7252550",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Elite Scaleguard",
+  "Title": "",
+  "Number": "22",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7252555": {
+  "TCGplayer Id": "7252555",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Elite Scaleguard",
+  "Title": "",
+  "Number": "22",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7252600": {
+  "TCGplayer Id": "7252600",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kirtar's Wrath",
+  "Title": "",
+  "Number": "35",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7252650": {
+  "TCGplayer Id": "7252650",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Cartographer's Hawk",
+  "Title": "",
+  "Number": "18",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7252700": {
+  "TCGplayer Id": "7252700",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ilysian Caryatid",
+  "Title": "",
+  "Number": "297",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7252750": {
+  "TCGplayer Id": "7252750",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Skyshroud Claim",
+  "Title": "",
+  "Number": "321",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7252800": {
+  "TCGplayer Id": "7252800",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Battle Screech",
+  "Title": "",
+  "Number": "17",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7252850": {
+  "TCGplayer Id": "7252850",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rogue's Passage",
+  "Title": "",
+  "Number": "426",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7252900": {
+  "TCGplayer Id": "7252900",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ulamog's Crusher",
+  "Title": "",
+  "Number": "6",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7252950": {
+  "TCGplayer Id": "7252950",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Pianna, Nomad Captain",
+  "Title": "",
+  "Number": "50",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7252955": {
+  "TCGplayer Id": "7252955",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Pianna, Nomad Captain",
+  "Title": "",
+  "Number": "50",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7253000": {
+  "TCGplayer Id": "7253000",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rishkar, Peema Renegade",
+  "Title": "",
+  "Number": "317",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7253005": {
+  "TCGplayer Id": "7253005",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rishkar, Peema Renegade",
+  "Title": "",
+  "Number": "317",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7253055": {
+  "TCGplayer Id": "7253055",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Godo, Bandit Warlord",
+  "Title": "",
+  "Number": "227",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7253300": {
+  "TCGplayer Id": "7253300",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Magus of the Wheel (Borderless)",
+  "Title": "",
+  "Number": "643",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7253355": {
+  "TCGplayer Id": "7253355",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Windrider Wizard",
+  "Title": "",
+  "Number": "134",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7253405": {
+  "TCGplayer Id": "7253405",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Brass Knuckles",
+  "Title": "",
+  "Number": "372",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7253460": {
+  "TCGplayer Id": "7253460",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Blood Aspirant",
+  "Title": "",
+  "Number": "208",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7253600": {
+  "TCGplayer Id": "7253600",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Wake the Dead",
+  "Title": "",
+  "Number": "197",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7253655": {
+  "TCGplayer Id": "7253655",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Wretched Confluence",
+  "Title": "",
+  "Number": "200",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7254575": {
+  "TCGplayer Id": "7254575",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Braids, Conjurer Adept",
+  "Title": "",
+  "Number": "76",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7254640": {
+  "TCGplayer Id": "7254640",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Minds Aglow",
+  "Title": "",
+  "Number": "105",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7255020": {
+  "TCGplayer Id": "7255020",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kemba, Kha Regent (Borderless)",
+  "Title": "",
+  "Number": "671",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7255080": {
+  "TCGplayer Id": "7255080",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Lifeblood Hydra",
+  "Title": "",
+  "Number": "303",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7255370": {
+  "TCGplayer Id": "7255370",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Magus of the Wheel",
+  "Title": "",
+  "Number": "241",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7255555": {
+  "TCGplayer Id": "7255555",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sek'Kuar, Deathkeeper",
+  "Title": "",
+  "Number": "354",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7255660": {
+  "TCGplayer Id": "7255660",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sword of the Animist",
+  "Title": "",
+  "Number": "413",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7255710": {
+  "TCGplayer Id": "7255710",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Verdant Confluence",
+  "Title": "",
+  "Number": "329",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7256301": {
+  "TCGplayer Id": "7256301",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Righteous Confluence",
+  "Title": "",
+  "Number": "53",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7256356": {
+  "TCGplayer Id": "7256356",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Tempt with Vengeance",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7256552": {
+  "TCGplayer Id": "7256552",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Hammer of Nazahn",
+  "Title": "",
+  "Number": "388",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7256662": {
+  "TCGplayer Id": "7256662",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rakka Mar",
+  "Title": "",
+  "Number": "247",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7256802": {
+  "TCGplayer Id": "7256802",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Experiment Kraj",
+  "Title": "",
+  "Number": "337",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7256887": {
+  "TCGplayer Id": "7256887",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ashling the Pilgrim",
+  "Title": "",
+  "Number": "205",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7257137": {
+  "TCGplayer Id": "7257137",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Stormsurge Kraken",
+  "Title": "",
+  "Number": "122",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7257327": {
+  "TCGplayer Id": "7257327",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Extraplanar Lens",
+  "Title": "",
+  "Number": "381",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7257387": {
+  "TCGplayer Id": "7257387",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Mangara, the Diplomat",
+  "Title": "",
+  "Number": "42",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7257472": {
+  "TCGplayer Id": "7257472",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Morophon, the Boundless",
+  "Title": "",
+  "Number": "3",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7257527": {
+  "TCGplayer Id": "7257527",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Lorthos, the Tidemaker",
+  "Title": "",
+  "Number": "103",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7257607": {
+  "TCGplayer Id": "7257607",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Zetalpa, Primal Dawn",
+  "Title": "",
+  "Number": "71",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7257657": {
+  "TCGplayer Id": "7257657",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ghalta, Primal Hunger",
+  "Title": "",
+  "Number": "292",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7257662": {
+  "TCGplayer Id": "7257662",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ghalta, Primal Hunger",
+  "Title": "",
+  "Number": "292",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7257737": {
+  "TCGplayer Id": "7257737",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kindred Dominance",
+  "Title": "",
+  "Number": "169",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7257962": {
+  "TCGplayer Id": "7257962",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Finale of Devastation",
+  "Title": "",
+  "Number": "289",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7258022": {
+  "TCGplayer Id": "7258022",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Grenzo, Havoc Raiser",
+  "Title": "",
+  "Number": "228",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7258027": {
+  "TCGplayer Id": "7258027",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Grenzo, Havoc Raiser",
+  "Title": "",
+  "Number": "228",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7258072": {
+  "TCGplayer Id": "7258072",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Puresteel Paladin",
+  "Title": "",
+  "Number": "51",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7258542": {
+  "TCGplayer Id": "7258542",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Commandeer",
+  "Title": "",
+  "Number": "80",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7258617": {
+  "TCGplayer Id": "7258617",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Cyclonic Rift",
+  "Title": "",
+  "Number": "84",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7258692": {
+  "TCGplayer Id": "7258692",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Obscuring Haze",
+  "Title": "",
+  "Number": "308",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7259207": {
+  "TCGplayer Id": "7259207",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Demonlord Belzenlok",
+  "Title": "",
+  "Number": "151",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7259367": {
+  "TCGplayer Id": "7259367",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ohran Frostfang (Borderless)",
+  "Title": "",
+  "Number": "650",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7259457": {
+  "TCGplayer Id": "7259457",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Storm-Kiln Artist",
+  "Title": "",
+  "Number": "260",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7259717": {
+  "TCGplayer Id": "7259717",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sower of Discord",
+  "Title": "",
+  "Number": "187",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7259767": {
+  "TCGplayer Id": "7259767",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ob Nixilis of the Black Oath",
+  "Title": "",
+  "Number": "176",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7260350": {
+  "TCGplayer Id": "7260350",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Teferi, Temporal Archmage",
+  "Title": "",
+  "Number": "125",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7260595": {
+  "TCGplayer Id": "7260595",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Reliquary Tower (Borderless)",
+  "Title": "",
+  "Number": "663",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7261398": {
+  "TCGplayer Id": "7261398",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Yisan, the Wanderer Bard",
+  "Title": "",
+  "Number": "334",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7261498": {
+  "TCGplayer Id": "7261498",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Toxic Deluge",
+  "Title": "",
+  "Number": "191",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7261873": {
+  "TCGplayer Id": "7261873",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Vindictive Lich",
+  "Title": "",
+  "Number": "196",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7261948": {
+  "TCGplayer Id": "7261948",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sun Quan, Lord of Wu",
+  "Title": "",
+  "Number": "123",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7261999": {
+  "TCGplayer Id": "7261999",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Exsanguinate",
+  "Title": "",
+  "Number": "156",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7262225": {
+  "TCGplayer Id": "7262225",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rune-Scarred Demon",
+  "Title": "",
+  "Number": "184",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7262275": {
+  "TCGplayer Id": "7262275",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Arachnogenesis",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7262385": {
+  "TCGplayer Id": "7262385",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Day's Undoing",
+  "Title": "",
+  "Number": "85",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7262645": {
+  "TCGplayer Id": "7262645",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Razaketh, the Foulblooded",
+  "Title": "",
+  "Number": "181",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7262945": {
+  "TCGplayer Id": "7262945",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Darksteel Mutation (Borderless)",
+  "Title": "",
+  "Number": "623",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7263000": {
+  "TCGplayer Id": "7263000",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Stonehoof Chieftain",
+  "Title": "",
+  "Number": "325",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7263170": {
+  "TCGplayer Id": "7263170",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Mirri, Weatherlight Duelist",
+  "Title": "",
+  "Number": "347",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7263375": {
+  "TCGplayer Id": "7263375",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Song of the Dryads",
+  "Title": "",
+  "Number": "324",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7263465": {
+  "TCGplayer Id": "7263465",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sevinne's Reclamation",
+  "Title": "",
+  "Number": "55",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7263470": {
+  "TCGplayer Id": "7263470",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sevinne's Reclamation",
+  "Title": "",
+  "Number": "55",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7263690": {
+  "TCGplayer Id": "7263690",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kodama's Reach (Borderless)",
+  "Title": "",
+  "Number": "649",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7263810": {
+  "TCGplayer Id": "7263810",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rankle, Master of Pranks",
+  "Title": "",
+  "Number": "180",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7263865": {
+  "TCGplayer Id": "7263865",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Imp's Mischief",
+  "Title": "",
+  "Number": "167",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7263915": {
+  "TCGplayer Id": "7263915",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sephara, Sky's Blade",
+  "Title": "",
+  "Number": "54",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7264446": {
+  "TCGplayer Id": "7264446",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sakiko, Mother of Summer",
+  "Title": "",
+  "Number": "319",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7264496": {
+  "TCGplayer Id": "7264496",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Zacama, Primal Calamity",
+  "Title": "",
+  "Number": "365",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7264546": {
+  "TCGplayer Id": "7264546",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ezuri's Predation",
+  "Title": "",
+  "Number": "287",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7264621": {
+  "TCGplayer Id": "7264621",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Anafenza, Kin-Tree Spirit",
+  "Title": "",
+  "Number": "11",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7264671": {
+  "TCGplayer Id": "7264671",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Balan, Wandering Knight",
+  "Title": "",
+  "Number": "16",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7264721": {
+  "TCGplayer Id": "7264721",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Flawless Maneuver",
+  "Title": "",
+  "Number": "24",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7264821": {
+  "TCGplayer Id": "7264821",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Jazal Goldmane",
+  "Title": "",
+  "Number": "32",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7265021": {
+  "TCGplayer Id": "7265021",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Wakening Sun's Avatar",
+  "Title": "",
+  "Number": "68",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7265071": {
+  "TCGplayer Id": "7265071",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fierce Guardianship",
+  "Title": "",
+  "Number": "94",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7265121": {
+  "TCGplayer Id": "7265121",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Bribery",
+  "Title": "",
+  "Number": "77",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7265171": {
+  "TCGplayer Id": "7265171",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Azami, Lady of Scrolls",
+  "Title": "",
+  "Number": "74",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7265221": {
+  "TCGplayer Id": "7265221",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Bloodchief Ascension",
+  "Title": "",
+  "Number": "139",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7265271": {
+  "TCGplayer Id": "7265271",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Curtains' Call",
+  "Title": "",
+  "Number": "146",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7265371": {
+  "TCGplayer Id": "7265371",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Endrek Sahr, Master Breeder",
+  "Title": "",
+  "Number": "155",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7265546": {
+  "TCGplayer Id": "7265546",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ogre Slumlord",
+  "Title": "",
+  "Number": "177",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7265716": {
+  "TCGplayer Id": "7265716",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Balefire Dragon",
+  "Title": "",
+  "Number": "207",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7265796": {
+  "TCGplayer Id": "7265796",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Drakuseth, Maw of Flames",
+  "Title": "",
+  "Number": "218",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7265876": {
+  "TCGplayer Id": "7265876",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Vandalblast",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7266041": {
+  "TCGplayer Id": "7266041",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "The Great Henge",
+  "Title": "",
+  "Number": "294",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7266171": {
+  "TCGplayer Id": "7266171",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kodama's Reach",
+  "Title": "",
+  "Number": "300",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7266366": {
+  "TCGplayer Id": "7266366",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kykar, Wind's Fury",
+  "Title": "",
+  "Number": "343",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7266661": {
+  "TCGplayer Id": "7266661",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ashnod's Altar",
+  "Title": "",
+  "Number": "368",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7266666": {
+  "TCGplayer Id": "7266666",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ashnod's Altar",
+  "Title": "",
+  "Number": "368",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7266736": {
+  "TCGplayer Id": "7266736",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Inspiring Statuary",
+  "Title": "",
+  "Number": "394",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7266821": {
+  "TCGplayer Id": "7266821",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Reliquary Tower",
+  "Title": "",
+  "Number": "425",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7267111": {
+  "TCGplayer Id": "7267111",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Vandalblast (Borderless)",
+  "Title": "",
+  "Number": "646",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7267611": {
+  "TCGplayer Id": "7267611",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Bloodspore Thrinax",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7267885": {
+  "TCGplayer Id": "7267885",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Gisela, Blade of Goldnight",
+  "Title": "",
+  "Number": "338",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7267935": {
+  "TCGplayer Id": "7267935",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Freyalise, Llanowar's Fury",
+  "Title": "",
+  "Number": "290",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7267985": {
+  "TCGplayer Id": "7267985",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Hanna, Ship's Navigator",
+  "Title": "",
+  "Number": "340",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7268160": {
+  "TCGplayer Id": "7268160",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Hamza, Guardian of Arashin",
+  "Title": "",
+  "Number": "339",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7268520": {
+  "TCGplayer Id": "7268520",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Reality Shift",
+  "Title": "",
+  "Number": "113",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7268525": {
+  "TCGplayer Id": "7268525",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Reality Shift",
+  "Title": "",
+  "Number": "113",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7268600": {
+  "TCGplayer Id": "7268600",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Steelshaper's Gift",
+  "Title": "",
+  "Number": "59",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7268605": {
+  "TCGplayer Id": "7268605",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Steelshaper's Gift",
+  "Title": "",
+  "Number": "59",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7269683": {
+  "TCGplayer Id": "7269683",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Body Double",
+  "Title": "",
+  "Number": "75",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7269738": {
+  "TCGplayer Id": "7269738",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fact or Fiction",
+  "Title": "",
+  "Number": "91",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7269868": {
+  "TCGplayer Id": "7269868",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fact or Fiction (Borderless)",
+  "Title": "",
+  "Number": "631",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7269953": {
+  "TCGplayer Id": "7269953",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Wrath of God",
+  "Title": "",
+  "Number": "70",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7278748": {
+  "TCGplayer Id": "7278748",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ash Barrens",
+  "Title": "",
+  "Number": "419",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7279924": {
+  "TCGplayer Id": "7279924",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Darksteel Mutation",
+  "Title": "",
+  "Number": "21",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7280079": {
+  "TCGplayer Id": "7280079",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Talrand, Sky Summoner",
+  "Title": "",
+  "Number": "124",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7280179": {
+  "TCGplayer Id": "7280179",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Decree of Pain",
+  "Title": "",
+  "Number": "148",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7280369": {
+  "TCGplayer Id": "7280369",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Inferno Titan",
+  "Title": "",
+  "Number": "235",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7280719": {
+  "TCGplayer Id": "7280719",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Scytheclaw",
+  "Title": "",
+  "Number": "408",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7280724": {
+  "TCGplayer Id": "7280724",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Scytheclaw",
+  "Title": "",
+  "Number": "408",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7281873": {
+  "TCGplayer Id": "7281873",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kazuul, Tyrant of the Cliffs",
+  "Title": "",
+  "Number": "237",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7282924": {
+  "TCGplayer Id": "7282924",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Yuriko, the Tiger's Shadow (Borderless)",
+  "Title": "",
+  "Number": "690",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7283324": {
+  "TCGplayer Id": "7283324",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Myriad Landscape",
+  "Title": "",
+  "Number": "421",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7283384": {
+  "TCGplayer Id": "7283384",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Exsanguinate (Borderless)",
+  "Title": "",
+  "Number": "638",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7283564": {
+  "TCGplayer Id": "7283564",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Training Center",
+  "Title": "",
+  "Number": "434",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7283614": {
+  "TCGplayer Id": "7283614",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Undergrowth Stadium",
+  "Title": "",
+  "Number": "435",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7283619": {
+  "TCGplayer Id": "7283619",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Undergrowth Stadium",
+  "Title": "",
+  "Number": "435",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7283664": {
+  "TCGplayer Id": "7283664",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Vault of Champions",
+  "Title": "",
+  "Number": "436",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7283869": {
+  "TCGplayer Id": "7283869",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Arachnogenesis (Borderless)",
+  "Title": "",
+  "Number": "647",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7285993": {
+  "TCGplayer Id": "7285993",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Odric, Master Tactician",
+  "Title": "",
+  "Number": "46",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7293289": {
+  "TCGplayer Id": "7293289",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Burnished Hart",
+  "Title": "",
+  "Number": "373",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7293359": {
+  "TCGplayer Id": "7293359",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Geode Golem",
+  "Title": "",
+  "Number": "386",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7293449": {
+  "TCGplayer Id": "7293449",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Meteor Golem",
+  "Title": "",
+  "Number": "399",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7293704": {
+  "TCGplayer Id": "7293704",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Lightning Greaves",
+  "Title": "",
+  "Number": "398",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7293834": {
+  "TCGplayer Id": "7293834",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Unstable Obelisk",
+  "Title": "",
+  "Number": "416",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7297194": {
+  "TCGplayer Id": "7297194",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Feed the Swarm",
+  "Title": "",
+  "Number": "159",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7297284": {
+  "TCGplayer Id": "7297284",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Spitebellows",
+  "Title": "",
+  "Number": "257",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7297354": {
+  "TCGplayer Id": "7297354",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Cryptic Serpent",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7297484": {
+  "TCGplayer Id": "7297484",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kaho, Minamo Historian",
+  "Title": "",
+  "Number": "101",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7297979": {
+  "TCGplayer Id": "7297979",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Intangible Virtue",
+  "Title": "",
+  "Number": "31",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7298119": {
+  "TCGplayer Id": "7298119",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rampaging Brontodon",
+  "Title": "",
+  "Number": "315",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7298124": {
+  "TCGplayer Id": "7298124",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rampaging Brontodon",
+  "Title": "",
+  "Number": "315",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7298189": {
+  "TCGplayer Id": "7298189",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Molimo, Maro-Sorcerer",
+  "Title": "",
+  "Number": "305",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7298259": {
+  "TCGplayer Id": "7298259",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sunspear Shikari",
+  "Title": "",
+  "Number": "62",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7298329": {
+  "TCGplayer Id": "7298329",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Isareth the Awakener",
+  "Title": "",
+  "Number": "168",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7298399": {
+  "TCGplayer Id": "7298399",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Entourage of Trest",
+  "Title": "",
+  "Number": "285",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7298469": {
+  "TCGplayer Id": "7298469",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Wanderer's Strike",
+  "Title": "",
+  "Number": "69",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7298474": {
+  "TCGplayer Id": "7298474",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Wanderer's Strike",
+  "Title": "",
+  "Number": "69",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7298539": {
+  "TCGplayer Id": "7298539",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Crawling Infestation",
+  "Title": "",
+  "Number": "281",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7298609": {
+  "TCGplayer Id": "7298609",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Supernatural Stamina",
+  "Title": "",
+  "Number": "188",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7298679": {
+  "TCGplayer Id": "7298679",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Slimefoot, the Stowaway",
+  "Title": "",
+  "Number": "356",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7298684": {
+  "TCGplayer Id": "7298684",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Slimefoot, the Stowaway",
+  "Title": "",
+  "Number": "356",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7298749": {
+  "TCGplayer Id": "7298749",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Taigam, Sidisi's Hand",
+  "Title": "",
+  "Number": "357",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7298819": {
+  "TCGplayer Id": "7298819",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Wildwood Scourge",
+  "Title": "",
+  "Number": "332",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7298889": {
+  "TCGplayer Id": "7298889",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Danitha Capashen, Paragon",
+  "Title": "",
+  "Number": "20",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7298959": {
+  "TCGplayer Id": "7298959",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Crash of Rhino Beetles",
+  "Title": "",
+  "Number": "279",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7299089": {
+  "TCGplayer Id": "7299089",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Beanstalk Giant",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7299094": {
+  "TCGplayer Id": "7299094",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Beanstalk Giant",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7299159": {
+  "TCGplayer Id": "7299159",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Frantic Search",
+  "Title": "",
+  "Number": "96",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7299164": {
+  "TCGplayer Id": "7299164",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Frantic Search",
+  "Title": "",
+  "Number": "96",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7299229": {
+  "TCGplayer Id": "7299229",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Pathrazer of Ulamog",
+  "Title": "",
+  "Number": "4",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7299299": {
+  "TCGplayer Id": "7299299",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Final Parting",
+  "Title": "",
+  "Number": "160",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7299369": {
+  "TCGplayer Id": "7299369",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "All That Glitters",
+  "Title": "",
+  "Number": "9",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7299439": {
+  "TCGplayer Id": "7299439",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Courage in Crisis",
+  "Title": "",
+  "Number": "278",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7299444": {
+  "TCGplayer Id": "7299444",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Courage in Crisis",
+  "Title": "",
+  "Number": "278",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7299509": {
+  "TCGplayer Id": "7299509",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Cyclops Electromancer",
+  "Title": "",
+  "Number": "212",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7299514": {
+  "TCGplayer Id": "7299514",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Cyclops Electromancer",
+  "Title": "",
+  "Number": "212",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7299579": {
+  "TCGplayer Id": "7299579",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Counterspell",
+  "Title": "",
+  "Number": "81",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7299584": {
+  "TCGplayer Id": "7299584",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Counterspell",
+  "Title": "",
+  "Number": "81",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7299649": {
+  "TCGplayer Id": "7299649",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Hoarding Dragon",
+  "Title": "",
+  "Number": "233",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7299719": {
+  "TCGplayer Id": "7299719",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Supply Runners",
+  "Title": "",
+  "Number": "63",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7299724": {
+  "TCGplayer Id": "7299724",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Supply Runners",
+  "Title": "",
+  "Number": "63",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7299789": {
+  "TCGplayer Id": "7299789",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Reassembling Skeleton",
+  "Title": "",
+  "Number": "183",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7299859": {
+  "TCGplayer Id": "7299859",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Champion of the Flame",
+  "Title": "",
+  "Number": "210",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7299864": {
+  "TCGplayer Id": "7299864",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Champion of the Flame",
+  "Title": "",
+  "Number": "210",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7299929": {
+  "TCGplayer Id": "7299929",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Elvish Mystic",
+  "Title": "",
+  "Number": "284",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7300009": {
+  "TCGplayer Id": "7300009",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Looter il-Kor",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7300079": {
+  "TCGplayer Id": "7300079",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Crimson Fleet Commodore",
+  "Title": "",
+  "Number": "211",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7300149": {
+  "TCGplayer Id": "7300149",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Akiri, Fearless Voyager",
+  "Title": "",
+  "Number": "335",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7300219": {
+  "TCGplayer Id": "7300219",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Myriad Landscape (Borderless)",
+  "Title": "",
+  "Number": "660",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7300289": {
+  "TCGplayer Id": "7300289",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Serrated Scorpion",
+  "Title": "",
+  "Number": "185",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7300294": {
+  "TCGplayer Id": "7300294",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Serrated Scorpion",
+  "Title": "",
+  "Number": "185",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7300359": {
+  "TCGplayer Id": "7300359",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ram Through",
+  "Title": "",
+  "Number": "314",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7300429": {
+  "TCGplayer Id": "7300429",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Makeshift Munitions",
+  "Title": "",
+  "Number": "242",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7300499": {
+  "TCGplayer Id": "7300499",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Keleth, Sunmane Familiar",
+  "Title": "",
+  "Number": "33",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7300639": {
+  "TCGplayer Id": "7300639",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Animal Magnetism",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7300709": {
+  "TCGplayer Id": "7300709",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Meteoric Mace",
+  "Title": "",
+  "Number": "243",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7300779": {
+  "TCGplayer Id": "7300779",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Deadly Recluse",
+  "Title": "",
+  "Number": "282",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7300849": {
+  "TCGplayer Id": "7300849",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Nadier's Nightblade (Borderless)",
+  "Title": "",
+  "Number": "641",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7300919": {
+  "TCGplayer Id": "7300919",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Priest of the Blood Rite",
+  "Title": "",
+  "Number": "179",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7300989": {
+  "TCGplayer Id": "7300989",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thryx, the Sudden Storm",
+  "Title": "",
+  "Number": "127",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7301059": {
+  "TCGplayer Id": "7301059",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Snakeskin Veil",
+  "Title": "",
+  "Number": "323",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7301129": {
+  "TCGplayer Id": "7301129",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Phyrexian Gargantua",
+  "Title": "",
+  "Number": "178",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7301219": {
+  "TCGplayer Id": "7301219",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Frantic Search (Borderless)",
+  "Title": "",
+  "Number": "632",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7301289": {
+  "TCGplayer Id": "7301289",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Surrak, the Hunt Caller",
+  "Title": "",
+  "Number": "326",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7301359": {
+  "TCGplayer Id": "7301359",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Yahenni, Undying Partisan",
+  "Title": "",
+  "Number": "201",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7301364": {
+  "TCGplayer Id": "7301364",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Yahenni, Undying Partisan",
+  "Title": "",
+  "Number": "201",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7301449": {
+  "TCGplayer Id": "7301449",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Padeem, Consul of Innovation",
+  "Title": "",
+  "Number": "109",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7301519": {
+  "TCGplayer Id": "7301519",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Carrion Grub",
+  "Title": "",
+  "Number": "143",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7301589": {
+  "TCGplayer Id": "7301589",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Raff Capashen, Ship's Mage",
+  "Title": "",
+  "Number": "351",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7301679": {
+  "TCGplayer Id": "7301679",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Path to Exile (Borderless)",
+  "Title": "",
+  "Number": "626",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7301749": {
+  "TCGplayer Id": "7301749",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rorix Bladewing",
+  "Title": "",
+  "Number": "251",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7301839": {
+  "TCGplayer Id": "7301839",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Exclude",
+  "Title": "",
+  "Number": "90",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7301909": {
+  "TCGplayer Id": "7301909",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Loyal Apprentice",
+  "Title": "",
+  "Number": "240",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7301914": {
+  "TCGplayer Id": "7301914",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Loyal Apprentice",
+  "Title": "",
+  "Number": "240",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7301999": {
+  "TCGplayer Id": "7301999",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Myrsmith",
+  "Title": "",
+  "Number": "44",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7302004": {
+  "TCGplayer Id": "7302004",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Myrsmith",
+  "Title": "",
+  "Number": "44",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7302069": {
+  "TCGplayer Id": "7302069",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fierce Empath",
+  "Title": "",
+  "Number": "288",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7302139": {
+  "TCGplayer Id": "7302139",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Tatyova, Benthic Druid (Borderless)",
+  "Title": "",
+  "Number": "687",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7302209": {
+  "TCGplayer Id": "7302209",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Corpse Augur",
+  "Title": "",
+  "Number": "145",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7302299": {
+  "TCGplayer Id": "7302299",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Tuya Bearclaw",
+  "Title": "",
+  "Number": "360",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7302369": {
+  "TCGplayer Id": "7302369",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Spikeshot Goblin",
+  "Title": "",
+  "Number": "256",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7302439": {
+  "TCGplayer Id": "7302439",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ainok Bond-Kin",
+  "Title": "",
+  "Number": "7",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7302509": {
+  "TCGplayer Id": "7302509",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fungal Plots",
+  "Title": "",
+  "Number": "291",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7302579": {
+  "TCGplayer Id": "7302579",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Faithless Looting (Borderless)",
+  "Title": "",
+  "Number": "642",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7302649": {
+  "TCGplayer Id": "7302649",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Goreclaw, Terror of Qal Sisma",
+  "Title": "",
+  "Number": "293",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7302719": {
+  "TCGplayer Id": "7302719",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Return to Dust",
+  "Title": "",
+  "Number": "52",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7302789": {
+  "TCGplayer Id": "7302789",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Aryel, Knight of Windgrace",
+  "Title": "",
+  "Number": "336",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7302859": {
+  "TCGplayer Id": "7302859",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Generous Gift (Borderless)",
+  "Title": "",
+  "Number": "624",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7302929": {
+  "TCGplayer Id": "7302929",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Subira, Tulzidi Caravanner",
+  "Title": "",
+  "Number": "261",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7302934": {
+  "TCGplayer Id": "7302934",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Subira, Tulzidi Caravanner",
+  "Title": "",
+  "Number": "261",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7302999": {
+  "TCGplayer Id": "7302999",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Whirler Rogue",
+  "Title": "",
+  "Number": "132",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7303069": {
+  "TCGplayer Id": "7303069",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Abundant Harvest",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7303209": {
+  "TCGplayer Id": "7303209",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Drown in Sorrow",
+  "Title": "",
+  "Number": "154",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7303279": {
+  "TCGplayer Id": "7303279",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Acidic Slime",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7303349": {
+  "TCGplayer Id": "7303349",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fencing Ace",
+  "Title": "",
+  "Number": "23",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7303419": {
+  "TCGplayer Id": "7303419",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Elvish Mystic (Borderless)",
+  "Title": "",
+  "Number": "648",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7303489": {
+  "TCGplayer Id": "7303489",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Pollenbright Druid",
+  "Title": "",
+  "Number": "312",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7303559": {
+  "TCGplayer Id": "7303559",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Palace Sentinels",
+  "Title": "",
+  "Number": "48",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7303629": {
+  "TCGplayer Id": "7303629",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Palace Jailer",
+  "Title": "",
+  "Number": "47",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7303709": {
+  "TCGplayer Id": "7303709",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Carrier Thrall",
+  "Title": "",
+  "Number": "142",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7303779": {
+  "TCGplayer Id": "7303779",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "All That Glitters (Borderless)",
+  "Title": "",
+  "Number": "622",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7303859": {
+  "TCGplayer Id": "7303859",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Prophetic Prism",
+  "Title": "",
+  "Number": "404",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7303889": {
+  "TCGplayer Id": "7303889",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Dread Return (Borderless)",
+  "Title": "",
+  "Number": "637",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7303959": {
+  "TCGplayer Id": "7303959",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Murmuring Mystic",
+  "Title": "",
+  "Number": "107",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7304044": {
+  "TCGplayer Id": "7304044",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Commander's Sphere (Borderless)",
+  "Title": "",
+  "Number": "655",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7304119": {
+  "TCGplayer Id": "7304119",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Predatory Rampage",
+  "Title": "",
+  "Number": "313",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7304189": {
+  "TCGplayer Id": "7304189",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Captain Ripley Vance",
+  "Title": "",
+  "Number": "209",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7304269": {
+  "TCGplayer Id": "7304269",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Vizier of Tumbling Sands",
+  "Title": "",
+  "Number": "131",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7304349": {
+  "TCGplayer Id": "7304349",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Return to Dust (Borderless)",
+  "Title": "",
+  "Number": "628",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7304419": {
+  "TCGplayer Id": "7304419",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Kozilek's Predator",
+  "Title": "",
+  "Number": "301",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7304509": {
+  "TCGplayer Id": "7304509",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Reverse Engineer",
+  "Title": "",
+  "Number": "116",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7304579": {
+  "TCGplayer Id": "7304579",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Counterspell (Borderless)",
+  "Title": "",
+  "Number": "630",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7304649": {
+  "TCGplayer Id": "7304649",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Legion Vanguard",
+  "Title": "",
+  "Number": "170",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7304714": {
+  "TCGplayer Id": "7304714",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Mowu, Loyal Companion",
+  "Title": "",
+  "Number": "306",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7304784": {
+  "TCGplayer Id": "7304784",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sandstone Oracle",
+  "Title": "",
+  "Number": "406",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7304804": {
+  "TCGplayer Id": "7304804",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Murder of Crows",
+  "Title": "",
+  "Number": "106",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7304874": {
+  "TCGplayer Id": "7304874",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Goremand",
+  "Title": "",
+  "Number": "163",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7304959": {
+  "TCGplayer Id": "7304959",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Jade Mage",
+  "Title": "",
+  "Number": "298",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7305034": {
+  "TCGplayer Id": "7305034",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thought Vessel",
+  "Title": "",
+  "Number": "414",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7305054": {
+  "TCGplayer Id": "7305054",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Dread Return",
+  "Title": "",
+  "Number": "153",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7305119": {
+  "TCGplayer Id": "7305119",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Tatyova, Benthic Druid",
+  "Title": "",
+  "Number": "358",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7305204": {
+  "TCGplayer Id": "7305204",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rise from the Tides",
+  "Title": "",
+  "Number": "117",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7305279": {
+  "TCGplayer Id": "7305279",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Campfire",
+  "Title": "",
+  "Number": "374",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7305299": {
+  "TCGplayer Id": "7305299",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Krosan Tusker",
+  "Title": "",
+  "Number": "302",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7305389": {
+  "TCGplayer Id": "7305389",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Dwarven Hammer",
+  "Title": "",
+  "Number": "219",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "7305469": {
+  "TCGplayer Id": "7305469",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Hunter's Insight",
+  "Title": "",
+  "Number": "296",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7305549": {
+  "TCGplayer Id": "7305549",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Letter of Acceptance",
+  "Title": "",
+  "Number": "397",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7305569": {
+  "TCGplayer Id": "7305569",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Renowned Weaponsmith",
+  "Title": "",
+  "Number": "114",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7305574": {
+  "TCGplayer Id": "7305574",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Renowned Weaponsmith",
+  "Title": "",
+  "Number": "114",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7305649": {
+  "TCGplayer Id": "7305649",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Twisted Abomination",
+  "Title": "",
+  "Number": "194",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7305729": {
+  "TCGplayer Id": "7305729",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rot Shambler",
+  "Title": "",
+  "Number": "318",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7305819": {
+  "TCGplayer Id": "7305819",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Custodi Squire",
+  "Title": "",
+  "Number": "19",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7305899": {
+  "TCGplayer Id": "7305899",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Dragon Fodder",
+  "Title": "",
+  "Number": "217",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7305969": {
+  "TCGplayer Id": "7305969",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Vulshok Battlegear",
+  "Title": "",
+  "Number": "418",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7306019": {
+  "TCGplayer Id": "7306019",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thraben Inspector",
+  "Title": "",
+  "Number": "66",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7306094": {
+  "TCGplayer Id": "7306094",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Feast of Succession",
+  "Title": "",
+  "Number": "158",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7306169": {
+  "TCGplayer Id": "7306169",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Furious Rise",
+  "Title": "",
+  "Number": "225",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7306239": {
+  "TCGplayer Id": "7306239",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Judith, the Scourge Diva",
+  "Title": "",
+  "Number": "341",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7306309": {
+  "TCGplayer Id": "7306309",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Windcaller Aven",
+  "Title": "",
+  "Number": "133",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7306314": {
+  "TCGplayer Id": "7306314",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Windcaller Aven",
+  "Title": "",
+  "Number": "133",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7306389": {
+  "TCGplayer Id": "7306389",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Armorcraft Judge",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7306394": {
+  "TCGplayer Id": "7306394",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Armorcraft Judge",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7306464": {
+  "TCGplayer Id": "7306464",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Squee, Goblin Nabob",
+  "Title": "",
+  "Number": "258",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7306589": {
+  "TCGplayer Id": "7306589",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Loyal Guardian",
+  "Title": "",
+  "Number": "304",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7306604": {
+  "TCGplayer Id": "7306604",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Aether Gale",
+  "Title": "",
+  "Number": "72",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7306674": {
+  "TCGplayer Id": "7306674",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Melek, Izzet Paragon",
+  "Title": "",
+  "Number": "345",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7306759": {
+  "TCGplayer Id": "7306759",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Efficient Construction",
+  "Title": "",
+  "Number": "88",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7306764": {
+  "TCGplayer Id": "7306764",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Efficient Construction",
+  "Title": "",
+  "Number": "88",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7306854": {
+  "TCGplayer Id": "7306854",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eternal Witness",
+  "Title": "",
+  "Number": "286",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7306924": {
+  "TCGplayer Id": "7306924",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Heartless Act",
+  "Title": "",
+  "Number": "166",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7307054": {
+  "TCGplayer Id": "7307054",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Broken Wings",
+  "Title": "",
+  "Number": "277",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7307139": {
+  "TCGplayer Id": "7307139",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Mire Triton",
+  "Title": "",
+  "Number": "174",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7307209": {
+  "TCGplayer Id": "7307209",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Tuskguard Captain",
+  "Title": "",
+  "Number": "328",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7307344": {
+  "TCGplayer Id": "7307344",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Anax, Hardened in the Forge",
+  "Title": "",
+  "Number": "204",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7307459": {
+  "TCGplayer Id": "7307459",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ghost of Ramirez DePietro",
+  "Title": "",
+  "Number": "97",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7307564": {
+  "TCGplayer Id": "7307564",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Verdeloth the Ancient",
+  "Title": "",
+  "Number": "330",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7307679": {
+  "TCGplayer Id": "7307679",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Cadaver Imp",
+  "Title": "",
+  "Number": "141",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7307684": {
+  "TCGplayer Id": "7307684",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Cadaver Imp",
+  "Title": "",
+  "Number": "141",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7307759": {
+  "TCGplayer Id": "7307759",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Losheel, Clockwork Scholar",
+  "Title": "",
+  "Number": "38",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7307764": {
+  "TCGplayer Id": "7307764",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Losheel, Clockwork Scholar",
+  "Title": "",
+  "Number": "38",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7307829": {
+  "TCGplayer Id": "7307829",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Oviya Pashiri, Sage Lifecrafter",
+  "Title": "",
+  "Number": "311",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7307934": {
+  "TCGplayer Id": "7307934",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Yedora, Grave Gardener",
+  "Title": "",
+  "Number": "333",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7308004": {
+  "TCGplayer Id": "7308004",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ravaging Blaze",
+  "Title": "",
+  "Number": "250",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7308074": {
+  "TCGplayer Id": "7308074",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Resculpt",
+  "Title": "",
+  "Number": "115",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7308079": {
+  "TCGplayer Id": "7308079",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Resculpt",
+  "Title": "",
+  "Number": "115",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7308194": {
+  "TCGplayer Id": "7308194",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Skysnare Spider",
+  "Title": "",
+  "Number": "322",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7308264": {
+  "TCGplayer Id": "7308264",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Living Lightning",
+  "Title": "",
+  "Number": "239",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7308334": {
+  "TCGplayer Id": "7308334",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Inga Rune-Eyes",
+  "Title": "",
+  "Number": "100",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7308404": {
+  "TCGplayer Id": "7308404",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Bastion of Remembrance",
+  "Title": "",
+  "Number": "138",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7308489": {
+  "TCGplayer Id": "7308489",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Nemata, Grove Guardian",
+  "Title": "",
+  "Number": "307",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7308604": {
+  "TCGplayer Id": "7308604",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Dread Drone",
+  "Title": "",
+  "Number": "152",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7308609": {
+  "TCGplayer Id": "7308609",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Dread Drone",
+  "Title": "",
+  "Number": "152",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7308689": {
+  "TCGplayer Id": "7308689",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Knighted Myr",
+  "Title": "",
+  "Number": "36",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7308694": {
+  "TCGplayer Id": "7308694",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Knighted Myr",
+  "Title": "",
+  "Number": "36",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7308759": {
+  "TCGplayer Id": "7308759",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Gonti, Lord of Luxury",
+  "Title": "",
+  "Number": "162",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7308884": {
+  "TCGplayer Id": "7308884",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Gorex, the Tombshell",
+  "Title": "",
+  "Number": "164",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7309079": {
+  "TCGplayer Id": "7309079",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Goliath Sphinx",
+  "Title": "",
+  "Number": "99",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7309149": {
+  "TCGplayer Id": "7309149",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Vulshok Battlegear",
+  "Title": "",
+  "Number": "418",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7309209": {
+  "TCGplayer Id": "7309209",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rapacious Dragon",
+  "Title": "",
+  "Number": "248",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7309304": {
+  "TCGplayer Id": "7309304",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Witch's Cauldron",
+  "Title": "",
+  "Number": "199",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7309404": {
+  "TCGplayer Id": "7309404",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Nadier's Nightblade",
+  "Title": "",
+  "Number": "175",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7309514": {
+  "TCGplayer Id": "7309514",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Temur Battle Rage",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7309789": {
+  "TCGplayer Id": "7309789",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Rapacious One",
+  "Title": "",
+  "Number": "249",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7309959": {
+  "TCGplayer Id": "7309959",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Teshar, Ancestor's Apostle",
+  "Title": "",
+  "Number": "65",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7310209": {
+  "TCGplayer Id": "7310209",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fall from Favor",
+  "Title": "",
+  "Number": "93",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7310369": {
+  "TCGplayer Id": "7310369",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Pilgrim's Eye",
+  "Title": "",
+  "Number": "402",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7310449": {
+  "TCGplayer Id": "7310449",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ghostly Flicker",
+  "Title": "",
+  "Number": "98",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7310639": {
+  "TCGplayer Id": "7310639",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Cabal Patriarch",
+  "Title": "",
+  "Number": "140",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7310644": {
+  "TCGplayer Id": "7310644",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Cabal Patriarch",
+  "Title": "",
+  "Number": "140",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7310754": {
+  "TCGplayer Id": "7310754",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Swift Response",
+  "Title": "",
+  "Number": "64",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7310879": {
+  "TCGplayer Id": "7310879",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Havoc Jester",
+  "Title": "",
+  "Number": "230",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7311004": {
+  "TCGplayer Id": "7311004",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Opal Palace",
+  "Title": "",
+  "Number": "422",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7311079": {
+  "TCGplayer Id": "7311079",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Coveted Peacock",
+  "Title": "",
+  "Number": "82",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7311324": {
+  "TCGplayer Id": "7311324",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Haunted Cloak",
+  "Title": "",
+  "Number": "389",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7311429": {
+  "TCGplayer Id": "7311429",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Alharu, Solemn Ritualist",
+  "Title": "",
+  "Number": "8",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7311534": {
+  "TCGplayer Id": "7311534",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Victimize",
+  "Title": "",
+  "Number": "195",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7311639": {
+  "TCGplayer Id": "7311639",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Shimmer Myr",
+  "Title": "",
+  "Number": "409",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7311779": {
+  "TCGplayer Id": "7311779",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Demon's Disciple",
+  "Title": "",
+  "Number": "149",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7311969": {
+  "TCGplayer Id": "7311969",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Loyal Drake",
+  "Title": "",
+  "Number": "104",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7312074": {
+  "TCGplayer Id": "7312074",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Slice and Dice",
+  "Title": "",
+  "Number": "255",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7312079": {
+  "TCGplayer Id": "7312079",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Slice and Dice",
+  "Title": "",
+  "Number": "255",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7312214": {
+  "TCGplayer Id": "7312214",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Skyline Despot",
+  "Title": "",
+  "Number": "254",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7312219": {
+  "TCGplayer Id": "7312219",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Skyline Despot",
+  "Title": "",
+  "Number": "254",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7312389": {
+  "TCGplayer Id": "7312389",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Deranged Assistant",
+  "Title": "",
+  "Number": "87",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7312494": {
+  "TCGplayer Id": "7312494",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Impulsive Pilferer",
+  "Title": "",
+  "Number": "234",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7312634": {
+  "TCGplayer Id": "7312634",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Read the Bones",
+  "Title": "",
+  "Number": "182",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7312774": {
+  "TCGplayer Id": "7312774",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Tetsuko Umezawa, Fugitive",
+  "Title": "",
+  "Number": "126",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7312889": {
+  "TCGplayer Id": "7312889",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Frontier Warmonger",
+  "Title": "",
+  "Number": "224",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7312994": {
+  "TCGplayer Id": "7312994",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sulfurous Blast",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7313139": {
+  "TCGplayer Id": "7313139",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Shirei, Shizo's Caretaker",
+  "Title": "",
+  "Number": "186",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7313144": {
+  "TCGplayer Id": "7313144",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Shirei, Shizo's Caretaker",
+  "Title": "",
+  "Number": "186",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7313209": {
+  "TCGplayer Id": "7313209",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Unbounded Potential",
+  "Title": "",
+  "Number": "67",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7313314": {
+  "TCGplayer Id": "7313314",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Generous Gift",
+  "Title": "",
+  "Number": "26",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7313454": {
+  "TCGplayer Id": "7313454",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Lotleth Giant",
+  "Title": "",
+  "Number": "171",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7313569": {
+  "TCGplayer Id": "7313569",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Spectral Searchlight",
+  "Title": "",
+  "Number": "411",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7313674": {
+  "TCGplayer Id": "7313674",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Abrade",
+  "Title": "",
+  "Number": "203",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7313789": {
+  "TCGplayer Id": "7313789",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Guttersnipe",
+  "Title": "",
+  "Number": "229",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7313859": {
+  "TCGplayer Id": "7313859",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Terramorphic Expanse",
+  "Title": "",
+  "Number": "428",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7313929": {
+  "TCGplayer Id": "7313929",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Gavony Silversmith",
+  "Title": "",
+  "Number": "25",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7313999": {
+  "TCGplayer Id": "7313999",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Faithless Looting",
+  "Title": "",
+  "Number": "220",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7314069": {
+  "TCGplayer Id": "7314069",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Vial of Dragonfire",
+  "Title": "",
+  "Number": "417",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7314074": {
+  "TCGplayer Id": "7314074",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Vial of Dragonfire",
+  "Title": "",
+  "Number": "417",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7314149": {
+  "TCGplayer Id": "7314149",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Assault Suit",
+  "Title": "",
+  "Number": "369",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7314154": {
+  "TCGplayer Id": "7314154",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Assault Suit",
+  "Title": "",
+  "Number": "369",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7314219": {
+  "TCGplayer Id": "7314219",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Loyal Subordinate",
+  "Title": "",
+  "Number": "172",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7314289": {
+  "TCGplayer Id": "7314289",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Bonder's Ornament",
+  "Title": "",
+  "Number": "370",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7314359": {
+  "TCGplayer Id": "7314359",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Heart-Piercer Bow",
+  "Title": "",
+  "Number": "390",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7314364": {
+  "TCGplayer Id": "7314364",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Heart-Piercer Bow",
+  "Title": "",
+  "Number": "390",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7314429": {
+  "TCGplayer Id": "7314429",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Deep Analysis",
+  "Title": "",
+  "Number": "86",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7314509": {
+  "TCGplayer Id": "7314509",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Tragic Slip",
+  "Title": "",
+  "Number": "192",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7314579": {
+  "TCGplayer Id": "7314579",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Staunch Throneguard",
+  "Title": "",
+  "Number": "412",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7314584": {
+  "TCGplayer Id": "7314584",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Staunch Throneguard",
+  "Title": "",
+  "Number": "412",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7314649": {
+  "TCGplayer Id": "7314649",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Taborax, Hope's Demise",
+  "Title": "",
+  "Number": "189",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7314729": {
+  "TCGplayer Id": "7314729",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Hero's Blade",
+  "Title": "",
+  "Number": "391",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7314799": {
+  "TCGplayer Id": "7314799",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ministrant of Obligation",
+  "Title": "",
+  "Number": "43",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7314869": {
+  "TCGplayer Id": "7314869",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Whisper, Blood Liturgist",
+  "Title": "",
+  "Number": "198",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7314939": {
+  "TCGplayer Id": "7314939",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Witching Well",
+  "Title": "",
+  "Number": "135",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7315009": {
+  "TCGplayer Id": "7315009",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Darksteel Ingot",
+  "Title": "",
+  "Number": "378",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7315079": {
+  "TCGplayer Id": "7315079",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Gargadon",
+  "Title": "",
+  "Number": "226",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7315159": {
+  "TCGplayer Id": "7315159",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ancestral Blade",
+  "Title": "",
+  "Number": "12",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7315164": {
+  "TCGplayer Id": "7315164",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ancestral Blade",
+  "Title": "",
+  "Number": "12",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7315229": {
+  "TCGplayer Id": "7315229",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fiendlash",
+  "Title": "",
+  "Number": "221",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7315299": {
+  "TCGplayer Id": "7315299",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Prismatic Lens",
+  "Title": "",
+  "Number": "403",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7315369": {
+  "TCGplayer Id": "7315369",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Myr Sire",
+  "Title": "",
+  "Number": "400",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7315489": {
+  "TCGplayer Id": "7315489",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thorn of the Black Rose",
+  "Title": "",
+  "Number": "190",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7315494": {
+  "TCGplayer Id": "7315494",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thorn of the Black Rose",
+  "Title": "",
+  "Number": "190",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7315559": {
+  "TCGplayer Id": "7315559",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Mace of the Valiant",
+  "Title": "",
+  "Number": "41",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7315564": {
+  "TCGplayer Id": "7315564",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Mace of the Valiant",
+  "Title": "",
+  "Number": "41",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7315639": {
+  "TCGplayer Id": "7315639",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Forebear's Blade",
+  "Title": "",
+  "Number": "384",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7315644": {
+  "TCGplayer Id": "7315644",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Forebear's Blade",
+  "Title": "",
+  "Number": "384",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7315709": {
+  "TCGplayer Id": "7315709",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Foundry Inspector",
+  "Title": "",
+  "Number": "385",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7315789": {
+  "TCGplayer Id": "7315789",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Commander's Sphere",
+  "Title": "",
+  "Number": "377",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7315859": {
+  "TCGplayer Id": "7315859",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Loyal Unicorn",
+  "Title": "",
+  "Number": "40",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7315929": {
+  "TCGplayer Id": "7315929",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Zahid, Djinn of the Lamp",
+  "Title": "",
+  "Number": "136",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7315999": {
+  "TCGplayer Id": "7315999",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Firemind Vessel",
+  "Title": "",
+  "Number": "383",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7316069": {
+  "TCGplayer Id": "7316069",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Phyrexian Ingester",
+  "Title": "",
+  "Number": "111",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7316234": {
+  "TCGplayer Id": "7316234",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Tromokratis",
+  "Title": "",
+  "Number": "129",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7316304": {
+  "TCGplayer Id": "7316304",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Explorer's Scope",
+  "Title": "",
+  "Number": "380",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "7316375": {
+  "TCGplayer Id": "7316375",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Filigree Attendant",
+  "Title": "",
+  "Number": "95",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "7316445": {
+  "TCGplayer Id": "7316445",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Herald of the Host",
+  "Title": "",
+  "Number": "30",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7316515": {
+  "TCGplayer Id": "7316515",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Sunblade Angel",
+  "Title": "",
+  "Number": "61",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7316585": {
+  "TCGplayer Id": "7316585",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Portal Mage",
+  "Title": "",
+  "Number": "112",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7316590": {
+  "TCGplayer Id": "7316590",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Portal Mage",
+  "Title": "",
+  "Number": "112",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7316655": {
+  "TCGplayer Id": "7316655",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Spectral Grasp",
+  "Title": "",
+  "Number": "58",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7316660": {
+  "TCGplayer Id": "7316660",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Spectral Grasp",
+  "Title": "",
+  "Number": "58",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7316725": {
+  "TCGplayer Id": "7316725",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Baird, Steward of Argive",
+  "Title": "",
+  "Number": "15",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7316795": {
+  "TCGplayer Id": "7316795",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Brinelin, the Moon Kraken",
+  "Title": "",
+  "Number": "78",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7316865": {
+  "TCGplayer Id": "7316865",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Shipwreck Dowser",
+  "Title": "",
+  "Number": "119",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "7316870": {
+  "TCGplayer Id": "7316870",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Shipwreck Dowser",
+  "Title": "",
+  "Number": "119",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7316935": {
+  "TCGplayer Id": "7316935",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Zada, Hedron Grinder",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7338444": {
+  "TCGplayer Id": "7338444",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Fists of Flame",
+  "Title": "",
+  "Number": "223",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7338484": {
+  "TCGplayer Id": "7338484",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Valduk, Keeper of the Flame",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "7338864": {
+  "TCGplayer Id": "7338864",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Ash Barrens",
+  "Title": "",
+  "Number": "419",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7338884": {
+  "TCGplayer Id": "7338884",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Myriad Landscape",
+  "Title": "",
+  "Number": "421",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "16": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7340777": {
+  "TCGplayer Id": "7340777",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Spawn // Dragon Egg Double-Sided Token",
+  "Title": "",
+  "Number": "3 // 22",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7341258": {
+  "TCGplayer Id": "7341258",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Elemental (0024) // Phyrexian Beast Double-Sided Token",
+  "Title": "",
+  "Number": "24 // 34",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7341614": {
+  "TCGplayer Id": "7341614",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Saproling // Rat Double-Sided Token",
+  "Title": "",
+  "Number": "35 // 17",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7341789": {
+  "TCGplayer Id": "7341789",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Servo // Ogre Double-Sided Token",
+  "Title": "",
+  "Number": "45 // 28",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7342074": {
+  "TCGplayer Id": "7342074",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Spirit (0010) // Drake Double-Sided Token",
+  "Title": "",
+  "Number": "10 // 12",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7342634": {
+  "TCGplayer Id": "7342634",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Treasure // Bird Illusion Double-Sided Token",
+  "Title": "",
+  "Number": "48 // 11",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7342774": {
+  "TCGplayer Id": "7342774",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Treasure // Goblin Double-Sided Token",
+  "Title": "",
+  "Number": "48 // 27",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7344025": {
+  "TCGplayer Id": "7344025",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi // Elemental (0037) Double-Sided Token",
+  "Title": "",
+  "Number": "1 // 37",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7344575": {
+  "TCGplayer Id": "7344575",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Elemental (0026) // Cat (0030) Double-Sided Token",
+  "Title": "",
+  "Number": "26 // 30",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7344710": {
+  "TCGplayer Id": "7344710",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Human Soldier // Zombie (0013) Double-Sided Token",
+  "Title": "",
+  "Number": "6 // 13",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7344895": {
+  "TCGplayer Id": "7344895",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Servo // Zombie (0013) Double-Sided Token",
+  "Title": "",
+  "Number": "45 // 13",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7353143": {
+  "TCGplayer Id": "7353143",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Spawn // Spider Double-Sided Token",
+  "Title": "",
+  "Number": "3 // 36",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7353178": {
+  "TCGplayer Id": "7353178",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Human Soldier // Phyrexian Myr Double-Sided Token",
+  "Title": "",
+  "Number": "6 // 44",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7407671": {
+  "TCGplayer Id": "7407671",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Zombie (0019) // Assassin Double-Sided Token",
+  "Title": "",
+  "Number": "19 // 14",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7407719": {
+  "TCGplayer Id": "7407719",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Bird // Demon Double-Sided Token",
+  "Title": "",
+  "Number": "4 // 15",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7407754": {
+  "TCGplayer Id": "7407754",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Scion // Construct (0041) Double-Sided Token",
+  "Title": "",
+  "Number": "2 // 41",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7407789": {
+  "TCGplayer Id": "7407789",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Scion // Construct (0042) Double-Sided Token",
+  "Title": "",
+  "Number": "2 // 42",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7407859": {
+  "TCGplayer Id": "7407859",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi // Phyrexian Beast Double-Sided Token",
+  "Title": "",
+  "Number": "1 // 34",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7407929": {
+  "TCGplayer Id": "7407929",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Bird // Goblin Double-Sided Token",
+  "Title": "",
+  "Number": "4 // 27",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7407964": {
+  "TCGplayer Id": "7407964",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "City's Blessing // Phyrexian Myr Double-Sided Token",
+  "Title": "",
+  "Number": "49 // 44",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7408034": {
+  "TCGplayer Id": "7408034",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Servo // Phyrexian Beast Double-Sided Token",
+  "Title": "",
+  "Number": "45 // 34",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7408069": {
+  "TCGplayer Id": "7408069",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Soldier // Rat Double-Sided Token",
+  "Title": "",
+  "Number": "9 // 17",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7408104": {
+  "TCGplayer Id": "7408104",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Spirit (0039) // Elf Druid Double-Sided Token",
+  "Title": "",
+  "Number": "39 // 32",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7408174": {
+  "TCGplayer Id": "7408174",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "The Monarch // Emblem - Ob Nixilis of the Black Oath Double-Sided Token",
+  "Title": "",
+  "Number": "50 // 52",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7408209": {
+  "TCGplayer Id": "7408209",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Treasure // Drake Double-Sided Token",
+  "Title": "",
+  "Number": "48 // 12",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7408244": {
+  "TCGplayer Id": "7408244",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Treasure // Thrull Double-Sided Token",
+  "Title": "",
+  "Number": "48 // 18",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7422282": {
+  "TCGplayer Id": "7422282",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Spawn // Rat Double-Sided Token",
+  "Title": "",
+  "Number": "3 // 17",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7422372": {
+  "TCGplayer Id": "7422372",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Soldier // Elephant Double-Sided Token",
+  "Title": "",
+  "Number": "9 // 31",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7422437": {
+  "TCGplayer Id": "7422437",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Spirit (0039) // Spider Double-Sided Token",
+  "Title": "",
+  "Number": "39 // 36",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7422492": {
+  "TCGplayer Id": "7422492",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Clue // Elephant Double-Sided Token",
+  "Title": "",
+  "Number": "40 // 31",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7422532": {
+  "TCGplayer Id": "7422532",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Scion // Satyr Double-Sided Token",
+  "Title": "",
+  "Number": "2 // 29",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7427943": {
+  "TCGplayer Id": "7427943",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Spawn // Demon Double-Sided Token",
+  "Title": "",
+  "Number": "3 // 15",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7427978": {
+  "TCGplayer Id": "7427978",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Spawn // Dragon (0021) Double-Sided Token",
+  "Title": "",
+  "Number": "3 // 21",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7428058": {
+  "TCGplayer Id": "7428058",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Servo // Stoneforged Blade Double-Sided Token",
+  "Title": "",
+  "Number": "45 // 46",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7437854": {
+  "TCGplayer Id": "7437854",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Soldier // Kor Soldier Double-sided Token",
+  "Title": "",
+  "Number": "9 // 8",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "7437859": {
+  "TCGplayer Id": "7437859",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Saproling // Goblin Double-sided Token",
+  "Title": "",
+  "Number": "35 // 27",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7437864": {
+  "TCGplayer Id": "7437864",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Clue // Emblem - Teferi, Temporal Archmage Double-sided Token",
+  "Title": "",
+  "Number": "40 // 53",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
  "7438019": {
   "TCGplayer Id": "7438019",
   "Product Line": "Magic",
@@ -164393,6 +171893,231 @@
   "Boxes": {
    "8": {
     "Near Mint Foil": 1
+   }
+  }
+ },
+ "7720888": {
+  "TCGplayer Id": "7720888",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi // Cat (0030) Double-Sided Token",
+  "Title": "",
+  "Number": "1 // 30",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7720913": {
+  "TCGplayer Id": "7720913",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Spawn // Phyrexian Germ Double-Sided Token",
+  "Title": "",
+  "Number": "3 // 16",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7720943": {
+  "TCGplayer Id": "7720943",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Elemental (0026) // Construct (0042) Double-Sided Token",
+  "Title": "",
+  "Number": "26 // 42",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7721104": {
+  "TCGplayer Id": "7721104",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Clue // Construct (0041) Double-Sided Token",
+  "Title": "",
+  "Number": "40 // 41",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7721174": {
+  "TCGplayer Id": "7721174",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi // Knight Double-Sided Token",
+  "Title": "",
+  "Number": "1 // 7",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7721204": {
+  "TCGplayer Id": "7721204",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Eldrazi Scion // Drake Double-Sided Token",
+  "Title": "",
+  "Number": "2 // 12",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7721344": {
+  "TCGplayer Id": "7721344",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Elemental (0024) // Phyrexian Germ Double-Sided Token",
+  "Title": "",
+  "Number": "24 // 16",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7721439": {
+  "TCGplayer Id": "7721439",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Human Soldier // Elemental (0025) Double-Sided Token",
+  "Title": "",
+  "Number": "6 // 25",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7721464": {
+  "TCGplayer Id": "7721464",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Human Soldier // Knight Double-Sided Token",
+  "Title": "",
+  "Number": "6 // 7",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7721499": {
+  "TCGplayer Id": "7721499",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Saproling // Dragon (0021) Double-Sided Token",
+  "Title": "",
+  "Number": "35 // 21",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7721539": {
+  "TCGplayer Id": "7721539",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Spirit (0010) // Graveborn Double-Sided Token",
+  "Title": "",
+  "Number": "10 // 38",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7721625": {
+  "TCGplayer Id": "7721625",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "The Monarch // Dwarf Berserker Double-Sided Token",
+  "Title": "",
+  "Number": "50 // 23",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7721682": {
+  "TCGplayer Id": "7721682",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Thopter // Elemental (0025) Double-Sided Token",
+  "Title": "",
+  "Number": "47 // 25",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7721712": {
+  "TCGplayer Id": "7721712",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Treasure // Cat (0005) Double-Sided Token",
+  "Title": "",
+  "Number": "48 // 5",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "7721802": {
+  "TCGplayer Id": "7721802",
+  "Product Line": "Magic",
+  "Set Name": "Commander Masters",
+  "Product Name": "Zombie (0019) // Kor Soldier Double-Sided Token",
+  "Title": "",
+  "Number": "19 // 8",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "16": {
+    "Near Mint": 2
    }
   }
  },
