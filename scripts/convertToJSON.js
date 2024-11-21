@@ -203,12 +203,12 @@ function generateShipping() {
  */
 
 //generate pull sheet, write to csv and remove the data from the data object
-// generatePullSheet().then((pullData) => {
-//     writePullSheetCSV(pullData);
-//     removeFromData(pullData);
-//     writeToDataFile(data);
-// });
+generatePullSheet().then((pullData) => {
+    writePullSheetCSV(pullData);
+    removeFromData(pullData);
+    writeToDataFile(data);
+});
 
 
 // generate shipping pdf, grabs whichever shipping file is in /shipping and spits out a pdf to /shippingOutput
-// generateShipping();
+generateShipping();
