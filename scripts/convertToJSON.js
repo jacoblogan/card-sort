@@ -3,12 +3,14 @@ const path = require('path');
 const csv=require('csvtojson')
 const data = require('../data/myData.json');
 const PDFDocument = require("pdfkit");
+const PDFTable = require('pdfkit-table');
 const csv2 = require("csv-parser");
 
 const dataFileName = './data/myData.json';
 const pullFolder = './data/pull';
 const addFolder = './data/add';
 const pullSheetLocation = './data/csv/pullSheet.csv';
+const pullPDF = './data/csv/pullSheet.pdf';
 const results = [];
 const shippingFolder = './data/shipping';
 const shippingOutputFolder = './data/shippingOutput';
@@ -154,6 +156,89 @@ function writePullSheetCSV(pullData) {
     fs.writeFileSync(pullSheetLocation, csvLines.join('\n'), 'utf-8');
 }
 
+function writePDFPullTable(pullData) {
+    const rows = [];
+    const boxes = Object.keys(pullData);
+    boxes.forEach((boxNumber) => {
+        const cardIds = Object.keys(pullData[boxNumber]);
+        let unsortedData = [];
+        cardIds.forEach((cid) => {
+            cardData = pullData[boxNumber][cid];
+            unsortedData.push(cardData);
+        });
+        const sortedData = unsortedData.sort((a,b) => {
+            if(a['set'].localeCompare(b['set']) !== 0){
+                return a['set'].localeCompare(b['set']);
+            }
+            var textA = a['name'].toUpperCase();
+            var textB = b['name'].toUpperCase();
+            return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+        });
+        sortedData.forEach((cardData) => {
+            rows.push([boxNumber,cardData['name'],cardData['quantity'],cardData['condition'],cardData['set'],cardData['number']]);
+        });
+    });
+
+    // Create a new PDF document
+    const doc = new PDFTable({ 
+        size: 'letter', 
+        layout: 'portrait',
+        margins: { top: 36, bottom: 36, left: 36, right: 36 } // 0.5 inch margins
+    });
+    doc.pipe(fs.createWriteStream(pullPDF));
+
+    // Define table headers and data
+    const headers = ['Box','Name','Quantity','Condition','Set','Number'];
+    const pdfRows = rows;
+    // Calculate available width and height for the table
+    const pageWidth = doc.page.width - doc.page.margins.left - doc.page.margins.right;
+    const pageHeight = doc.page.height - doc.page.margins.top - doc.page.margins.bottom;
+
+    const columnWidths = {
+        0: 30,
+        1: (pageWidth-205)/2,
+        2: 50,
+        3: 75,
+        4: (pageWidth-205)/2,
+        5: 50
+    };
+    // Create table with alternating row colors
+    const table = {
+        headers: headers.map((header, idx) => {
+            const retVal = { label: header, property: header };
+            if(columnWidths[idx]){
+                retVal.width = columnWidths[idx];
+            }
+            return retVal;
+        }),
+        rows: pdfRows,
+        options: {
+            prepareHeader: () => doc.font("Helvetica-Bold").fontSize(8).fillColor('black'),
+            prepareRow: (row, indexColumn, indexRow, rectRow) => {
+                doc.font("Helvetica").fontSize(11).fillColor('black');
+                if (indexRow % 2 === 0) {
+                    doc.addBackground(rectRow, 'lightgray');
+                }
+            },
+            padding: 5,
+            columnSpacing: 5,
+            width: pageWidth,
+            x: doc.page.margins.left,
+            y: doc.page.margins.top
+        }
+    };
+
+    // Add table to the document
+    doc.table(table, {
+        // columnsSize:[40, null, null, null, null, 75],
+        width: pageWidth,
+        height: pageHeight
+    });
+
+    // Finalize the PDF and end the stream
+    doc.end();
+}
+
 function generateShipping() {
   fs.createReadStream(getShippingFile())
   .pipe(csv2())
@@ -204,9 +289,9 @@ function generateShipping() {
 
 //generate pull sheet, write to csv and remove the data from the data object
 // generatePullSheet().then((pullData) => {
-//     writePullSheetCSV(pullData);
-//     removeFromData(pullData);
-//     writeToDataFile(data);
+    // writePDFPullTable(pullData);
+    // removeFromData(pullData);
+    // writeToDataFile(data);
 // });
 
 
