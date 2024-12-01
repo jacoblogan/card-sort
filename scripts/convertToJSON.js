@@ -289,9 +289,9 @@ function generateShipping() {
 
 //generate pull sheet, write to csv and remove the data from the data object
 // generatePullSheet().then((pullData) => {
-    // writePDFPullTable(pullData);
-    // removeFromData(pullData);
-    // writeToDataFile(data);
+//     writePDFPullTable(pullData);
+//     removeFromData(pullData);
+//     writeToDataFile(data);
 // });
 
 
