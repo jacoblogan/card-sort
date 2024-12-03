@@ -119,6 +119,68 @@ function generatePullSheet() {
     return csv().fromFile(tcgPlayerFileName).then(cb);
 }
 
+function generateDirectPullSheet() {
+    const tcgPlayerFileName = getPullFile();
+    const cb = (pullList) => {
+        pullList.shift(); // remove the first 2 items from the array which is the warning line and header line
+        pullList.shift();
+        // The pull list does not have a TCGplayer Id we need to find it using name/condition/set/number
+        const boxPullSheet = {};
+        const idKeys = pullList.map((d) => `${d["Product Name"]}${d["Condition"]}${d["Set"]}${d["Number"]}`);
+        Object.keys(data).forEach((k) => {
+            const entry = data[k];
+            const idKey = `${entry["Product Name"]}${entry["Condition"]}${entry["Set Name"]}${entry["Number"]}`;
+            if(idKeys.includes(idKey)){
+                let index = idKeys.indexOf(idKey);
+                pullList[index]["TCGplayer Id"] = entry["TCGplayer Id"];
+            }
+        });
+        pullList.forEach((row) => {
+            const cond =  row["Condition"];
+            const id = row["TCGplayer Id"];
+            let quantity = parseInt(row["Quantity"]);
+            const cardData = data[id];
+            if(!cardData){
+                console.log('Card Not Found:');
+                console.log(row);
+                return;
+            }
+            const boxKeys = Object.keys(cardData.Boxes);
+            let boxQuantities = [];
+            boxKeys.forEach((key) => {
+                const cardsInBox = cardData.Boxes[key];
+                boxQuantities.push({
+                    box: key,
+                    quantity: cardsInBox[cond] || 0
+                });
+            });
+            boxQuantities.sort((a,b) => a.quantity < b.quantity ? 1 : -1);
+            for(let i = 0; i < boxQuantities.length; i++){
+                if(quantity > 0){
+                    const bv = boxQuantities[i];
+                    const pullAmount = Math.min(quantity, bv.quantity);
+                    boxPullSheet[bv.box] = boxPullSheet[bv.box] || {};
+                    boxPullSheet[bv.box][id] = {
+                        name: row["Product Name"],
+                        condition: cond,
+                        set: row["Set"],
+                        quantity: pullAmount,
+                        number: row["Number"]
+                    }
+                    quantity = quantity - pullAmount;
+                }
+            }
+        });
+        console.log(boxPullSheet);
+        return boxPullSheet;
+    }
+
+    return csv({
+        noheader:true,
+        headers: ['Product Name','Set','Rarity','Number','Color','Condition','Quantity']
+    }).fromFile(tcgPlayerFileName).then(cb);
+}
+
 function removeFromData(removeDict) {
     const boxKeys = Object.keys(removeDict);
     boxKeys.forEach((k) => {
@@ -293,6 +355,15 @@ function generateShipping() {
 //     removeFromData(pullData);
 //     writeToDataFile(data);
 // });
+
+// THIS IS FOR USE WITH DIRECT
+//generate pull sheet FROM DIRECT CSV EXPORT, write to csv and remove the data from the data object
+// generateDirectPullSheet().then((pullData) => {
+//     writePDFPullTable(pullData);
+//     removeFromData(pullData);
+//     writeToDataFile(data);
+// });
+//THIS IS FOR USE WITH DIRECT
 
 
 // generate shipping pdf, grabs whichever shipping file is in /shipping and spits out a pdf to /shippingOutput
