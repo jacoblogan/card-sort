@@ -113,7 +113,7 @@ function generatePullSheet() {
                 }
             }
         });
-        console.log(boxPullSheet);
+        // console.log(boxPullSheet);
         return boxPullSheet;
     }
     return csv().fromFile(tcgPlayerFileName).then(cb);
@@ -171,7 +171,7 @@ function generateDirectPullSheet() {
                 }
             }
         });
-        console.log(boxPullSheet);
+        // console.log(boxPullSheet);
         return boxPullSheet;
     }
 
