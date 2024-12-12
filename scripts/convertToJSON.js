@@ -62,16 +62,26 @@ function AddInventoryToBox(boxNumber){
     csv().fromFile(inventoryFileName).then(cb);
 }
 
+function generateId(keyArray, data) {
+    return keyArray.reduce((acc, key) => {
+        return acc + data[key];
+    }, '').toLowerCase();
+}
+
 function generatePullSheet() {
     const tcgPlayerFileName = getPullFile();
     const cb = (pullList) => {
         pullList.pop(); // remove last item of array in a pull sheet this is a summary line
         // The pull list does not have a TCGplayer Id we need to find it using name/condition/set/number
         const boxPullSheet = {};
-        const idKeys = pullList.map((d) => `${d["Product Name"]}${d["Condition"]}${d["Set"]}${d["Number"]}`);
+        const idKeys = pullList.map((d) => {
+            const pullKeyArray = ['Product Name', 'Condition', 'Set', 'Number'];
+            return generateId(pullKeyArray, d);
+        });
         Object.keys(data).forEach((k) => {
             const entry = data[k];
-            const idKey = `${entry["Product Name"]}${entry["Condition"]}${entry["Set Name"]}${entry["Number"]}`;
+            const dataKeyArray = ['Product Name', 'Condition', 'Set Name', 'Number'];
+            const idKey = generateId(dataKeyArray, entry);
             if(idKeys.includes(idKey)){
                 let index = idKeys.indexOf(idKey);
                 pullList[index]["TCGplayer Id"] = entry["TCGplayer Id"];
@@ -126,10 +136,14 @@ function generateDirectPullSheet() {
         pullList.shift();
         // The pull list does not have a TCGplayer Id we need to find it using name/condition/set/number
         const boxPullSheet = {};
-        const idKeys = pullList.map((d) => `${d["Product Name"]}${d["Condition"]}${d["Set"]}${d["Number"]}`);
+        const idKeys = pullList.map((d) => {
+            const pullKeyArray = ['Product Name', 'Condition', 'Set', 'Number'];
+            return generateId(pullKeyArray, d);
+        });
         Object.keys(data).forEach((k) => {
             const entry = data[k];
-            const idKey = `${entry["Product Name"]}${entry["Condition"]}${entry["Set Name"]}${entry["Number"]}`;
+            const dataKeyArray = ['Product Name', 'Condition', 'Set Name', 'Number'];
+            const idKey = generateId(dataKeyArray, entry);
             if(idKeys.includes(idKey)){
                 let index = idKeys.indexOf(idKey);
                 pullList[index]["TCGplayer Id"] = entry["TCGplayer Id"];
