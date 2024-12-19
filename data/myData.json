@@ -183323,6 +183323,141 @@
    }
   }
  },
+ "8100118": {
+  "TCGplayer Id": "8100118",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Felidar Savior",
+  "Title": "",
+  "Number": "12",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8100148": {
+  "TCGplayer Id": "8100148",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Helpful Hunter",
+  "Title": "",
+  "Number": "16",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8100358": {
+  "TCGplayer Id": "8100358",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Plains (0273)",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8100388": {
+  "TCGplayer Id": "8100388",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Prideful Parent",
+  "Title": "",
+  "Number": "21",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8100418": {
+  "TCGplayer Id": "8100418",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Savannah Lions",
+  "Title": "",
+  "Number": "146",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8100538": {
+  "TCGplayer Id": "8100538",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Hero's Downfall",
+  "Title": "",
+  "Number": "175",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8100658": {
+  "TCGplayer Id": "8100658",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Stromkirk Bloodthief",
+  "Title": "",
+  "Number": "185",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8100688": {
+  "TCGplayer Id": "8100688",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Swamp (0277)",
+  "Title": "",
+  "Number": "277",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8100838": {
+  "TCGplayer Id": "8100838",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vengeful Bloodwitch",
+  "Title": "",
+  "Number": "76",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
  "8159584": {
   "TCGplayer Id": "8159584",
   "Product Line": "Magic",
@@ -183782,6 +183917,96 @@
    }
   }
  },
+ "8264927": {
+  "TCGplayer Id": "8264927",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Anthem of Champions",
+  "Title": "",
+  "Number": "116",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8264932": {
+  "TCGplayer Id": "8264932",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Anthem of Champions",
+  "Title": "",
+  "Number": "116",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8264947": {
+  "TCGplayer Id": "8264947",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Llanowar Elves",
+  "Title": "",
+  "Number": "227",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8264952": {
+  "TCGplayer Id": "8264952",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Llanowar Elves",
+  "Title": "",
+  "Number": "227",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8264957": {
+  "TCGplayer Id": "8264957",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Day of Judgment",
+  "Title": "",
+  "Number": "140",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8264962": {
+  "TCGplayer Id": "8264962",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Day of Judgment",
+  "Title": "",
+  "Number": "140",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8276041": {
   "TCGplayer Id": "8276041",
   "Product Line": "Magic",
@@ -183797,6 +184022,21 @@
    }
   }
  },
+ "8276647": {
+  "TCGplayer Id": "8276647",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vivien Reid",
+  "Title": "",
+  "Number": "234",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
  "8276772": {
   "TCGplayer Id": "8276772",
   "Product Line": "Magic",
@@ -183809,6 +184049,426 @@
   "Boxes": {
    "101": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8283650": {
+  "TCGplayer Id": "8283650",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Plains (0272)",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8283680": {
+  "TCGplayer Id": "8283680",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Plains (0272)",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8283710": {
+  "TCGplayer Id": "8283710",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Island (0274)",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8283770": {
+  "TCGplayer Id": "8283770",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Island (0275)",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8283830": {
+  "TCGplayer Id": "8283830",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Swamp (0276)",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8283860": {
+  "TCGplayer Id": "8283860",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Swamp (0276)",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "8283890": {
+  "TCGplayer Id": "8283890",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mountain (0278)",
+  "Title": "",
+  "Number": "278",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8283950": {
+  "TCGplayer Id": "8283950",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mountain (0279)",
+  "Title": "",
+  "Number": "279",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8284010": {
+  "TCGplayer Id": "8284010",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Forest (0280)",
+  "Title": "",
+  "Number": "280",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8284040": {
+  "TCGplayer Id": "8284040",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Forest (0280)",
+  "Title": "",
+  "Number": "280",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8284070": {
+  "TCGplayer Id": "8284070",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Forest (0281)",
+  "Title": "",
+  "Number": "281",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8284100": {
+  "TCGplayer Id": "8284100",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Forest (0281)",
+  "Title": "",
+  "Number": "281",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8284130": {
+  "TCGplayer Id": "8284130",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Plains (0282)",
+  "Title": "",
+  "Number": "282",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8284190": {
+  "TCGplayer Id": "8284190",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Plains (0283)",
+  "Title": "",
+  "Number": "283",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8284250": {
+  "TCGplayer Id": "8284250",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Island (0284)",
+  "Title": "",
+  "Number": "284",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8284280": {
+  "TCGplayer Id": "8284280",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Island (0284)",
+  "Title": "",
+  "Number": "284",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "8284310": {
+  "TCGplayer Id": "8284310",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Island (0285)",
+  "Title": "",
+  "Number": "285",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8284370": {
+  "TCGplayer Id": "8284370",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Swamp (0286)",
+  "Title": "",
+  "Number": "286",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8284430": {
+  "TCGplayer Id": "8284430",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Swamp (0287)",
+  "Title": "",
+  "Number": "287",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8284490": {
+  "TCGplayer Id": "8284490",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mountain (0288)",
+  "Title": "",
+  "Number": "288",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8284520": {
+  "TCGplayer Id": "8284520",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mountain (0288)",
+  "Title": "",
+  "Number": "288",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8284550": {
+  "TCGplayer Id": "8284550",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mountain (0289)",
+  "Title": "",
+  "Number": "289",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8284580": {
+  "TCGplayer Id": "8284580",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mountain (0289)",
+  "Title": "",
+  "Number": "289",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8284610": {
+  "TCGplayer Id": "8284610",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Forest (0290)",
+  "Title": "",
+  "Number": "290",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8284670": {
+  "TCGplayer Id": "8284670",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Forest (0291)",
+  "Title": "",
+  "Number": "291",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8284790": {
+  "TCGplayer Id": "8284790",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Arahbo, the First Fang",
+  "Title": "",
+  "Number": "2",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8284850": {
+  "TCGplayer Id": "8284850",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Arcane Epiphany",
+  "Title": "",
+  "Number": "29",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8284880": {
+  "TCGplayer Id": "8284880",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Arcane Epiphany",
+  "Title": "",
+  "Number": "29",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -183845,6 +184505,51 @@
    }
   }
  },
+ "8285540": {
+  "TCGplayer Id": "8285540",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Elvish Archdruid",
+  "Title": "",
+  "Number": "219",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8285660": {
+  "TCGplayer Id": "8285660",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Giant Growth",
+  "Title": "",
+  "Number": "223",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "8285690": {
+  "TCGplayer Id": "8285690",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Giant Growth",
+  "Title": "",
+  "Number": "223",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8285990": {
   "TCGplayer Id": "8285990",
   "Product Line": "Magic",
@@ -183872,6 +184577,66 @@
   "Boxes": {
    "100": {
     "Near Mint Foil": 0
+   }
+  }
+ },
+ "8286050": {
+  "TCGplayer Id": "8286050",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Hidetsugu's Second Rite",
+  "Title": "",
+  "Number": "202",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8286080": {
+  "TCGplayer Id": "8286080",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Hidetsugu's Second Rite",
+  "Title": "",
+  "Number": "202",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8286140": {
+  "TCGplayer Id": "8286140",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Juggernaut",
+  "Title": "",
+  "Number": "255",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8286170": {
+  "TCGplayer Id": "8286170",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Juggernaut",
+  "Title": "",
+  "Number": "255",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -183923,6 +184688,111 @@
    }
   }
  },
+ "8286900": {
+  "TCGplayer Id": "8286900",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Searslicer Goblin",
+  "Title": "",
+  "Number": "93",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8286960": {
+  "TCGplayer Id": "8286960",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Serra Angel",
+  "Title": "",
+  "Number": "147",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8286990": {
+  "TCGplayer Id": "8286990",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Serra Angel",
+  "Title": "",
+  "Number": "147",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8287020": {
+  "TCGplayer Id": "8287020",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Shivan Dragon",
+  "Title": "",
+  "Number": "206",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8287800": {
+  "TCGplayer Id": "8287800",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Think Twice (Borderless)",
+  "Title": "",
+  "Number": "315",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8287860": {
+  "TCGplayer Id": "8287860",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Time Stop",
+  "Title": "",
+  "Number": "166",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8287890": {
+  "TCGplayer Id": "8287890",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Time Stop",
+  "Title": "",
+  "Number": "166",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8287920": {
   "TCGplayer Id": "8287920",
   "Product Line": "Magic",
@@ -183935,6 +184805,51 @@
   "Boxes": {
    "101": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8288070": {
+  "TCGplayer Id": "8288070",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Zul Ashur, Lich Lord",
+  "Title": "",
+  "Number": "77",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8288915": {
+  "TCGplayer Id": "8288915",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Ajani's Pridemate",
+  "Title": "",
+  "Number": "135",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8289380": {
+  "TCGplayer Id": "8289380",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Savannah Lions",
+  "Title": "",
+  "Number": "146",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -183965,6 +184880,111 @@
   "Boxes": {
    "105": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8289695": {
+  "TCGplayer Id": "8289695",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Lightshell Duo",
+  "Title": "",
+  "Number": "157",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "8289755": {
+  "TCGplayer Id": "8289755",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Refute (Borderless)",
+  "Title": "",
+  "Number": "313",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8289815": {
+  "TCGplayer Id": "8289815",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Refute",
+  "Title": "",
+  "Number": "48",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "8289820": {
+  "TCGplayer Id": "8289820",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Refute",
+  "Title": "",
+  "Number": "48",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8289895": {
+  "TCGplayer Id": "8289895",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Think Twice",
+  "Title": "",
+  "Number": "165",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8289900": {
+  "TCGplayer Id": "8289900",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Think Twice",
+  "Title": "",
+  "Number": "165",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8290100": {
+  "TCGplayer Id": "8290100",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Crypt Feaster",
+  "Title": "",
+  "Number": "59",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
    }
   }
  },
@@ -184013,6 +185033,96 @@
    }
   }
  },
+ "8291350": {
+  "TCGplayer Id": "8291350",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Solemn Simulacrum",
+  "Title": "",
+  "Number": "257",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8291410": {
+  "TCGplayer Id": "8291410",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Homunculus Horde",
+  "Title": "",
+  "Number": "41",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8291470": {
+  "TCGplayer Id": "8291470",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Faebloom Trick",
+  "Title": "",
+  "Number": "38",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8291475": {
+  "TCGplayer Id": "8291475",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Faebloom Trick",
+  "Title": "",
+  "Number": "38",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8294065": {
+  "TCGplayer Id": "8294065",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Angel of Finality",
+  "Title": "",
+  "Number": "136",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8294125": {
+  "TCGplayer Id": "8294125",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Claws Out",
+  "Title": "",
+  "Number": "6",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
  "8294325": {
   "TCGplayer Id": "8294325",
   "Product Line": "Magic",
@@ -184025,6 +185135,66 @@
   "Boxes": {
    "101": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8294385": {
+  "TCGplayer Id": "8294385",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Guarded Heir",
+  "Title": "",
+  "Number": "14",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8294445": {
+  "TCGplayer Id": "8294445",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Stroke of Midnight",
+  "Title": "",
+  "Number": "148",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8294505": {
+  "TCGplayer Id": "8294505",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Sun-Blessed Healer",
+  "Title": "",
+  "Number": "25",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8294510": {
+  "TCGplayer Id": "8294510",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Sun-Blessed Healer",
+  "Title": "",
+  "Number": "25",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -184058,6 +185228,51 @@
    }
   }
  },
+ "8294865": {
+  "TCGplayer Id": "8294865",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Skyship Buccaneer",
+  "Title": "",
+  "Number": "50",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8294925": {
+  "TCGplayer Id": "8294925",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Midnight Snack",
+  "Title": "",
+  "Number": "65",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8294985": {
+  "TCGplayer Id": "8294985",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vampire Gourmand",
+  "Title": "",
+  "Number": "74",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
  "8295045": {
   "TCGplayer Id": "8295045",
   "Product Line": "Magic",
@@ -184070,6 +185285,156 @@
   "Boxes": {
    "101": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8295165": {
+  "TCGplayer Id": "8295165",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Electroduplicate",
+  "Title": "",
+  "Number": "85",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8295305": {
+  "TCGplayer Id": "8295305",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Etali, Primal Storm",
+  "Title": "",
+  "Number": "194",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8295365": {
+  "TCGplayer Id": "8295365",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Firespitter Whelp",
+  "Title": "",
+  "Number": "197",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8295425": {
+  "TCGplayer Id": "8295425",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Slagstorm",
+  "Title": "",
+  "Number": "207",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8295485": {
+  "TCGplayer Id": "8295485",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Blanchwood Armor",
+  "Title": "",
+  "Number": "213",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8295490": {
+  "TCGplayer Id": "8295490",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Blanchwood Armor",
+  "Title": "",
+  "Number": "213",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8295545": {
+  "TCGplayer Id": "8295545",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Nessian Hornbeetle",
+  "Title": "",
+  "Number": "229",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8295550": {
+  "TCGplayer Id": "8295550",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Nessian Hornbeetle",
+  "Title": "",
+  "Number": "229",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8295605": {
+  "TCGplayer Id": "8295605",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Scavenging Ooze",
+  "Title": "",
+  "Number": "232",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8295665": {
+  "TCGplayer Id": "8295665",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Balmor, Battlemage Captain",
+  "Title": "",
+  "Number": "237",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
    }
   }
  },
@@ -184100,6 +185465,66 @@
   "Boxes": {
    "105": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8299907": {
+  "TCGplayer Id": "8299907",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Heartfire Immolator",
+  "Title": "",
+  "Number": "201",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8299967": {
+  "TCGplayer Id": "8299967",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Burst Lightning",
+  "Title": "",
+  "Number": "192",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8300027": {
+  "TCGplayer Id": "8300027",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fiery Annihilation",
+  "Title": "",
+  "Number": "86",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8300087": {
+  "TCGplayer Id": "8300087",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Battlesong Berserker",
+  "Title": "",
+  "Number": "78",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
    }
   }
  },
@@ -184148,6 +185573,36 @@
    }
   }
  },
+ "8321872": {
+  "TCGplayer Id": "8321872",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Cat Collector",
+  "Title": "",
+  "Number": "4",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8322012": {
+  "TCGplayer Id": "8322012",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Giada, Font of Hope",
+  "Title": "",
+  "Number": "141",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
  "8322072": {
   "TCGplayer Id": "8322072",
   "Product Line": "Magic",
@@ -184166,6 +185621,21 @@
    }
   }
  },
+ "8322132": {
+  "TCGplayer Id": "8322132",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "An Offer You Can't Refuse",
+  "Title": "",
+  "Number": "160",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
  "8322162": {
   "TCGplayer Id": "8322162",
   "Product Line": "Magic",
@@ -184178,6 +185648,81 @@
   "Boxes": {
    "101": {
     "Near Mint Foil": 0
+   }
+  }
+ },
+ "8322192": {
+  "TCGplayer Id": "8322192",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Clinquant Skymage",
+  "Title": "",
+  "Number": "33",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8322222": {
+  "TCGplayer Id": "8322222",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Clinquant Skymage",
+  "Title": "",
+  "Number": "33",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8322252": {
+  "TCGplayer Id": "8322252",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Erudite Wizard",
+  "Title": "",
+  "Number": "37",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "8322282": {
+  "TCGplayer Id": "8322282",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Erudite Wizard",
+  "Title": "",
+  "Number": "37",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8322312": {
+  "TCGplayer Id": "8322312",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Grappling Kraken",
+  "Title": "",
+  "Number": "39",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
    }
   }
  },
@@ -184199,6 +185744,21 @@
    }
   }
  },
+ "8322552": {
+  "TCGplayer Id": "8322552",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Inspiration from Beyond",
+  "Title": "",
+  "Number": "43",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
  "8322912": {
   "TCGplayer Id": "8322912",
   "Product Line": "Magic",
@@ -184211,6 +185771,351 @@
   "Boxes": {
    "101": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8322972": {
+  "TCGplayer Id": "8322972",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Billowing Shriekmass",
+  "Title": "",
+  "Number": "56",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8323032": {
+  "TCGplayer Id": "8323032",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Painful Quandary",
+  "Title": "",
+  "Number": "179",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8323092": {
+  "TCGplayer Id": "8323092",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Reassembling Skeleton",
+  "Title": "",
+  "Number": "182",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8323122": {
+  "TCGplayer Id": "8323122",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Reassembling Skeleton",
+  "Title": "",
+  "Number": "182",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8323152": {
+  "TCGplayer Id": "8323152",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Seeker's Folly",
+  "Title": "",
+  "Number": "69",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8323182": {
+  "TCGplayer Id": "8323182",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Seeker's Folly",
+  "Title": "",
+  "Number": "69",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8323212": {
+  "TCGplayer Id": "8323212",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Zombify",
+  "Title": "",
+  "Number": "187",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8323272": {
+  "TCGplayer Id": "8323272",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bulk Up",
+  "Title": "",
+  "Number": "80",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8323302": {
+  "TCGplayer Id": "8323302",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bulk Up",
+  "Title": "",
+  "Number": "80",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8323452": {
+  "TCGplayer Id": "8323452",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Kellan, Planar Trailblazer",
+  "Title": "",
+  "Number": "91",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8323512": {
+  "TCGplayer Id": "8323512",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Seismic Rupture",
+  "Title": "",
+  "Number": "205",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8323572": {
+  "TCGplayer Id": "8323572",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Slumbering Cerberus",
+  "Title": "",
+  "Number": "94",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8323602": {
+  "TCGplayer Id": "8323602",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Slumbering Cerberus",
+  "Title": "",
+  "Number": "94",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8323712": {
+  "TCGplayer Id": "8323712",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Elvish Regrower",
+  "Title": "",
+  "Number": "104",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8323892": {
+  "TCGplayer Id": "8323892",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Alesha, Who Laughs at Fate",
+  "Title": "",
+  "Number": "115",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8324072": {
+  "TCGplayer Id": "8324072",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Ashroot Animist",
+  "Title": "",
+  "Number": "117",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8324132": {
+  "TCGplayer Id": "8324132",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Consuming Aberration",
+  "Title": "",
+  "Number": "238",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8324192": {
+  "TCGplayer Id": "8324192",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Empyrean Eagle",
+  "Title": "",
+  "Number": "239",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8324252": {
+  "TCGplayer Id": "8324252",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Kykar, Zephyr Awakener (Borderless)",
+  "Title": "",
+  "Number": "348",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8324372": {
+  "TCGplayer Id": "8324372",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Kykar, Zephyr Awakener",
+  "Title": "",
+  "Number": "122",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8324432": {
+  "TCGplayer Id": "8324432",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Adventuring Gear",
+  "Title": "",
+  "Number": "249",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8324492": {
+  "TCGplayer Id": "8324492",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fishing Pole",
+  "Title": "",
+  "Number": "128",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8324522": {
+  "TCGplayer Id": "8324522",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fishing Pole",
+  "Title": "",
+  "Number": "128",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -184235,6 +186140,126 @@
    }
   }
  },
+ "8324732": {
+  "TCGplayer Id": "8324732",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Rogue's Passage",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8326355": {
+  "TCGplayer Id": "8326355",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Ruby, Daring Tracker",
+  "Title": "",
+  "Number": "245",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8326415": {
+  "TCGplayer Id": "8326415",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Exsanguinate",
+  "Title": "",
+  "Number": "173",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8326420": {
+  "TCGplayer Id": "8326420",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Exsanguinate",
+  "Title": "",
+  "Number": "173",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8326595": {
+  "TCGplayer Id": "8326595",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Celestial Armor",
+  "Title": "",
+  "Number": "5",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8326655": {
+  "TCGplayer Id": "8326655",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Divine Resilience",
+  "Title": "",
+  "Number": "10",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8326715": {
+  "TCGplayer Id": "8326715",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Joust Through",
+  "Title": "",
+  "Number": "19",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8326720": {
+  "TCGplayer Id": "8326720",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Joust Through",
+  "Title": "",
+  "Number": "19",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8326775": {
   "TCGplayer Id": "8326775",
   "Product Line": "Magic",
@@ -184245,8 +186270,311 @@
   "Rarity": "U",
   "Condition": "Near Mint",
   "Boxes": {
+   "17": {
+    "Near Mint": 1
+   },
    "100": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8326835": {
+  "TCGplayer Id": "8326835",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Youthful Valkyrie",
+  "Title": "",
+  "Number": "149",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8326895": {
+  "TCGplayer Id": "8326895",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Aetherize",
+  "Title": "",
+  "Number": "151",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8326955": {
+  "TCGplayer Id": "8326955",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Brineborn Cutthroat",
+  "Title": "",
+  "Number": "152",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8327015": {
+  "TCGplayer Id": "8327015",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Cephalid Inkmage",
+  "Title": "",
+  "Number": "32",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8327075": {
+  "TCGplayer Id": "8327075",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Curator of Destinies (Borderless)",
+  "Title": "",
+  "Number": "305",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8327205": {
+  "TCGplayer Id": "8327205",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Curator of Destinies",
+  "Title": "",
+  "Number": "34",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8327210": {
+  "TCGplayer Id": "8327210",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Curator of Destinies",
+  "Title": "",
+  "Number": "34",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8327265": {
+  "TCGplayer Id": "8327265",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Extravagant Replication",
+  "Title": "",
+  "Number": "154",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8327325": {
+  "TCGplayer Id": "8327325",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Imprisoned in the Moon",
+  "Title": "",
+  "Number": "156",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8327385": {
+  "TCGplayer Id": "8327385",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Micromancer",
+  "Title": "",
+  "Number": "158",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8327445": {
+  "TCGplayer Id": "8327445",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mischievous Mystic",
+  "Title": "",
+  "Number": "47",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8327505": {
+  "TCGplayer Id": "8327505",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Rune-Sealed Wall",
+  "Title": "",
+  "Number": "49",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8327510": {
+  "TCGplayer Id": "8327510",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Rune-Sealed Wall",
+  "Title": "",
+  "Number": "49",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8327565": {
+  "TCGplayer Id": "8327565",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Self-Reflection",
+  "Title": "",
+  "Number": "163",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8327570": {
+  "TCGplayer Id": "8327570",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Self-Reflection",
+  "Title": "",
+  "Number": "163",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8327625": {
+  "TCGplayer Id": "8327625",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Arbiter of Woe",
+  "Title": "",
+  "Number": "55",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8327630": {
+  "TCGplayer Id": "8327630",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Arbiter of Woe",
+  "Title": "",
+  "Number": "55",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8327685": {
+  "TCGplayer Id": "8327685",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "High-Society Hunter (Borderless)",
+  "Title": "",
+  "Number": "320",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8327805": {
+  "TCGplayer Id": "8327805",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "High-Society Hunter",
+  "Title": "",
+  "Number": "61",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8327865": {
+  "TCGplayer Id": "8327865",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Tragic Banshee",
+  "Title": "",
+  "Number": "73",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
    }
   }
  },
@@ -184262,6 +186590,186 @@
   "Boxes": {
    "100": {
     "Near Mint Foil": 0
+   }
+  }
+ },
+ "8328065": {
+  "TCGplayer Id": "8328065",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Ghalta, Primal Hunger",
+  "Title": "",
+  "Number": "222",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8328125": {
+  "TCGplayer Id": "8328125",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mild-Mannered Librarian",
+  "Title": "",
+  "Number": "228",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8328185": {
+  "TCGplayer Id": "8328185",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Needletooth Pack",
+  "Title": "",
+  "Number": "108",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8328245": {
+  "TCGplayer Id": "8328245",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Overrun",
+  "Title": "",
+  "Number": "230",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8328425": {
+  "TCGplayer Id": "8328425",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Preposterous Proportions",
+  "Title": "",
+  "Number": "109",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8328485": {
+  "TCGplayer Id": "8328485",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Wildwood Scourge",
+  "Title": "",
+  "Number": "236",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8328545": {
+  "TCGplayer Id": "8328545",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fiendish Panda",
+  "Title": "",
+  "Number": "120",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8328550": {
+  "TCGplayer Id": "8328550",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fiendish Panda",
+  "Title": "",
+  "Number": "120",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8328605": {
+  "TCGplayer Id": "8328605",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Heroic Reinforcements",
+  "Title": "",
+  "Number": "241",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8328665": {
+  "TCGplayer Id": "8328665",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Swiftblade Vindicator",
+  "Title": "",
+  "Number": "246",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8328725": {
+  "TCGplayer Id": "8328725",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Tatyova, Benthic Druid",
+  "Title": "",
+  "Number": "247",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8328730": {
+  "TCGplayer Id": "8328730",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Tatyova, Benthic Druid",
+  "Title": "",
+  "Number": "247",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -184304,6 +186812,21 @@
    }
   }
  },
+ "8329285": {
+  "TCGplayer Id": "8329285",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Meteor Golem",
+  "Title": "",
+  "Number": "256",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
  "8329350": {
   "TCGplayer Id": "8329350",
   "Product Line": "Magic",
@@ -184337,6 +186860,96 @@
    }
   }
  },
+ "8329526": {
+  "TCGplayer Id": "8329526",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Good-Fortune Unicorn",
+  "Title": "",
+  "Number": "240",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8329531": {
+  "TCGplayer Id": "8329531",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Good-Fortune Unicorn",
+  "Title": "",
+  "Number": "240",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8329646": {
+  "TCGplayer Id": "8329646",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Skyknight Squire (Borderless)",
+  "Title": "",
+  "Number": "301",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8329766": {
+  "TCGplayer Id": "8329766",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Skyknight Squire",
+  "Title": "",
+  "Number": "23",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8329826": {
+  "TCGplayer Id": "8329826",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Cathar Commando",
+  "Title": "",
+  "Number": "139",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "8329886": {
+  "TCGplayer Id": "8329886",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Resolute Reinforcements",
+  "Title": "",
+  "Number": "145",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
  "8330649": {
   "TCGplayer Id": "8330649",
   "Product Line": "Magic",
@@ -184352,6 +186965,51 @@
    },
    "101": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8330770": {
+  "TCGplayer Id": "8330770",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Raise the Past",
+  "Title": "",
+  "Number": "22",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8330830": {
+  "TCGplayer Id": "8330830",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Twinblade Blessing",
+  "Title": "",
+  "Number": "26",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8330890": {
+  "TCGplayer Id": "8330890",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Essence Scatter",
+  "Title": "",
+  "Number": "153",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
    }
   }
  },
@@ -184385,6 +187043,51 @@
    },
    "101": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8331070": {
+  "TCGplayer Id": "8331070",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Spectral Sailor",
+  "Title": "",
+  "Number": "164",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8331130": {
+  "TCGplayer Id": "8331130",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Tolarian Terror",
+  "Title": "",
+  "Number": "167",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "8331135": {
+  "TCGplayer Id": "8331135",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Tolarian Terror",
+  "Title": "",
+  "Number": "167",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -184424,6 +187127,171 @@
    }
   }
  },
+ "8331250": {
+  "TCGplayer Id": "8331250",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dragon Trainer",
+  "Title": "",
+  "Number": "84",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8331310": {
+  "TCGplayer Id": "8331310",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Drakuseth, Maw of Flames",
+  "Title": "",
+  "Number": "193",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8331370": {
+  "TCGplayer Id": "8331370",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Flamewake Phoenix",
+  "Title": "",
+  "Number": "198",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8331430": {
+  "TCGplayer Id": "8331430",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Goblin Negotiation",
+  "Title": "",
+  "Number": "88",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8331490": {
+  "TCGplayer Id": "8331490",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Krenko, Mob Boss",
+  "Title": "",
+  "Number": "204",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8331550": {
+  "TCGplayer Id": "8331550",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Strongbox Raider",
+  "Title": "",
+  "Number": "96",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8331555": {
+  "TCGplayer Id": "8331555",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Strongbox Raider",
+  "Title": "",
+  "Number": "96",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8331610": {
+  "TCGplayer Id": "8331610",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Affectionate Indrik",
+  "Title": "",
+  "Number": "211",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8331670": {
+  "TCGplayer Id": "8331670",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dwynen, Gilt-Leaf Daen",
+  "Title": "",
+  "Number": "217",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8331675": {
+  "TCGplayer Id": "8331675",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dwynen, Gilt-Leaf Daen",
+  "Title": "",
+  "Number": "217",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8331730": {
+  "TCGplayer Id": "8331730",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Inspiring Call",
+  "Title": "",
+  "Number": "226",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
  "8331850": {
   "TCGplayer Id": "8331850",
   "Product Line": "Magic",
@@ -184451,6 +187319,21 @@
   "Boxes": {
    "104": {
     "Near Mint": 1
+   }
+  }
+ },
+ "8332030": {
+  "TCGplayer Id": "8332030",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dreadwing Scavenger",
+  "Title": "",
+  "Number": "118",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
    }
   }
  },
@@ -184484,6 +187367,861 @@
    },
    "105": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8332210": {
+  "TCGplayer Id": "8332210",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Heraldic Banner",
+  "Title": "",
+  "Number": "254",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8334235": {
+  "TCGplayer Id": "8334235",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Secluded Courtyard",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8334240": {
+  "TCGplayer Id": "8334240",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Secluded Courtyard",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8334295": {
+  "TCGplayer Id": "8334295",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Evolving Wilds",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "8334300": {
+  "TCGplayer Id": "8334300",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Evolving Wilds",
+  "Title": "",
+  "Number": "262",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8334355": {
+  "TCGplayer Id": "8334355",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Jungle Hollow",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8334415": {
+  "TCGplayer Id": "8334415",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dismal Backwater",
+  "Title": "",
+  "Number": "261",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8334420": {
+  "TCGplayer Id": "8334420",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dismal Backwater",
+  "Title": "",
+  "Number": "261",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8334475": {
+  "TCGplayer Id": "8334475",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bloodfell Caves",
+  "Title": "",
+  "Number": "259",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8334535": {
+  "TCGplayer Id": "8334535",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Tranquil Cove",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8334540": {
+  "TCGplayer Id": "8334540",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Tranquil Cove",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8334595": {
+  "TCGplayer Id": "8334595",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Rugged Highlands",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8334600": {
+  "TCGplayer Id": "8334600",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Rugged Highlands",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8334655": {
+  "TCGplayer Id": "8334655",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Blossoming Sands",
+  "Title": "",
+  "Number": "260",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8334660": {
+  "TCGplayer Id": "8334660",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Blossoming Sands",
+  "Title": "",
+  "Number": "260",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8334715": {
+  "TCGplayer Id": "8334715",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Swiftwater Cliffs",
+  "Title": "",
+  "Number": "268",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8334775": {
+  "TCGplayer Id": "8334775",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Thornwood Falls",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8334780": {
+  "TCGplayer Id": "8334780",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Thornwood Falls",
+  "Title": "",
+  "Number": "269",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8334835": {
+  "TCGplayer Id": "8334835",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Gutless Plunderer",
+  "Title": "",
+  "Number": "60",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8334895": {
+  "TCGplayer Id": "8334895",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Scoured Barrens",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8334900": {
+  "TCGplayer Id": "8334900",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Scoured Barrens",
+  "Title": "",
+  "Number": "266",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8334955": {
+  "TCGplayer Id": "8334955",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Wind-Scarred Crag",
+  "Title": "",
+  "Number": "271",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8335075": {
+  "TCGplayer Id": "8335075",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Aegis Turtle",
+  "Title": "",
+  "Number": "150",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "8335105": {
+  "TCGplayer Id": "8335105",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Abrade",
+  "Title": "",
+  "Number": "188",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8335110": {
+  "TCGplayer Id": "8335110",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Abrade",
+  "Title": "",
+  "Number": "188",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8335225": {
+  "TCGplayer Id": "8335225",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bigfin Bouncer",
+  "Title": "",
+  "Number": "31",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "8335405": {
+  "TCGplayer Id": "8335405",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Burnished Hart",
+  "Title": "",
+  "Number": "250",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8335410": {
+  "TCGplayer Id": "8335410",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Burnished Hart",
+  "Title": "",
+  "Number": "250",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8335465": {
+  "TCGplayer Id": "8335465",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Campus Guide",
+  "Title": "",
+  "Number": "251",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8335525": {
+  "TCGplayer Id": "8335525",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Gleaming Barrier",
+  "Title": "",
+  "Number": "252",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8335530": {
+  "TCGplayer Id": "8335530",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Gleaming Barrier",
+  "Title": "",
+  "Number": "252",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8335615": {
+  "TCGplayer Id": "8335615",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Sanguine Syphoner",
+  "Title": "",
+  "Number": "68",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "8335620": {
+  "TCGplayer Id": "8335620",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Sanguine Syphoner",
+  "Title": "",
+  "Number": "68",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8335675": {
+  "TCGplayer Id": "8335675",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Pilfer",
+  "Title": "",
+  "Number": "181",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8335680": {
+  "TCGplayer Id": "8335680",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Pilfer",
+  "Title": "",
+  "Number": "181",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8335735": {
+  "TCGplayer Id": "8335735",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Goldvein Pick",
+  "Title": "",
+  "Number": "253",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "8335825": {
+  "TCGplayer Id": "8335825",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Quick-Draw Katana",
+  "Title": "",
+  "Number": "130",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8335830": {
+  "TCGplayer Id": "8335830",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Quick-Draw Katana",
+  "Title": "",
+  "Number": "130",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8335885": {
+  "TCGplayer Id": "8335885",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Eaten Alive",
+  "Title": "",
+  "Number": "172",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8335890": {
+  "TCGplayer Id": "8335890",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Eaten Alive",
+  "Title": "",
+  "Number": "172",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8336005": {
+  "TCGplayer Id": "8336005",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mocking Sprite",
+  "Title": "",
+  "Number": "159",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8336010": {
+  "TCGplayer Id": "8336010",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mocking Sprite",
+  "Title": "",
+  "Number": "159",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8336065": {
+  "TCGplayer Id": "8336065",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fake Your Own Death",
+  "Title": "",
+  "Number": "174",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8336070": {
+  "TCGplayer Id": "8336070",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fake Your Own Death",
+  "Title": "",
+  "Number": "174",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8336125": {
+  "TCGplayer Id": "8336125",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vampire Nighthawk",
+  "Title": "",
+  "Number": "186",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8336130": {
+  "TCGplayer Id": "8336130",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vampire Nighthawk",
+  "Title": "",
+  "Number": "186",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8336185": {
+  "TCGplayer Id": "8336185",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Macabre Waltz",
+  "Title": "",
+  "Number": "177",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8336190": {
+  "TCGplayer Id": "8336190",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Macabre Waltz",
+  "Title": "",
+  "Number": "177",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8336245": {
+  "TCGplayer Id": "8336245",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Ravenous Amulet",
+  "Title": "",
+  "Number": "131",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8336335": {
+  "TCGplayer Id": "8336335",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Stab",
+  "Title": "",
+  "Number": "71",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8336455": {
+  "TCGplayer Id": "8336455",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Armasaur Guide",
+  "Title": "",
+  "Number": "3",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "8336545": {
+  "TCGplayer Id": "8336545",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Banishing Light",
+  "Title": "",
+  "Number": "138",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "8336550": {
+  "TCGplayer Id": "8336550",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Banishing Light",
+  "Title": "",
+  "Number": "138",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8336665": {
+  "TCGplayer Id": "8336665",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Run Away Together",
+  "Title": "",
+  "Number": "162",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8336670": {
+  "TCGplayer Id": "8336670",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Run Away Together",
+  "Title": "",
+  "Number": "162",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8336775": {
+  "TCGplayer Id": "8336775",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Axgard Cavalry",
+  "Title": "",
+  "Number": "189",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8336835": {
+  "TCGplayer Id": "8336835",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dauntless Veteran",
+  "Title": "",
+  "Number": "8",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
    }
   }
  },
@@ -184532,6 +188270,726 @@
    }
   }
  },
+ "8337295": {
+  "TCGplayer Id": "8337295",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dazzling Angel",
+  "Title": "",
+  "Number": "9",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "8337355": {
+  "TCGplayer Id": "8337355",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Hungry Ghoul",
+  "Title": "",
+  "Number": "62",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "8337360": {
+  "TCGplayer Id": "8337360",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Hungry Ghoul",
+  "Title": "",
+  "Number": "62",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8337545": {
+  "TCGplayer Id": "8337545",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Drake Hatcher",
+  "Title": "",
+  "Number": "35",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8337655": {
+  "TCGplayer Id": "8337655",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fleeting Flight",
+  "Title": "",
+  "Number": "13",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "8337775": {
+  "TCGplayer Id": "8337775",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Strix Lookout",
+  "Title": "",
+  "Number": "52",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "8337780": {
+  "TCGplayer Id": "8337780",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Strix Lookout",
+  "Title": "",
+  "Number": "52",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8337835": {
+  "TCGplayer Id": "8337835",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vanguard Seraph",
+  "Title": "",
+  "Number": "28",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "8337840": {
+  "TCGplayer Id": "8337840",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vanguard Seraph",
+  "Title": "",
+  "Number": "28",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8337895": {
+  "TCGplayer Id": "8337895",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Healer's Hawk",
+  "Title": "",
+  "Number": "142",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "8337900": {
+  "TCGplayer Id": "8337900",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Healer's Hawk",
+  "Title": "",
+  "Number": "142",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8337985": {
+  "TCGplayer Id": "8337985",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Soul-Shackled Zombie",
+  "Title": "",
+  "Number": "70",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8338045": {
+  "TCGplayer Id": "8338045",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Brass's Bounty",
+  "Title": "",
+  "Number": "190",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8338165": {
+  "TCGplayer Id": "8338165",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Brazen Scourge",
+  "Title": "",
+  "Number": "191",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8338245": {
+  "TCGplayer Id": "8338245",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Elementalist Adept",
+  "Title": "",
+  "Number": "36",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "8338375": {
+  "TCGplayer Id": "8338375",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Squad Rallier",
+  "Title": "",
+  "Number": "24",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8338380": {
+  "TCGplayer Id": "8338380",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Squad Rallier",
+  "Title": "",
+  "Number": "24",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8338465": {
+  "TCGplayer Id": "8338465",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Marauding Blight-Priest",
+  "Title": "",
+  "Number": "178",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8338525": {
+  "TCGplayer Id": "8338525",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Ambush Wolf",
+  "Title": "",
+  "Number": "98",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8338530": {
+  "TCGplayer Id": "8338530",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Ambush Wolf",
+  "Title": "",
+  "Number": "98",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8338585": {
+  "TCGplayer Id": "8338585",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Courageous Goblin",
+  "Title": "",
+  "Number": "82",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8338590": {
+  "TCGplayer Id": "8338590",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Courageous Goblin",
+  "Title": "",
+  "Number": "82",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8338645": {
+  "TCGplayer Id": "8338645",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fleeting Distraction",
+  "Title": "",
+  "Number": "155",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8338765": {
+  "TCGplayer Id": "8338765",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Apothecary Stomper",
+  "Title": "",
+  "Number": "99",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "8338825": {
+  "TCGplayer Id": "8338825",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bake into a Pie",
+  "Title": "",
+  "Number": "169",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8338830": {
+  "TCGplayer Id": "8338830",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bake into a Pie",
+  "Title": "",
+  "Number": "169",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8338885": {
+  "TCGplayer Id": "8338885",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Icewind Elemental",
+  "Title": "",
+  "Number": "42",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8338890": {
+  "TCGplayer Id": "8338890",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Icewind Elemental",
+  "Title": "",
+  "Number": "42",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8338945": {
+  "TCGplayer Id": "8338945",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mischievous Pup",
+  "Title": "",
+  "Number": "144",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8338950": {
+  "TCGplayer Id": "8338950",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mischievous Pup",
+  "Title": "",
+  "Number": "144",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8339035": {
+  "TCGplayer Id": "8339035",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Infernal Vessel",
+  "Title": "",
+  "Number": "63",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8339155": {
+  "TCGplayer Id": "8339155",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Make Your Move",
+  "Title": "",
+  "Number": "143",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8339160": {
+  "TCGplayer Id": "8339160",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Make Your Move",
+  "Title": "",
+  "Number": "143",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8339295": {
+  "TCGplayer Id": "8339295",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Luminous Rebuke",
+  "Title": "",
+  "Number": "20",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "8339300": {
+  "TCGplayer Id": "8339300",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Luminous Rebuke",
+  "Title": "",
+  "Number": "20",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8339385": {
+  "TCGplayer Id": "8339385",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Crackling Cyclops",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8339390": {
+  "TCGplayer Id": "8339390",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Crackling Cyclops",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8339445": {
+  "TCGplayer Id": "8339445",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Beast-Kin Ranger",
+  "Title": "",
+  "Number": "100",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8339565": {
+  "TCGplayer Id": "8339565",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bite Down",
+  "Title": "",
+  "Number": "212",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8339570": {
+  "TCGplayer Id": "8339570",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bite Down",
+  "Title": "",
+  "Number": "212",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8339625": {
+  "TCGplayer Id": "8339625",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Inspiring Paladin",
+  "Title": "",
+  "Number": "18",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8339630": {
+  "TCGplayer Id": "8339630",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Inspiring Paladin",
+  "Title": "",
+  "Number": "18",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8339685": {
+  "TCGplayer Id": "8339685",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Broken Wings",
+  "Title": "",
+  "Number": "214",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8339690": {
+  "TCGplayer Id": "8339690",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Broken Wings",
+  "Title": "",
+  "Number": "214",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8339745": {
+  "TCGplayer Id": "8339745",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Revenge of the Rats",
+  "Title": "",
+  "Number": "67",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8339835": {
+  "TCGplayer Id": "8339835",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bushwhack",
+  "Title": "",
+  "Number": "215",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "8339895": {
+  "TCGplayer Id": "8339895",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Diregraf Ghoul",
+  "Title": "",
+  "Number": "171",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8339900": {
+  "TCGplayer Id": "8339900",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Diregraf Ghoul",
+  "Title": "",
+  "Number": "171",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8339955": {
   "TCGplayer Id": "8339955",
   "Product Line": "Magic",
@@ -184562,6 +189020,111 @@
    }
   }
  },
+ "8340020": {
+  "TCGplayer Id": "8340020",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vengeful Bloodwitch (Borderless)",
+  "Title": "",
+  "Number": "325",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8340075": {
+  "TCGplayer Id": "8340075",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Cackling Prowler",
+  "Title": "",
+  "Number": "101",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8340080": {
+  "TCGplayer Id": "8340080",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Cackling Prowler",
+  "Title": "",
+  "Number": "101",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8340165": {
+  "TCGplayer Id": "8340165",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Infestation Sage",
+  "Title": "",
+  "Number": "64",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 11
+   }
+  }
+ },
+ "8340170": {
+  "TCGplayer Id": "8340170",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Infestation Sage",
+  "Title": "",
+  "Number": "64",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8340305": {
+  "TCGplayer Id": "8340305",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fanatical Firebrand",
+  "Title": "",
+  "Number": "195",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8340310": {
+  "TCGplayer Id": "8340310",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Fanatical Firebrand",
+  "Title": "",
+  "Number": "195",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8340385": {
   "TCGplayer Id": "8340385",
   "Product Line": "Magic",
@@ -184580,6 +189143,186 @@
    }
   }
  },
+ "8340445": {
+  "TCGplayer Id": "8340445",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Uncharted Voyage",
+  "Title": "",
+  "Number": "53",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8340535": {
+  "TCGplayer Id": "8340535",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vampire Soulcaller",
+  "Title": "",
+  "Number": "75",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8340595": {
+  "TCGplayer Id": "8340595",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Rune-Scarred Demon",
+  "Title": "",
+  "Number": "184",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8340655": {
+  "TCGplayer Id": "8340655",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Firebrand Archer",
+  "Title": "",
+  "Number": "196",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "8340660": {
+  "TCGplayer Id": "8340660",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Firebrand Archer",
+  "Title": "",
+  "Number": "196",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8340715": {
+  "TCGplayer Id": "8340715",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Burglar Rat",
+  "Title": "",
+  "Number": "170",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "8340720": {
+  "TCGplayer Id": "8340720",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Burglar Rat",
+  "Title": "",
+  "Number": "170",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8340775": {
+  "TCGplayer Id": "8340775",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Frenzied Goblin",
+  "Title": "",
+  "Number": "199",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8340835": {
+  "TCGplayer Id": "8340835",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Perforating Artist",
+  "Title": "",
+  "Number": "124",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8340895": {
+  "TCGplayer Id": "8340895",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Thousand-Year Storm",
+  "Title": "",
+  "Number": "248",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8341015": {
+  "TCGplayer Id": "8341015",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Witness Protection",
+  "Title": "",
+  "Number": "168",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8341020": {
+  "TCGplayer Id": "8341020",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Witness Protection",
+  "Title": "",
+  "Number": "168",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8341095": {
   "TCGplayer Id": "8341095",
   "Product Line": "Magic",
@@ -184595,6 +189338,111 @@
    }
   }
  },
+ "8341220": {
+  "TCGplayer Id": "8341220",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Wardens of the Cycle",
+  "Title": "",
+  "Number": "125",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8341300": {
+  "TCGplayer Id": "8341300",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dwynen's Elite",
+  "Title": "",
+  "Number": "218",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "8341305": {
+  "TCGplayer Id": "8341305",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dwynen's Elite",
+  "Title": "",
+  "Number": "218",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8341365": {
+  "TCGplayer Id": "8341365",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Goblin Boarders",
+  "Title": "",
+  "Number": "87",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "8341370": {
+  "TCGplayer Id": "8341370",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Goblin Boarders",
+  "Title": "",
+  "Number": "87",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8341525": {
+  "TCGplayer Id": "8341525",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Goblin Surprise",
+  "Title": "",
+  "Number": "200",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8341555": {
+  "TCGplayer Id": "8341555",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Eager Trufflesnout",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
  "8341620": {
   "TCGplayer Id": "8341620",
   "Product Line": "Magic",
@@ -184607,6 +189455,156 @@
   "Boxes": {
    "101": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8341680": {
+  "TCGplayer Id": "8341680",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Elfsworn Giant",
+  "Title": "",
+  "Number": "103",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8341685": {
+  "TCGplayer Id": "8341685",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Elfsworn Giant",
+  "Title": "",
+  "Number": "103",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8341805": {
+  "TCGplayer Id": "8341805",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Gorehorn Raider",
+  "Title": "",
+  "Number": "89",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 13
+   }
+  }
+ },
+ "8341810": {
+  "TCGplayer Id": "8341810",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Gorehorn Raider",
+  "Title": "",
+  "Number": "89",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8341995": {
+  "TCGplayer Id": "8341995",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Incinerating Blast",
+  "Title": "",
+  "Number": "90",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8342000": {
+  "TCGplayer Id": "8342000",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Incinerating Blast",
+  "Title": "",
+  "Number": "90",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8342055": {
+  "TCGplayer Id": "8342055",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Felling Blow",
+  "Title": "",
+  "Number": "105",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8342120": {
+  "TCGplayer Id": "8342120",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Involuntary Employment",
+  "Title": "",
+  "Number": "203",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8342125": {
+  "TCGplayer Id": "8342125",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Involuntary Employment",
+  "Title": "",
+  "Number": "203",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8342180": {
+  "TCGplayer Id": "8342180",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Garruk's Uprising",
+  "Title": "",
+  "Number": "220",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
    }
   }
  },
@@ -184628,6 +189626,81 @@
    }
   }
  },
+ "8342500": {
+  "TCGplayer Id": "8342500",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Genesis Wave",
+  "Title": "",
+  "Number": "221",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8342508": {
+  "TCGplayer Id": "8342508",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Genesis Wave",
+  "Title": "",
+  "Number": "221",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8342915": {
+  "TCGplayer Id": "8342915",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Gnarlid Colony",
+  "Title": "",
+  "Number": "224",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8342975": {
+  "TCGplayer Id": "8342975",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Grow from the Ashes",
+  "Title": "",
+  "Number": "225",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "8342980": {
+  "TCGplayer Id": "8342980",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Grow from the Ashes",
+  "Title": "",
+  "Number": "225",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8343160": {
   "TCGplayer Id": "8343160",
   "Product Line": "Magic",
@@ -184646,6 +189719,561 @@
    },
    "105": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8343225": {
+  "TCGplayer Id": "8343225",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Sower of Chaos",
+  "Title": "",
+  "Number": "95",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8343285": {
+  "TCGplayer Id": "8343285",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Spitfire Lagac",
+  "Title": "",
+  "Number": "208",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "8343290": {
+  "TCGplayer Id": "8343290",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Spitfire Lagac",
+  "Title": "",
+  "Number": "208",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8343345": {
+  "TCGplayer Id": "8343345",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Sure Strike",
+  "Title": "",
+  "Number": "209",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "8343350": {
+  "TCGplayer Id": "8343350",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Sure Strike",
+  "Title": "",
+  "Number": "209",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8343465": {
+  "TCGplayer Id": "8343465",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Thrill of Possibility",
+  "Title": "",
+  "Number": "210",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8343555": {
+  "TCGplayer Id": "8343555",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Quakestrider Ceratops",
+  "Title": "",
+  "Number": "110",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8343560": {
+  "TCGplayer Id": "8343560",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Quakestrider Ceratops",
+  "Title": "",
+  "Number": "110",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8343640": {
+  "TCGplayer Id": "8343640",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Sylvan Scavenging",
+  "Title": "",
+  "Number": "113",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8343710": {
+  "TCGplayer Id": "8343710",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Reclamation Sage",
+  "Title": "",
+  "Number": "231",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8343770": {
+  "TCGplayer Id": "8343770",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Snakeskin Veil",
+  "Title": "",
+  "Number": "233",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8343955": {
+  "TCGplayer Id": "8343955",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Treetop Snarespinner",
+  "Title": "",
+  "Number": "114",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8343960": {
+  "TCGplayer Id": "8343960",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Treetop Snarespinner",
+  "Title": "",
+  "Number": "114",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8344015": {
+  "TCGplayer Id": "8344015",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Wary Thespian",
+  "Title": "",
+  "Number": "235",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "8353844": {
+  "TCGplayer Id": "8353844",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Vengeful Bloodwitch",
+  "Title": "",
+  "Number": "76",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8353943": {
+  "TCGplayer Id": "8353943",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Food // Treasure Double-Sided Token",
+  "Title": "",
+  "Number": "22 // 23",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "8354003": {
+  "TCGplayer Id": "8354003",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Rat (0014) // Zombie Double-Sided Token",
+  "Title": "",
+  "Number": "14 // 15",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8354063": {
+  "TCGplayer Id": "8354063",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Rabbit // Soldier Double-Sided Token",
+  "Title": "",
+  "Number": "5 // 6",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8354146": {
+  "TCGplayer Id": "8354146",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Emblem - Vivien Reid // Elf Warrior Double-Sided Token",
+  "Title": "",
+  "Number": "25 // 19",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8354206": {
+  "TCGplayer Id": "8354206",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Human // Knight Double-Sided Token",
+  "Title": "",
+  "Number": "3 // 4",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8354335": {
+  "TCGplayer Id": "8354335",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Emblem - Kaito, Cunning Infiltrator // Ninja Doubled-Sided Token",
+  "Title": "",
+  "Number": "24 // 12",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8354410": {
+  "TCGplayer Id": "8354410",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Cat (0001) // Cat (0002) Doubled-Sided Token",
+  "Title": "",
+  "Number": "1 // 2",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8354475": {
+  "TCGplayer Id": "8354475",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Spirit // Cat (0001) Doubled-Sided Token",
+  "Title": "",
+  "Number": "1 // 7",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8354545": {
+  "TCGplayer Id": "8354545",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Drake // Goblin Doubled-Sided Token",
+  "Title": "",
+  "Number": "8 // 18",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8354610": {
+  "TCGplayer Id": "8354610",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Goblin // Insect Doubled-Sided Token",
+  "Title": "",
+  "Number": "18 // 21",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8354670": {
+  "TCGplayer Id": "8354670",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Dragon (0016) // Dragon (0017) Doubled-Sided Token",
+  "Title": "",
+  "Number": "16 // 17",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8354730": {
+  "TCGplayer Id": "8354730",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Scion of the Deep // Koma's Coil Doubled-Sided Token",
+  "Title": "",
+  "Number": "13 // 11",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8354790": {
+  "TCGplayer Id": "8354790",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Elf Warrior // Raccoon Doubled-Sided Token",
+  "Title": "",
+  "Number": "19 // 20",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8354850": {
+  "TCGplayer Id": "8354850",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Faerie // Fish Doubled-Sided Token",
+  "Title": "",
+  "Number": "9 // 10",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8355129": {
+  "TCGplayer Id": "8355129",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Zombie // Insect Doubled-Sided Token",
+  "Title": "",
+  "Number": "15 // 21",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "8355529": {
+  "TCGplayer Id": "8355529",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Elf Warrior // Cat (001) Doubled-Sided Token",
+  "Title": "",
+  "Number": "19 // 1",
+  "Rarity": "T",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "17": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8357436": {
+  "TCGplayer Id": "8357436",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Aegis Turtle",
+  "Title": "",
+  "Number": "150",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8357466": {
+  "TCGplayer Id": "8357466",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Bigfin Bouncer",
+  "Title": "",
+  "Number": "31",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8357496": {
+  "TCGplayer Id": "8357496",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Felidar Savior",
+  "Title": "",
+  "Number": "12",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8357526": {
+  "TCGplayer Id": "8357526",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Goblin Surprise",
+  "Title": "",
+  "Number": "200",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8357556": {
+  "TCGplayer Id": "8357556",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Helpful Hunter",
+  "Title": "",
+  "Number": "16",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8357666": {
+  "TCGplayer Id": "8357666",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Prideful Parent",
+  "Title": "",
+  "Number": "21",
+  "Rarity": "C",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "17": {
+    "Near Mint Foil": 2
    }
   }
  }
