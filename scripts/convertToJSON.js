@@ -353,7 +353,7 @@ function generateShipping() {
   });
 }
 
-// AddInventoryToBox(105);
+// AddInventoryToBox(18);
 
 /**
  * Steps to pull cards
