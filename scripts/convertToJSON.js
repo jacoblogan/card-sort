@@ -364,11 +364,11 @@ function generateShipping() {
  */
 
 //generate pull sheet, write to csv and remove the data from the data object
-generatePullSheet().then((pullData) => {
-    writePDFPullTable(pullData);
-    removeFromData(pullData);
-    writeToDataFile(data);
-});
+// generatePullSheet().then((pullData) => {
+//     writePDFPullTable(pullData);
+//     removeFromData(pullData);
+//     writeToDataFile(data);
+// });
 
 // THIS IS FOR USE WITH DIRECT
 //generate pull sheet FROM DIRECT CSV EXPORT, write to csv and remove the data from the data object
@@ -381,4 +381,4 @@ generatePullSheet().then((pullData) => {
 
 
 // generate shipping pdf, grabs whichever shipping file is in /shipping and spits out a pdf to /shippingOutput
-generateShipping();
+// generateShipping();
