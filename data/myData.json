@@ -1,4 +1,79 @@
 {
+ "19789": {
+  "TCGplayer Id": "19789",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Cloud of Faeries",
+  "Title": "",
+  "Number": "29",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "110": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "19791": {
+  "TCGplayer Id": "19791",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Crop Rotation",
+  "Title": "",
+  "Number": "98",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "110": {
+    "Near Mint": 10
+   }
+  }
+ },
+ "19805": {
+  "TCGplayer Id": "19805",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Faerie Conclave",
+  "Title": "",
+  "Number": "139",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "110": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "19831": {
+  "TCGplayer Id": "19831",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Last-Ditch Effort",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "110": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "19836": {
+  "TCGplayer Id": "19836",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Martyr's Cause",
+  "Title": "",
+  "Number": "13",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "110": {
+    "Near Mint": 1
+   }
+  }
+ },
  "332912": {
   "TCGplayer Id": "332912",
   "Product Line": "Magic",
@@ -701,6 +776,111 @@
   "Boxes": {
    "108": {
     "Lightly Played": 2
+   }
+  }
+ },
+ "369057": {
+  "TCGplayer Id": "369057",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Angel's Trumpet",
+  "Title": "",
+  "Number": "121",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "110": {
+    "Lightly Played": 3
+   }
+  }
+ },
+ "369120": {
+  "TCGplayer Id": "369120",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Miscalculation",
+  "Title": "",
+  "Number": "36",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "110": {
+    "Lightly Played": 9
+   }
+  }
+ },
+ "369150": {
+  "TCGplayer Id": "369150",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Rancor",
+  "Title": "",
+  "Number": "110",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "110": {
+    "Lightly Played": 4
+   }
+  }
+ },
+ "369166": {
+  "TCGplayer Id": "369166",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Snap",
+  "Title": "",
+  "Number": "43",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "110": {
+    "Lightly Played": 4
+   }
+  }
+ },
+ "369177": {
+  "TCGplayer Id": "369177",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Tinker",
+  "Title": "",
+  "Number": "45",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "110": {
+    "Lightly Played": 1
+   }
+  }
+ },
+ "369181": {
+  "TCGplayer Id": "369181",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Treetop Village",
+  "Title": "",
+  "Number": "143",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "110": {
+    "Lightly Played": 2
+   }
+  }
+ },
+ "369182": {
+  "TCGplayer Id": "369182",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Legacy",
+  "Product Name": "Unearth",
+  "Title": "",
+  "Number": "72",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "110": {
+    "Lightly Played": 12
    }
   }
  },
