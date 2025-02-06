@@ -187688,6 +187688,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 1
    }
   }
  },
@@ -188192,6 +188195,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 17
    }
   }
  },
@@ -188207,6 +188213,9 @@
   "Boxes": {
    "17": {
     "Near Mint Foil": 0
+   },
+   "112": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -189056,6 +189065,36 @@
    }
   }
  },
+ "8288855": {
+  "TCGplayer Id": "8288855",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Ajani's Pridemate (Borderless)",
+  "Title": "",
+  "Number": "293",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "112": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8288860": {
+  "TCGplayer Id": "8288860",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Ajani's Pridemate (Borderless)",
+  "Title": "",
+  "Number": "293",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "112": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8288915": {
   "TCGplayer Id": "8288915",
   "Product Line": "Magic",
@@ -189308,6 +189347,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 4
    }
   }
  },
@@ -189398,6 +189440,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 4
    }
   }
  },
@@ -189866,6 +189911,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 2
    }
   }
  },
@@ -190124,6 +190172,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 5
    }
   }
  },
@@ -190385,6 +190436,24 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8324762": {
+  "TCGplayer Id": "8324762",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Rogue's Passage",
+  "Title": "",
+  "Number": "264",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "112": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -190415,6 +190484,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 8
    }
   }
  },
@@ -190430,6 +190502,9 @@
   "Boxes": {
    "17": {
     "Near Mint Foil": 0
+   },
+   "112": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -190511,6 +190586,21 @@
    }
   }
  },
+ "8326780": {
+  "TCGplayer Id": "8326780",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Youthful Valkyrie (Borderless)",
+  "Title": "",
+  "Number": "303",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "112": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "8326835": {
   "TCGplayer Id": "8326835",
   "Product Line": "Magic",
@@ -190523,6 +190613,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 4
    }
   }
  },
@@ -190538,6 +190631,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 8
    }
   }
  },
@@ -190643,6 +190739,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 11
    }
   }
  },
@@ -190673,6 +190772,24 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "8327450": {
+  "TCGplayer Id": "8327450",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Mischievous Mystic",
+  "Title": "",
+  "Number": "47",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "112": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -191090,6 +191207,9 @@
    },
    "105": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 1
    }
   }
  },
@@ -191492,6 +191612,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 6
    }
   }
  },
@@ -191522,6 +191645,24 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8331735": {
+  "TCGplayer Id": "8331735",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Inspiring Call",
+  "Title": "",
+  "Number": "226",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "112": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -191615,6 +191756,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 5
    }
   }
  },
@@ -191630,6 +191774,9 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 8
    }
   }
  },
@@ -193175,6 +193322,24 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8339750": {
+  "TCGplayer Id": "8339750",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Revenge of the Rats",
+  "Title": "",
+  "Number": "67",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "112": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -193838,6 +194003,24 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 8
+   }
+  }
+ },
+ "8342185": {
+  "TCGplayer Id": "8342185",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Garruk's Uprising",
+  "Title": "",
+  "Number": "220",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "112": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -194102,6 +194285,24 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   },
+   "112": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "8343715": {
+  "TCGplayer Id": "8343715",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Reclamation Sage",
+  "Title": "",
+  "Number": "231",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "112": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -194117,6 +194318,21 @@
   "Boxes": {
    "17": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8343835": {
+  "TCGplayer Id": "8343835",
+  "Product Line": "Magic",
+  "Set Name": "Foundations",
+  "Product Name": "Reclamation Sage (Borderless)",
+  "Title": "",
+  "Number": "340",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "112": {
+    "Near Mint": 1
    }
   }
  },
