@@ -79712,6 +79712,21 @@
    }
   }
  },
+ "5162052": {
+  "TCGplayer Id": "5162052",
+  "Product Line": "Magic",
+  "Set Name": "Secret Lair Drop Series",
+  "Product Name": "Arcane Signet (589) (Foil Etched)",
+  "Title": "",
+  "Number": "589",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "5162077": {
   "TCGplayer Id": "5162077",
   "Product Line": "Magic",
@@ -180308,6 +180323,51 @@
    }
   }
  },
+ "7431236": {
+  "TCGplayer Id": "7431236",
+  "Product Line": "Magic",
+  "Set Name": "Secret Lair Showdown",
+  "Product Name": "Relentless Rats (0011)",
+  "Title": "",
+  "Number": "11",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "7431250": {
+  "TCGplayer Id": "7431250",
+  "Product Line": "Magic",
+  "Set Name": "Secret Lair Drop Series",
+  "Product Name": "Mox Tantalite (Retro Frame) (Foil Etched)",
+  "Title": "",
+  "Number": "1073",
+  "Rarity": "M",
+  "Condition": "Damaged Foil",
+  "Boxes": {
+   "115": {
+    "Damaged Foil": 1
+   }
+  }
+ },
+ "7431251": {
+  "TCGplayer Id": "7431251",
+  "Product Line": "Magic",
+  "Set Name": "Secret Lair Drop Series",
+  "Product Name": "Sol Ring (Retro Frame) (Foil Etched)",
+  "Title": "",
+  "Number": "1074",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "7437854": {
   "TCGplayer Id": "7437854",
   "Product Line": "Magic",
@@ -184559,6 +184619,21 @@
    }
   }
  },
+ "7792722": {
+  "TCGplayer Id": "7792722",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 3",
+  "Product Name": "Island (0305)",
+  "Title": "",
+  "Number": "305",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "7793238": {
   "TCGplayer Id": "7793238",
   "Product Line": "Magic",
@@ -184649,6 +184724,51 @@
   "Boxes": {
    "18": {
     "Near Mint Foil": 0
+   }
+  }
+ },
+ "7795183": {
+  "TCGplayer Id": "7795183",
+  "Product Line": "Magic",
+  "Set Name": "Bloomburrow",
+  "Product Name": "Mountain (0277)",
+  "Title": "",
+  "Number": "277",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7795328": {
+  "TCGplayer Id": "7795328",
+  "Product Line": "Magic",
+  "Set Name": "Bloomburrow",
+  "Product Name": "Mountain (0276)",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7795388": {
+  "TCGplayer Id": "7795388",
+  "Product Line": "Magic",
+  "Set Name": "Bloomburrow",
+  "Product Name": "Mountain (0274)",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -187490,6 +187610,156 @@
    }
   }
  },
+ "8014523": {
+  "TCGplayer Id": "8014523",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Plains (272) - Full Art",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8014528": {
+  "TCGplayer Id": "8014528",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Plains (272) - Full Art",
+  "Title": "",
+  "Number": "272",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8014563": {
+  "TCGplayer Id": "8014563",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Island (273) - Full Art",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8014568": {
+  "TCGplayer Id": "8014568",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Island (273) - Full Art",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8014603": {
+  "TCGplayer Id": "8014603",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Swamp (274) - Full Art",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8014608": {
+  "TCGplayer Id": "8014608",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Swamp (274) - Full Art",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "8014643": {
+  "TCGplayer Id": "8014643",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Mountain (275) - Full Art",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8014648": {
+  "TCGplayer Id": "8014648",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Mountain (275) - Full Art",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8014683": {
+  "TCGplayer Id": "8014683",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Forest (276) - Full Art",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8014688": {
+  "TCGplayer Id": "8014688",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Forest (276) - Full Art",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
  "8015463": {
   "TCGplayer Id": "8015463",
   "Product Line": "Magic",
@@ -187538,6 +187808,36 @@
   "Boxes": {
    "18": {
     "Near Mint": 197
+   }
+  }
+ },
+ "8027016": {
+  "TCGplayer Id": "8027016",
+  "Product Line": "Magic",
+  "Set Name": "Bloomburrow",
+  "Product Name": "Swamp (0270)",
+  "Title": "",
+  "Number": "270",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "8089468": {
+  "TCGplayer Id": "8089468",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Toby, Beastie Befriender",
+  "Title": "",
+  "Number": "35",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
    }
   }
  },
@@ -187784,6 +188084,21 @@
    }
   }
  },
+ "8161674": {
+  "TCGplayer Id": "8161674",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Zimone, All-Questioning",
+  "Title": "",
+  "Number": "241",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 2
+   }
+  }
+ },
  "8161794": {
   "TCGplayer Id": "8161794",
   "Product Line": "Magic",
@@ -187880,6 +188195,36 @@
    }
   }
  },
+ "8167004": {
+  "TCGplayer Id": "8167004",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Grievous Wound",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "115": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "8174659": {
+  "TCGplayer Id": "8174659",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Leyline of Transformation",
+  "Title": "",
+  "Number": "63",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
+   }
+  }
+ },
  "8175059": {
   "TCGplayer Id": "8175059",
   "Product Line": "Magic",
@@ -187958,6 +188303,21 @@
    }
   }
  },
+ "8178955": {
+  "TCGplayer Id": "8178955",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Leyline of Mutation",
+  "Title": "",
+  "Number": "188",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
+   }
+  }
+ },
  "8180523": {
   "TCGplayer Id": "8180523",
   "Product Line": "Magic",
@@ -187988,6 +188348,21 @@
    },
    "103": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8186949": {
+  "TCGplayer Id": "8186949",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Omnivorous Flytrap",
+  "Title": "",
+  "Number": "192",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
    }
   }
  },
@@ -188081,6 +188456,21 @@
   "Boxes": {
    "102": {
     "Near Mint Foil": 0
+   }
+  }
+ },
+ "8200653": {
+  "TCGplayer Id": "8200653",
+  "Product Line": "Magic",
+  "Set Name": "Duskmourn: House of Horror",
+  "Product Name": "Restricted Office // Lecture Hall",
+  "Title": "",
+  "Number": "227",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "115": {
+    "Near Mint": 1
    }
   }
  },
