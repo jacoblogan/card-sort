@@ -190361,6 +190361,51 @@
    }
   }
  },
+ "8295897": {
+  "TCGplayer Id": "8295897",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Averna, the Chaos Bloom (Anime)",
+  "Title": "",
+  "Number": "80",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8295962": {
+  "TCGplayer Id": "8295962",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Bloodbraid Elf",
+  "Title": "",
+  "Number": "743",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8296712": {
+  "TCGplayer Id": "8296712",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Army of the Damned",
+  "Title": "",
+  "Number": "399",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
  "8299907": {
   "TCGplayer Id": "8299907",
   "Product Line": "Magic",
@@ -190436,6 +190481,66 @@
    }
   }
  },
+ "8302482": {
+  "TCGplayer Id": "8302482",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Crimson Wisps",
+  "Title": "",
+  "Number": "533",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8302877": {
+  "TCGplayer Id": "8302877",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Deadly Dispute",
+  "Title": "",
+  "Number": "115",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "8303507": {
+  "TCGplayer Id": "8303507",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Voracious Greatshark",
+  "Title": "",
+  "Number": "382",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8304472": {
+  "TCGplayer Id": "8304472",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Thryx, the Sudden Storm (Anime)",
+  "Title": "",
+  "Number": "65",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 2
+   }
+  }
+ },
  "8304802": {
   "TCGplayer Id": "8304802",
   "Product Line": "Magic",
@@ -190451,6 +190556,291 @@
    }
   }
  },
+ "8306032": {
+  "TCGplayer Id": "8306032",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Elvish Archdruid",
+  "Title": "",
+  "Number": "655",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8306512": {
+  "TCGplayer Id": "8306512",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Sphinx of Enlightenment",
+  "Title": "",
+  "Number": "364",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8306902": {
+  "TCGplayer Id": "8306902",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Exsanguinate",
+  "Title": "",
+  "Number": "437",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8308732": {
+  "TCGplayer Id": "8308732",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Go for the Throat",
+  "Title": "",
+  "Number": "447",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8308942": {
+  "TCGplayer Id": "8308942",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Goblin Goliath",
+  "Title": "",
+  "Number": "557",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8309092": {
+  "TCGplayer Id": "8309092",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Inspiring Overseer",
+  "Title": "",
+  "Number": "212",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8310172": {
+  "TCGplayer Id": "8310172",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Light of the Legion",
+  "Title": "",
+  "Number": "218",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8310352": {
+  "TCGplayer Id": "8310352",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Mace of the Valiant",
+  "Title": "",
+  "Number": "221",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8310922": {
+  "TCGplayer Id": "8310922",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Mikaeus, the Lunarch",
+  "Title": "",
+  "Number": "225",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8311072": {
+  "TCGplayer Id": "8311072",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Liliana, Death's Majesty",
+  "Title": "",
+  "Number": "458",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8312617": {
+  "TCGplayer Id": "8312617",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Jadelight Ranger",
+  "Title": "",
+  "Number": "676",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8313277": {
+  "TCGplayer Id": "8313277",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Llanowar Elves",
+  "Title": "",
+  "Number": "149",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8315837": {
+  "TCGplayer Id": "8315837",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Necropolis Regent",
+  "Title": "",
+  "Number": "469",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8316382": {
+  "TCGplayer Id": "8316382",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Markov Blademaster",
+  "Title": "",
+  "Number": "574",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8316592": {
+  "TCGplayer Id": "8316592",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Fiendish Duo",
+  "Title": "",
+  "Number": "545",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8317562": {
+  "TCGplayer Id": "8317562",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Venerated Loxodon",
+  "Title": "",
+  "Number": "278",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8317802": {
+  "TCGplayer Id": "8317802",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Reaper from the Abyss",
+  "Title": "",
+  "Number": "480",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "8319152": {
+  "TCGplayer Id": "8319152",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Topiary Stomper",
+  "Title": "",
+  "Number": "730",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8319277": {
+  "TCGplayer Id": "8319277",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Rampant Growth",
+  "Title": "",
+  "Number": "704",
+  "Rarity": "C",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
  "8319427": {
   "TCGplayer Id": "8319427",
   "Product Line": "Magic",
@@ -190463,6 +190853,66 @@
   "Boxes": {
    "105": {
     "Near Mint": 0
+   }
+  }
+ },
+ "8319732": {
+  "TCGplayer Id": "8319732",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Verdeloth the Ancient",
+  "Title": "",
+  "Number": "737",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8319792": {
+  "TCGplayer Id": "8319792",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Voice of the Woods",
+  "Title": "",
+  "Number": "738",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8320287": {
+  "TCGplayer Id": "8320287",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Falkenrath Marauders",
+  "Title": "",
+  "Number": "543",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8321052": {
+  "TCGplayer Id": "8321052",
+  "Product Line": "Magic",
+  "Set Name": "Foundations Jumpstart",
+  "Product Name": "Thieves' Guild Enforcer",
+  "Title": "",
+  "Number": "493",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "116": {
+    "Near Mint": 1
    }
   }
  },
