@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "rimraf data/pull/* --glob && rimraf data/add/* --glob && rimraf data/csv/* --glob && rimraf data/shipping/* --glob && rimraf data/shippingOutput/* --glob"
+    "clean": "rimraf data/pull/* --glob && rimraf data/add/* --glob && rimraf data/csv/* --glob && rimraf data/shipping/* --glob && rimraf data/shippingOutput/* --glob && rimraf data/backlog/* --glob"
   },
   "repository": {
     "type": "git",

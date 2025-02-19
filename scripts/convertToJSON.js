@@ -2,18 +2,26 @@ const fs = require('fs');
 const path = require('path');
 const csv=require('csvtojson')
 const data = require('../data/myData.json');
+const backlog = require('../data/backlog/backlog.json');
 const PDFDocument = require("pdfkit");
 const PDFTable = require('pdfkit-table');
 const csv2 = require("csv-parser");
 
 const dataFileName = './data/myData.json';
+const backlogDataFileName = './data/backlog/backlog.json';
 const pullFolder = './data/pull';
 const addFolder = './data/add';
+const backlogFolder = './data/backlog';
 const pullSheetLocation = './data/csv/pullSheet.csv';
 const pullPDF = './data/csv/pullSheet.pdf';
+const storePDF = './data/csv/storePullSheet.pdf';
+const backlogPDF = './data/csv/backlogPullSheet.pdf';
+const stagedCSV = './data/csv/staged.csv';
 const results = [];
 const shippingFolder = './data/shipping';
 const shippingOutputFolder = './data/shippingOutput';
+const MIN_QUANTITY = 10;
+const MAX_QUANTITY = 20;
 
 const getShippingFile = () => {
     return `${shippingFolder}/${fs.readdirSync(shippingFolder)[0]}`;
@@ -27,8 +35,24 @@ function getAddFile(){
     return `${addFolder}/${fs.readdirSync(addFolder)[0]}`;
 }
 
+function getBacklogFile(){
+    return `${backlogFolder}/${fs.readdirSync(backlogFolder)[0]}`;
+}
+
 function writeToDataFile(dataObject){
     fs.writeFileSync(dataFileName, JSON.stringify(dataObject, undefined, 1), 'utf-8');
+}
+
+function totalQuantity(cardData, condition) {
+    let total = 0;
+    const boxKeys = Object.keys(cardData.Boxes);
+    boxKeys.forEach((k) => {
+        const box = cardData.Boxes[k];
+        if(box[condition]){
+            total += box[condition];
+        }
+    });
+    return total;
 }
 
 function AddInventoryToBox(boxNumber){
@@ -60,6 +84,89 @@ function AddInventoryToBox(boxNumber){
     }
 
     csv().fromFile(inventoryFileName).then(cb);
+}
+
+function addBacklog(storeBox, backlogBox) {
+    const backlogFileName = getBacklogFile();
+    const cb = (jsonObj) => {
+        const storePullSheet = [];
+        const backlogPullSheet = [];
+        jsonObj = jsonObj.forEach((row) => {
+            const quantity = parseInt(row['Add to Quantity']);
+            if(quantity){
+                const id = row['TCGplayer Id'];
+                const dataRow = data[id];
+                if(!dataRow || totalQuantity(dataRow, row["Condition"]) < MIN_QUANTITY){
+                    data[id] = data[id] || {
+                        "TCGplayer Id": row["TCGplayer Id"],
+                        "Product Line": row["Product Line"],
+                        "Set Name": row["Set Name"],
+                        "Product Name": row["Product Name"],
+                        "Title": row["Title"],
+                        "Number": row["Number"],
+                        "Rarity": row["Rarity"],
+                        "Condition": row["Condition"],
+                        "Boxes":{}
+                       };
+                    const totalQuantity = totalQuantity(dataRow, row["Condition"]);
+                    const quantityToAdd = Math.min(quantity, MAX_QUANTITY - totalQuantity);
+                    let box = data[id]["Boxes"][storeBox] || {};
+                    let count = box[row["Condition"]] ? parseInt(box[row["Condition"]]) + quantityToAdd : quantityToAdd;
+                    box[row["Condition"]] = count;
+                    data[id]["Boxes"][storeBox] = box;
+                    storePullSheet.push([storeBox,row["Product Name"],quantityToAdd,row["Condition"],row["Set Name"],row["Number"], row["TCGplayer Id"], row["TCG Marketplace Price"]]);
+
+                    if(quantityToAdd < quantity){
+                        const remainingQuantity = quantity - quantityToAdd;
+                        backlog[id] = backlog[id] || {
+                            "TCGplayer Id": row["TCGplayer Id"],
+                            "Product Line": row["Product Line"],
+                            "Set Name": row["Set Name"],
+                            "Product Name": row["Product Name"],
+                            "Title": row["Title"],
+                            "Number": row["Number"],
+                            "Rarity": row["Rarity"],
+                            "Condition": row["Condition"],
+                            "Boxes":{}
+                           };
+                        let box = backlog[id]["Boxes"][backlogBox] || {};
+                        let count = box[row["Condition"]] ? parseInt(box[row["Condition"]]) + remainingQuantity : remainingQuantity;
+                        box[row["Condition"]] = count;
+                        backlog[id]["Boxes"][backlogBox] = box;
+                        backlogPullSheet.push([backlogBox,row["Product Name"],remainingQuantity,row["Condition"],row["Set Name"],row["Number"]]);
+                    }
+                }else{
+                    backlog[id] = backlog[id] || {
+                        "TCGplayer Id": row["TCGplayer Id"],
+                        "Product Line": row["Product Line"],
+                        "Set Name": row["Set Name"],
+                        "Product Name": row["Product Name"],
+                        "Title": row["Title"],
+                        "Number": row["Number"],
+                        "Rarity": row["Rarity"],
+                        "Condition": row["Condition"],
+                        "Boxes":{}
+                       };
+                    let box = backlog[id]["Boxes"][backlogBox] || {};
+                    let count = box[row["Condition"]] ? parseInt(box[row["Condition"]]) + quantity : quantity;
+                    box[row["Condition"]] = count;
+                    backlog[id]["Boxes"][backlogBox] = box;
+                    backlogPullSheet.push([backlogBox,row["Product Name"],quantity,row["Condition"],row["Set Name"],row["Number"]]);
+                }
+            }
+        });
+
+        const storeHeaders = ['Box','Name','Add to Quantity','Condition','Set','Number', 'TCGplayer Id', 'TCG Marketplace Price'];
+        fs.writeFileSync(dataFileName, JSON.stringify(data, undefined, 1), 'utf-8');
+        fs.writeFileSync(backlogDataFileName, JSON.stringify(backlog, undefined, 1), 'utf-8');
+        fs.writeFileSync(stagedCSV, [storeHeaders.join(','), ...storePullSheet.map((r)=>r.join(','))].join('\n'), 'utf-8');
+
+        writePullSheet(storePDF, storePullSheet, storeHeaders);
+        writePullSheet(backlogPDF, backlogPullSheet);
+
+    }
+
+    csv().fromFile(backlogFileName).then(cb);
 }
 
 function generateId(keyArray, data) {
@@ -255,16 +362,19 @@ function writePDFPullTable(pullData) {
         });
     });
 
+    writePullSheet(pullPDF, rows);
+}
+
+function writePullSheet(pdfSheet, rows, headers = ['Box','Name','Quantity','Condition','Set','Number']) {
     // Create a new PDF document
     const doc = new PDFTable({ 
         size: 'letter', 
         layout: 'portrait',
         margins: { top: 36, bottom: 36, left: 36, right: 36 } // 0.5 inch margins
     });
-    doc.pipe(fs.createWriteStream(pullPDF));
+    doc.pipe(fs.createWriteStream(pdfSheet));
 
     // Define table headers and data
-    const headers = ['Box','Name','Quantity','Condition','Set','Number'];
     const pdfRows = rows;
     // Calculate available width and height for the table
     const pageWidth = doc.page.width - doc.page.margins.left - doc.page.margins.right;
@@ -354,6 +464,10 @@ function generateShipping() {
 }
 
 // AddInventoryToBox(121);
+
+// generate add sheet for both tcgplayer and backlog
+// also updates the backlog and myData json files with the new inventory
+// addBacklog();
 
 /**
  * Steps to pull cards
