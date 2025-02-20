@@ -2,13 +2,13 @@ const fs = require('fs');
 const path = require('path');
 const csv=require('csvtojson')
 const data = require('../data/myData.json');
-const backlog = require('../data/backlog/backlog.json');
+const backlog = require('../data/backlog.json');
 const PDFDocument = require("pdfkit");
 const PDFTable = require('pdfkit-table');
 const csv2 = require("csv-parser");
 
 const dataFileName = './data/myData.json';
-const backlogDataFileName = './data/backlog/backlog.json';
+const backlogDataFileName = './data/backlog.json';
 const pullFolder = './data/pull';
 const addFolder = './data/add';
 const backlogFolder = './data/backlog';
@@ -44,6 +44,9 @@ function writeToDataFile(dataObject){
 }
 
 function totalQuantity(cardData, condition) {
+    if(!cardData || !cardData.Boxes){
+        return 0;
+    }
     let total = 0;
     const boxKeys = Object.keys(cardData.Boxes);
     boxKeys.forEach((k) => {
@@ -108,8 +111,8 @@ function addBacklog(storeBox, backlogBox) {
                         "Condition": row["Condition"],
                         "Boxes":{}
                        };
-                    const totalQuantity = totalQuantity(dataRow, row["Condition"]);
-                    const quantityToAdd = Math.min(quantity, MAX_QUANTITY - totalQuantity);
+                    const totalCount = totalQuantity(dataRow, row["Condition"]);
+                    const quantityToAdd = Math.min(quantity, MAX_QUANTITY - totalCount);
                     let box = data[id]["Boxes"][storeBox] || {};
                     let count = box[row["Condition"]] ? parseInt(box[row["Condition"]]) + quantityToAdd : quantityToAdd;
                     box[row["Condition"]] = count;
@@ -159,9 +162,14 @@ function addBacklog(storeBox, backlogBox) {
         const storeHeaders = ['Box','Name','Add to Quantity','Condition','Set','Number', 'TCGplayer Id', 'TCG Marketplace Price'];
         fs.writeFileSync(dataFileName, JSON.stringify(data, undefined, 1), 'utf-8');
         fs.writeFileSync(backlogDataFileName, JSON.stringify(backlog, undefined, 1), 'utf-8');
-        fs.writeFileSync(stagedCSV, [storeHeaders.join(','), ...storePullSheet.map((r)=>r.join(','))].join('\n'), 'utf-8');
+        fs.writeFileSync(stagedCSV, [storeHeaders.join(','), ...storePullSheet.map((r)=>{
+            // escape commas in name and set
+            r[1] = `"${r[1].replace(/"/g, '""')}"`;
+            r[4] = `"${r[4].replace(/"/g, '""')}"`;
+            return r.join(',')
+        })].join('\n'), 'utf-8');
 
-        writePullSheet(storePDF, storePullSheet, storeHeaders);
+        writePullSheet(storePDF, storePullSheet.map((r) => r.slice(0,6)));
         writePullSheet(backlogPDF, backlogPullSheet);
 
     }
@@ -467,7 +475,8 @@ function generateShipping() {
 
 // generate add sheet for both tcgplayer and backlog
 // also updates the backlog and myData json files with the new inventory
-// addBacklog();
+// function params are the store box number and the backlog box number
+// addBacklog(1,1);
 
 /**
  * Steps to pull cards
