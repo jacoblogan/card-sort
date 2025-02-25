@@ -1093,7 +1093,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "107": {
-    "Lightly Played": 8
+    "Lightly Played": 7
    }
   }
  },
@@ -1108,7 +1108,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "107": {
-    "Lightly Played": 3
+    "Lightly Played": 2
    }
   }
  },
@@ -1123,7 +1123,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "107": {
-    "Lightly Played": 11
+    "Lightly Played": 10
    }
   }
  },
@@ -38146,7 +38146,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "120": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -40786,7 +40786,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "120": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -53263,7 +53263,7 @@
   "Condition": "Lightly Played Foil",
   "Boxes": {
    "119": {
-    "Lightly Played Foil": 1
+    "Lightly Played Foil": 0
    }
   }
  },
@@ -148543,7 +148543,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 16
+    "Near Mint": 8
    },
    "6": {
     "Near Mint": 0
@@ -148699,7 +148699,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 2
+    "Near Mint": 1
    }
   }
  },
@@ -150013,7 +150013,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 12
+    "Near Mint": 5
    },
    "4": {
     "Near Mint": 0
@@ -150676,7 +150676,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 6
+    "Near Mint": 5
    },
    "6": {
     "Near Mint": 0
@@ -151312,7 +151312,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 12
+    "Near Mint": 8
    },
    "6": {
     "Near Mint": 0
@@ -158131,7 +158131,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 3
+    "Near Mint": 0
    }
   }
  },
@@ -168115,7 +168115,7 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "14": {
-    "Near Mint Foil": 3
+    "Near Mint Foil": 0
    }
   }
  },
@@ -196741,7 +196741,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "116": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
