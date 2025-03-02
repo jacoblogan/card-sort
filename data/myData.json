@@ -134,6 +134,21 @@
    }
   }
  },
+ "324717": {
+  "TCGplayer Id": "324717",
+  "Product Line": "Magic",
+  "Set Name": "Onslaught",
+  "Product Name": "Chain of Vapor",
+  "Title": "",
+  "Number": "73",
+  "Rarity": "U",
+  "Condition": "Damaged",
+  "Boxes": {
+   "122": {
+    "Damaged": 1
+   }
+  }
+ },
  "332912": {
   "TCGplayer Id": "332912",
   "Product Line": "Magic",
@@ -5933,6 +5948,21 @@
   "Boxes": {
    "15": {
     "Near Mint": 0
+   }
+  }
+ },
+ "781164": {
+  "TCGplayer Id": "781164",
+  "Product Line": "Magic",
+  "Set Name": "Magic Player Rewards",
+  "Product Name": "Wrath of God",
+  "Title": "",
+  "Number": "1",
+  "Rarity": "P",
+  "Condition": "Damaged Foil",
+  "Boxes": {
+   "122": {
+    "Damaged Foil": 1
    }
   }
  },
@@ -38585,6 +38615,21 @@
    }
   }
  },
+ "3539224": {
+  "TCGplayer Id": "3539224",
+  "Product Line": "Magic",
+  "Set Name": "Unstable",
+  "Product Name": "Mountain",
+  "Title": "",
+  "Number": "215",
+  "Rarity": "L",
+  "Condition": "Damaged",
+  "Boxes": {
+   "122": {
+    "Damaged": 1
+   }
+  }
+ },
  "3569475": {
   "TCGplayer Id": "3569475",
   "Product Line": "Magic",
@@ -58658,6 +58703,21 @@
   "Boxes": {
    "120": {
     "Near Mint": 0
+   }
+  }
+ },
+ "4535569": {
+  "TCGplayer Id": "4535569",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Vault of Champions",
+  "Title": "",
+  "Number": "360",
+  "Rarity": "R",
+  "Condition": "Damaged Foil",
+  "Boxes": {
+   "122": {
+    "Damaged Foil": 1
    }
   }
  },
