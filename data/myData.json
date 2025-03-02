@@ -992,6 +992,81 @@
    }
   }
  },
+ "350613": {
+  "TCGplayer Id": "350613",
+  "Product Line": "Magic",
+  "Set Name": "Chronicles",
+  "Product Name": "Concordant Crossroads",
+  "Title": "",
+  "Number": "",
+  "Rarity": "R",
+  "Condition": "Heavily Played",
+  "Boxes": {
+   "123": {
+    "Heavily Played": 1
+   }
+  }
+ },
+ "352068": {
+  "TCGplayer Id": "352068",
+  "Product Line": "Magic",
+  "Set Name": "Mirage",
+  "Product Name": "Crystal Vein",
+  "Title": "",
+  "Number": "",
+  "Rarity": "U",
+  "Condition": "Heavily Played",
+  "Boxes": {
+   "123": {
+    "Heavily Played": 1
+   }
+  }
+ },
+ "352537": {
+  "TCGplayer Id": "352537",
+  "Product Line": "Magic",
+  "Set Name": "Tempest",
+  "Product Name": "Counterspell",
+  "Title": "",
+  "Number": "57",
+  "Rarity": "C",
+  "Condition": "Heavily Played",
+  "Boxes": {
+   "123": {
+    "Heavily Played": 2
+   }
+  }
+ },
+ "353868": {
+  "TCGplayer Id": "353868",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Saga",
+  "Product Name": "Exhume",
+  "Title": "",
+  "Number": "134",
+  "Rarity": "C",
+  "Condition": "Heavily Played",
+  "Boxes": {
+   "123": {
+    "Heavily Played": 1
+   }
+  }
+ },
+ "356741": {
+  "TCGplayer Id": "356741",
+  "Product Line": "Magic",
+  "Set Name": "Scourge",
+  "Product Name": "Brain Freeze",
+  "Title": "",
+  "Number": "29",
+  "Rarity": "U",
+  "Condition": "Heavily Played",
+  "Boxes": {
+   "123": {
+    "Heavily Played": 1
+   }
+  }
+ },
  "357308": {
   "TCGplayer Id": "357308",
   "Product Line": "Magic",
@@ -1019,6 +1094,51 @@
   "Boxes": {
    "118": {
     "Heavily Played": 0
+   }
+  }
+ },
+ "357584": {
+  "TCGplayer Id": "357584",
+  "Product Line": "Magic",
+  "Set Name": "Darksteel",
+  "Product Name": "Blinkmoth Nexus",
+  "Title": "",
+  "Number": "163",
+  "Rarity": "R",
+  "Condition": "Heavily Played",
+  "Boxes": {
+   "123": {
+    "Heavily Played": 1
+   }
+  }
+ },
+ "358304": {
+  "TCGplayer Id": "358304",
+  "Product Line": "Magic",
+  "Set Name": "Saviors of Kamigawa",
+  "Product Name": "Freed from the Real",
+  "Title": "",
+  "Number": "38",
+  "Rarity": "C",
+  "Condition": "Heavily Played",
+  "Boxes": {
+   "123": {
+    "Heavily Played": 1
+   }
+  }
+ },
+ "360036": {
+  "TCGplayer Id": "360036",
+  "Product Line": "Magic",
+  "Set Name": "Planar Chaos",
+  "Product Name": "Keen Sense",
+  "Title": "",
+  "Number": "152",
+  "Rarity": "U",
+  "Condition": "Heavily Played",
+  "Boxes": {
+   "123": {
+    "Heavily Played": 1
    }
   }
  },
@@ -12113,6 +12233,21 @@
   "Boxes": {
    "15": {
     "Near Mint": 1
+   }
+  }
+ },
+ "1067281": {
+  "TCGplayer Id": "1067281",
+  "Product Line": "Magic",
+  "Set Name": "Gatecrash",
+  "Product Name": "Rapid Hybridization",
+  "Title": "",
+  "Number": "44",
+  "Rarity": "U",
+  "Condition": "Heavily Played",
+  "Boxes": {
+   "123": {
+    "Heavily Played": 1
    }
   }
  },
