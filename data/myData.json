@@ -149,6 +149,21 @@
    }
   }
  },
+ "332514": {
+  "TCGplayer Id": "332514",
+  "Product Line": "Magic",
+  "Set Name": "Portal",
+  "Product Name": "Wrath of God",
+  "Title": "",
+  "Number": "",
+  "Rarity": "R",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
+   }
+  }
+ },
  "332912": {
   "TCGplayer Id": "332912",
   "Product Line": "Magic",
@@ -689,6 +704,21 @@
    }
   }
  },
+ "337230": {
+  "TCGplayer Id": "337230",
+  "Product Line": "Magic",
+  "Set Name": "Weatherlight",
+  "Product Name": "Abeyance",
+  "Title": "",
+  "Number": "",
+  "Rarity": "R",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
+   }
+  }
+ },
  "337256": {
   "TCGplayer Id": "337256",
   "Product Line": "Magic",
@@ -730,6 +760,36 @@
   "Condition": "Moderately Played",
   "Boxes": {
    "118": {
+    "Moderately Played": 1
+   }
+  }
+ },
+ "337288": {
+  "TCGplayer Id": "337288",
+  "Product Line": "Magic",
+  "Set Name": "Weatherlight",
+  "Product Name": "Firestorm",
+  "Title": "",
+  "Number": "",
+  "Rarity": "R",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
+   }
+  }
+ },
+ "337410": {
+  "TCGplayer Id": "337410",
+  "Product Line": "Magic",
+  "Set Name": "Urza's Destiny",
+  "Product Name": "Bubbling Muck",
+  "Title": "",
+  "Number": "54",
+  "Rarity": "C",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
     "Moderately Played": 1
    }
   }
@@ -854,6 +914,21 @@
   "Boxes": {
    "111": {
     "Moderately Played": 0
+   }
+  }
+ },
+ "338481": {
+  "TCGplayer Id": "338481",
+  "Product Line": "Magic",
+  "Set Name": "Nemesis",
+  "Product Name": "Submerge",
+  "Title": "",
+  "Number": "48",
+  "Rarity": "U",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
    }
   }
  },
@@ -2513,6 +2588,36 @@
   "Boxes": {
    "119": {
     "Lightly Played": 0
+   }
+  }
+ },
+ "417900": {
+  "TCGplayer Id": "417900",
+  "Product Line": "Magic",
+  "Set Name": "New Phyrexia",
+  "Product Name": "Mental Misstep",
+  "Title": "",
+  "Number": "38",
+  "Rarity": "U",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
+   }
+  }
+ },
+ "417913": {
+  "TCGplayer Id": "417913",
+  "Product Line": "Magic",
+  "Set Name": "New Phyrexia",
+  "Product Name": "Dismember",
+  "Title": "",
+  "Number": "57",
+  "Rarity": "U",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
    }
   }
  },
@@ -10433,6 +10538,21 @@
   "Boxes": {
    "15": {
     "Near Mint": 3
+   }
+  }
+ },
+ "1043893": {
+  "TCGplayer Id": "1043893",
+  "Product Line": "Magic",
+  "Set Name": "Return to Ravnica",
+  "Product Name": "Rakdos Charm",
+  "Title": "",
+  "Number": "184",
+  "Rarity": "U",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
    }
   }
  },
@@ -23351,6 +23471,21 @@
    }
   }
  },
+ "1270752": {
+  "TCGplayer Id": "1270752",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2014",
+  "Product Name": "Pongify",
+  "Title": "",
+  "Number": "120",
+  "Rarity": "U",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
+   }
+  }
+ },
  "1271518": {
   "TCGplayer Id": "1271518",
   "Product Line": "Magic",
@@ -30341,6 +30476,21 @@
    }
   }
  },
+ "3144824": {
+  "TCGplayer Id": "3144824",
+  "Product Line": "Magic",
+  "Set Name": "Eternal Masters",
+  "Product Name": "Regal Force",
+  "Title": "",
+  "Number": "181",
+  "Rarity": "R",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
+   }
+  }
+ },
  "3154515": {
   "TCGplayer Id": "3154515",
   "Product Line": "Magic",
@@ -35060,6 +35210,21 @@
    }
   }
  },
+ "3246046": {
+  "TCGplayer Id": "3246046",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2016",
+  "Product Name": "Cauldron of Souls",
+  "Title": "",
+  "Number": "246",
+  "Rarity": "R",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
+   }
+  }
+ },
  "3246959": {
   "TCGplayer Id": "3246959",
   "Product Line": "Magic",
@@ -35072,6 +35237,36 @@
   "Boxes": {
    "120": {
     "Near Mint": 1
+   }
+  }
+ },
+ "3247476": {
+  "TCGplayer Id": "3247476",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2016",
+  "Product Name": "Kraum, Ludevic's Opus",
+  "Title": "",
+  "Number": "34",
+  "Rarity": "R",
+  "Condition": "Moderately Played Foil",
+  "Boxes": {
+   "124": {
+    "Moderately Played Foil": 1
+   }
+  }
+ },
+ "3247501": {
+  "TCGplayer Id": "3247501",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2016",
+  "Product Name": "Reyhan, Last of the Abzan",
+  "Title": "",
+  "Number": "40",
+  "Rarity": "R",
+  "Condition": "Moderately Played Foil",
+  "Boxes": {
+   "124": {
+    "Moderately Played Foil": 1
    }
   }
  },
@@ -39047,6 +39242,21 @@
   "Boxes": {
    "119": {
     "Lightly Played": 0
+   }
+  }
+ },
+ "3539202": {
+  "TCGplayer Id": "3539202",
+  "Product Line": "Magic",
+  "Set Name": "Unstable",
+  "Product Name": "Island",
+  "Title": "",
+  "Number": "213",
+  "Rarity": "L",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
    }
   }
  },
@@ -44141,6 +44351,21 @@
   "Boxes": {
    "121": {
     "Near Mint": 0
+   }
+  }
+ },
+ "4062313": {
+  "TCGplayer Id": "4062313",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons",
+  "Product Name": "Ingenious Infiltrator",
+  "Title": "",
+  "Number": "204",
+  "Rarity": "U",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
    }
   }
  },
@@ -53747,6 +53972,21 @@
    }
   }
  },
+ "4347111": {
+  "TCGplayer Id": "4347111",
+  "Product Line": "Magic",
+  "Set Name": "The List Reprints",
+  "Product Name": "Delay",
+  "Title": "",
+  "Number": "35",
+  "Rarity": "U",
+  "Condition": "Moderately Played Foil",
+  "Boxes": {
+   "124": {
+    "Moderately Played Foil": 1
+   }
+  }
+ },
  "4347670": {
   "TCGplayer Id": "4347670",
   "Product Line": "Magic",
@@ -54074,6 +54314,21 @@
   "Boxes": {
    "120": {
     "Near Mint Foil": 1
+   }
+  }
+ },
+ "4433456": {
+  "TCGplayer Id": "4433456",
+  "Product Line": "Magic",
+  "Set Name": "Secret Lair Drop Series",
+  "Product Name": "Lightning Bolt (083)",
+  "Title": "",
+  "Number": "83",
+  "Rarity": "P",
+  "Condition": "Moderately Played Foil",
+  "Boxes": {
+   "124": {
+    "Moderately Played Foil": 1
    }
   }
  },
@@ -55730,6 +55985,21 @@
    },
    "10": {
     "Near Mint": 19
+   }
+  }
+ },
+ "4455158": {
+  "TCGplayer Id": "4455158",
+  "Product Line": "Magic",
+  "Set Name": "Core Set 2021",
+  "Product Name": "Miscast",
+  "Title": "",
+  "Number": "57",
+  "Rarity": "U",
+  "Condition": "Moderately Played",
+  "Boxes": {
+   "124": {
+    "Moderately Played": 1
    }
   }
  },
@@ -74255,6 +74525,21 @@
   "Boxes": {
    "2": {
     "Near Mint": 0
+   }
+  }
+ },
+ "4982579": {
+  "TCGplayer Id": "4982579",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons",
+  "Product Name": "Talisman of Hierarchy (Retro Frame)",
+  "Title": "",
+  "Number": "36",
+  "Rarity": "U",
+  "Condition": "Moderately Played Foil",
+  "Boxes": {
+   "124": {
+    "Moderately Played Foil": 1
    }
   }
  },

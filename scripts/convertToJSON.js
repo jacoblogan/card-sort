@@ -471,7 +471,7 @@ function generateShipping() {
   });
 }
 
-// AddInventoryToBox(125);
+// AddInventoryToBox(124);
 
 // generate add sheet for both tcgplayer and backlog
 // also updates the backlog and myData json files with the new inventory
