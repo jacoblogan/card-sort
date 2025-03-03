@@ -2672,6 +2672,21 @@
    }
   }
  },
+ "385404": {
+  "TCGplayer Id": "385404",
+  "Product Line": "Magic",
+  "Set Name": "Rise of the Eldrazi",
+  "Product Name": "Eldrazi Temple",
+  "Title": "",
+  "Number": "227",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "387184": {
   "TCGplayer Id": "387184",
   "Product Line": "Magic",
@@ -39404,6 +39419,21 @@
    }
   }
  },
+ "3372918": {
+  "TCGplayer Id": "3372918",
+  "Product Line": "Magic",
+  "Set Name": "Archenemy: Nicol Bolas",
+  "Product Name": "Archfiend of Depravity",
+  "Title": "",
+  "Number": "31",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "3373009": {
   "TCGplayer Id": "3373009",
   "Product Line": "Magic",
@@ -40022,6 +40052,21 @@
    }
   }
  },
+ "3468462": {
+  "TCGplayer Id": "3468462",
+  "Product Line": "Magic",
+  "Set Name": "Iconic Masters",
+  "Product Name": "Thoughtseize",
+  "Title": "",
+  "Number": "110",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "3539201": {
   "TCGplayer Id": "3539201",
   "Product Line": "Magic",
@@ -40049,6 +40094,21 @@
   "Boxes": {
    "124": {
     "Moderately Played": 1
+   }
+  }
+ },
+ "3539220": {
+  "TCGplayer Id": "3539220",
+  "Product Line": "Magic",
+  "Set Name": "Unstable",
+  "Product Name": "Mountain",
+  "Title": "",
+  "Number": "215",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -42425,6 +42485,21 @@
    }
   }
  },
+ "3904304": {
+  "TCGplayer Id": "3904304",
+  "Product Line": "Magic",
+  "Set Name": "Ultimate Masters",
+  "Product Name": "Life from the Loam",
+  "Title": "",
+  "Number": "172",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "3913771": {
   "TCGplayer Id": "3913771",
   "Product Line": "Magic",
@@ -42437,6 +42512,21 @@
   "Boxes": {
    "119": {
     "Lightly Played": 0
+   }
+  }
+ },
+ "3914885": {
+  "TCGplayer Id": "3914885",
+  "Product Line": "Magic",
+  "Set Name": "Ultimate Masters",
+  "Product Name": "Fauna Shaman",
+  "Title": "",
+  "Number": "164",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "130": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -55442,6 +55532,21 @@
    }
   }
  },
+ "4370093": {
+  "TCGplayer Id": "4370093",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2020",
+  "Product Name": "Molten Echoes",
+  "Title": "",
+  "Number": "54",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4373033": {
   "TCGplayer Id": "4373033",
   "Product Line": "Magic",
@@ -55514,6 +55619,21 @@
   "Boxes": {
    "12": {
     "Near Mint": 0
+   }
+  }
+ },
+ "4384485": {
+  "TCGplayer Id": "4384485",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2020",
+  "Product Name": "Windfall",
+  "Title": "",
+  "Number": "128",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -60881,6 +61001,21 @@
    }
   }
  },
+ "4536370": {
+  "TCGplayer Id": "4536370",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Undergrowth Stadium",
+  "Title": "",
+  "Number": "359",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4539527": {
   "TCGplayer Id": "4539527",
   "Product Line": "Magic",
@@ -61571,6 +61706,9 @@
   "Boxes": {
    "121": {
     "Near Mint": 0
+   },
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -61664,6 +61802,21 @@
    }
   }
  },
+ "4640916": {
+  "TCGplayer Id": "4640916",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Staff of Domination",
+  "Title": "",
+  "Number": "343",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4644496": {
   "TCGplayer Id": "4644496",
   "Product Line": "Magic",
@@ -61691,6 +61844,9 @@
   "Boxes": {
    "121": {
     "Near Mint": 0
+   },
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -61739,6 +61895,21 @@
    }
   }
  },
+ "4652623": {
+  "TCGplayer Id": "4652623",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends",
+  "Product Name": "Command Beacon",
+  "Title": "",
+  "Number": "349",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4655218": {
   "TCGplayer Id": "4655218",
   "Product Line": "Magic",
@@ -61766,6 +61937,9 @@
   "Boxes": {
    "121": {
     "Near Mint": 0
+   },
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -67145,6 +67319,21 @@
    }
   }
  },
+ "4800331": {
+  "TCGplayer Id": "4800331",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Zulaport Cutthroat",
+  "Title": "",
+  "Number": "337",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4801777": {
   "TCGplayer Id": "4801777",
   "Product Line": "Magic",
@@ -67172,6 +67361,21 @@
   "Boxes": {
    "121": {
     "Near Mint": 0
+   }
+  }
+ },
+ "4803926": {
+  "TCGplayer Id": "4803926",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Goblin Engineer",
+  "Title": "",
+  "Number": "345",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -67247,6 +67451,9 @@
   "Boxes": {
    "121": {
     "Near Mint": 0
+   },
+   "130": {
+    "Near Mint": 2
    }
   }
  },
@@ -67277,6 +67484,21 @@
   "Boxes": {
    "121": {
     "Near Mint": 0
+   }
+  }
+ },
+ "4810826": {
+  "TCGplayer Id": "4810826",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Elvish Mystic",
+  "Title": "",
+  "Number": "360",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -67325,6 +67547,21 @@
    }
   }
  },
+ "4818699": {
+  "TCGplayer Id": "4818699",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Cloud Key",
+  "Title": "",
+  "Number": "265",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4818824": {
   "TCGplayer Id": "4818824",
   "Product Line": "Magic",
@@ -67340,6 +67577,51 @@
    }
   }
  },
+ "4819119": {
+  "TCGplayer Id": "4819119",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Abrupt Decay",
+  "Title": "",
+  "Number": "370",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4821494": {
+  "TCGplayer Id": "4821494",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Panharmonicon",
+  "Title": "",
+  "Number": "399",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "4822899": {
+  "TCGplayer Id": "4822899",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Swarmyard",
+  "Title": "",
+  "Number": "284",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4822900": {
   "TCGplayer Id": "4822900",
   "Product Line": "Magic",
@@ -67352,6 +67634,21 @@
   "Boxes": {
    "129": {
     "Lightly Played": 1
+   }
+  }
+ },
+ "4823099": {
+  "TCGplayer Id": "4823099",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Rakdos Charm",
+  "Title": "",
+  "Number": "384",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -67400,6 +67697,21 @@
    }
   }
  },
+ "4828094": {
+  "TCGplayer Id": "4828094",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Gauntlet of Power",
+  "Title": "",
+  "Number": "267",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4828300": {
   "TCGplayer Id": "4828300",
   "Product Line": "Magic",
@@ -67427,6 +67739,21 @@
   "Boxes": {
    "129": {
     "Lightly Played": 1
+   }
+  }
+ },
+ "4829494": {
+  "TCGplayer Id": "4829494",
+  "Product Line": "Magic",
+  "Set Name": "Time Spiral: Remastered",
+  "Product Name": "Knight of the Reliquary",
+  "Title": "",
+  "Number": "379",
+  "Rarity": "S",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -68255,6 +68582,21 @@
   "Boxes": {
    "6": {
     "Near Mint Foil": 0
+   }
+  }
+ },
+ "4844692": {
+  "TCGplayer Id": "4844692",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: Mystical Archives",
+  "Product Name": "Brainstorm",
+  "Title": "",
+  "Number": "13",
+  "Rarity": "R",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "130": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -73973,6 +74315,21 @@
    }
   }
  },
+ "4883688": {
+  "TCGplayer Id": "4883688",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: Mystical Archives",
+  "Product Name": "Primal Command (JP Alternate Art)",
+  "Title": "",
+  "Number": "118",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "4883693": {
   "TCGplayer Id": "4883693",
   "Product Line": "Magic",
@@ -78728,6 +79085,21 @@
   "Boxes": {
    "5": {
     "Near Mint Foil": 1
+   }
+  }
+ },
+ "5046783": {
+  "TCGplayer Id": "5046783",
+  "Product Line": "Magic",
+  "Set Name": "Adventures in the Forgotten Realms",
+  "Product Name": "Circle of Dreams Druid",
+  "Title": "",
+  "Number": "176",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -85924,6 +86296,66 @@
   "Condition": "Near Mint",
   "Boxes": {
    "6": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5154891": {
+  "TCGplayer Id": "5154891",
+  "Product Line": "Magic",
+  "Set Name": "Commander Collection: Black",
+  "Product Name": "Liliana, Heretical Healer",
+  "Title": "",
+  "Number": "1",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5154921": {
+  "TCGplayer Id": "5154921",
+  "Product Line": "Magic",
+  "Set Name": "Commander Collection: Black",
+  "Product Name": "Phyrexian Arena",
+  "Title": "",
+  "Number": "4",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5154931": {
+  "TCGplayer Id": "5154931",
+  "Product Line": "Magic",
+  "Set Name": "Commander Collection: Black",
+  "Product Name": "Reanimate",
+  "Title": "",
+  "Number": "5",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5154941": {
+  "TCGplayer Id": "5154941",
+  "Product Line": "Magic",
+  "Set Name": "Commander Collection: Black",
+  "Product Name": "Toxic Deluge",
+  "Title": "",
+  "Number": "6",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
     "Near Mint": 1
    }
   }
@@ -117572,6 +118004,21 @@
    }
   }
  },
+ "5698138": {
+  "TCGplayer Id": "5698138",
+  "Product Line": "Magic",
+  "Set Name": "Double Masters 2022",
+  "Product Name": "Oracle of Mul Daya",
+  "Title": "",
+  "Number": "154",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "5698373": {
   "TCGplayer Id": "5698373",
   "Product Line": "Magic",
@@ -117899,6 +118346,21 @@
   "Boxes": {
    "126": {
     "Lightly Played": 1
+   }
+  }
+ },
+ "5701890": {
+  "TCGplayer Id": "5701890",
+  "Product Line": "Magic",
+  "Set Name": "Double Masters 2022",
+  "Product Name": "Surgical Extraction",
+  "Title": "",
+  "Number": "94",
+  "Rarity": "R",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -194081,6 +194543,21 @@
    }
   }
  },
+ "7853097": {
+  "TCGplayer Id": "7853097",
+  "Product Line": "Magic",
+  "Set Name": "Outlaws of Thunder Junction: The Big Score",
+  "Product Name": "Harvester of Misery",
+  "Title": "",
+  "Number": "9",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
+   }
+  }
+ },
  "7900067": {
   "TCGplayer Id": "7900067",
   "Product Line": "Magic",
@@ -194318,6 +194795,21 @@
   "Boxes": {
    "106": {
     "Near Mint Foil": 0
+   }
+  }
+ },
+ "7930549": {
+  "TCGplayer Id": "7930549",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 3",
+  "Product Name": "Ral, Monsoon Mage (Borderless)",
+  "Title": "",
+  "Number": "445",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
@@ -194618,6 +195110,21 @@
   "Boxes": {
    "106": {
     "Near Mint Foil": 1
+   }
+  }
+ },
+ "7946535": {
+  "TCGplayer Id": "7946535",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 3",
+  "Product Name": "Necrodominance",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "M",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "130": {
+    "Near Mint": 1
    }
   }
  },
