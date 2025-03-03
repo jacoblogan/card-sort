@@ -1592,6 +1592,21 @@
    }
   }
  },
+ "367827": {
+  "TCGplayer Id": "367827",
+  "Product Line": "Magic",
+  "Set Name": "Mirage",
+  "Product Name": "Cursed Totem",
+  "Title": "",
+  "Number": "",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "368226": {
   "TCGplayer Id": "368226",
   "Product Line": "Magic",
@@ -2099,6 +2114,21 @@
    }
   }
  },
+ "369328": {
+  "TCGplayer Id": "369328",
+  "Product Line": "Magic",
+  "Set Name": "Mercadian Masques",
+  "Product Name": "High Market",
+  "Title": "",
+  "Number": "320",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "369538": {
   "TCGplayer Id": "369538",
   "Product Line": "Magic",
@@ -2342,6 +2372,21 @@
    }
   }
  },
+ "371609": {
+  "TCGplayer Id": "371609",
+  "Product Line": "Magic",
+  "Set Name": "Odyssey",
+  "Product Name": "Moment's Peace",
+  "Title": "",
+  "Number": "251",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "371673": {
   "TCGplayer Id": "371673",
   "Product Line": "Magic",
@@ -2384,6 +2429,21 @@
   "Boxes": {
    "119": {
     "Lightly Played": 0
+   }
+  }
+ },
+ "371801": {
+  "TCGplayer Id": "371801",
+  "Product Line": "Magic",
+  "Set Name": "Torment",
+  "Product Name": "Putrid Imp",
+  "Title": "",
+  "Number": "77",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 2
    }
   }
  },
@@ -2432,6 +2492,21 @@
    }
   }
  },
+ "373936": {
+  "TCGplayer Id": "373936",
+  "Product Line": "Magic",
+  "Set Name": "Betrayers of Kamigawa",
+  "Product Name": "Mistblade Shinobi",
+  "Title": "",
+  "Number": "43",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "374604": {
   "TCGplayer Id": "374604",
   "Product Line": "Magic",
@@ -2458,6 +2533,21 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
+ "375925": {
+  "TCGplayer Id": "375925",
+  "Product Line": "Magic",
+  "Set Name": "Future Sight",
+  "Product Name": "Dryad Arbor",
+  "Title": "",
+  "Number": "174",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
     "Lightly Played": 1
    }
   }
@@ -2627,6 +2717,21 @@
    }
   }
  },
+ "393958": {
+  "TCGplayer Id": "393958",
+  "Product Line": "Magic",
+  "Set Name": "Scars of Mirrodin",
+  "Product Name": "Memnite",
+  "Title": "",
+  "Number": "174",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "394877": {
   "TCGplayer Id": "394877",
   "Product Line": "Magic",
@@ -2669,6 +2774,21 @@
   "Boxes": {
    "119": {
     "Lightly Played": 0
+   }
+  }
+ },
+ "395757": {
+  "TCGplayer Id": "395757",
+  "Product Line": "Magic",
+  "Set Name": "Scars of Mirrodin",
+  "Product Name": "Tainted Strike",
+  "Title": "",
+  "Number": "80",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -20507,6 +20627,21 @@
    }
   }
  },
+ "1137106": {
+  "TCGplayer Id": "1137106",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2013",
+  "Product Name": "Bane of Progress",
+  "Title": "",
+  "Number": "137",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "1137166": {
   "TCGplayer Id": "1137166",
   "Product Line": "Magic",
@@ -20609,6 +20744,21 @@
   "Boxes": {
    "125": {
     "Moderately Played": 1
+   }
+  }
+ },
+ "1140345": {
+  "TCGplayer Id": "1140345",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2013",
+  "Product Name": "Swiftfoot Boots",
+  "Title": "",
+  "Number": "263",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -23507,6 +23657,36 @@
    }
   }
  },
+ "1186450": {
+  "TCGplayer Id": "1186450",
+  "Product Line": "Magic",
+  "Set Name": "Conspiracy",
+  "Product Name": "Misdirection",
+  "Title": "",
+  "Number": "102",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
+ "1229208": {
+  "TCGplayer Id": "1229208",
+  "Product Line": "Magic",
+  "Set Name": "Magic 2015 (M15)",
+  "Product Name": "Chief Engineer",
+  "Title": "",
+  "Number": "47",
+  "Rarity": "R",
+  "Condition": "Lightly Played Foil",
+  "Boxes": {
+   "128": {
+    "Lightly Played Foil": 1
+   }
+  }
+ },
  "1253843": {
   "TCGplayer Id": "1253843",
   "Product Line": "Magic",
@@ -23639,6 +23819,21 @@
   "Boxes": {
    "121": {
     "Near Mint": 0
+   }
+  }
+ },
+ "1270751": {
+  "TCGplayer Id": "1270751",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2014",
+  "Product Name": "Pongify",
+  "Title": "",
+  "Number": "120",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -24538,6 +24733,9 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "119": {
+    "Lightly Played": 1
+   },
+   "128": {
     "Lightly Played": 1
    }
   }
@@ -26354,6 +26552,21 @@
   "Boxes": {
    "6": {
     "Near Mint": 1
+   }
+  }
+ },
+ "3041976": {
+  "TCGplayer Id": "3041976",
+  "Product Line": "Magic",
+  "Set Name": "Oath of the Gatewatch",
+  "Product Name": "Jori En, Ruin Diver",
+  "Title": "",
+  "Number": "155",
+  "Rarity": "R",
+  "Condition": "Lightly Played Foil",
+  "Boxes": {
+   "128": {
+    "Lightly Played Foil": 1
    }
   }
  },
@@ -28382,6 +28595,21 @@
    }
   }
  },
+ "3095293": {
+  "TCGplayer Id": "3095293",
+  "Product Line": "Magic",
+  "Set Name": "Shadows over Innistrad",
+  "Product Name": "Anguished Unmaking",
+  "Title": "",
+  "Number": "242",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "3095437": {
   "TCGplayer Id": "3095437",
   "Product Line": "Magic",
@@ -28484,6 +28712,21 @@
   "Boxes": {
    "6": {
     "Near Mint": 10
+   }
+  }
+ },
+ "3099052": {
+  "TCGplayer Id": "3099052",
+  "Product Line": "Magic",
+  "Set Name": "Shadows over Innistrad",
+  "Product Name": "Traverse the Ulvenwald",
+  "Title": "",
+  "Number": "234",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -30872,6 +31115,21 @@
    }
   }
  },
+ "3154666": {
+  "TCGplayer Id": "3154666",
+  "Product Line": "Magic",
+  "Set Name": "Eldritch Moon",
+  "Product Name": "Thalia, Heretic Cathar",
+  "Title": "",
+  "Number": "46",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 2
+   }
+  }
+ },
  "3154996": {
   "TCGplayer Id": "3154996",
   "Product Line": "Magic",
@@ -32840,6 +33098,21 @@
    }
   }
  },
+ "3200540": {
+  "TCGplayer Id": "3200540",
+  "Product Line": "Magic",
+  "Set Name": "Kaladesh",
+  "Product Name": "Spirebluff Canal",
+  "Title": "",
+  "Number": "249",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "3200549": {
   "TCGplayer Id": "3200549",
   "Product Line": "Magic",
@@ -34496,6 +34769,21 @@
    }
   }
  },
+ "3203768": {
+  "TCGplayer Id": "3203768",
+  "Product Line": "Magic",
+  "Set Name": "Kaladesh",
+  "Product Name": "Dramatic Reversal",
+  "Title": "",
+  "Number": "44",
+  "Rarity": "C",
+  "Condition": "Lightly Played Foil",
+  "Boxes": {
+   "128": {
+    "Lightly Played Foil": 1
+   }
+  }
+ },
  "3203772": {
   "TCGplayer Id": "3203772",
   "Product Line": "Magic",
@@ -35618,6 +35906,36 @@
   "Boxes": {
    "8": {
     "Near Mint": 8
+   }
+  }
+ },
+ "3257841": {
+  "TCGplayer Id": "3257841",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Whir of Invention",
+  "Title": "",
+  "Number": "49",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
+ "3257861": {
+  "TCGplayer Id": "3257861",
+  "Product Line": "Magic",
+  "Set Name": "Aether Revolt",
+  "Product Name": "Fatal Push",
+  "Title": "",
+  "Number": "57",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -39638,6 +39956,9 @@
   "Boxes": {
    "119": {
     "Lightly Played": 1
+   },
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -41876,6 +42197,21 @@
    }
   }
  },
+ "3808068": {
+  "TCGplayer Id": "3808068",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2018",
+  "Product Name": "Myth Unbound",
+  "Title": "",
+  "Number": "32",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "3846708": {
   "TCGplayer Id": "3846708",
   "Product Line": "Magic",
@@ -41963,6 +42299,21 @@
   "Boxes": {
    "119": {
     "Lightly Played": 0
+   }
+  }
+ },
+ "3917658": {
+  "TCGplayer Id": "3917658",
+  "Product Line": "Magic",
+  "Set Name": "Ultimate Masters",
+  "Product Name": "Kodama's Reach",
+  "Title": "",
+  "Number": "171",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -46772,6 +47123,21 @@
   "Boxes": {
    "120": {
     "Near Mint": 1
+   }
+  }
+ },
+ "4149771": {
+  "TCGplayer Id": "4149771",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2019",
+  "Product Name": "Seedborn Muse",
+  "Title": "",
+  "Number": "179",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -52925,6 +53291,21 @@
    }
   }
  },
+ "4301538": {
+  "TCGplayer Id": "4301538",
+  "Product Line": "Magic",
+  "Set Name": "Theros Beyond Death",
+  "Product Name": "Dryad of the Ilysian Grove",
+  "Title": "",
+  "Number": "169",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "4301762": {
   "TCGplayer Id": "4301762",
   "Product Line": "Magic",
@@ -54878,6 +55259,21 @@
    }
   }
  },
+ "4374224": {
+  "TCGplayer Id": "4374224",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2020",
+  "Product Name": "Slippery Bogbonder",
+  "Title": "",
+  "Number": "66",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "4376049": {
   "TCGplayer Id": "4376049",
   "Product Line": "Magic",
@@ -55085,6 +55481,21 @@
   "Boxes": {
    "120": {
     "Near Mint": 1
+   }
+  }
+ },
+ "4433410": {
+  "TCGplayer Id": "4433410",
+  "Product Line": "Magic",
+  "Set Name": "Secret Lair Drop Series",
+  "Product Name": "Spell Pierce",
+  "Title": "",
+  "Number": "41",
+  "Rarity": "P",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -73559,6 +73970,21 @@
    }
   }
  },
+ "4895067": {
+  "TCGplayer Id": "4895067",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Veyran, Voice of Duality",
+  "Title": "",
+  "Number": "3",
+  "Rarity": "M",
+  "Condition": "Lightly Played Foil",
+  "Boxes": {
+   "128": {
+    "Lightly Played Foil": 1
+   }
+  }
+ },
  "4897368": {
   "TCGplayer Id": "4897368",
   "Product Line": "Magic",
@@ -73736,6 +74162,21 @@
   "Boxes": {
    "1": {
     "Near Mint": 2
+   }
+  }
+ },
+ "4903486": {
+  "TCGplayer Id": "4903486",
+  "Product Line": "Magic",
+  "Set Name": "Commander 2021",
+  "Product Name": "Stinging Study (Extended Art)",
+  "Title": "",
+  "Number": "371",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -84449,6 +84890,21 @@
    }
   }
  },
+ "5118732": {
+  "TCGplayer Id": "5118732",
+  "Product Line": "Magic",
+  "Set Name": "Adventures in the Forgotten Realms",
+  "Product Name": "Treasure Vault (Dungeon Module)",
+  "Title": "",
+  "Number": "358",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "5148605": {
   "TCGplayer Id": "5148605",
   "Product Line": "Magic",
@@ -87824,6 +88280,21 @@
   "Boxes": {
    "1": {
     "Near Mint": 1
+   }
+  }
+ },
+ "5197576": {
+  "TCGplayer Id": "5197576",
+  "Product Line": "Magic",
+  "Set Name": "Commander: Innistrad: Midnight Hunt",
+  "Product Name": "Gyre Sage",
+  "Title": "",
+  "Number": "140",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -98708,6 +99179,21 @@
   "Boxes": {
    "5": {
     "Near Mint": 3
+   }
+  }
+ },
+ "5516108": {
+  "TCGplayer Id": "5516108",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Slip Out the Back",
+  "Title": "",
+  "Number": "62",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -111764,6 +112250,21 @@
    }
   }
  },
+ "5637045": {
+  "TCGplayer Id": "5637045",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Nature's Lore",
+  "Title": "",
+  "Number": "244",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "5637049": {
   "TCGplayer Id": "5637049",
   "Product Line": "Magic",
@@ -114704,6 +115205,21 @@
   "Boxes": {
    "120": {
     "Near Mint": 0
+   }
+  }
+ },
+ "5657342": {
+  "TCGplayer Id": "5657342",
+  "Product Line": "Magic",
+  "Set Name": "Commander Legends: Battle for Baldur's Gate",
+  "Product Name": "Mutavault",
+  "Title": "",
+  "Number": "903",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -126305,6 +126821,21 @@
    }
   }
  },
+ "5810203": {
+  "TCGplayer Id": "5810203",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: Warhammer 40,000",
+  "Product Name": "Sol Ring (251)",
+  "Title": "",
+  "Number": "251",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "5818077": {
   "TCGplayer Id": "5818077",
   "Product Line": "Magic",
@@ -126332,6 +126863,21 @@
   "Boxes": {
    "120": {
     "Near Mint": 1
+   }
+  }
+ },
+ "5827481": {
+  "TCGplayer Id": "5827481",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: Warhammer 40,000",
+  "Product Name": "Vexilus Praetor",
+  "Title": "",
+  "Number": "19",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
@@ -192992,6 +193538,21 @@
    }
   }
  },
+ "7901938": {
+  "TCGplayer Id": "7901938",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 3",
+  "Product Name": "Flare of Denial (Retro Frame)",
+  "Title": "",
+  "Number": "400",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "7902127": {
   "TCGplayer Id": "7902127",
   "Product Line": "Magic",
@@ -193472,6 +194033,21 @@
    }
   }
  },
+ "7949906": {
+  "TCGplayer Id": "7949906",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 3",
+  "Product Name": "Boggart Trawler",
+  "Title": "",
+  "Number": "243",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "7950065": {
   "TCGplayer Id": "7950065",
   "Product Line": "Magic",
@@ -193694,6 +194270,21 @@
   "Boxes": {
    "17": {
     "Near Mint": 20
+   }
+  }
+ },
+ "7957540": {
+  "TCGplayer Id": "7957540",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 3",
+  "Product Name": "Hydroelectric Specimen",
+  "Title": "",
+  "Number": "240",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "128": {
+    "Lightly Played": 1
    }
   }
  },
