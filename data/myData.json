@@ -1397,6 +1397,21 @@
    }
   }
  },
+ "364428": {
+  "TCGplayer Id": "364428",
+  "Product Line": "Magic",
+  "Set Name": "Revised Edition",
+  "Product Name": "Basalt Monolith",
+  "Title": "",
+  "Number": "",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "364595": {
   "TCGplayer Id": "364595",
   "Product Line": "Magic",
@@ -2276,6 +2291,21 @@
    }
   }
  },
+ "370458": {
+  "TCGplayer Id": "370458",
+  "Product Line": "Magic",
+  "Set Name": "Invasion",
+  "Product Name": "Urza's Filter",
+  "Title": "",
+  "Number": "318",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "371673": {
   "TCGplayer Id": "371673",
   "Product Line": "Magic",
@@ -2336,6 +2366,21 @@
    }
   }
  },
+ "371909": {
+  "TCGplayer Id": "371909",
+  "Product Line": "Magic",
+  "Set Name": "Judgment",
+  "Product Name": "Filth",
+  "Title": "",
+  "Number": "66",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "373001": {
   "TCGplayer Id": "373001",
   "Product Line": "Magic",
@@ -2348,6 +2393,36 @@
   "Boxes": {
    "119": {
     "Lightly Played": 0
+   }
+  }
+ },
+ "374604": {
+  "TCGplayer Id": "374604",
+  "Product Line": "Magic",
+  "Set Name": "Ravnica: City of Guilds",
+  "Product Name": "Elves of Deep Shadow",
+  "Title": "",
+  "Number": "161",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
+ "374638": {
+  "TCGplayer Id": "374638",
+  "Product Line": "Magic",
+  "Set Name": "Ravnica: City of Guilds",
+  "Product Name": "Golgari Grave-Troll",
+  "Title": "",
+  "Number": "167",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
@@ -6656,6 +6731,21 @@
    }
   }
  },
+ "870975": {
+  "TCGplayer Id": "870975",
+  "Product Line": "Magic",
+  "Set Name": "Avacyn Restored",
+  "Product Name": "Ulvenwald Tracker",
+  "Title": "",
+  "Number": "200",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "870998": {
   "TCGplayer Id": "870998",
   "Product Line": "Magic",
@@ -9953,6 +10043,21 @@
   "Boxes": {
    "118": {
     "Moderately Played": 0
+   }
+  }
+ },
+ "939921": {
+  "TCGplayer Id": "939921",
+  "Product Line": "Magic",
+  "Set Name": "Magic 2013 (M13)",
+  "Product Name": "Farseek",
+  "Title": "",
+  "Number": "170",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
@@ -23558,6 +23663,51 @@
   "Boxes": {
    "119": {
     "Lightly Played": 0
+   }
+  }
+ },
+ "2896345": {
+  "TCGplayer Id": "2896345",
+  "Product Line": "Magic",
+  "Set Name": "Magic Origins",
+  "Product Name": "Dark Petition",
+  "Title": "",
+  "Number": "90",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
+ "2896870": {
+  "TCGplayer Id": "2896870",
+  "Product Line": "Magic",
+  "Set Name": "Magic Origins",
+  "Product Name": "Jace, Vryn's Prodigy",
+  "Title": "",
+  "Number": "60",
+  "Rarity": "M",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
+ "2896904": {
+  "TCGplayer Id": "2896904",
+  "Product Line": "Magic",
+  "Set Name": "Magic Origins",
+  "Product Name": "Woodland Bellower",
+  "Title": "",
+  "Number": "207",
+  "Rarity": "M",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
@@ -39245,6 +39395,36 @@
    }
   }
  },
+ "3466668": {
+  "TCGplayer Id": "3466668",
+  "Product Line": "Magic",
+  "Set Name": "Iconic Masters",
+  "Product Name": "Rune-Scarred Demon",
+  "Title": "",
+  "Number": "106",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
+ "3539201": {
+  "TCGplayer Id": "3539201",
+  "Product Line": "Magic",
+  "Set Name": "Unstable",
+  "Product Name": "Island",
+  "Title": "",
+  "Number": "213",
+  "Rarity": "L",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 3
+   }
+  }
+ },
  "3539202": {
   "TCGplayer Id": "3539202",
   "Product Line": "Magic",
@@ -39257,6 +39437,21 @@
   "Boxes": {
    "124": {
     "Moderately Played": 1
+   }
+  }
+ },
+ "3539221": {
+  "TCGplayer Id": "3539221",
+  "Product Line": "Magic",
+  "Set Name": "Unstable",
+  "Product Name": "Mountain",
+  "Title": "",
+  "Number": "215",
+  "Rarity": "L",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 4
    }
   }
  },
@@ -39286,6 +39481,36 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "119": {
+    "Lightly Played": 1
+   }
+  }
+ },
+ "3609083": {
+  "TCGplayer Id": "3609083",
+  "Product Line": "Magic",
+  "Set Name": "Masters 25",
+  "Product Name": "Flooded Grove",
+  "Title": "",
+  "Number": "239",
+  "Rarity": "R",
+  "Condition": "Lightly Played Foil",
+  "Boxes": {
+   "126": {
+    "Lightly Played Foil": 1
+   }
+  }
+ },
+ "3609208": {
+  "TCGplayer Id": "3609208",
+  "Product Line": "Magic",
+  "Set Name": "Masters 25",
+  "Product Name": "Strionic Resonator",
+  "Title": "",
+  "Number": "232",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
     "Lightly Played": 1
    }
   }
@@ -41345,6 +41570,21 @@
    }
   }
  },
+ "3743840": {
+  "TCGplayer Id": "3743840",
+  "Product Line": "Magic",
+  "Set Name": "Battlebond",
+  "Product Name": "Bountiful Promenade",
+  "Title": "",
+  "Number": "81",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "3746840": {
   "TCGplayer Id": "3746840",
   "Product Line": "Magic",
@@ -41357,6 +41597,21 @@
   "Boxes": {
    "125": {
     "Moderately Played": 1
+   }
+  }
+ },
+ "3746849": {
+  "TCGplayer Id": "3746849",
+  "Product Line": "Magic",
+  "Set Name": "Battlebond",
+  "Product Name": "Pir, Imaginative Rascal",
+  "Title": "",
+  "Number": "11",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
@@ -41432,6 +41687,21 @@
   "Boxes": {
    "121": {
     "Near Mint Foil": 0
+   }
+  }
+ },
+ "3846708": {
+  "TCGplayer Id": "3846708",
+  "Product Line": "Magic",
+  "Set Name": "Guilds of Ravnica",
+  "Product Name": "Chromatic Lantern",
+  "Title": "",
+  "Number": "233",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
@@ -41765,6 +42035,21 @@
    }
   }
  },
+ "3928967": {
+  "TCGplayer Id": "3928967",
+  "Product Line": "Magic",
+  "Set Name": "Ravnica Allegiance",
+  "Product Name": "Hallowed Fountain",
+  "Title": "",
+  "Number": "251",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "3928976": {
   "TCGplayer Id": "3928976",
   "Product Line": "Magic",
@@ -41882,6 +42167,21 @@
   "Boxes": {
    "13": {
     "Near Mint": 4
+   }
+  }
+ },
+ "3930124": {
+  "TCGplayer Id": "3930124",
+  "Product Line": "Magic",
+  "Set Name": "Ravnica Allegiance",
+  "Product Name": "End-Raze Forerunners",
+  "Title": "",
+  "Number": "124",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
@@ -42425,6 +42725,21 @@
   "Boxes": {
    "13": {
     "Near Mint": 2
+   }
+  }
+ },
+ "3943721": {
+  "TCGplayer Id": "3943721",
+  "Product Line": "Magic",
+  "Set Name": "Ravnica Allegiance",
+  "Product Name": "Guardian Project",
+  "Title": "",
+  "Number": "130",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
@@ -44174,6 +44489,36 @@
    }
   }
  },
+ "3989547": {
+  "TCGplayer Id": "3989547",
+  "Product Line": "Magic",
+  "Set Name": "War of the Spark",
+  "Product Name": "Emergence Zone",
+  "Title": "",
+  "Number": "245",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 2
+   }
+  }
+ },
+ "3989953": {
+  "TCGplayer Id": "3989953",
+  "Product Line": "Magic",
+  "Set Name": "War of the Spark",
+  "Product Name": "Dovin's Veto",
+  "Title": "",
+  "Number": "193",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "3999114": {
   "TCGplayer Id": "3999114",
   "Product Line": "Magic",
@@ -44261,6 +44606,21 @@
   "Boxes": {
    "120": {
     "Near Mint": 0
+   }
+  }
+ },
+ "4005484": {
+  "TCGplayer Id": "4005484",
+  "Product Line": "Magic",
+  "Set Name": "War of the Spark",
+  "Product Name": "Casualties of War",
+  "Title": "",
+  "Number": "187",
+  "Rarity": "R",
+  "Condition": "Lightly Played Foil",
+  "Boxes": {
+   "126": {
+    "Lightly Played Foil": 1
    }
   }
  },
@@ -67184,6 +67544,21 @@
    }
   }
  },
+ "4851928": {
+  "TCGplayer Id": "4851928",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Strict Proctor",
+  "Title": "",
+  "Number": "33",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "4852097": {
   "TCGplayer Id": "4852097",
   "Product Line": "Magic",
@@ -69227,6 +69602,21 @@
   "Boxes": {
    "10": {
     "Near Mint": 0
+   }
+  }
+ },
+ "4866116": {
+  "TCGplayer Id": "4866116",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Double Major",
+  "Title": "",
+  "Number": "179",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
@@ -72668,6 +73058,21 @@
    }
   }
  },
+ "4894747": {
+  "TCGplayer Id": "4894747",
+  "Product Line": "Magic",
+  "Set Name": "Strixhaven: School of Mages",
+  "Product Name": "Daemogoth Titan (Extended Art)",
+  "Title": "",
+  "Number": "339",
+  "Rarity": "R",
+  "Condition": "Lightly Played Foil",
+  "Boxes": {
+   "126": {
+    "Lightly Played Foil": 1
+   }
+  }
+ },
  "4897368": {
   "TCGplayer Id": "4897368",
   "Product Line": "Magic",
@@ -73613,6 +74018,21 @@
    }
   }
  },
+ "4964787": {
+  "TCGplayer Id": "4964787",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 2",
+  "Product Name": "Chatterfang, Squirrel General (Retro Frame)",
+  "Title": "",
+  "Number": "410",
+  "Rarity": "M",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "4964951": {
   "TCGplayer Id": "4964951",
   "Product Line": "Magic",
@@ -74168,6 +74588,21 @@
    }
   }
  },
+ "4973907": {
+  "TCGplayer Id": "4973907",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 2",
+  "Product Name": "Liquimetal Torque (Retro Frame)",
+  "Title": "",
+  "Number": "428",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "4973911": {
   "TCGplayer Id": "4973911",
   "Product Line": "Magic",
@@ -74393,6 +74828,21 @@
    }
   }
  },
+ "4977926": {
+  "TCGplayer Id": "4977926",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 2",
+  "Product Name": "Sanctum Weaver",
+  "Title": "",
+  "Number": "171",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "4978865": {
   "TCGplayer Id": "4978865",
   "Product Line": "Magic",
@@ -74510,6 +74960,21 @@
   "Boxes": {
    "2": {
     "Near Mint": 2
+   }
+  }
+ },
+ "4981798": {
+  "TCGplayer Id": "4981798",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 2",
+  "Product Name": "Damn (Retro Frame)",
+  "Title": "",
+  "Number": "396",
+  "Rarity": "R",
+  "Condition": "Lightly Played Foil",
+  "Boxes": {
+   "126": {
+    "Lightly Played Foil": 1
    }
   }
  },
@@ -75125,6 +75590,21 @@
   "Boxes": {
    "2": {
     "Near Mint": 5
+   }
+  }
+ },
+ "4991376": {
+  "TCGplayer Id": "4991376",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 2",
+  "Product Name": "Vindicate (Borderless)",
+  "Title": "",
+  "Number": "322",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
@@ -115322,6 +115802,21 @@
    }
   }
  },
+ "5694818": {
+  "TCGplayer Id": "5694818",
+  "Product Line": "Magic",
+  "Set Name": "Double Masters 2022",
+  "Product Name": "Izzet Boilerworks (Borderless)",
+  "Title": "",
+  "Number": "408",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "5695212": {
   "TCGplayer Id": "5695212",
   "Product Line": "Magic",
@@ -115757,6 +116252,21 @@
    }
   }
  },
+ "5701541": {
+  "TCGplayer Id": "5701541",
+  "Product Line": "Magic",
+  "Set Name": "Double Masters 2022",
+  "Product Name": "Forbidden Orchard (Borderless)",
+  "Title": "",
+  "Number": "405",
+  "Rarity": "R",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "5701940": {
   "TCGplayer Id": "5701940",
   "Product Line": "Magic",
@@ -115844,6 +116354,21 @@
   "Boxes": {
    "2": {
     "Near Mint": 6
+   }
+  }
+ },
+ "5706151": {
+  "TCGplayer Id": "5706151",
+  "Product Line": "Magic",
+  "Set Name": "Double Masters 2022",
+  "Product Name": "Blood Artist",
+  "Title": "",
+  "Number": "70",
+  "Rarity": "U",
+  "Condition": "Lightly Played Foil",
+  "Boxes": {
+   "126": {
+    "Lightly Played Foil": 1
    }
   }
  },
@@ -191963,6 +192488,21 @@
   "Boxes": {
    "120": {
     "Near Mint": 0
+   }
+  }
+ },
+ "7927530": {
+  "TCGplayer Id": "7927530",
+  "Product Line": "Magic",
+  "Set Name": "Modern Horizons 2",
+  "Product Name": "Fury (Retro Frame)",
+  "Title": "",
+  "Number": "10",
+  "Rarity": "M",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "126": {
+    "Lightly Played": 1
    }
   }
  },
