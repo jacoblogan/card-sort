@@ -1,4 +1,19 @@
 {
+ "15113": {
+  "TCGplayer Id": "15113",
+  "Product Line": "Magic",
+  "Set Name": "Unglued",
+  "Product Name": "Forest (UGL)",
+  "Title": "",
+  "Number": "88",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 3
+   }
+  }
+ },
  "19789": {
   "TCGplayer Id": "19789",
   "Product Line": "Magic",
@@ -1622,6 +1637,9 @@
    },
    "127": {
     "Lightly Played": 0
+   },
+   "132": {
+    "Lightly Played": 3
    }
   }
  },
@@ -2114,6 +2132,21 @@
    }
   }
  },
+ "369323": {
+  "TCGplayer Id": "369323",
+  "Product Line": "Magic",
+  "Set Name": "Mercadian Masques",
+  "Product Name": "Haunted Crossroads",
+  "Title": "",
+  "Number": "138",
+  "Rarity": "U",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "132": {
+    "Lightly Played": 1
+   }
+  }
+ },
  "369328": {
   "TCGplayer Id": "369328",
   "Product Line": "Magic",
@@ -2369,6 +2402,21 @@
   "Boxes": {
    "126": {
     "Lightly Played": 1
+   }
+  }
+ },
+ "371428": {
+  "TCGplayer Id": "371428",
+  "Product Line": "Magic",
+  "Set Name": "Odyssey",
+  "Product Name": "Careful Study",
+  "Title": "",
+  "Number": "70",
+  "Rarity": "C",
+  "Condition": "Lightly Played",
+  "Boxes": {
+   "132": {
+    "Lightly Played": 2
    }
   }
  },
@@ -62747,6 +62795,66 @@
    }
   }
  },
+ "4702212": {
+  "TCGplayer Id": "4702212",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Plains (277)",
+  "Title": "",
+  "Number": "277",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 6
+   }
+  }
+ },
+ "4702217": {
+  "TCGplayer Id": "4702217",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Plains (277)",
+  "Title": "",
+  "Number": "277",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4702322": {
+  "TCGplayer Id": "4702322",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Island (279)",
+  "Title": "",
+  "Number": "279",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 3
+   }
+  }
+ },
+ "4702432": {
+  "TCGplayer Id": "4702432",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Swamp (281)",
+  "Title": "",
+  "Number": "281",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 7
+   }
+  }
+ },
  "4702544": {
   "TCGplayer Id": "4702544",
   "Product Line": "Magic",
@@ -62759,6 +62867,36 @@
   "Boxes": {
    "125": {
     "Moderately Played": 1
+   }
+  }
+ },
+ "4702652": {
+  "TCGplayer Id": "4702652",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Mountain (283)",
+  "Title": "",
+  "Number": "283",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 5
+   }
+  }
+ },
+ "4702657": {
+  "TCGplayer Id": "4702657",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Mountain (283)",
+  "Title": "",
+  "Number": "283",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 4
    }
   }
  },
@@ -63134,6 +63272,99 @@
   "Boxes": {
    "7": {
     "Near Mint": 0
+   },
+   "132": {
+    "Near Mint": 4
+   }
+  }
+ },
+ "4707332": {
+  "TCGplayer Id": "4707332",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Plains (276)",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 9
+   }
+  }
+ },
+ "4707337": {
+  "TCGplayer Id": "4707337",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Plains (276)",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "4707442": {
+  "TCGplayer Id": "4707442",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Island (278)",
+  "Title": "",
+  "Number": "278",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 7
+   }
+  }
+ },
+ "4707552": {
+  "TCGplayer Id": "4707552",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Swamp (280)",
+  "Title": "",
+  "Number": "280",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 12
+   }
+  }
+ },
+ "4707557": {
+  "TCGplayer Id": "4707557",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Swamp (280)",
+  "Title": "",
+  "Number": "280",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "4707662": {
+  "TCGplayer Id": "4707662",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Mountain (282)",
+  "Title": "",
+  "Number": "282",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 5
    }
   }
  },
@@ -63659,6 +63890,21 @@
   "Boxes": {
    "7": {
     "Near Mint Foil": 6
+   }
+  }
+ },
+ "4711908": {
+  "TCGplayer Id": "4711908",
+  "Product Line": "Magic",
+  "Set Name": "Kaldheim",
+  "Product Name": "Snow-Covered Forest (285)",
+  "Title": "",
+  "Number": "285",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 5
    }
   }
  },
@@ -95042,6 +95288,96 @@
    }
   }
  },
+ "5343294": {
+  "TCGplayer Id": "5343294",
+  "Product Line": "Magic",
+  "Set Name": "Unfinity",
+  "Product Name": "Forest (244) (Borderless)",
+  "Title": "",
+  "Number": "244",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5343309": {
+  "TCGplayer Id": "5343309",
+  "Product Line": "Magic",
+  "Set Name": "Unfinity",
+  "Product Name": "Plains (240) (Borderless)",
+  "Title": "",
+  "Number": "240",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5343364": {
+  "TCGplayer Id": "5343364",
+  "Product Line": "Magic",
+  "Set Name": "Unfinity",
+  "Product Name": "Swamp (237) (Borderless)",
+  "Title": "",
+  "Number": "237",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 2
+   }
+  }
+ },
+ "5343374": {
+  "TCGplayer Id": "5343374",
+  "Product Line": "Magic",
+  "Set Name": "Unfinity",
+  "Product Name": "Mountain (243) (Borderless)",
+  "Title": "",
+  "Number": "243",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5343389": {
+  "TCGplayer Id": "5343389",
+  "Product Line": "Magic",
+  "Set Name": "Unfinity",
+  "Product Name": "Forest (239) (Borderless)",
+  "Title": "",
+  "Number": "239",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "5343414": {
+  "TCGplayer Id": "5343414",
+  "Product Line": "Magic",
+  "Set Name": "Unfinity",
+  "Product Name": "Plains (235) (Borderless)",
+  "Title": "",
+  "Number": "235",
+  "Rarity": "L",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 1
+   }
+  }
+ },
  "5346269": {
   "TCGplayer Id": "5346269",
   "Product Line": "Magic",
@@ -98738,6 +99074,9 @@
   "Boxes": {
    "9": {
     "Near Mint Foil": 0
+   },
+   "132": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -98753,6 +99092,21 @@
   "Boxes": {
    "9": {
     "Near Mint": 0
+   }
+  }
+ },
+ "5466028": {
+  "TCGplayer Id": "5466028",
+  "Product Line": "Magic",
+  "Set Name": "Streets of New Capenna",
+  "Product Name": "Island (274)",
+  "Title": "",
+  "Number": "274",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -128498,6 +128852,9 @@
   "Boxes": {
    "16": {
     "Near Mint Foil": 0
+   },
+   "132": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -128618,6 +128975,9 @@
   "Boxes": {
    "16": {
     "Near Mint Foil": 0
+   },
+   "132": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -128648,6 +129008,9 @@
   "Boxes": {
    "16": {
     "Near Mint Foil": 0
+   },
+   "132": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -152441,6 +152804,9 @@
    },
    "6": {
     "Near Mint": 0
+   },
+   "132": {
+    "Near Mint": 1
    }
   }
  },
@@ -152459,6 +152825,9 @@
    },
    "6": {
     "Near Mint Foil": 0
+   },
+   "132": {
+    "Near Mint Foil": 6
    }
   }
  },
@@ -152495,6 +152864,9 @@
    },
    "6": {
     "Near Mint Foil": 0
+   },
+   "132": {
+    "Near Mint Foil": 4
    }
   }
  },
@@ -152531,6 +152903,9 @@
    },
    "6": {
     "Near Mint Foil": 0
+   },
+   "132": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -152567,6 +152942,9 @@
    },
    "6": {
     "Near Mint Foil": 0
+   },
+   "132": {
+    "Near Mint Foil": 2
    }
   }
  },
@@ -152603,6 +152981,9 @@
    },
    "6": {
     "Near Mint Foil": 0
+   },
+   "132": {
+    "Near Mint Foil": 3
    }
   }
  },
@@ -162542,6 +162923,21 @@
    }
   }
  },
+ "7027662": {
+  "TCGplayer Id": "7027662",
+  "Product Line": "Magic",
+  "Set Name": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth",
+  "Product Name": "Swamp (0276)",
+  "Title": "",
+  "Number": "276",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
  "7027742": {
   "TCGplayer Id": "7027742",
   "Product Line": "Magic",
@@ -163133,6 +163529,51 @@
    }
   }
  },
+ "7049686": {
+  "TCGplayer Id": "7049686",
+  "Product Line": "Magic",
+  "Set Name": "March of the Machine",
+  "Product Name": "Plains (0283)",
+  "Title": "",
+  "Number": "283",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 2
+   }
+  }
+ },
+ "7049766": {
+  "TCGplayer Id": "7049766",
+  "Product Line": "Magic",
+  "Set Name": "March of the Machine",
+  "Product Name": "Swamp (0287)",
+  "Title": "",
+  "Number": "287",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
+ "7049896": {
+  "TCGplayer Id": "7049896",
+  "Product Line": "Magic",
+  "Set Name": "March of the Machine",
+  "Product Name": "Plains (0282)",
+  "Title": "",
+  "Number": "282",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 3
+   }
+  }
+ },
  "7049971": {
   "TCGplayer Id": "7049971",
   "Product Line": "Magic",
@@ -163223,6 +163664,21 @@
    }
   }
  },
+ "7050456": {
+  "TCGplayer Id": "7050456",
+  "Product Line": "Magic",
+  "Set Name": "March of the Machine",
+  "Product Name": "Island (0284)",
+  "Title": "",
+  "Number": "284",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "7050531": {
   "TCGplayer Id": "7050531",
   "Product Line": "Magic",
@@ -163250,6 +163706,51 @@
   "Boxes": {
    "1": {
     "Near Mint Foil": 32
+   }
+  }
+ },
+ "7050616": {
+  "TCGplayer Id": "7050616",
+  "Product Line": "Magic",
+  "Set Name": "March of the Machine",
+  "Product Name": "Forest (0290)",
+  "Title": "",
+  "Number": "290",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7050696": {
+  "TCGplayer Id": "7050696",
+  "Product Line": "Magic",
+  "Set Name": "March of the Machine",
+  "Product Name": "Forest (0291)",
+  "Title": "",
+  "Number": "291",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7050776": {
+  "TCGplayer Id": "7050776",
+  "Product Line": "Magic",
+  "Set Name": "March of the Machine",
+  "Product Name": "Mountain (0288)",
+  "Title": "",
+  "Number": "288",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
    }
   }
  },
@@ -191009,6 +191510,36 @@
    }
   }
  },
+ "7592337": {
+  "TCGplayer Id": "7592337",
+  "Product Line": "Magic",
+  "Set Name": "Murders at Karlov Manor",
+  "Product Name": "Island (0273)",
+  "Title": "",
+  "Number": "273",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
+ "7592582": {
+  "TCGplayer Id": "7592582",
+  "Product Line": "Magic",
+  "Set Name": "Murders at Karlov Manor",
+  "Product Name": "Mountain (0275)",
+  "Title": "",
+  "Number": "275",
+  "Rarity": "L",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
+   }
+  }
+ },
  "7592657": {
   "TCGplayer Id": "7592657",
   "Product Line": "Magic",
@@ -213110,6 +213641,36 @@
   "Boxes": {
    "12": {
     "Near Mint": 12
+   }
+  }
+ },
+ "8538983": {
+  "TCGplayer Id": "8538983",
+  "Product Line": "Magic",
+  "Set Name": "Aetherdrift",
+  "Product Name": "Stock Up",
+  "Title": "",
+  "Number": "67",
+  "Rarity": "U",
+  "Condition": "Near Mint",
+  "Boxes": {
+   "132": {
+    "Near Mint": 1
+   }
+  }
+ },
+ "8538988": {
+  "TCGplayer Id": "8538988",
+  "Product Line": "Magic",
+  "Set Name": "Aetherdrift",
+  "Product Name": "Stock Up",
+  "Title": "",
+  "Number": "67",
+  "Rarity": "U",
+  "Condition": "Near Mint Foil",
+  "Boxes": {
+   "132": {
+    "Near Mint Foil": 1
    }
   }
  },
