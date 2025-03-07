@@ -160,7 +160,7 @@
   "Condition": "Damaged",
   "Boxes": {
    "122": {
-    "Damaged": 1
+    "Damaged": 0
    }
   }
  },
@@ -340,7 +340,7 @@
   "Condition": "Moderately Played",
   "Boxes": {
    "125": {
-    "Moderately Played": 1
+    "Moderately Played": 0
    }
   }
  },
@@ -1183,7 +1183,7 @@
   "Condition": "Moderately Played",
   "Boxes": {
    "125": {
-    "Moderately Played": 1
+    "Moderately Played": 0
    }
   }
  },
@@ -1333,7 +1333,7 @@
   "Condition": "Heavily Played",
   "Boxes": {
    "123": {
-    "Heavily Played": 1
+    "Heavily Played": 0
    }
   }
  },
@@ -1513,7 +1513,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "107": {
-    "Lightly Played": 7
+    "Lightly Played": 3
    }
   }
  },
@@ -1543,7 +1543,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "107": {
-    "Lightly Played": 10
+    "Lightly Played": 6
    }
   }
  },
@@ -1669,7 +1669,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "109": {
-    "Lightly Played": 2
+    "Lightly Played": 1
    }
   }
  },
@@ -2158,7 +2158,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "128": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -2173,7 +2173,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "110": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -2401,7 +2401,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "126": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -2416,7 +2416,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "132": {
-    "Lightly Played": 2
+    "Lightly Played": 1
    }
   }
  },
@@ -2611,7 +2611,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "128": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -2731,7 +2731,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "130": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -2746,7 +2746,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "127": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -23881,7 +23881,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "121": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -23911,7 +23911,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "131": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -36073,7 +36073,7 @@
   "Condition": "Moderately Played",
   "Boxes": {
    "125": {
-    "Moderately Played": 1
+    "Moderately Played": 0
    }
   }
  },
@@ -39598,7 +39598,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "119": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    },
    "129": {
     "Lightly Played": 0
@@ -45691,7 +45691,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "127": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -47821,7 +47821,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "129": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -62806,7 +62806,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "132": {
-    "Near Mint": 6
+    "Near Mint": 2
    }
   }
  },
@@ -63334,7 +63334,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "132": {
-    "Near Mint": 12
+    "Near Mint": 3
    }
   }
  },
@@ -74833,7 +74833,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "130": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -77968,7 +77968,7 @@
   "Condition": "Lightly Played Foil",
   "Boxes": {
    "127": {
-    "Lightly Played Foil": 1
+    "Lightly Played Foil": 0
    }
   }
  },
@@ -83803,7 +83803,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "13": {
-    "Near Mint": 3
+    "Near Mint": 2
    }
   }
  },
@@ -95374,7 +95374,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "132": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -103306,10 +103306,10 @@
   "Condition": "Near Mint",
   "Boxes": {
    "8": {
-    "Near Mint": 3
+    "Near Mint": 0
    },
    "11": {
-    "Near Mint": 7
+    "Near Mint": 0
    }
   }
  },
@@ -103549,7 +103549,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 11
+    "Near Mint": 10
    },
    "8": {
     "Near Mint": 3
@@ -104524,7 +104524,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 6
+    "Near Mint": 5
    }
   }
  },
@@ -116041,7 +116041,7 @@
     "Near Mint": 5
    },
    "16": {
-    "Near Mint": 13
+    "Near Mint": 12
    }
   }
  },
@@ -118654,7 +118654,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "126": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -128791,7 +128791,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "131": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -128854,7 +128854,7 @@
     "Near Mint Foil": 0
    },
    "132": {
-    "Near Mint Foil": 1
+    "Near Mint Foil": 0
    }
   }
  },
@@ -132580,7 +132580,7 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "16": {
-    "Near Mint Foil": 1
+    "Near Mint Foil": 0
    }
   }
  },
@@ -141685,7 +141685,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 5
+    "Near Mint": 4
    }
   }
  },
@@ -142090,7 +142090,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 2
+    "Near Mint": 1
    }
   }
  },
@@ -142360,7 +142360,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 5
+    "Near Mint": 4
    }
   }
  },
@@ -142705,7 +142705,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -144835,7 +144835,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 2
+    "Near Mint": 1
    }
   }
  },
@@ -145135,7 +145135,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -145615,7 +145615,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -145705,7 +145705,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -146875,7 +146875,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -153463,7 +153463,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 2
+    "Near Mint": 1
    }
   }
  },
@@ -155287,7 +155287,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -155302,7 +155302,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -155875,7 +155875,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 1
+    "Near Mint": 0
    },
    "6": {
     "Near Mint": 0
@@ -162934,7 +162934,7 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "132": {
-    "Near Mint Foil": 2
+    "Near Mint Foil": 0
    }
   }
  },
@@ -185131,7 +185131,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "16": {
-    "Near Mint": 3
+    "Near Mint": 2
    }
   }
  },
@@ -194152,7 +194152,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "8": {
-    "Near Mint": 20
+    "Near Mint": 19
    }
   }
  },
@@ -195022,7 +195022,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "8": {
-    "Near Mint": 19
+    "Near Mint": 18
    }
   }
  },
@@ -195640,7 +195640,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "128": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -195700,7 +195700,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "126": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -198370,7 +198370,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "18": {
-    "Near Mint": 92
+    "Near Mint": 91
    }
   }
  },
@@ -207730,7 +207730,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "12": {
-    "Near Mint": 3
+    "Near Mint": 2
    }
   }
  },
@@ -213655,7 +213655,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "132": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
