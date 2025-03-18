@@ -476,7 +476,7 @@ function generateShipping() {
 // generate add sheet for both tcgplayer and backlog
 // also updates the backlog and myData json files with the new inventory
 // function params are the store box number and the backlog box number
-// addBacklog(1,1);
+// addBacklog(19,1);
 
 /**
  * Steps to pull cards
