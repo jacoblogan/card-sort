@@ -1318,7 +1318,7 @@
   "Condition": "Heavily Played",
   "Boxes": {
    "123": {
-    "Heavily Played": 1
+    "Heavily Played": 0
    }
   }
  },
@@ -6736,7 +6736,7 @@
   "Condition": "Damaged Foil",
   "Boxes": {
    "122": {
-    "Damaged Foil": 1
+    "Damaged Foil": 0
    }
   }
  },
@@ -35893,7 +35893,7 @@
   "Condition": "Moderately Played",
   "Boxes": {
    "124": {
-    "Moderately Played": 1
+    "Moderately Played": 0
    }
   }
  },
@@ -35908,7 +35908,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "120": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -47521,7 +47521,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "120": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -61603,7 +61603,7 @@
   "Condition": "Lightly Played Foil",
   "Boxes": {
    "129": {
-    "Lightly Played Foil": 1
+    "Lightly Played Foil": 0
    }
   }
  },
@@ -103345,7 +103345,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "19": {
-    "Near Mint": 2
+    "Near Mint": 1
    }
   }
  },
@@ -133363,7 +133363,7 @@
     "Near Mint Foil": 0
    },
    "132": {
-    "Near Mint Foil": 1
+    "Near Mint Foil": 0
    }
   }
  },
@@ -157849,7 +157849,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -176011,7 +176011,7 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "14": {
-    "Near Mint Foil": 3
+    "Near Mint Foil": 0
    }
   }
  },
@@ -177619,10 +177619,10 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "13": {
-    "Near Mint Foil": 2
+    "Near Mint Foil": 0
    },
    "14": {
-    "Near Mint Foil": 11
+    "Near Mint Foil": 0
    }
   }
  },
