@@ -48904,7 +48904,7 @@
   "Condition": "Lightly Played",
   "Boxes": {
    "127": {
-    "Lightly Played": 1
+    "Lightly Played": 0
    }
   }
  },
@@ -56335,7 +56335,7 @@
   "Condition": "Lightly Played Foil",
   "Boxes": {
    "129": {
-    "Lightly Played Foil": 1
+    "Lightly Played Foil": 0
    }
   }
  },
@@ -62866,7 +62866,7 @@
   "Condition": "Moderately Played",
   "Boxes": {
    "125": {
-    "Moderately Played": 1
+    "Moderately Played": 0
    }
   }
  },
@@ -66817,7 +66817,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "7": {
-    "Near Mint": 5
+    "Near Mint": 0
    },
    "10": {
     "Near Mint": 3
@@ -76348,7 +76348,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "2": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -79483,7 +79483,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "2": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -86303,12 +86303,12 @@
   "Set Name": "Commander: Adventures in the Forgotten Realms",
   "Product Name": "Thopter // Treasure Double-sided Token",
   "Title": "",
-  "Number": "",
+  "Number": "12 // 15",
   "Rarity": "T",
   "Condition": "Near Mint",
   "Boxes": {
    "13": {
-    "Near Mint": 10
+    "Near Mint": 4
    }
   }
  },
@@ -94894,7 +94894,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "12": {
-    "Near Mint": 5
+    "Near Mint": 0
    }
   }
  },
@@ -97447,7 +97447,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "19": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -97804,7 +97804,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "19": {
-    "Near Mint": 5
+    "Near Mint": 2
    }
   }
  },
@@ -99193,7 +99193,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "19": {
-    "Near Mint": 2
+    "Near Mint": 1
    }
   }
  },
@@ -100975,7 +100975,7 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "19": {
-    "Near Mint Foil": 2
+    "Near Mint Foil": 1
    }
   }
  },
@@ -110141,12 +110141,12 @@
   "Set Name": "Commander: Streets of New Capenna",
   "Product Name": "Ooze (025) // Treasure (015) Double-sided Token",
   "Title": "",
-  "Number": "",
+  "Number": "25 // 15",
   "Rarity": "T",
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 8
+    "Near Mint": 0
    }
   }
  },
@@ -111034,7 +111034,7 @@
     "Near Mint": 0
    },
    "16": {
-    "Near Mint": 3
+    "Near Mint": 2
    }
   }
  },
@@ -121861,10 +121861,10 @@
   "Condition": "Near Mint",
   "Boxes": {
    "4": {
-    "Near Mint": 7
+    "Near Mint": 0
    },
    "16": {
-    "Near Mint": 10
+    "Near Mint": 0
    }
   }
  },
@@ -135973,7 +135973,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "14": {
-    "Near Mint": 80
+    "Near Mint": 55
    }
   }
  },
@@ -162292,7 +162292,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 5
+    "Near Mint": 4
    },
    "4": {
     "Near Mint": 0
@@ -166885,7 +166885,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 3
+    "Near Mint": 0
    }
   }
  },
@@ -166915,7 +166915,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 4
+    "Near Mint": 0
    }
   }
  },
@@ -166930,7 +166930,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 3
+    "Near Mint": 0
    }
   }
  },
@@ -166960,7 +166960,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "1": {
-    "Near Mint": 11
+    "Near Mint": 0
    }
   }
  },
@@ -167956,7 +167956,7 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "132": {
-    "Near Mint Foil": 3
+    "Near Mint Foil": 0
    }
   }
  },
@@ -178510,7 +178510,7 @@
   "Condition": "Near Mint Foil",
   "Boxes": {
    "14": {
-    "Near Mint Foil": 1
+    "Near Mint Foil": 0
    }
   }
  },
@@ -187534,10 +187534,10 @@
   "Condition": "Near Mint",
   "Boxes": {
    "2": {
-    "Near Mint": 1
+    "Near Mint": 0
    },
    "14": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -195307,7 +195307,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "16": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -197245,7 +197245,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "3": {
-    "Near Mint": 9
+    "Near Mint": 0
    }
   }
  },
@@ -197260,7 +197260,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "3": {
-    "Near Mint": 1
+    "Near Mint": 0
    }
   }
  },
@@ -199723,7 +199723,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "16": {
-    "Near Mint": 2
+    "Near Mint": 0
    }
   }
  },
@@ -202216,7 +202216,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 20
+    "Near Mint": 19
    }
   }
  },
@@ -211036,7 +211036,7 @@
   "Condition": "Near Mint",
   "Boxes": {
    "17": {
-    "Near Mint": 12
+    "Near Mint": 0
    }
   }
  },
