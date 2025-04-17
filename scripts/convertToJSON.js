@@ -409,7 +409,9 @@ function writePullSheet(pdfSheet, rows, headers = ['Box','Name','Quantity','Cond
         options: {
             prepareHeader: () => doc.font("Helvetica-Bold").fontSize(8).fillColor('black'),
             prepareRow: (row, indexColumn, indexRow, rectRow) => {
-                doc.font("Helvetica").fontSize(11).fillColor('black');
+                const condition = row[3];
+                const font = condition.toLowerCase().indexOf('foil') !== -1 ? 'Helvetica-Bold' : 'Helvetica';
+                doc.font(font).fontSize(11).fillColor('black');
                 if (indexRow % 2 === 0) {
                     doc.addBackground(rectRow, 'lightgray');
                 }
