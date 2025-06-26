@@ -473,6 +473,44 @@ function generateShipping() {
   });
 }
 
+function generateShippingHP() {
+  fs.createReadStream(getShippingFile())
+  .pipe(csv2())
+  .on("data", (data) => results.push(data))
+  .on("end", () => {
+    // Create a document
+    const doc = new PDFDocument();
+    let skip = true;
+
+    // Pipe its output somewhere, like to a file or HTTP response
+    // See below for browser usage
+    doc.pipe(fs.createWriteStream(`${shippingOutputFolder}/${Date.now().toString()}.pdf`));
+    doc.save();
+    results.forEach((data) => {
+      if(skip){
+        skip = false;
+      }else{
+        doc.addPage();
+      }
+      doc.rotate(270).text("Jake's MTG Store", -640, 20);
+      doc.text("2244 S Duval", -640, 35);
+      doc.text("Mesa, AZ 85209", -640, 50);
+
+      doc.text(`${data["FirstName"]} ${data["LastName"]}`, -380, 125);
+      doc.text(`${data["Address1"]} ${data["Address2"]}`, -380, 140);
+      doc.text(
+        `${data["City"]}, ${data["State"]} ${data["PostalCode"]}`,
+        -380,
+        155
+      );
+    });
+
+    doc.restore();
+    // Finalize PDF file
+    doc.end();
+  });
+}
+
 // AddInventoryToBox(13);
 
 // generate add sheet for both tcgplayer and backlog
