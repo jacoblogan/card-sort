@@ -454,9 +454,9 @@ function generateShipping() {
       }else{
         doc.addPage();
       }
-      doc.rotate(270).text("Jake's MTG Store", -660, 205);
-      doc.text("2244 S Duval", -660, 220);
-      doc.text("Mesa, AZ 85209", -660, 235);
+      doc.rotate(270).text("Jake's MTG Store", -660, 185);
+      doc.text("2244 S Duval", -660, 200);
+      doc.text("Mesa, AZ 85209", -660, 215);
 
       doc.text(`${data["FirstName"]} ${data["LastName"]}`, -400, 280);
       doc.text(`${data["Address1"]} ${data["Address2"]}`, -400, 295);
