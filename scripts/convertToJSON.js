@@ -440,6 +440,8 @@ function generateShipping() {
   .pipe(csv2())
   .on("data", (data) => results.push(data))
   .on("end", () => {
+    // reverse array
+    results.reverse();
     // Create a document
     const doc = new PDFDocument();
     let skip = true;
