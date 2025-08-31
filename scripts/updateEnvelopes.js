@@ -92,12 +92,14 @@ async function combineEnvelopePDFs() {
                     continue;
                 }
 
-                // Copy the first page to the merged document
-                const srcPage = pages[0];
-                const size = srcPage.getSize ? srcPage.getSize() : { width: srcPage.getWidth(), height: srcPage.getHeight() };
-                const newPage = mergedPdf.addPage([size.width, size.height]);
-                const embedded = await mergedPdf.embedPage(srcPage);
-                newPage.drawPage(embedded, { x: 0, y: 100 });
+                for(let i = 0; i < pages.length; i++) {
+                    // Copy all pages to the merged document
+                    const srcPage = pages[i];
+                    const size = srcPage.getSize ? srcPage.getSize() : { width: srcPage.getWidth(), height: srcPage.getHeight() };
+                    const newPage = mergedPdf.addPage([size.width, size.height]);
+                    const embedded = await mergedPdf.embedPage(srcPage);
+                    newPage.drawPage(embedded, { x: 0, y: 100 });
+                }
 
             } catch (error) {
                 console.error(`Error processing ${files[i]}:`, error.message);
