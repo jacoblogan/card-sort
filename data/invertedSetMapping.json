@@ -1,0 +1,932 @@
+{
+  "Revised Edition": [
+    "3rd Edition"
+  ],
+  "Fourth Edition": [
+    "4th Edition"
+  ],
+  "Fifth Edition": [
+    "5th Edition"
+  ],
+  "Classic Sixth Edition": [
+    "6th Edition"
+  ],
+  "7th Edition": [
+    "7th Edition"
+  ],
+  "8th Edition": [
+    "8th Edition"
+  ],
+  "9th Edition": [
+    "9th Edition"
+  ],
+  "10th Edition": [
+    "10th Edition"
+  ],
+  "Magic 2010 (M10)": [
+    "2010 Core Set"
+  ],
+  "Magic 2011 (M11)": [
+    "2011 Core Set"
+  ],
+  "Magic 2012 (M12)": [
+    "2012 Core Set"
+  ],
+  "Magic 2013 (M13)": [
+    "2013 Core Set"
+  ],
+  "Magic 2014 (M14)": [
+    "2014 Core Set"
+  ],
+  "Magic 2015 (M15)": [
+    "2015 Core Set"
+  ],
+  "Adventures in the Forgotten Realms": [
+    "Adventures In The Forgotten Realms",
+    "Adventures In The Forgotten Realms Variants"
+  ],
+  "Commander: Adventures in the Forgotten Realms": [
+    "Adventures In The Forgotten Realms Commander Decks",
+    "Adventures In The Forgotten Realms Commander Decks Variants"
+  ],
+  "Aether Revolt": [
+    "Aether Revolt"
+  ],
+  "Aetherdrift": [
+    "Aetherdrift",
+    "Aetherdrift Variants"
+  ],
+  "Commander: Aetherdrift": [
+    "Aetherdrift Commander Decks",
+    "Aetherdrift Commander Decks Variants"
+  ],
+  "Alara Reborn": [
+    "Alara Reborn"
+  ],
+  "Alliances": [
+    "Alliances"
+  ],
+  "Alpha Edition": [
+    "Alpha"
+  ],
+  "Amonkhet": [
+    "Amonkhet"
+  ],
+  "Anthologies": [
+    "Anthologies"
+  ],
+  "Antiquities": [
+    "Antiquities"
+  ],
+  "Apocalypse": [
+    "Apocalypse"
+  ],
+  "Arabian Nights": [
+    "Arabian Nights"
+  ],
+  "Archenemy": [
+    "Archenemy"
+  ],
+  "Archenemy: Nicol Bolas": [
+    "Archenemy - Nicol Bolas"
+  ],
+  "Avacyn Restored": [
+    "Avacyn Restored"
+  ],
+  "Avatar: The Last Airbender": [
+    "Avatar: The Last Airbender",
+    "Avatar: The Last Airbender Variants"
+  ],
+  "Battle for Zendikar": [
+    "Battle For Zendikar"
+  ],
+  "Battle Royale Box Set": [
+    "Battle Royale"
+  ],
+  "Battlebond": [
+    "Battlebond"
+  ],
+  "Beatdown Box Set": [
+    "Beatdown"
+  ],
+  "Beta Edition": [
+    "Beta"
+  ],
+  "Betrayers of Kamigawa": [
+    "Betrayers Of Kamigawa"
+  ],
+  "Bloomburrow": [
+    "Bloomburrow",
+    "Bloomburrow Variants"
+  ],
+  "Commander: Bloomburrow": [
+    "Bloomburrow Commander Decks",
+    "Bloomburrow Commander Decks Variants"
+  ],
+  "Born of the Gods": [
+    "Born Of The Gods"
+  ],
+  "Champions of Kamigawa": [
+    "Champions Of Kamigawa"
+  ],
+  "Chronicles": [
+    "Chronicles"
+  ],
+  "Coldsnap": [
+    "Coldsnap",
+    "Coldsnap Theme Decks"
+  ],
+  "Collector's Edition": [
+    "Collectors Ed"
+  ],
+  "Commander": [
+    "Commander"
+  ],
+  "Commander 2013": [
+    "Commander 2013"
+  ],
+  "Commander 2014": [
+    "Commander 2014"
+  ],
+  "Commander 2015": [
+    "Commander 2015"
+  ],
+  "Commander 2016": [
+    "Commander 2016"
+  ],
+  "Commander 2017": [
+    "Commander 2017"
+  ],
+  "Commander 2018": [
+    "Commander 2018"
+  ],
+  "Commander 2019": [
+    "Commander 2019"
+  ],
+  "Commander 2020": [
+    "Commander 2020"
+  ],
+  "Commander 2021": [
+    "Commander 2021",
+    "Commander 2021 Variants"
+  ],
+  "Commander Anthology": [
+    "Commander Anthology",
+    "Commander Anthology Vol. II"
+  ],
+  "Commander Collection: Black": [
+    "Commander Collection: Black"
+  ],
+  "Commander Collection: Green": [
+    "Commander Collection: Green"
+  ],
+  "Commander Legends": [
+    "Commander Legends",
+    "Commander Legends Variants"
+  ],
+  "Commander Legends: Battle for Baldur's Gate": [
+    "Commander Legends: Battle For Baldur's Gate",
+    "Commander Legends: Battle For Baldur's Gate Variants"
+  ],
+  "Commander Masters": [
+    "Commander Masters",
+    "Commander Masters Variants"
+  ],
+  "Commander's Arsenal": [
+    "Commander's Arsenal"
+  ],
+  "Conflux": [
+    "Conflux"
+  ],
+  "Conspiracy": [
+    "Conspiracy"
+  ],
+  "Conspiracy: Take the Crown": [
+    "Conspiracy - Take The Crown"
+  ],
+  "Core Set 2019": [
+    "Core Set 2019"
+  ],
+  "Core Set 2020": [
+    "Core Set 2020"
+  ],
+  "Core Set 2021": [
+    "Core Set 2021",
+    "Core Set 2021 Variants"
+  ],
+  "Dark Ascension": [
+    "Dark Ascension"
+  ],
+  "Darksteel": [
+    "Darksteel"
+  ],
+  "Deckmasters Garfield vs Finkel": [
+    "Deckmaster"
+  ],
+  "Dissension": [
+    "Dissension"
+  ],
+  "Dominaria": [
+    "Dominaria"
+  ],
+  "Dominaria Remastered": [
+    "Dominaria Remastered",
+    "Dominaria Remastered Variants"
+  ],
+  "Dominaria United": [
+    "Dominaria United",
+    "Dominaria United Variants"
+  ],
+  "Commander: Dominaria United": [
+    "Dominaria United Commander Decks",
+    "Dominaria United Commander Decks Variants"
+  ],
+  "Double Masters": [
+    "Double Masters",
+    "Double Masters Box Toppers"
+  ],
+  "Double Masters 2022": [
+    "Double Masters 2022",
+    "Double Masters 2022 Variants"
+  ],
+  "Dragon's Maze": [
+    "Dragon's Maze"
+  ],
+  "Dragons of Tarkir": [
+    "Dragons Of Tarkir"
+  ],
+  "Duel Decks: Ajani vs. Nicol Bolas": [
+    "Duel Decks: Ajani Vs. Nicol Bolas"
+  ],
+  "Duel Decks: Anthology": [
+    "Duel Decks: Anthology"
+  ],
+  "Duel Decks: Blessed vs. Cursed": [
+    "Duel Decks: Blessed Vs. Cursed"
+  ],
+  "Duel Decks: Divine vs. Demonic": [
+    "Duel Decks: Divine Vs. Demonic"
+  ],
+  "Duel Decks: Elspeth vs. Kiora": [
+    "Duel Decks: Elspeth Vs. Kiora"
+  ],
+  "Duel Decks: Elspeth vs. Tezzeret": [
+    "Duel Decks: Elspeth Vs. Tezzeret"
+  ],
+  "Duel Decks: Elves vs. Goblins": [
+    "Duel Decks: Elves Vs. Goblins"
+  ],
+  "Duel Decks: Elves vs. Inventors": [
+    "Duel Decks: Elves Vs. Inventors"
+  ],
+  "Duel Decks: Garruk vs. Liliana": [
+    "Duel Decks: Garruk Vs. Liliana"
+  ],
+  "Duel Decks: Heroes vs. Monsters": [
+    "Duel Decks: Heroes Vs. Monsters"
+  ],
+  "Duel Decks: Izzet vs. Golgari": [
+    "Duel Decks: Izzet Vs. Golgari"
+  ],
+  "Duel Decks: Jace vs. Chandra": [
+    "Duel Decks: Jace Vs. Chandra"
+  ],
+  "Duel Decks: Jace vs. Vraska": [
+    "Duel Decks: Jace Vs. Vraska"
+  ],
+  "Duel Decks: Knights vs. Dragons": [
+    "Duel Decks: Knights Vs. Dragons"
+  ],
+  "Duel Decks: Merfolk vs. Goblins": [
+    "Duel Decks: Merfolk Vs. Goblins"
+  ],
+  "Duel Decks: Mind vs. Might": [
+    "Duel Decks: Mind Vs. Might"
+  ],
+  "Duel Decks: Nissa vs. Ob Nixilis": [
+    "Duel Decks: Nissa Vs. Ob Nixilis"
+  ],
+  "Duel Decks: Phyrexia vs. the Coalition": [
+    "Duel Decks: Phyrexia Vs. The Coalition"
+  ],
+  "Duel Decks: Sorin vs. Tibalt": [
+    "Duel Decks: Sorin Vs. Tibalt"
+  ],
+  "Duel Decks: Speed vs. Cunning": [
+    "Duel Decks: Speed Vs. Cunning"
+  ],
+  "Duel Decks: Venser vs. Koth": [
+    "Duel Decks: Venser Vs. Koth"
+  ],
+  "Duel Decks: Zendikar vs. Eldrazi": [
+    "Duel Decks: Zendikar Vs. Eldrazi"
+  ],
+  "Duels of the Planeswalkers": [
+    "Duels Of The Planeswalkers"
+  ],
+  "Duskmourn: House of Horror": [
+    "Duskmourn: House Of Horror",
+    "Duskmourn: House Of Horror Variants"
+  ],
+  "Commander: Duskmourn: House of Horror": [
+    "Duskmourn: House Of Horror Commander Decks",
+    "Duskmourn: House Of Horror Commander Decks Variants"
+  ],
+  "Edge of Eternities": [
+    "Edge Of Eternities",
+    "Edge Of Eternities Variants"
+  ],
+  "Commander: Edge of Eternities": [
+    "Edge Of Eternities Commander Decks",
+    "Edge Of Eternities Commander Decks Variants"
+  ],
+  "Edge of Eternities: Stellar Sights": [
+    "Edge Of Eternities Stellar Sights"
+  ],
+  "Eldritch Moon": [
+    "Eldritch Moon"
+  ],
+  "Eternal Masters": [
+    "Eternal Masters"
+  ],
+  "Eventide": [
+    "Eventide"
+  ],
+  "Exodus": [
+    "Exodus"
+  ],
+  "Explorers of Ixalan": [
+    "Explorers Of Ixalan"
+  ],
+  "Fallen Empires": [
+    "Fallen Empires"
+  ],
+  "Fate Reforged": [
+    "Fate Reforged"
+  ],
+  "Fifth Dawn": [
+    "Fifth Dawn"
+  ],
+  "FINAL FANTASY": [
+    "Final Fantasy",
+    "Final Fantasy Variants"
+  ],
+  "Commander: FINAL FANTASY": [
+    "Final Fantasy Commander Decks",
+    "Final Fantasy Commander Decks Variants"
+  ],
+  "FINAL FANTASY: Through the Ages": [
+    "Final Fantasy Through The Ages"
+  ],
+  "Foundations": [
+    "Foundations",
+    "Foundations Commander",
+    "Foundations Variants"
+  ],
+  "Foundations Jumpstart": [
+    "Foundations Jumpstart"
+  ],
+  "From the Vault: Angels": [
+    "From The Vault: Angels"
+  ],
+  "From the Vault: Annihilation": [
+    "From The Vault: Annihilation"
+  ],
+  "From the Vault: Dragons": [
+    "From The Vault: Dragons"
+  ],
+  "From the Vault: Exiled": [
+    "From The Vault: Exiled"
+  ],
+  "From the Vault: Legends": [
+    "From The Vault: Legends"
+  ],
+  "From the Vault: Lore": [
+    "From The Vault: Lore"
+  ],
+  "From the Vault: Realms": [
+    "From The Vault: Realms"
+  ],
+  "From the Vault: Relics": [
+    "From The Vault: Relics"
+  ],
+  "From the Vault: Transform": [
+    "From The Vault: Transform"
+  ],
+  "From the Vault: Twenty": [
+    "From The Vault: Twenty"
+  ],
+  "Future Sight": [
+    "Future Sight"
+  ],
+  "Magic Game Night: Free-For-All": [
+    "Game Night",
+    "Game Night: Free-for-all"
+  ],
+  "Magic Game Night 2019": [
+    "Game Night 2019"
+  ],
+  "Gatecrash": [
+    "Gatecrash"
+  ],
+  "Global Series Jiang Yanggu & Mu Yanling": [
+    "Global Series: Jiang Yanggu & Mu Yanling"
+  ],
+  "Guildpact": [
+    "Guildpact"
+  ],
+  "Guilds of Ravnica": [
+    "Guilds Of Ravnica"
+  ],
+  "Guilds of Ravnica: Guild Kits": [
+    "Guilds Of Ravnica: Guild Kits"
+  ],
+  "Homelands": [
+    "Homelands"
+  ],
+  "Hour of Devastation": [
+    "Hour Of Devastation"
+  ],
+  "Ice Age": [
+    "Ice Age"
+  ],
+  "Iconic Masters": [
+    "Iconic Masters"
+  ],
+  "Ikoria: Lair of Behemoths": [
+    "Ikoria: Lair Of Behemoths",
+    "Ikoria: Lair Of Behemoths Variants"
+  ],
+  "Innistrad": [
+    "Innistrad"
+  ],
+  "Innistrad Remastered": [
+    "Innistrad Remastered",
+    "Innistrad Remastered Variants"
+  ],
+  "Innistrad: Crimson Vow": [
+    "Innistrad: Crimson Vow",
+    "Innistrad: Crimson Vow Variants"
+  ],
+  "Commander: Innistrad: Crimson Vow": [
+    "Innistrad: Crimson Vow Commander Decks",
+    "Innistrad: Crimson Vow Commander Decks Variants"
+  ],
+  "Innistrad: Double Feature": [
+    "Innistrad: Double Feature"
+  ],
+  "Innistrad: Midnight Hunt": [
+    "Innistrad: Midnight Hunt",
+    "Innistrad: Midnight Hunt Variants"
+  ],
+  "Commander: Innistrad: Midnight Hunt": [
+    "Innistrad: Midnight Hunt Commander Decks",
+    "Innistrad: Midnight Hunt Commander Decks Variants"
+  ],
+  "Invasion": [
+    "Invasion"
+  ],
+  "Ixalan": [
+    "Ixalan"
+  ],
+  "Journey Into Nyx": [
+    "Journey Into Nyx"
+  ],
+  "Judgment": [
+    "Judgment"
+  ],
+  "Jumpstart": [
+    "Jumpstart"
+  ],
+  "Jumpstart 2022": [
+    "Jumpstart 2022"
+  ],
+  "Kaladesh": [
+    "Kaladesh"
+  ],
+  "Kaldheim": [
+    "Kaldheim",
+    "Kaldheim Variants"
+  ],
+  "Commander: Kaldheim": [
+    "Kaldheim Commander Decks"
+  ],
+  "Kamigawa: Neon Dynasty": [
+    "Kamigawa: Neon Dynasty",
+    "Kamigawa: Neon Dynasty Variants"
+  ],
+  "Commander: Kamigawa: Neon Dynasty": [
+    "Kamigawa: Neon Dynasty Commander Decks",
+    "Kamigawa: Neon Dynasty Commander Decks Variants"
+  ],
+  "Khans of Tarkir": [
+    "Khans Of Tarkir"
+  ],
+  "Legends": [
+    "Legends",
+    "Multiverse Legends"
+  ],
+  "Legions": [
+    "Legions"
+  ],
+  "Lorwyn": [
+    "Lorwyn"
+  ],
+  "30th Anniversary Edition": [
+    "Magic 30th Anniversary Edition"
+  ],
+  "Magic Origins": [
+    "Magic Origins"
+  ],
+  "March of the Machine": [
+    "March Of The Machine",
+    "March Of The Machine Variants"
+  ],
+  "Commander: March of the Machine": [
+    "March Of The Machine Commander Decks",
+    "March Of The Machine Commander Decks Variants"
+  ],
+  "March of the Machine: The Aftermath": [
+    "March Of The Machine: The Aftermath",
+    "March Of The Machine: The Aftermath Variants"
+  ],
+  "Marvel Universe Eternal-Legal": [
+    "Marvel Eternal-legal"
+  ],
+  "Marvel's Spider-Man": [
+    "Marvel's Spider-man",
+    "Marvel's Spider-man Variants"
+  ],
+  "Marvel's Spider-Man: Eternal-Legal": [
+    "Marvel's Spider-man Eternal-legal"
+  ],
+  "Masters 25": [
+    "Masters 25"
+  ],
+  "Mercadian Masques": [
+    "Mercadian Masques"
+  ],
+  "Mirage": [
+    "Mirage"
+  ],
+  "Mirrodin": [
+    "Mirrodin"
+  ],
+  "Mirrodin Besieged": [
+    "Mirrodin Besieged"
+  ],
+  "Magic Modern Event Deck": [
+    "Modern Event Deck"
+  ],
+  "Modern Horizons": [
+    "Modern Horizons",
+    "Modern Horizons - Retro Frames"
+  ],
+  "Modern Horizons 2": [
+    "Modern Horizons 2",
+    "Modern Horizons 2 Variants"
+  ],
+  "Modern Horizons 3": [
+    "Modern Horizons 3",
+    "Modern Horizons 3 Variants"
+  ],
+  "Commander: Modern Horizons 3": [
+    "Modern Horizons 3 Commander Decks",
+    "Modern Horizons 3 Commander Decks Variants"
+  ],
+  "Modern Masters": [
+    "Modern Masters"
+  ],
+  "Modern Masters 2015": [
+    "Modern Masters 2015"
+  ],
+  "Modern Masters 2017": [
+    "Modern Masters 2017"
+  ],
+  "Morningtide": [
+    "Morningtide"
+  ],
+  "Murders at Karlov Manor": [
+    "Murders At Karlov Manor",
+    "Murders At Karlov Manor Variants"
+  ],
+  "Commander: Murders at Karlov Manor": [
+    "Murders At Karlov Manor Commander Decks",
+    "Murders At Karlov Manor Commander Decks Variants"
+  ],
+  "Mystery Booster 2": [
+    "Mystery Booster 2"
+  ],
+  "The List Reprints": [
+    "Mystery Booster/the List"
+  ],
+  "Nemesis": [
+    "Nemesis"
+  ],
+  "New Phyrexia": [
+    "New Phyrexia"
+  ],
+  "Oath of the Gatewatch": [
+    "Oath Of The Gatewatch"
+  ],
+  "Odyssey": [
+    "Odyssey"
+  ],
+  "Onslaught": [
+    "Onslaught"
+  ],
+  "Outlaws of Thunder Junction": [
+    "Outlaws Of Thunder Junction",
+    "Outlaws Of Thunder Junction Variants"
+  ],
+  "Outlaws of Thunder Junction: Breaking News": [
+    "Outlaws Of Thunder Junction Breaking News"
+  ],
+  "Commander: Outlaws of Thunder Junction": [
+    "Outlaws Of Thunder Junction Commander Decks",
+    "Outlaws Of Thunder Junction Commander Decks Variants"
+  ],
+  "Outlaws of Thunder Junction: The Big Score": [
+    "Outlaws Of Thunder Junction The Big Score"
+  ],
+  "Phyrexia: All Will Be One": [
+    "Phyrexia: All Will Be One",
+    "Phyrexia: All Will Be One Variants"
+  ],
+  "Commander: Phyrexia: All Will Be One": [
+    "Phyrexia: All Will Be One Commander Decks",
+    "Phyrexia: All Will Be One Commander Decks Variants"
+  ],
+  "Planar Chaos": [
+    "Planar Chaos"
+  ],
+  "Planechase": [
+    "Planechase"
+  ],
+  "Planechase 2012": [
+    "Planechase 2012"
+  ],
+  "Planechase Anthology": [
+    "Planechase Anthology"
+  ],
+  "Planeshift": [
+    "Planeshift"
+  ],
+  "Portal": [
+    "Portal",
+    "Portal 3k",
+    "Portal II"
+  ],
+  "Premium Deck Series: Graveborn": [
+    "Premium Deck Series: Graveborn"
+  ],
+  "Premium Deck Series: Slivers": [
+    "Premium Deck Series: Slivers"
+  ],
+  "Promo Pack: Core Set 2020": [
+    "Promo Pack"
+  ],
+  "Prophecy": [
+    "Prophecy"
+  ],
+  "Ravnica Remastered": [
+    "Ravnica",
+    "Ravnica Remastered",
+    "Ravnica Remastered Variants"
+  ],
+  "Ravnica Allegiance": [
+    "Ravnica Allegiance"
+  ],
+  "Ravnica Allegiance: Guild Kits": [
+    "Ravnica Allegiance: Guild Kits"
+  ],
+  "Ravnica: Clue Edition": [
+    "Ravnica: Clue Edition"
+  ],
+  "Return to Ravnica": [
+    "Return To Ravnica"
+  ],
+  "Rise of the Eldrazi": [
+    "Rise Of The Eldrazi"
+  ],
+  "Rivals of Ixalan": [
+    "Rivals Of Ixalan"
+  ],
+  "Saviors of Kamigawa": [
+    "Saviors Of Kamigawa"
+  ],
+  "Scars of Mirrodin": [
+    "Scars Of Mirrodin"
+  ],
+  "Scourge": [
+    "Scourge"
+  ],
+  "Secret Lair Drop Series": [
+    "Secret Lair"
+  ],
+  "Shadowmoor": [
+    "Shadowmoor"
+  ],
+  "Shadows over Innistrad": [
+    "Shadows Over Innistrad"
+  ],
+  "Shards of Alara": [
+    "Shards Of Alara"
+  ],
+  "Signature Spellbook: Chandra": [
+    "Signature Spellbook: Chandra"
+  ],
+  "Signature Spellbook: Gideon": [
+    "Signature Spellbook: Gideon"
+  ],
+  "Signature Spellbook: Jace": [
+    "Signature Spellbook: Jace"
+  ],
+  "Special Guests": [
+    "Special Guests"
+  ],
+  "Starter 1999": [
+    "Starter 1999"
+  ],
+  "Starter 2000": [
+    "Starter 2000"
+  ],
+  "Starter Commander Decks": [
+    "Starter Commander Decks"
+  ],
+  "Streets of New Capenna": [
+    "Streets Of New Capenna",
+    "Streets Of New Capenna Variants"
+  ],
+  "Commander: Streets of New Capenna": [
+    "Streets Of New Capenna Commander Decks",
+    "Streets Of New Capenna Commander Decks Variants"
+  ],
+  "Strixhaven: Mystical Archives": [
+    "Strixhaven Mystical Archive",
+    "Strixhaven Mystical Archive JPN"
+  ],
+  "Strixhaven: School of Mages": [
+    "Strixhaven: School Of Mages",
+    "Strixhaven: School Of Mages Variants"
+  ],
+  "Stronghold": [
+    "Stronghold"
+  ],
+  "Tarkir: Dragonstorm": [
+    "Tarkir: Dragonstorm",
+    "Tarkir: Dragonstorm Variants"
+  ],
+  "Commander: Tarkir: Dragonstorm": [
+    "Tarkir: Dragonstorm Commander Decks",
+    "Tarkir: Dragonstorm Commander Decks Variants"
+  ],
+  "Tempest": [
+    "Tempest"
+  ],
+  "The Brothers' War": [
+    "The Brothers' War",
+    "The Brothers' War Variants"
+  ],
+  "Commander: The Brothers' War": [
+    "The Brothers' War Commander Decks",
+    "The Brothers' War Commander Decks Variants"
+  ],
+  "The Brothers' War: Retro Frame Artifacts": [
+    "The Brothers' War Retro Artifacts"
+  ],
+  "The Dark": [
+    "The Dark"
+  ],
+  "Universes Beyond: The Lord of the Rings: Tales of Middle-earth": [
+    "The Lord Of The Rings: Tales Of Middle-earth",
+    "The Lord Of The Rings: Tales Of Middle-earth Variants"
+  ],
+  "Commander: The Lord of the Rings: Tales of Middle-earth": [
+    "The Lord Of The Rings: Tales Of Middle-earth Commander Decks",
+    "The Lord Of The Rings: Tales Of Middle-earth Commander Decks Variants"
+  ],
+  "The Lost Caverns of Ixalan": [
+    "The Lost Caverns Of Ixalan",
+    "The Lost Caverns Of Ixalan Variants"
+  ],
+  "Commander: The Lost Caverns of Ixalan": [
+    "The Lost Caverns Of Ixalan Commander Decks",
+    "The Lost Caverns Of Ixalan Commander Decks Variants"
+  ],
+  "Theros": [
+    "Theros"
+  ],
+  "Theros Beyond Death": [
+    "Theros Beyond Death",
+    "Theros Beyond Death Variants"
+  ],
+  "Throne of Eldraine": [
+    "Throne Of Eldraine",
+    "Throne Of Eldraine Variants"
+  ],
+  "Time Spiral": [
+    "Time Spiral"
+  ],
+  "Time Spiral: Remastered": [
+    "Time Spiral Remastered"
+  ],
+  "Timeshifted": [
+    "Timeshifted"
+  ],
+  "Torment": [
+    "Torment"
+  ],
+  "Ultimate Masters": [
+    "Ultimate Masters"
+  ],
+  "Unfinity": [
+    "Unfinity",
+    "Unfinity Variants"
+  ],
+  "Unglued": [
+    "Unglued"
+  ],
+  "Unhinged": [
+    "Unhinged"
+  ],
+  "Universes Beyond: Assassin's Creed": [
+    "Universes Beyond: Assassin's Creed",
+    "Universes Beyond: Assassin's Creed Variants"
+  ],
+  "Universes Beyond: Doctor Who": [
+    "Universes Beyond: Doctor Who",
+    "Universes Beyond: Doctor Who Variants"
+  ],
+  "Universes Beyond: Fallout": [
+    "Universes Beyond: Fallout",
+    "Universes Beyond: Fallout Variants"
+  ],
+  "Universes Beyond: Jurassic World Collection": [
+    "Universes Beyond: Jurassic World Collection"
+  ],
+  "Universes Beyond: Transformers": [
+    "Universes Beyond: Transformers"
+  ],
+  "Universes Beyond: Warhammer 40,000": [
+    "Universes Beyond: Warhammer 40,000"
+  ],
+  "Unlimited Edition": [
+    "Unlimited"
+  ],
+  "Unsanctioned": [
+    "Unsanctioned"
+  ],
+  "Unstable": [
+    "Unstable"
+  ],
+  "Urza's Destiny": [
+    "Urza's Destiny"
+  ],
+  "Urza's Legacy": [
+    "Urza's Legacy"
+  ],
+  "Urza's Saga": [
+    "Urza's Saga"
+  ],
+  "Vanguard": [
+    "Vanguard"
+  ],
+  "Visions": [
+    "Visions"
+  ],
+  "War of the Spark": [
+    "War Of The Spark",
+    "War Of The Spark JPN Planeswalkers"
+  ],
+  "Weatherlight": [
+    "Weatherlight"
+  ],
+  "Wilds of Eldraine": [
+    "Wilds Of Eldraine",
+    "Wilds Of Eldraine Variants"
+  ],
+  "Commander: Wilds of Eldraine": [
+    "Wilds Of Eldraine Commander Decks",
+    "Wilds Of Eldraine Commander Decks Variants"
+  ],
+  "Wilds of Eldraine: Enchanting Tales": [
+    "Wilds Of Eldraine Enchanting Tales"
+  ],
+  "Worldwake": [
+    "Worldwake"
+  ],
+  "Zendikar": [
+    "Zendikar"
+  ],
+  "Zendikar Rising": [
+    "Zendikar Rising",
+    "Zendikar Rising Variants"
+  ],
+  "Commander: Zendikar Rising": [
+    "Zendikar Rising Commander Decks"
+  ],
+  "Zendikar Rising Expeditions": [
+    "Zendikar Rising Expeditions"
+  ]
+}
