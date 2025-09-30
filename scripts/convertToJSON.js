@@ -16,12 +16,15 @@ const pullSheetLocation = './data/csv/pullSheet.csv';
 const pullPDF = './data/csv/pullSheet.pdf';
 const storePDF = './data/csv/storePullSheet.pdf';
 const backlogPDF = './data/csv/backlogPullSheet.pdf';
+const bulkPDF = './data/csv/bulkPullSheet.pdf';
 const stagedCSV = './data/csv/staged.csv';
 const results = [];
 const shippingFolder = './data/shipping';
 const shippingOutputFolder = './data/shippingOutput';
 const MIN_QUANTITY = 10;
 const MAX_QUANTITY = 20;
+const BULK_RARE_THRESHOLD = 0.35;
+const BULK_MYTHIC_THRESHOLD = 0.45;
 
 const getShippingFile = () => {
     return `${shippingFolder}/${fs.readdirSync(shippingFolder)[0]}`;
@@ -94,8 +97,35 @@ function addBacklog(storeBox, backlogBox, minQuantity = MIN_QUANTITY, maxQuantit
     const cb = (jsonObj) => {
         const storePullSheet = [];
         const backlogPullSheet = [];
+        const bulkPullSheet = [];
+        const addToPullSheet = (quantity, price, row, backlogBox) => {
+            const id = row['TCGplayer Id'];
+            if(row["Rarity"] === "R" && quantity > 0 && price <= BULK_RARE_THRESHOLD){
+                bulkPullSheet.push(['Bulk',row["Product Name"],quantity,row["Condition"],row["Set Name"],row["Number"]]);
+            } else if(row["Rarity"] === "M" && quantity > 0 && price <= BULK_MYTHIC_THRESHOLD){
+                bulkPullSheet.push(['Bulk',row["Product Name"],quantity,row["Condition"],row["Set Name"],row["Number"]]);
+            } else if(quantity > 0){
+                backlog[id] = backlog[id] || {
+                    "TCGplayer Id": row["TCGplayer Id"],
+                    "Product Line": row["Product Line"],
+                    "Set Name": row["Set Name"],
+                    "Product Name": row["Product Name"],
+                    "Title": row["Title"],
+                    "Number": row["Number"],
+                    "Rarity": row["Rarity"],
+                    "Condition": row["Condition"],
+                    "Boxes":{}
+                   };
+                let box = backlog[id]["Boxes"][backlogBox] || {};
+                let count = box[row["Condition"]] ? parseInt(box[row["Condition"]]) + quantity : quantity;
+                box[row["Condition"]] = count;
+                backlog[id]["Boxes"][backlogBox] = box;
+                backlogPullSheet.push([backlogBox,row["Product Name"],quantity,row["Condition"],row["Set Name"],row["Number"]]);
+            }
+        }
         jsonObj = jsonObj.forEach((row) => {
             const quantity = parseInt(row['Add to Quantity']);
+            const price = parseFloat(row['TCG Marketplace Price']);
             if(quantity){
                 const id = row['TCGplayer Id'];
                 const dataRow = data[id];
@@ -119,42 +149,12 @@ function addBacklog(storeBox, backlogBox, minQuantity = MIN_QUANTITY, maxQuantit
                     data[id]["Boxes"][storeBox] = box;
                     storePullSheet.push([storeBox,row["Product Name"],quantityToAdd,row["Condition"],row["Set Name"],row["Number"], row["TCGplayer Id"], row["TCG Marketplace Price"]]);
 
-                    if(quantityToAdd < quantity){
-                        const remainingQuantity = quantity - quantityToAdd;
-                        backlog[id] = backlog[id] || {
-                            "TCGplayer Id": row["TCGplayer Id"],
-                            "Product Line": row["Product Line"],
-                            "Set Name": row["Set Name"],
-                            "Product Name": row["Product Name"],
-                            "Title": row["Title"],
-                            "Number": row["Number"],
-                            "Rarity": row["Rarity"],
-                            "Condition": row["Condition"],
-                            "Boxes":{}
-                           };
-                        let box = backlog[id]["Boxes"][backlogBox] || {};
-                        let count = box[row["Condition"]] ? parseInt(box[row["Condition"]]) + remainingQuantity : remainingQuantity;
-                        box[row["Condition"]] = count;
-                        backlog[id]["Boxes"][backlogBox] = box;
-                        backlogPullSheet.push([backlogBox,row["Product Name"],remainingQuantity,row["Condition"],row["Set Name"],row["Number"]]);
+                    const remainingQuantity = quantity - quantityToAdd;
+                    if(remainingQuantity > 0){
+                        addToPullSheet(remainingQuantity, price, row, backlogBox);
                     }
                 }else{
-                    backlog[id] = backlog[id] || {
-                        "TCGplayer Id": row["TCGplayer Id"],
-                        "Product Line": row["Product Line"],
-                        "Set Name": row["Set Name"],
-                        "Product Name": row["Product Name"],
-                        "Title": row["Title"],
-                        "Number": row["Number"],
-                        "Rarity": row["Rarity"],
-                        "Condition": row["Condition"],
-                        "Boxes":{}
-                       };
-                    let box = backlog[id]["Boxes"][backlogBox] || {};
-                    let count = box[row["Condition"]] ? parseInt(box[row["Condition"]]) + quantity : quantity;
-                    box[row["Condition"]] = count;
-                    backlog[id]["Boxes"][backlogBox] = box;
-                    backlogPullSheet.push([backlogBox,row["Product Name"],quantity,row["Condition"],row["Set Name"],row["Number"]]);
+                    addToPullSheet(quantity, price, row, backlogBox);
                 }
             }
         });
@@ -171,6 +171,7 @@ function addBacklog(storeBox, backlogBox, minQuantity = MIN_QUANTITY, maxQuantit
 
         writePullSheet(storePDF, storePullSheet.map((r) => r.slice(0,6)));
         writePullSheet(backlogPDF, backlogPullSheet);
+        writePullSheet(bulkPDF, bulkPullSheet);
 
     }
 
@@ -518,7 +519,7 @@ function generateShippingHP() {
 // generate add sheet for both tcgplayer and backlog
 // also updates the backlog and myData json files with the new inventory
 // function params are the store box number and the backlog box number
-// addBacklog(20,1);
+// addBacklog(21,1, MIN_QUANTITY, 30);
 
 /**
  * Steps to pull cards
