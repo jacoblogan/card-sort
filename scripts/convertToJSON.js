@@ -23,8 +23,8 @@ const shippingFolder = './data/shipping';
 const shippingOutputFolder = './data/shippingOutput';
 const MIN_QUANTITY = 10;
 const MAX_QUANTITY = 20;
-const BULK_RARE_THRESHOLD = 0.35;
-const BULK_MYTHIC_THRESHOLD = 0.45;
+const BULK_RARE_THRESHOLD = 0.3;
+const BULK_MYTHIC_THRESHOLD = 0.4;
 
 const getShippingFile = () => {
     return `${shippingFolder}/${fs.readdirSync(shippingFolder)[0]}`;
