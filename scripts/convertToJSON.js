@@ -92,7 +92,7 @@ function AddInventoryToBox(boxNumber){
     csv().fromFile(inventoryFileName).then(cb);
 }
 
-function addBacklog(storeBox, backlogBox, minQuantity = MIN_QUANTITY, maxQuantity = MAX_QUANTITY){
+function addBacklog(storeBox, backlogBox, pullBulk = true, minQuantity = MIN_QUANTITY, maxQuantity = MAX_QUANTITY){
     const backlogFileName = getBacklogFile();
     const cb = (jsonObj) => {
         const storePullSheet = [];
@@ -100,9 +100,9 @@ function addBacklog(storeBox, backlogBox, minQuantity = MIN_QUANTITY, maxQuantit
         const bulkPullSheet = [];
         const addToPullSheet = (quantity, price, row, backlogBox) => {
             const id = row['TCGplayer Id'];
-            if(row["Rarity"] === "R" && quantity > 0 && price <= BULK_RARE_THRESHOLD){
+            if(row["Rarity"] === "R" && quantity > 0 && price <= BULK_RARE_THRESHOLD && pullBulk){
                 bulkPullSheet.push(['Bulk',row["Product Name"],quantity,row["Condition"],row["Set Name"],row["Number"]]);
-            } else if(row["Rarity"] === "M" && quantity > 0 && price <= BULK_MYTHIC_THRESHOLD){
+            } else if(row["Rarity"] === "M" && quantity > 0 && price <= BULK_MYTHIC_THRESHOLD && pullBulk){
                 bulkPullSheet.push(['Bulk',row["Product Name"],quantity,row["Condition"],row["Set Name"],row["Number"]]);
             } else if(quantity > 0){
                 backlog[id] = backlog[id] || {
@@ -519,7 +519,7 @@ function generateShippingHP() {
 // generate add sheet for both tcgplayer and backlog
 // also updates the backlog and myData json files with the new inventory
 // function params are the store box number and the backlog box number
-// addBacklog(20,2);
+// addBacklog(20,2, false);
 
 /**
  * Steps to pull cards
