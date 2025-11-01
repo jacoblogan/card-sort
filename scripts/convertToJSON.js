@@ -154,7 +154,9 @@ function addBacklog(storeBox, backlogBox, pullBulk = true, minQuantity = MIN_QUA
                     let count = box[row["Condition"]] ? parseInt(box[row["Condition"]]) + quantityToAdd : quantityToAdd;
                     box[row["Condition"]] = count;
                     data[id]["Boxes"][storeBox] = box;
-                    storePullSheet.push([storeBox,row["Product Name"],quantityToAdd,row["Condition"],row["Set Name"],row["Number"], row["TCGplayer Id"], row["TCG Marketplace Price"]]);
+                    if(quantityToAdd > 0){
+                        storePullSheet.push([storeBox,row["Product Name"],quantityToAdd,row["Condition"],row["Set Name"],row["Number"], row["TCGplayer Id"], row["TCG Marketplace Price"]]);
+                    }
 
                     const remainingQuantity = quantity - quantityToAdd;
                     if(remainingQuantity > 0){
@@ -526,7 +528,7 @@ function generateShippingHP() {
 // generate add sheet for both tcgplayer and backlog
 // also updates the backlog and myData json files with the new inventory
 // function params are the store box number and the backlog box number
-// addBacklog(22,2, true, MIN_QUANTITY, MAX_QUANTITY, true);
+// addBacklog(22,3, true, MIN_QUANTITY, MAX_QUANTITY, true);
 
 /**
  * Steps to pull cards
