@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCG Player Data Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>TCG Player Data Viewer</h1>
+        </header>
+
+        <div class="controls">
+            <div class="search-section">
+                <input type="text" id="searchInput" placeholder="Search by Set Name, Product Name, or Condition..." />
+            </div>
+
+            <div class="filters-section">
+                <div class="filter-group">
+                    <label for="filterSet">Set Name:</label>
+                    <select id="filterSet">
+                        <option value="">All Sets</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filterCondition">Condition:</label>
+                    <select id="filterCondition">
+                        <option value="">All Conditions</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filterPriceMin">Min Price:</label>
+                    <input type="number" id="filterPriceMin" step="0.01" placeholder="Min" />
+                </div>
+
+                <div class="filter-group">
+                    <label for="filterPriceMax">Max Price:</label>
+                    <input type="number" id="filterPriceMax" step="0.01" placeholder="Max" />
+                </div>
+
+                <button id="clearFilters" class="btn-clear">Clear Filters</button>
+            </div>
+        </div>
+
+        <div class="inventory-controls">
+            <button id="updateInventory" class="btn-update">Update Inventory</button>
+            <span id="updateStatus" class="update-status"></span>
+        </div>
+
+        <div class="table-container">
+            <table id="dataTable">
+                <thead>
+                    <tr>
+                        <th class="sortable" data-sort="Set Name">
+                            Set Name
+                            <span class="sort-indicator"></span>
+                        </th>
+                        <th class="sortable" data-sort="Product Name">
+                            Product Name
+                            <span class="sort-indicator"></span>
+                        </th>
+                        <th class="sortable" data-sort="Condition">
+                            Condition
+                            <span class="sort-indicator"></span>
+                        </th>
+                        <th class="sortable" data-sort="TCG Market Price">
+                            TCG Market Price
+                            <span class="sort-indicator"></span>
+                        </th>
+                        <th>Add Quantity</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <tr>
+                        <td colspan="5" class="loading">Loading data...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="pagination">
+            <div class="pagination-info">
+                <span id="paginationInfo"></span>
+            </div>
+            <div class="pagination-controls">
+                <button id="prevPage" class="btn-page" disabled>Previous</button>
+                <span id="pageNumbers"></span>
+                <button id="nextPage" class="btn-page" disabled>Next</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
