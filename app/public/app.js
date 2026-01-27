@@ -161,7 +161,7 @@ class DataViewer {
         const tbody = document.getElementById('tableBody');
         // Save current quantities before clearing
         this.saveQuantities();
-        tbody.innerHTML = '<tr><td colspan="5" class="loading">Loading data...</td></tr>';
+        tbody.innerHTML = '<tr><td colspan="6" class="loading">Loading data...</td></tr>';
 
         try {
             const params = new URLSearchParams({
@@ -191,7 +191,7 @@ class DataViewer {
             this.renderPagination();
         } catch (error) {
             console.error('Error loading data:', error);
-            tbody.innerHTML = '<tr><td colspan="5" class="loading">Error loading data. Please try again.</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="6" class="loading">Error loading data. Please try again.</td></tr>';
         }
     }
 
@@ -213,7 +213,7 @@ class DataViewer {
         const tbody = document.getElementById('tableBody');
         
         if (data.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="5" class="loading">No data found matching your criteria.</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="6" class="loading">No data found matching your criteria.</td></tr>';
             return;
         }
 
@@ -224,6 +224,7 @@ class DataViewer {
             <tr>
                 <td>${this.escapeHtml(row['Set Name'])}</td>
                 <td>${this.escapeHtml(row['Product Name'])}</td>
+                <td>${this.escapeHtml(row['Number'])}</td>
                 <td>${this.escapeHtml(row['Condition'])}</td>
                 <td>${this.formatPrice(row['TCG Market Price'])}</td>
                 <td>

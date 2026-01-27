@@ -46,6 +46,7 @@ function parseCSV() {
           'TCGplayer Id': row['TCGplayer Id'] || '',
           'Set Name': row['Set Name'] || '',
           'Product Name': row['Product Name'] || '',
+          'Number': row['Number'] || '',
           'Condition': row['Condition'] || '',
           'TCG Market Price': row['TCG Market Price'] || '',
           'Rarity': row['Rarity'] || '',
@@ -101,6 +102,7 @@ app.get('/api/data', async (req, res) => {
       data = data.filter(row => 
         (row['Set Name'] || '').toLowerCase().includes(search) ||
         (row['Product Name'] || '').toLowerCase().includes(search) ||
+        (row['Number'] || '').toLowerCase().includes(search) ||
         (row['Condition'] || '').toLowerCase().includes(search)
       );
     }
