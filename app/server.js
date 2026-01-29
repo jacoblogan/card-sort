@@ -228,8 +228,10 @@ app.post('/api/generate-inventory', async (req, res) => {
       // Calculate TCG Marketplace Price
       const marketPriceStr = (row['TCG Market Price'] || '').trim();
       const lowPriceStr = (row['TCG Low Price'] || '').trim();
+      const directLowStr = (row['TCG Direct Low'] || '').trim();
       const marketPrice = marketPriceStr ? parseFloat(marketPriceStr) : 0;
       const lowPrice = lowPriceStr ? parseFloat(lowPriceStr) : 0;
+      const directLowPrice = directLowStr ? parseFloat(directLowStr) : 0;
       
       let rarityMultiplier = 0.24;
       if (rarity === 'M') {
@@ -242,6 +244,7 @@ app.post('/api/generate-inventory', async (req, res) => {
       const marketplacePrice = Math.max(
         isNaN(marketPrice) ? 0 : marketPrice,
         isNaN(lowPrice) ? 0 : lowPrice,
+        isNaN(directLowPrice) ? 0 : directLowPrice,
         rarityMultiplier
       );
 
